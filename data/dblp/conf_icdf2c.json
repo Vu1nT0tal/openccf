@@ -1,0 +1,830 @@
+{
+    "2018": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/icdf2c/icdf2c2018.html",
+            "conf_title": "10th ICDF2C 2018: New Orleans, LA, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-030-05487-8",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_1",
+                    "title": "On Efficiency and Effectiveness of Linear Function Detection Approaches for Memory Carving",
+                    "authors": "Lorenz Liebler, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "记忆雕刻线性函数检测方法的效率和效果"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_2",
+                    "title": "fishy - A Framework for Implementing Filesystem-Based Data Hiding Techniques",
+                    "authors": "Thomas Göbel, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "fishy——实现基于文件系统的数据隐藏技术的框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_3",
+                    "title": "If I Had a Million Cryptos: Cryptowallet Application Analysis and a Trojan Proof-of-Concept",
+                    "authors": "Trevor Haigh, Frank Breitinger, Ibrahim M. Baggili",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://digitalcommons.newhaven.edu/cgi/viewcontent.cgi?article=1082&context=electricalcomputerengineering-facpubs"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "如果我有一百万个密码:密码钱包应用分析和木马概念验证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_4",
+                    "title": "AndroParse - An Android Feature Extraction Framework and Dataset",
+                    "authors": "Robert Schmicker, Frank Breitinger, Ibrahim M. Baggili",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Android特征提取框架和数据集"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_5",
+                    "title": "Digital Forensic Readiness Framework for Ransomware Investigation",
+                    "authors": "Avinash Singh, Adeyemi R. Ikuesan, Hein S. Venter",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "勒索软件调查的数字取证准备框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_6",
+                    "title": "Forensics Analysis of an On-line Game over Steam Platform",
+                    "authors": "Raquel Tabuyo-Benito, Hayretdin Bahsi, Pedro Peris-Lopez",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Steam平台上一款在线游戏的取证分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_7",
+                    "title": "A Digital Forensic Investigation and Verification Model for Industrial Espionage",
+                    "authors": "Jieun Dokko, Michael Shin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "工业间谍的数字取证调查和验证模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_8",
+                    "title": "Solid State Drive Forensics: Where Do We Stand?",
+                    "authors": "John Vieyra, Mark Scanlon, Nhien-An Le-Khac",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "固态硬盘取证:我们的立场？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_9",
+                    "title": "Associating Drives Based on Their Artifact and Metadata Distributions",
+                    "authors": "Neil C. Rowe",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于驱动器的工件和元数据分布关联驱动器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_10",
+                    "title": "Digital Forensics Event Graph Reconstruction",
+                    "authors": "Daniel J. Schelkoph, Gilbert L. Peterson, James S. Okolica",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数字取证事件图重建"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_11",
+                    "title": "Multi-item Passphrases: A Self-adaptive Approach Against Offline Guessing Attacks",
+                    "authors": "Jaryn Shen, Kim-Kwang Raymond Choo, Qingkai Zeng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多项密码:一种抵抗离线猜测攻击的自适应方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-05487-8_12",
+                    "title": "Hybrid Intrusion Detection System for Worm Attacks Based on Their Network Behavior",
+                    "authors": "Hassan Hadi Latheeth Al-Maksousy, Michele C. Weigle",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于网络行为的蠕虫攻击混合入侵检测系统"
+                }
+            ]
+        }
+    ],
+    "2017": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/icdf2c/icdf2c2017.html",
+            "conf_title": "9th ICDF2C 2017: Prague, Czech Republic",
+            "conf_url": "https://doi.org/10.1007/978-3-319-73697-6",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_1",
+                    "title": "FindEvasion: An Effective Environment-Sensitive Malware Detection System for the Cloud",
+                    "authors": "Xiaoqi Jia, Guangzhe Zhou, Qingjia Huang, Weijuan Zhang, Donghai Tian",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一个有效的环境敏感的云恶意软件检测系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_2",
+                    "title": "Real-Time Forensics Through Endpoint Visibility",
+                    "authors": "Peter Kieseberg, Sebastian Neuner, Sebastian Schrittwieser, Martin Schmiedecker, Edgar R. Weippl",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过终端可见性进行实时取证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_3",
+                    "title": "On Locky Ransomware, Al Capone and Brexit",
+                    "authors": "John MacRae, Virginia N. L. Franqueira",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于洛奇勒索软件，艾尔·卡朋和英国退出欧盟"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_4",
+                    "title": "Finding and Rating Personal Names on Drives for Forensic Needs",
+                    "authors": "Neil C. Rowe",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "为法医需要查找和评定驱动器上的个人姓名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_5",
+                    "title": "A Web-Based Mouse Dynamics Visualization Tool for User Attribution in Digital Forensic Readiness",
+                    "authors": "Dominik Ernsberger, Adeyemi Richard Ikuesan, Hein S. Venter, Alf Zugenmaier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://repository.up.ac.za/bitstream/2263/66362/1/Ernsberger_WebBased_2018.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一个基于网络的鼠标动态可视化工具，用于数字取证准备中的用户归因"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_6",
+                    "title": "Open Source Forensics for a Multi-platform Drone System",
+                    "authors": "Thomas Edward Allen Barton, M. A. Hannan Bin Azhar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多平台无人机系统的开源取证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_7",
+                    "title": "A Novel File Carving Algorithm for EVTX Logs",
+                    "authors": "Ming Xu, Jinkai Sun, Ning Zheng, Tong Qiao, Yiming Wu, Kai Shi, Haidong Ge, Tao Yang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种新的EVTX日志文件雕刻算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_8",
+                    "title": "Fuzzy System-Based Suspicious Pattern Detection in Mobile Forensic Evidence",
+                    "authors": "Konstantia Barmpatsalou, Tiago Cruz, Edmundo Monteiro, Paulo Simões",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于模糊系统的移动物证可疑模式检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_9",
+                    "title": "Digital Forensic Readiness in Critical Infrastructures: A Case of Substation Automation in the Power Sector",
+                    "authors": "Asif Iqbal, Mathias Ekstedt, Hanan Alobaidli",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关键基础设施中的数字取证就绪性:电力部门变电站自动化案例"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_10",
+                    "title": "A Visualization Scheme for Network Forensics Based on Attribute Oriented Induction Based Frequent Item Mining and Hyper Graph",
+                    "authors": "Jianguo Jiang, Jiuming Chen, Kim-Kwang Raymond Choo, Chao Liu, Kunying Liu, Min Yu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于属性导向归纳的频繁项挖掘和超图的网络取证可视化方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_11",
+                    "title": "Expediting MRSH-v2 Approximate Matching with Hierarchical Bloom Filter Trees",
+                    "authors": "David Lillis, Frank Breitinger, Mark Scanlon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用分层Bloom Filter树加速MRSH-v2近似匹配"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_12",
+                    "title": "Approxis: A Fast, Robust, Lightweight and Approximate Disassembler Considered in the Field of Memory Forensics",
+                    "authors": "Lorenz Liebler, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Approxis:一个快速、健壮、轻量级和近似的反汇编器，在内存取证领域被考虑"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_13",
+                    "title": "Memory Forensics and the Macintosh OS X Operating System",
+                    "authors": "Charles B. Leopard, Neil C. Rowe, Michael R. McCarrin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "内存取证和麦金塔OS X操作系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_14",
+                    "title": "Sketch-Based Modeling and Immersive Display Techniques for Indoor Crime Scene Presentation",
+                    "authors": "Pu Ren, Mingquan Zhou, Jin Liu, Yachun Fan, Wenshuo Zhao, Wuyang Shui",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于室内犯罪现场展示的基于草图的建模和沉浸式显示技术"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_15",
+                    "title": "An Overview of the Usage of Default Passwords",
+                    "authors": "Brandon Knieriem, Xiaolu Zhang, Philip Levine, Frank Breitinger, Ibrahim M. Baggili",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://digitalcommons.newhaven.edu/cgi/viewcontent.cgi?article=1070&context=electricalcomputerengineering-facpubs"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "默认密码用法概述"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_16",
+                    "title": "Automation of MitM Attack on Wi-Fi Networks",
+                    "authors": "Martin Vondrácek, Jan Pluskal, Ondrej Rysavý",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "无线网络上MitM攻击的自动化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_17",
+                    "title": "SeEagle: Semantic-Enhanced Anomaly Detection for Securing Eagle",
+                    "authors": "Wu Xin, Qingni Shen, Yahui Yang, Zhonghai Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SeEagle:用于保护Eagle的语义增强异常检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-73697-6_18",
+                    "title": "Coriander: A Toolset for Generating Realistic Android Digital Evidence Datasets",
+                    "authors": "Irvin Homem",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "芫荽:用于生成逼真的Android数字证据数据集的工具集"
+                }
+            ]
+        }
+    ],
+    "2015": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/icdf2c/icdf2c2015.html",
+            "conf_title": "ICDF2C 2015: Seoul, South Korea",
+            "conf_url": "https://doi.org/10.1007/978-3-319-25512-5",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_1",
+                    "title": "Digital Forensics Education: A Multidisciplinary Curriculum Model",
+                    "authors": "Imani Palmer, Elaine Wood, Stefan Nagy, Gabriela García, Masooda N. Bashir, Roy H. Campbell",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数字取证教育:多学科课程模式"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_2",
+                    "title": "Development and Initial User Evaluation of a Virtual Crime Scene Simulator Including Digital Evidence",
+                    "authors": "Alleyn Conway, Joshua I. James, Pavel Gladyshev",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "包括数字证据的虚拟犯罪现场模拟器的开发和初步用户评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_3",
+                    "title": "Detection of Frame Duplication Type of Forgery in Digital Video Using Sub-block Based Features",
+                    "authors": "Vivek Kumar Singh, Pallav Pant, Ramesh Chandra Tripathi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用基于子块的特征检测数字视频中的帧复制类型的伪造"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_4",
+                    "title": "How Cuckoo Filter Can Improve Existing Approximate Matching Techniques",
+                    "authors": "Vikas Gupta, Frank Breitinger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "布谷鸟滤波器如何改进现有的近似匹配技术"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_5",
+                    "title": "Forensically Sound Retrieval and Recovery of Images from GPU Memory",
+                    "authors": "Yulong Zhang, Baijian Yang, Marcus K. Rogers, Raymond A. Hansen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "法医声音检索和恢复的图像从GPU的内存"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_6",
+                    "title": "Advanced Techniques for Reconstruction of Incomplete Network Data",
+                    "authors": "Petr Matousek, Jan Pluskal, Ondrej Rysavý, Vladimír Veselý, Martin Kmet, Filip Karpísek, Martin Vymlátil",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "不完整网络数据重建的先进技术"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_7",
+                    "title": "Forensic Analysis and Remote Evidence Recovery from Syncthing: An Open Source Decentralised File Synchronisation Utility",
+                    "authors": "Conor Quinn, Mark Scanlon, Jason Farina, M. Tahar Kechadi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Syncthing的取证分析和远程证据恢复:一个开源的分散式文件同步实用程序"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_8",
+                    "title": "A Survey of International Cooperation in Digital Investigations",
+                    "authors": "Joshua I. James, Pavel Gladyshev",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数字调查国际合作综述"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_9",
+                    "title": "Awareness of Scam E-Mails: An Exploratory Research Study - Part 2",
+                    "authors": "Kelly A. Cole, Tejashree Datar, Marcus K. Rogers",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对诈骗电子邮件的认识:探索性研究-第二部分"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_10",
+                    "title": "Cyber Peacekeeping",
+                    "authors": "Nikolay Akatyev, Joshua I. James",
+                    "abstract": "This chapter discusses how international law applies to cyber-peacekeeping by focusing on the United Nations peacekeeping operations. The chapter first explains which peacekeeping tasks can be ‘cyberized’ and then discusses the technical and legal challenges that arise in view of the peacekeeping principles of consent, impartiality and use of force in self-defence. The chapter then goes on to examine the regulation of the use of lethal force in cyber-peacekeeping in the course of an armed conflict but also outside the context of an armed conflict. It finally identifies a number of institutional, political and legal challenges facing cyber-peacekeeping and makes recommendations as to how they can be addressed. Its main argument is that cyber-peacekeeping can improve the effectiveness of United Nations peacekeeping operations and for this reason its referent institutional, political and legal framework needs to be considered carefully.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "本章以联合国维和行动为重点，讨论了国际法如何适用于网络维和。本章首先解释了哪些维持和平任务可以“电脑化”，然后讨论了由于同意、公正和使用武力自卫的维持和平原则而出现的技术和法律挑战。本章接着审查了在武装冲突过程中以及武装冲突之外的网络维和中使用致命武力的规定。报告最后确定了网络维和面临的一些体制、政治和法律挑战，并就如何应对这些挑战提出了建议。其主要论点是，网络维持和平可以提高联合国维持和平行动的效力，因此需要认真考虑其参照的体制、政治和法律框架。",
+                    "title_zh": "网络维和"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_11",
+                    "title": "Explanatory Case Study of the Authur Pendragon Cyber Threat: Socio-psychological and Communication Perspectives",
+                    "authors": "Kathryn C. Seigfried-Spellar, Ben M. Flores, Darrin J. Griffin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "奥图尔·潘德雷肯网络威胁的解释性案例研究:社会心理学和传播学视角"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_12",
+                    "title": "Smartphone Verification and User Profiles Linking Across Social Networks by Camera Fingerprinting",
+                    "authors": "Flavio Bertini, Rajesh Sharma, Andrea Ianni, Danilo Montesi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "智能手机验证和用户档案通过摄像头指纹连接整个社交网络"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_13",
+                    "title": "Analysis of the HIKVISION DVR File System",
+                    "authors": "Jaehyeok Han, Doowon Jeong, Sangjin Lee",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "海康威视DVR文件系统分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-25512-5_14",
+                    "title": "Exploring the Effectiveness of Digital Forensics Tools on the Sony PlayStation Vita",
+                    "authors": "Karolina Alvarez, Masooda N. Bashir",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "探索索尼PlayStation Vita上数字取证工具的有效性"
+                }
+            ]
+        }
+    ],
+    "2022": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/icdf2c/icdf2c2022.html",
+            "conf_title": "13th ICDF2C 2022:\nBoston, MA, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-031-36574-4",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_1",
+                    "title": "Image-to-Image Translation Generative Adversarial Networks for Video Source Camera Falsification",
+                    "authors": "Maryna Veksler, Clara Caspard, Kemal Akkaya",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "用于视频源摄像机篡改的图像到图像转换生成对抗网络",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_2",
+                    "title": "Towards Efficient On-Site CSAM Triage by Clustering Images from a Source Point of View",
+                    "authors": "Samantha Klier, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "从源的角度通过聚类图像实现有效的现场CSAM分类",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_3",
+                    "title": "Can Image Watermarking Efficiently Protect Deep-Learning-Based Image Classifiers? - A Preliminary Security Analysis of an IP-Protecting Method",
+                    "authors": "Jia-Hui Xie, Di Wu, Bo-Hao Zhang, Hai Su, Huan Yang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "图像水印能有效保护基于深度学习的图像分类器吗？-IP保护方法的初步安全性分析",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_4",
+                    "title": "Digital Forensics Tool Evaluation on Deleted Files",
+                    "authors": "Milos Stankovic, Tahir M. Khan",
+                    "abstract": "This paper presents a comparison and evaluation of several digital forensics tools on data recovery scenarios. Modern tools have been tested and evaluated in order to provide evidence regarding their capabilities in qualitative analysis and recovery of deleted data from various file systems. Results derived from the comparisons, present the capability of each digital forensics tool. Based on variables and specifications, the tool with the best performance is considered the most suitable application for analysing and retrieving files. A comparison between digital forensics tools takes place as well, alongside conclusions.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "数字取证工具对已删除文件的评估",
+                    "abstract_zh": "本文对数据恢复场景中的几种数字取证工具进行了比较和评估。已经对现代工具进行了测试和评估，以证明它们在定性分析和从各种文件系统中恢复已删除数据方面的能力。从比较中得出的结果显示了每种数字取证工具的能力。根据变量和规格，具有最佳性能的工具被认为是最适合分析和检索文件的应用程序。数字取证工具之间的比较以及结论。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_5",
+                    "title": "Forensic Analysis of Webex on the iOS Platform",
+                    "authors": "Jiaxuan Zhou, Umit Karabiyik",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "iOS平台上Webex的取证分析",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_6",
+                    "title": "Watch Your WeChat Wallet: Digital Forensics Approach on WeChat Payments on Android",
+                    "authors": "Jiaxuan Zhou, Umit Karabiyik",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "看好你的微信钱包:Android上微信支付的数字取证方法",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_7",
+                    "title": "Crypto Wallet Artifact Detection on Android Devices Using Advanced Machine Learning Techniques",
+                    "authors": "Abhishek Bhattarai, Maryna Veksler, Hadi Sahin, Ahmet Kurt, Kemal Akkaya",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "使用高级机器学习技术在Android设备上检测加密钱包伪像",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_8",
+                    "title": "CSCD: A Cyber Security Community Detection Scheme on Online Social Networks",
+                    "authors": "Yutong Zeng, Honghao Yu, Tiejun Wu, Yong Chen, Xing Lan, Cheng Huang",
+                    "abstract": "This special issue collates a selection of representative research articles that were primarily presented at the 9th International Conference on Network and System Security. This annual conference brings together researchers and practitioners from both academia and industry who are working on security and privacy in computer systems and social networks, in order to promote an exchange of ideas, discuss future collaborations, and develop new research directions. Online social networks have pervaded all aspects of our daily lives. With their unparalleled popularity, online social networks have evolved from platforms for social communication and news dissemination, to indispensable tools for professional networking, social recommendations, marketing, and online content distribution. Because of their scale, complexity, and heterogeneity, many technical and social challenges in online social networks must be addressed. It has been widely recognized that security and privacy are the critical issues in online social networks. This special issue presents many examples of how researchers, scholars, vendors, and practitioners are collaborating to address security and privacy research challenges. The scope of this special issue is broad and is representative of the multi-disciplinary nature of privacy and security. In addition to submissions that deal with malicious attacks, information control and detection, privacy protection, network data analytics for security and privacy, trust and reputation in social networks, this issue also includes articles that address practical challenges with privacy-preserving data publishing and efficient data encryption schemes. Protecting the security and privacy of user data in the context of social networks is a central topic of this issue. Xiaofen Wang et al. [3] propose a new privacy-preserving data search and sharing protocol for social networks. The protocol leverages an ID-based multi-user searchable encryption scheme to achieve data search pattern privacy-preserving, anonymity, and request unlinkability. Majed Alrubian et al. [4] describe a novel approach for finding credible sources among Twitter social network users to detect and prevent various malicious activities. They combine analysis of the user’s reputation on a given topic, as well as a measure of the user’s sentiment to identify topically relevant and credible sources of information. Shuhong Chen et al. [9] propose a new multi-dimensional fuzzy trust evaluation method for mobile social networks. They construct implicit social behavioral graphs based on dynamic complex community structures to infer trust relations between users. Zechao Liu et al. [6] propose a new offline and online attribute-based encryption scheme with verifiable outsourced decryption. Using the proposed scheme, the majority of the computational workload in decryption can be outsourced to third parties. Chunyong Yin et al. [8] propose an improved anonymity model for big data security based on clustering algorithm. The model integrates K-anonymity with L-diversity and addresses the problem of imbalanced sensitive attribute distribution. The security and privacy issues under emerging scenarios, such as mobile and cloud computing, Internet of Things, etc., are interesting topics of this issue. Shasi Pokharel et al. [1] describe a new attacking method for codec identification and decoding of captured communications from 15 popular Android VoIP apps. Using this method, the authors can recover the original voice conversations from intercepted calls. Bowei Yang et al. [2] propose a Quality of Service-aware indiscriminate volume storage cloud scheme over dynamic networks. The scheme employs a data redundancy policy based on indiscriminate recovery volumes and Quality of Service-aware data replacement strategy. Keke Gai et al. [7] present a secure cyber incident analytics framework using Monte Carlo Simulations for financial cyber-security insurance in cloud computing. Jiageng Chen et al. [5] propose a novel variable message encryption scheme for constrained devices in Internet of Things. The authors present two different block cipher compression functions to satisfy efficiency and upper security bound, respectively.",
+                    "files": {
+                        "openAccessPdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cpe.4093"
+                    },
+                    "title_zh": "CSCD:在线社交网络上的网络安全社区检测方案",
+                    "abstract_zh": "这期特刊整理了主要在第九届国际网络和系统安全会议上发表的有代表性的研究文章。这一年度会议汇集了来自学术界和工业界的研究人员和从业人员，他们致力于计算机系统和社交网络的安全和隐私，以促进思想交流，讨论未来的合作，并开发新的研究方向。在线社交网络已经渗透到我们日常生活的方方面面。凭借其无与伦比的受欢迎程度，在线社交网络已经从社交交流和新闻传播的平台发展成为专业网络、社交推荐、营销和在线内容分发不可或缺的工具。由于其规模、复杂性和异质性，在线社交网络中的许多技术和社会挑战必须得到解决。人们普遍认为，安全和隐私是在线社交网络的关键问题。这期特刊展示了许多研究人员、学者、供应商和从业者如何合作应对安全和隐私研究挑战的例子。这个特刊的范围很广，代表了隐私和安全的多学科性质。除了处理恶意攻击、信息控制和检测、隐私保护、针对安全性和隐私的网络数据分析、社交网络中的信任和声誉的提交之外，本期还包括解决隐私保护数据发布和高效数据加密方案的实际挑战的文章。在社交网络环境中保护用户数据的安全和隐私是这个问题的中心话题。小粉·王等人[3]提出了一种新的隐私保护的社交网络数据搜索和共享协议。该协议利用基于身份的多用户可搜索加密方案来实现数据搜索模式的隐私保护、匿名性和请求不可链接性。马耶德·阿尔卢比安等人[4]描述了一种在Twitter社交网络用户中寻找可信来源的新方法，以检测和防止各种恶意活动。它们结合了对用户在给定主题上的声誉的分析，以及对用户情绪的测量，以识别与主题相关的可信信息来源。陈叔红等人[9]提出了一种新的移动社交网络多维模糊信任评估方法。他们基于动态复杂社区结构构建隐式社会行为图来推断用户之间的信任关系。刘泽朝等人[6]提出了一种新的离线和在线基于属性的加密方案，具有可验证的外包解密。使用所提出的方案，解密中的大部分计算工作量可以外包给第三方。尹春勇等[8]提出了一种基于聚类算法的大数据安全匿名改进模型。该模型融合了K-匿名和L-多样性，解决了敏感属性分布不均衡的问题。新兴场景下的安全和隐私问题，如移动和云计算、物联网等。，都是本期的有趣话题。Shasi Pokharel等人[1]描述了一种新的攻击方法，用于编解码器识别和解码从15个流行的Android VoIP应用程序捕获的通信。使用这种方法，作者可以从截获的呼叫中恢复原始语音对话。杨等人[2]提出了一种基于动态网络的服务质量感知的无差别卷存储云方案。该方案采用基于无差别恢复卷和服务质量感知数据替换策略的数据冗余策略。唐珂·盖等人[7]提出了一个安全的网络事件分析框架，在云计算中使用蒙特卡罗模拟进行金融网络安全保险。陈嘉庚等人[5]提出了一种新的物联网受限设备可变消息加密方案。作者提出了两种不同的分组密码压缩函数，分别满足效率和安全上限。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_9",
+                    "title": "Shedding Light on Monopoly: Temporal Analysis of Drug Trades",
+                    "authors": "Daniel Dolejska, Vladimír Veselý, Jan Pluskal, Michal Koutenský",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "揭示垄断:药品交易的时间分析",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_10",
+                    "title": "Extracting Spread-Spectrum Hidden Data Based on Better Lattice Decoding",
+                    "authors": "Fan Yang, Hao Cheng, Shanxiang Lyu",
+                    "abstract": "This paper discusses the problem of extracting spread spectrum hidden data from the perspective of lattice decoding. Since the conventional blind extraction scheme multi-carrier iterative generalize least-squares (M-IGLS) and non-blind extraction scheme minimum mean square error (MMSE) suffer from performance degradation when the carriers lack sufficient orthogonality, we present two novel schemes from the viewpoint of lattice decoding, namely multi-carrier iterative successive interference cancellation (M-ISIC) and sphere decoding (SD). The better performance of M-ISIC and SD are confirmed by both theoretical justification and numerical simulations.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "基于更优格解码的扩频隐藏数据提取",
+                    "abstract_zh": "本文从格解码的角度讨论了提取扩频隐藏数据的问题。由于传统的盲提取方案多载波迭代广义最小二乘(M-IGLS)和非盲提取方案最小均方误差(MMSE)在载波缺乏足够的正交性时性能下降，我们从格型解码的角度提出了两种新的方案，即多载波迭代连续干扰消除(M-ISIC)和球形解码(SD)。理论证明和数值模拟都证实了M-ISIC和SD的良好性能。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_11",
+                    "title": "MQTT Traffic Collection and Forensic Analysis Framework",
+                    "authors": "Raymond H. Chan, Wye Kaye Yan, Jung Man Ma, Kai Mun Loh, Greger Chen Zhi En, Malcolm Y. H. Low, Habib Rehman, Thong Chee Phua",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "MQTT流量收集和取证分析框架",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_12",
+                    "title": "IoT Malicious Traffic Detection Based on FSKDE and Federated DIOT-Pysyft",
+                    "authors": "Ke Zhang, Guanghua Zhang, Zhenguo Chen, Xiaojun Zuo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "基于FSKDE和联合DIOT-Pysyft的物联网恶意流量检测",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_13",
+                    "title": "Crime and Incident Watch for Smart Cities: A Sensor-Based Approach",
+                    "authors": "Francis N. Nwebonyi, Xiaoyu Du, Pavel Gladyshev",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "智能城市的犯罪和事件观察:基于传感器的方法",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_14",
+                    "title": "The Lightweight Botnet Detection Model Based on the Improved UNet",
+                    "authors": "Chengjie Li, Yunchun Zhang, Zixuan Li, Fan Feng, Zikun Liao, Xiaohui Cui",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "基于改进UNet的轻量级僵尸网络检测模型",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_15",
+                    "title": "On the Application of Active Learning to Handle Data Evolution in Android Malware Detection",
+                    "authors": "Alejandro Guerra-Manzanares, Hayretdin Bahsi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "主动学习在Android恶意软件检测中处理数据演化的应用",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_16",
+                    "title": "Volatility Custom Profiling for Automated Hybrid ELF Malware Detection",
+                    "authors": "Rahul Varshney, Nitesh Kumar, Anand Handa, Sandeep Kumar Shukla",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "用于自动混合ELF恶意软件检测的易失性定制分析",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_17",
+                    "title": "The Need for Biometric Anti-spoofing Policies: The Case of Etsy",
+                    "authors": "Mohsen M. Jozani, Gianluca Zanella, Maxium Khanov, Gokila Dorai, Esra Akbas",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "生物识别反欺骗政策的必要性:Etsy的案例",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_18",
+                    "title": "VPnet: A Vulnerability Prioritization Approach Using Pointer Network and Deep Reinforcement Learning",
+                    "authors": "Zhoushi Sheng, Bo Yu, Chen Liang, Yongyi Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "VPnet:一种使用指针网络和深度强化学习的漏洞优先级排序方法",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_19",
+                    "title": "Are External Auditors Capable of Dealing with Cybersecurity Risks?",
+                    "authors": "Yueqi Li, Sanjay Goel, Kevin J. Williams",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "外部审计师有能力应对网络安全风险吗？",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_20",
+                    "title": "Deep Learning-Based Detection of Cyberattacks in Software-Defined Networks",
+                    "authors": "Seyed Mohammad Hadi Mirsadeghi, Hayretdin Bahsi, Wissem Inbouli",
+                    "abstract": "This paper proposes a hybrid deep learning algorithm for detecting and defending against DoS/DDoS attacks in software-defined networks (SDNs). SDNs are becoming increasingly popular due to their centralized control and flexibility, but this also makes them a target for cyberattacks. Detecting DoS/DDoS attacks in SDNs is a challenging task due to the complex nature of the network traffic. To address this problem, we developed a hybrid deep learning approach that combines three types of deep learning algorithms. Our approach achieved high accuracy rates of 99.81% and 99.88% on two different datasets, as demonstrated through both reference-based analysis and practical experiments. Our work provides a significant contribution to the field of network security, particularly in the area of SDN. The proposed algorithm has the potential to enhance the security of SDNs and prevent DoS/DDoS attacks. This is important because SDNs are becoming increasingly important in today’s network infrastructure, and protecting them from attacks is crucial to maintaining the integrity and availability of network resources. Overall, our study demonstrates the effectiveness of a hybrid deep learning approach for detecting DoS/DDoS attacks in SDNs and provides a promising direction for future research in this area.",
+                    "files": {
+                        "openAccessPdf": "https://www.mdpi.com/2076-3417/13/6/3828/pdf?version=1679890338"
+                    },
+                    "title_zh": "软件定义网络中基于深度学习的网络攻击检测",
+                    "abstract_zh": "提出一种混合深度学习算法，用于检测和防御软件定义网络中的DoS/DDoS攻击。sdn由于其集中控制和灵活性而变得越来越受欢迎，但这也使它们成为网络攻击的目标。由于网络流量的复杂性，检测SDNs中的DoS/DDoS攻击是一项具有挑战性的任务。为了解决这个问题，我们开发了一种混合深度学习方法，它结合了三种类型的深度学习算法。我们的方法在两个不同的数据集上取得了99.81%和99.88%的高准确率，通过基于参考的分析和实际实验都证明了这一点。我们的工作为网络安全领域，尤其是SDN领域做出了重大贡献。该算法具有增强SDNs安全性和防止DoS/DDoS攻击的潜力。这一点非常重要，因为sdn在当今的网络基础设施中变得越来越重要，保护它们免受攻击对于维护网络资源的完整性和可用性至关重要。总之，我们的研究证明了混合深度学习方法在检测SDNs中的DoS/DDoS攻击方面的有效性，并为该领域的未来研究提供了一个有希望的方向。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_21",
+                    "title": "Deep Learning Based Network Intrusion Detection System for Resource-Constrained Environments",
+                    "authors": "Syed Rizvi, Mark Scanlon, Jimmy McGibney, John Sheppard",
+                    "abstract": "The Internet of Things (IoT) is a prominent and advanced network communication technology that has familiarized the world with smart industries. The conveniently acquirable nature of IoT makes it susceptible to a diversified range of potential security threats. The literature has brought forth a plethora of solutions for ensuring secure communications in IoT-based smart industries. However, resource-constrained sectors still demand significant attention. We have proposed a fog-assisted deep learning (DL)-empowered intrusion detection system (IDS) for resource-constrained smart industries. The proposed Cuda–deep neural network gated recurrent unit (Cu-DNNGRU) framework was trained on the N-BaIoT dataset and was evaluated on judicious performance metrics, including accuracy, precision, recall, and F1-score. Additionally, the Cu-DNNGRU was empirically investigated alongside state-of-the-art classifiers, including Cu-LSTMDNN, Cu-BLSTM, and Cu-GRU. An extensive performance comparison was also undertaken among the proposed IDS and some outstanding solutions from the literature. The simulation results showed ample strength with respect to the validation of the proposed framework. The proposed Cu-DNNGRU achieved 99.39% accuracy, 99.09% precision, 98.89% recall, and an F1-score of 99.21%. In the performance comparison, the values were substantially higher than those of the benchmarked schemes, as well as competitive security solutions from the literature.",
+                    "files": {
+                        "openAccessPdf": "https://www.mdpi.com/1424-8220/22/23/9416/pdf?version=1670233407"
+                    },
+                    "title_zh": "资源受限环境下基于深度学习的网络入侵检测系统",
+                    "abstract_zh": "物联网(IoT)是一种突出和先进的网络通信技术，它让世界熟悉了智能行业。物联网易于获取的特性使其容易受到各种潜在的安全威胁。文献提出了大量解决方案来确保基于物联网的智能行业的安全通信。然而，资源有限的部门仍然需要大量关注。我们为资源受限的智能行业提出了一种基于雾辅助深度学习的入侵检测系统。提出的Cuda深度神经网络门控递归单元(Cu-DNNGRU)框架在N-BaIoT数据集上进行训练，并在明智的性能指标上进行评估，包括准确度、精确度、召回率和F1分数。此外，我们还对Cu-DNNGRU和最先进的分类器(包括Cu-LSTMDNN、Cu-BLSTM和Cu-GRU)进行了实证研究。我们还对提出的IDS和文献中的一些优秀解决方案进行了广泛的性能比较。模拟结果显示了关于所提出的框架的有效性的足够的强度。该算法的准确率为99.39%，精确度为99.09%，召回率为98.89%，F1值为99.21%。在性能比较中，这些值大大高于基准方案的值，以及文献中的竞争性安全解决方案的值。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_22",
+                    "title": "Poisoning-Attack Detection Using an Auto-encoder for Deep Learning Models",
+                    "authors": "Anass El Moadine, Gouenou Coatrieux, Reda Bellafqira",
+                    "abstract": "Deepfake (DF) is a kind of forged image or video that is developed to spread misinformation and facilitate vulnerabilities to privacy hacking and truth masking with advanced technologies, including deep learning and artificial intelligence with trained algorithms. This kind of multimedia manipulation, such as changing facial expressions or speech, can be used for a variety of purposes to spread misinformation or exploitation. This kind of multimedia manipulation, such as changing facial expressions or speech, can be used for a variety of purposes to spread misinformation or exploitation. With the recent advancement of generative adversarial networks (GANs) in deep learning models, DF has become an essential part of social media. To detect forged video and images, numerous methods have been developed, and those methods are focused on a particular domain and obsolete in the case of new attacks/threats. Hence, a novel method needs to be developed to tackle new attacks. The method introduced in this article can detect various types of spoofs of images and videos that are computationally generated using deep learning models, such as variants of long short-term memory and convolutional neural networks. The first phase of this proposed work extracts the feature frames from the forged video/image using a sparse autoencoder with a graph long short-term memory (SAE-GLSTM) method at training time. The first phase of this proposed work extracts the feature frames from the forged video/image using a sparse autoencoder with a graph long short-term memory (SAE-GLSTM) method at training time. The proposed DF detection model is tested using the FFHQ database, 100K-Faces, Celeb-DF (V2) and WildDeepfake. The evaluated results show the effectiveness of the proposed method.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "使用深度学习模型的自动编码器的中毒攻击检测",
+                    "abstract_zh": "Deepfake (DF)是一种伪造的图像或视频，旨在传播错误信息，并利用先进技术(包括深度学习和具有训练有素的算法的人工智能)为隐私黑客和真相掩盖提供便利。这种多媒体操作，如改变面部表情或讲话，可用于各种目的，以传播错误信息或利用。这种多媒体操作，如改变面部表情或讲话，可用于各种目的，以传播错误信息或利用。随着深度学习模型中生成对抗网络(GANs)的最新进展，DF已经成为社交媒体的重要组成部分。为了检测伪造的视频和图像，已经开发了许多方法，并且这些方法集中于特定的领域，并且在新的攻击/威胁的情况下已经过时。因此，需要开发一种新的方法来应对新的攻击。本文介绍的方法可以检测使用深度学习模型计算生成的各种类型的图像和视频欺骗，如长短期记忆和卷积神经网络的变体。该工作的第一阶段是在训练时使用稀疏自动编码器和图形长短期记忆(SAE-GLSTM)方法从伪造的视频/图像中提取特征帧。该工作的第一阶段是在训练时使用稀疏自动编码器和图形长短期记忆(SAE-GLSTM)方法从伪造的视频/图像中提取特征帧。使用FFHQ数据库、100K-Faces、Celeb-DF (V2)和WildDeepfake来测试所提出的DF检测模型。评估结果表明了该方法的有效性。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_23",
+                    "title": "Attribute-Based Proxy Re-encryption with Privacy Protection for Message Dissemination in VANET",
+                    "authors": "Qiuming Liu, Zhexin Yao, Zhen Wu, Zeyao Xu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "用于VANET消息传播的带隐私保护的基于属性的代理重加密",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_24",
+                    "title": "PBPAFL: A Federated Learning Framework with Hybrid Privacy Protection for Sensitive Data",
+                    "authors": "Ruichu Yao, Kunsheng Tang, Yongshi Zhu, Bingbing Fan, Tian Luo, Yide Song",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "PBPAFL:一个针对敏感数据的混合隐私保护的联邦学习框架",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_25",
+                    "title": "Cyber Crime Undermines Data Privacy Efforts - On the Balance Between Data Privacy and Security",
+                    "authors": "Michael Mundt, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "网络犯罪破坏了数据隐私保护的努力——兼论数据隐私与安全的平衡",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_26",
+                    "title": "Automating the Flow of Data Between Digital Forensic Tools Using Apache NiFi",
+                    "authors": "Xiaoyu Du, Francis N. Nwebonyi, Pavel Gladyshev",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "使用Apache NiFi自动化数字取证工具之间的数据流",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_27",
+                    "title": "Android Mobile Terminal Security Assessment Based on Analytical Hierarchy Process (AHP)",
+                    "authors": "Zhiyuan Hu, Linghang Shi, Huijun Chen, Jinghui Lu",
+                    "abstract": "Mobile terminals especially smartphones are changing people's work and life style. For example, mobile payments are experiencing rapid growth as consumers use mobile terminals as part of lifestyles. However, security is a big challenge for mobile application services. In order to reduce security risks, mobile terminal security assessment should be conducted before providing application services. An approach of comprehensive security assessment is proposed in this paper by defining security metrics with the corresponding scores and determining the relative weights of security metrics based on the analytical hierarchy process (AHP). Overall security assessment of Android-based mobile terminals is implemented for mobile payment services with payment fraud detection accuracy of 89%, which shows that the proposed approach of security assessment is reasonable.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "基于层次分析法的Android移动终端安全评估",
+                    "abstract_zh": "移动终端尤其是智能手机正在改变人们的工作和生活方式。例如，随着消费者将移动终端作为生活方式的一部分，移动支付正在快速增长。然而，安全性是移动应用服务的一大挑战。为了降低安全风险，在提供应用服务之前，需要对移动终端进行安全评估。提出了一种基于层次分析法(AHP)的综合安全评估方法，该方法通过定义安全指标及其分值，确定安全指标的相对权重。对基于Android平台的移动终端进行了全面的安全评估，对移动支付业务的欺诈检测准确率达到了89%，表明该安全评估方法是合理的。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-36574-4_28",
+                    "title": "A General Steganalysis Method of QR Codes",
+                    "authors": "Jia Chen, Kunlin Chen, Yongjie Wang, Xuehu Yan, Longlong Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "一种通用的QR码隐写分析方法",
+                    "abstract_zh": ""
+                }
+            ]
+        }
+    ]
+}

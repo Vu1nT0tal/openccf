@@ -1,0 +1,1493 @@
+{
+    "2021": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ifip11-9/df2021.html",
+            "conf_title": "17th Digital Forensics 2021: Virtual Event",
+            "conf_url": "https://doi.org/10.1007/978-3-030-88381-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_1",
+                    "title": "Digital Forensic Acquisition Kill Chain - Analysis and Demonstration",
+                    "authors": "Gunnar Alendal, Geir Olav Dyrkolbotn, Stefan Axelsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数字取证捕获杀伤链-分析和演示"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_2",
+                    "title": "Enhancing Industrial Control System Forensics Using Replication-Based Digital Twins",
+                    "authors": "Marietheres Dietz, Ludwig Englbrecht, Günther Pernul",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用基于复制的数字双胞胎增强工业控制系统取证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_3",
+                    "title": "Comparison of Cyber Attacks on Services in the Clearnet and Darknet",
+                    "authors": "York Yannikos, Quang Anh Dang, Martin Steinebach",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对清网和暗网服务的网络攻击比较"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_4",
+                    "title": "Using Parallel Distributed Processing to Reduce the Computational Time of Digital Media Similarity Measures",
+                    "authors": "Myeong Lim, James Jones",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用并行分布式处理减少数字媒体相似性度量的计算时间"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_5",
+                    "title": "Evaluation of Network Traffic Analysis Using Approximate Matching Algorithms",
+                    "authors": "Thomas Göbel, Frieder Uhlig, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用近似匹配算法评估网络流量分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_6",
+                    "title": "Leveraging USB Power Delivery Implementations for Digital Forensic Acquisition",
+                    "authors": "Gunnar Alendal, Stefan Axelsson, Geir Olav Dyrkolbotn",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用USB供电实现数字取证采集"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_7",
+                    "title": "Detecting Malicious PDF Documents Using Semi-Supervised Machine Learning",
+                    "authors": "Jianguo Jiang, Nan Song, Min Yu, Kam-Pui Chow, Gang Li, Chao Liu, Weiqing Huang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03764374/file/519603_1_En_7_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用半监督机器学习检测恶意PDF文档"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_8",
+                    "title": "Malicious Login Detection Using Long Short-Term Memory with an Attention Mechanism",
+                    "authors": "Yanna Wu, Fucheng Liu, Yu Wen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于注意机制的长短期记忆恶意登录检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_9",
+                    "title": "Predicting the Locations of Unrest Using Social Media",
+                    "authors": "Shengzhi Qin, Qiaokun Wen, Kam-Pui Chow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用社交媒体预测动乱地点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_10",
+                    "title": "Extracting Threat Intelligence Relations Using Distant Supervision and Neural Networks",
+                    "authors": "Yali Luo, Shengqin Ao, Ning Luo, Changxin Su, Peian Yang, Zhengwei Jiang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用远程监督和神经网络提取威胁情报关系"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_11",
+                    "title": "Security Auditing of Internet of Things Devices in a Smart Home",
+                    "authors": "Suryadipta Majumdar, Daniel Bastos, Anoop Singhal",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://elartu.tntu.edu.ua/bitstream/lib/38276/1/Avtorska_dov_Horishnyy_M_O_2022.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "智能家居中物联网设备的安全审计"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_12",
+                    "title": "Indian Currency Database for Forensic Research",
+                    "authors": "Saheb Chhabra, Gaurav Gupta, Garima Gupta, Monika Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于法医研究的印度货币数据库"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-88381-2_13",
+                    "title": "Security and Privacy Issues Related to Quick Response Codes",
+                    "authors": "Pulkit Garg, Saheb Chhabra, Gaurav Gupta, Garima Gupta, Monika Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "与快速响应代码相关的安全和隐私问题"
+                }
+            ]
+        }
+    ],
+    "2022": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ifip11-9/df2022.html",
+            "conf_title": "18th Digital Forensics 2022: Virtual Event",
+            "conf_url": "https://doi.org/10.1007/978-3-031-10078-9",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_1",
+                    "title": "A Digital Body Farm for Collecting Deleted File Decay Data",
+                    "authors": "Omoche Cheche Agada, Ibifubara Iganibo, James Jones, Kevin D. Fairbanks",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于收集已删除文件衰减数据的数字人体农场"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_2",
+                    "title": "Realistic and Configurable Synthesis of Malware Traces in Windows Systems",
+                    "authors": "Martin Lukner, Thomas Göbel, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Windows系统中恶意软件踪迹的现实和可配置合成"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_3",
+                    "title": "Smartphone Data Distributions and Requirements for Realistic Mobile Device Forensic Corpora",
+                    "authors": "Patrik Gonçalves, Andreas Attenberger, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "智能手机数据分布和对真实移动设备取证语料库的要求"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_4",
+                    "title": "Forensic Analysis of the Snapchat iOS App with Spectacles-Synced Artifacts",
+                    "authors": "Logan VanPutte, Gokila Dorai, Andrew Clark IV, Rayna Mock, Josh Brunty",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Snapchat iOS应用程序与Spectacles同步工件的取证分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_5",
+                    "title": "Spoofed Fingerprint Image Detection Using Local Phase Patch Segment Extraction and a Lightweight Network",
+                    "authors": "Sani Mohammed Abdullahi, Shuifa Sun, Asad Malik, Otabek Khudayberdiev, Riskhan Basheer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于局部相位块段提取和轻量级网络的伪造指纹图像检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_6",
+                    "title": "A Combined Feature Encoding Network with Semantic Enhancement for Image Tampering Forensics",
+                    "authors": "Yuling Luo, Ce Liang, Shunsheng Zhang, Sheng Qin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种结合语义增强的图像篡改取证特征编码网络"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_7",
+                    "title": "Deepfake Detection Using Multiple Feature Fusion",
+                    "authors": "Ya Zhang, Xin Jin, Qian Jiang, Yunyun Dong, Nan Wu, Shaowen Yao, Wei Zhou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多特征融合的深度人脸检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_8",
+                    "title": "Identifying Desired Timestamps in Carved Digital Video Recorder Footage",
+                    "authors": "Divam Lehri, Anyesh Roy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在雕刻的数字视频录像机镜头中识别期望的时间戳"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_9",
+                    "title": "Identifying the Leak Sources of Hard Copy Documents",
+                    "authors": "Pulkit Garg, Garima Gupta, Ranjan Kumar, Somitra Sanadhya, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "识别硬拷贝文件的泄漏源"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_10",
+                    "title": "Community Detection in a Web Discussion Forum During Social Unrest Events",
+                    "authors": "Ao Shen, Kam-Pui Chow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "社会动荡事件期间网络论坛中的社区检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-10078-9_11",
+                    "title": "Analyzing the Error Rates of Bitcoin Clustering Heuristics",
+                    "authors": "Yanan Gong, Kam-Pui Chow, Hing-Fung Ting, Siu-Ming Yiu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "比特币聚类试探法的错误率分析"
+                }
+            ]
+        }
+    ],
+    "2020": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ifip11-9/df2020.html",
+            "conf_title": "16th Digital Forensics 2020: New Delhi, India",
+            "conf_url": "https://doi.org/10.1007/978-3-030-56223-6",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_1",
+                    "title": "Digital Forensics and the Big Data Deluge - Some Concerns Based on Ramsey Theory",
+                    "authors": "Martin Olivier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657241/file/503209_1_En_1_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数字取证与大数据泛滥——基于拉姆齐理论的一些担忧"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_2",
+                    "title": "Identity and Sufficiency of Digital Evidence",
+                    "authors": "Michael Losavio",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657229/document"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数字证据的同一性和充分性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_3",
+                    "title": "Interactive Temporal Digital Forensic Event Analysis",
+                    "authors": "Nikolai Adderley, Gilbert L. Peterson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "交互式时间数字取证事件分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_4",
+                    "title": "Enhancing the Feature Profiles of Web Shells by Analyzing the Performance of Multiple Detectors",
+                    "authors": "Weiqing Huang, Chenggang Jia, Min Yu, Kam-Pui Chow, Jiuming Chen, Chao Liu, Jianguo Jiang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657237/document"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过分析多个检测器的性能来增强网壳的特征轮廓"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_5",
+                    "title": "A Novel Approach for Generating Synthetic Datasets for Digital Forensics",
+                    "authors": "Thomas Göbel, Thomas Schäfer, Julien Hachenberger, Jan Türr, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657236/file/503209_1_En_5_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种为数字取证生成合成数据集的新方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_6",
+                    "title": "Detecting Attacks on a Water Treatment System Using Oneclass Support Vector Machines",
+                    "authors": "Ken Yau, Kam-Pui Chow, Siu-Ming Yiu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657239/document"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用单类支持向量机检测对水处理系统的攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_7",
+                    "title": "A Digital Media Similarity Measure for Triage of Digital Forensic Evidence",
+                    "authors": "Myeong Lim, James Jones",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657240/file/503209_1_En_7_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种用于数字法庭证据分类的数字媒体相似性度量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_8",
+                    "title": "Resident Data Pattern Analysis Using Sector Clustering for Storage Drive Forensics",
+                    "authors": "Nitesh K. Bharadwaj, Upasna Singh, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用扇区群集进行存储驱动器取证的常驻数据模式分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_9",
+                    "title": "Forensic Analysis of Advanced Persistent Threat Attacks in Cloud Environments",
+                    "authors": "Changwei Liu, Anoop Singhal, Duminda Wijesekera",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657230/file/503209_1_En_9_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "云环境中高级持续威胁攻击的取证分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_10",
+                    "title": "A Taxonomy of Hypervisor Forensic Tools",
+                    "authors": "Anand Kumar Mishra, Mahesh Chandra Govil, Emmanuel S. Pilli",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657231/file/503209_1_En_10_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "虚拟机管理程序取证工具的分类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_11",
+                    "title": "Public Opinion Monitoring for Proactive Crime Detection Using Named Entity Recognition",
+                    "authors": "Wencan Wu, Kam-Pui Chow, Yonghao Mai, Jun Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657233/file/503209_1_En_11_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用命名实体识别的主动犯罪检测的舆论监控"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_12",
+                    "title": "Retrieving E-Dating Application Artifacts from iPhone Backups",
+                    "authors": "Ranul Deelaka Thantilage, Nhien-An Le-Khac",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657235/file/503209_1_En_12_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从iPhone备份中检索电子约会应用程序工件"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_13",
+                    "title": "Target Identity Attacks on Facial Recognition Systems",
+                    "authors": "Saheb Chhabra, Naman Banati, Gaurav Gupta, Garima Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面部识别系统上的目标身份攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_14",
+                    "title": "Electric Network Frequency Based Audio Forensics Using Convolutional Neural Networks",
+                    "authors": "Maoyu Mao, Zhongcheng Xiao, Xiangui Kang, Xiang Li, Liang Xiao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657551/document"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于电网频率的卷积神经网络音频取证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_15",
+                    "title": "Insider Threat Detection Using Multi-autoencoder Filtering and Unsupervised Learning",
+                    "authors": "Yichen Wei, Kam-Pui Chow, Siu-Ming Yiu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657238/file/503209_1_En_15_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用多自动编码器过滤和无监督学习的内部威胁检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-56223-6_16",
+                    "title": "Detecting Local Machine Data Leakage in Real Time",
+                    "authors": "Jingcheng Liu, Yaping Zhang, Yuze Li, Yongheng Jia, Yao Chen, Jin Cao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03657228/file/503209_1_En_16_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "实时检测本地机器数据泄漏"
+                }
+            ]
+        }
+    ],
+    "2019": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ifip11-9/df2019.html",
+            "conf_title": "15th Digital Forensics 2019: Orlando, FL, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-030-28752-8",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_1",
+                    "title": "A Holistic Forensic Model for the Internet of Things",
+                    "authors": "Lakshminarayana Sadineni, Emmanuel S. Pilli, Ramesh Babu Battula",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "物联网的整体取证模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_2",
+                    "title": "Implementing the Harmonized Model for Digital Evidence Admissibility Assessment",
+                    "authors": "Albert Antwi-Boasiako, Hein S. Venter",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02534607/file/488399_1_En_2_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "实施数字证据可采性评估的统一模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_3",
+                    "title": "Classifying the Authenticity of Evaluated Smartphone Data",
+                    "authors": "Heloise Pieterse, Martin S. Olivier, Renier van Heerden",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02534614/file/488399_1_En_3_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对评估的智能手机数据的真实性进行分类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_4",
+                    "title": "Retrofitting Mobile Devices for Capturing Memory-Resident Malware Based on System Side-Effects",
+                    "authors": "Zachary Grimmett, Jason Staggs, Sujeet Shenoi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于系统副作用改造移动设备以捕获驻留在存储器中的恶意软件"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_5",
+                    "title": "A Targeted Data Extraction System for Mobile Devices",
+                    "authors": "Sudhir Aggarwal, Gokila Dorai, Umit Karabiyik, Tathagata Mukherjee, Nicholas Guerra, Manuel Hernandez, James Parsons, Khushboo Rathi, Hongmei Chi, Temilola Aderibigbe, Rodney Wilson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02534613/file/488399_1_En_5_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种用于移动设备的目标数据提取系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_6",
+                    "title": "Exploiting Vendor-Defined Messages in the USB Power Delivery Protocol",
+                    "authors": "Gunnar Alendal, Stefan Axelsson, Geir Olav Dyrkolbotn",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02534599/file/488399_1_En_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用USB供电协议中供应商定义的消息"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_7",
+                    "title": "Detecting Anomalies in Programmable Logic Controllers Using Unsupervised Machine Learning",
+                    "authors": "Chun-Fai Chan, Kam-Pui Chow, Cesar Mak, Raymond Chan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用无监督机器学习检测可编程逻辑控制器中的异常"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_8",
+                    "title": "Creating a Map of User Data in NTFS to Improve File Carving",
+                    "authors": "Martin Karresand, Asalena Warnqvist, David Lindahl, Stefan Axelsson, Geir Olav Dyrkolbotn",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-28752-8_8.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在NTFS中创建用户数据映射以改进文件切割"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_9",
+                    "title": "Analyzing Windows Subsystem for Linux Metadata to Detect Timestamp Forgery",
+                    "authors": "Bhupendra Singh, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分析Windows子系统的Linux元数据以检测时间戳伪造"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_10",
+                    "title": "Quick Response Encoding of Human Facial Images for Identity Fraud Detection",
+                    "authors": "Shweta Singh, Saheb Chhabra, Garima Gupta, Monika Gupta, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于身份欺诈检测的人脸图像快速响应编码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_11",
+                    "title": "Using Neural Networks for Fake Colorized Image Detection",
+                    "authors": "Yuze Li, Yaping Zhang, Liangfu Lu, Yongheng Jia, Jingcheng Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用神经网络检测彩色图像伪像"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_12",
+                    "title": "Digital Forensic Atomic Force Microscopy of Semiconductor Memory Arrays",
+                    "authors": "Struan Gray, Stefan Axelsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02534609/file/488399_1_En_12_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "半导体存储阵列的数字取证原子力显微镜"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_13",
+                    "title": "Timeline Visualization of Keywords",
+                    "authors": "Wynand van Staden",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02534610/file/488399_1_En_13_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关键词的时间轴可视化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-28752-8_14",
+                    "title": "DETERMINING THE FORENSIC DATA REQUIREMENTS FOR INVESTIGATING HYPERVISOR ATTACKS",
+                    "authors": "Changwei Liu, Anoop Singhal, Ramaswamy Chandramouli, Duminda Wijesekera",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "确定调查虚拟机管理程序攻击的取证数据要求"
+                }
+            ]
+        }
+    ],
+    "2017": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ifip11-9/df2017.html",
+            "conf_title": "Digital Forensics 2017: Orlando, FL, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-319-67208-3",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_1",
+                    "title": "Establishing Findings in Digital Forensic Examinations: A Case Study Method",
+                    "authors": "Oluwasayo Oyelami, Martin Olivier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716393/file/456364_1_En_1_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在数字法医检验中建立发现:案例研究方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_2",
+                    "title": "A Model for Digital Evidence Admissibility Assessment",
+                    "authors": "Albert Antwi-Boasiako, Hein S. Venter",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716394/file/456364_1_En_2_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种数字证据可采性评估模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_3",
+                    "title": "Evaluating the Authenticity of Smartphone Evidence",
+                    "authors": "Heloise Pieterse, Martin S. Olivier, Renier van Heerden",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716408/file/456364_1_En_3_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "评估智能手机证据的真实性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_4",
+                    "title": "Forensic Evaluation of an Amazon Fire TV Stick",
+                    "authors": "Logan Morrison, Huw Read, Konstantinos Xynos, Iain Sutherland",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716402/file/456364_1_En_4_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "亚马逊火灾电视棒的法医鉴定"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_5",
+                    "title": "Detecting Anomalous Programmable Logic Controller Events Using Machine Learning",
+                    "authors": "Ken Yau, Kam-Pui Chow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716409/file/456364_1_En_5_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用机器学习检测异常可编程逻辑控制器事件"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_6",
+                    "title": "A Forensic Methodology for Software-Defined Network Switches",
+                    "authors": "Tommy Chin, Kaiqi Xiong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716399/file/456364_1_En_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "软件定义网络交换机的取证方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_7",
+                    "title": "Identifying Evidence for Cloud Forensic Analysis",
+                    "authors": "Changwei Liu, Anoop Singhal, Duminda Wijesekera",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716407/file/456364_1_En_7_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "识别云取证分析的证据"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_8",
+                    "title": "Digital Forensic Implications of Collusion Attacks on the Lightning Network",
+                    "authors": "Dmytro Piatkivskyi, Stefan Axelsson, Mariusz Nowostawski",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716400/file/456364_1_En_8_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "闪电网络上共谋攻击的数字取证含义"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_9",
+                    "title": "Insider Threat Detection Using Time-Series-Based Raw Disk Forensic Analysis",
+                    "authors": "Nicole Beebe, Lishu Liu, Zi Ye",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716401/file/456364_1_En_9_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用基于时间序列的原始磁盘取证分析进行内部威胁检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_10",
+                    "title": "Anti-Forensic Threat Modeling",
+                    "authors": "Bruno W. P. Hoelz, Marcelo Maues",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716404/file/456364_1_En_10_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "反取证威胁建模"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_11",
+                    "title": "A Behavior-Based Approach for Malware Detection",
+                    "authors": "Rayan Mosli, Rui Li, Bo Yuan, Yin Pan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716397/file/456364_1_En_11_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种基于行为的恶意软件检测方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_12",
+                    "title": "Categorizing Mobile Device Malware Based on System Side-Effects",
+                    "authors": "Zachary Grimmett, Jason Staggs, Sujeet Shenoi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716405/file/456364_1_En_12_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于系统副作用对移动设备恶意软件进行分类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_13",
+                    "title": "Semantic Video Carving Using Perceptual Hashing and Optical Flow",
+                    "authors": "Junbin Fang, Sijin Li, Guikai Xi, Zoe Lin Jiang, Siu-Ming Yiu, Liyang Yu, Xuan Wang, Qi Han, Qiong Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716410/file/456364_1_En_13_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用感知哈希和光流的语义视频雕刻"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_14",
+                    "title": "Detecting Fraudulent Bank Checks",
+                    "authors": "Saheb Chhabra, Garima Gupta, Monika Gupta, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716398/file/456364_1_En_14_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "检测欺诈性银行支票"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_15",
+                    "title": "Automated Collection and Correlation of File Provenance Information",
+                    "authors": "Ryan Good, Gilbert L. Peterson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716392/file/456364_1_En_15_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "文件起源信息的自动收集和关联"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-67208-3_16",
+                    "title": "Using Personal Information in Targeted Grammar-Based Probabilistic Password Attacks",
+                    "authors": "Shiva Houshmand, Sudhir Aggarwal",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01716395/file/456364_1_En_16_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在基于语法的概率密码攻击中使用个人信息"
+                }
+            ]
+        }
+    ],
+    "2018": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ifip11-9/df2018.html",
+            "conf_title": "Digital Forensics 2018: New Delhi, India",
+            "conf_url": "https://doi.org/10.1007/978-3-319-99277-8",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_1",
+                    "title": "Measuring Evidential Weight in Digital Forensic Investigations",
+                    "authors": "Richard E. Overill, Kam-Pui Chow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988848/file/472401_1_En_1_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数字取证调查中证据权重的衡量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_2",
+                    "title": "Challenges, Opportunities and a Framework for Web Environment Forensics",
+                    "authors": "Mike Mabey, Adam Doupé, Ziming Zhao, Gail-Joon Ahn",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988837/file/472401_1_En_2_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络环境取证的挑战、机遇和框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_3",
+                    "title": "Internet of Things Forensics - Challenges and a Case Study",
+                    "authors": "Saad Alabdulsalam, Kevin Schaefer, M. Tahar Kechadi, Nhien-An Le-Khac",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1801.10391"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "物联网取证-挑战和案例研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_4",
+                    "title": "Recovery of Forensic Artifacts from Deleted Jump Lists",
+                    "authors": "Bhupendra Singh, Upasna Singh, Pankaj Sharma, Rajender Nath",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988839/file/472401_1_En_4_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从被删除的跳转列表中恢复法医伪影"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_5",
+                    "title": "Obtaining Precision-Recall Trade-Offs in Fuzzy Searches of Large Email Corpora",
+                    "authors": "Kyle Porter, Slobodan Petrovic",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988842/file/472401_1_En_5_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在大型电子邮件语料库的模糊搜索中获得精确-召回折衷"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_6",
+                    "title": "Anti-Forensic Capacity and Detection Rating of Hidden Data in the Ext4 Filesystem",
+                    "authors": "Thomas Göbel, Harald Baier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988844/file/472401_1_En_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Ext4文件系统中隐藏数据的反取证能力和检测率"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_7",
+                    "title": "Detecting Data Leakage from Hard Copy Documents",
+                    "authors": "Jijnasa Nayak, Shweta Singh, Saheb Chhabra, Gaurav Gupta, Monika Gupta, Garima Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988849/file/472401_1_En_7_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "检测硬拷贝文档中的数据泄漏"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_8",
+                    "title": "Information-Entropy-Based DNS Tunnel Prediction",
+                    "authors": "Irvin Homem, Panagiotis Papapetrou, Spyridon Dosis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988835/file/472401_1_En_8_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于信息熵的DNS隧道预测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_9",
+                    "title": "Collecting Network Evidence Using Constrained Approximate Search Algorithms",
+                    "authors": "Ambika Shrestha Chitrakar, Slobodan Petrovic",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988834/file/472401_1_En_9_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用约束近似搜索算法收集网络证据"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_10",
+                    "title": "Traffic Classification and Application Identification in Network Forensics",
+                    "authors": "Jan Pluskal, Ondrej Lichtner, Ondrej Rysavý",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988838/file/472401_1_En_10_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络取证中的流量分类和应用识别"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_11",
+                    "title": "Enabling Non-Expert Analysis OF Large Volumes OF Intercepted Network Traffic",
+                    "authors": "Erwin van de Wiel, Mark Scanlon, Nhien-An Le-Khac",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988846/file/472401_1_En_11_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "支持对大量拦截的网络流量进行非专业分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_12",
+                    "title": "Hashing Incomplete and Unordered Network Streams",
+                    "authors": "Chao Zheng, Xiang Li, Qingyun Liu, Yong Sun, Binxing Fang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988840/file/472401_1_En_12_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "散列不完整和无序的网络流"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_13",
+                    "title": "A Network Forensic Scheme Using Correntropy-Variation for Attack Detection",
+                    "authors": "Nour Moustafa, Jill Slay",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988843/file/472401_1_En_13_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种利用相关熵变化检测攻击的网络取证方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_14",
+                    "title": "A Taxonomy of Cloud Endpoint Forensic Tools",
+                    "authors": "Anand Kumar Mishra, Emmanuel S. Pilli, Mahesh Chandra Govil",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988833/file/472401_1_En_14_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "云端点取证工具的分类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_15",
+                    "title": "A Layered Graphical Model for Cloud Forensic Mission Attack Impact Analysis",
+                    "authors": "Changwei Liu, Anoop Singhal, Duminda Wijesekera",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988841/file/472401_1_En_15_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "云取证任务攻击影响分析的分层图形模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_16",
+                    "title": "Forensic Analysis of Android Steganography Apps",
+                    "authors": "Wenhao Chen, Yangxiao Wang, Yong Guan, Jennifer Newman, Li Lin, Stephanie Reinders",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988836/file/472401_1_En_16_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Android隐写应用的取证分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_17",
+                    "title": "Automated Vulnerability Detection in Embedded Devices",
+                    "authors": "Danjun Liu, Yong Tang, Baosheng Wang, Wei Xie, Bo Yu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988845/file/472401_1_En_17_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "嵌入式设备中的自动化漏洞检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_18",
+                    "title": "A Forensic Logging System for Siemens Programmable Logic Controllers",
+                    "authors": "Ken Yau, Kam-Pui Chow, Siu-Ming Yiu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988850/file/472401_1_En_18_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "西门子可编程逻辑控制器的取证记录系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99277-8_19",
+                    "title": "Enhancing the Security and Forensic Capabilities of Programmable Logic Controllers",
+                    "authors": "Chun-Fai Chan, Kam-Pui Chow, Siu-Ming Yiu, Ken Yau",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01988832/file/472401_1_En_19_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "增强可编程逻辑控制器的安全性和取证能力"
+                }
+            ]
+        }
+    ],
+    "2016": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ifip11-9/df2016.html",
+            "conf_title": "Digital Forensics 2016: New Delhi, India",
+            "conf_url": "https://doi.org/10.1007/978-3-319-46279-0",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_1",
+                    "title": "On a Scientific Theory of Digital Forensics",
+                    "authors": "Martin Olivier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758695/file/431606_1_En_1_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "论数字取证的科学理论"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_2",
+                    "title": "Data Privacy Perceptions About Digital Forensic Investigations in India",
+                    "authors": "Robin Verma, Jayaprakash Govindaraj, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758694/file/431606_1_En_2_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "印度数字取证调查中的数据隐私观"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_3",
+                    "title": "A Framework for Assessing the Core Capabilities of a Digital Forensic Organization",
+                    "authors": "Ahmed Almarzooqi, Andrew Jones",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758676/file/431606_1_En_3_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "评估数字取证组织核心能力的框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_4",
+                    "title": "Optimizing Short Message Text Sentiment Analysis for Mobile Device Forensics",
+                    "authors": "Oluwapelumi Aboluwarin, Panagiotis Andriotis, Atsuhiro Takasu, Theo Tryfonas",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758674/file/431606_1_En_4_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面向移动设备取证的短信文本情感分析优化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_5",
+                    "title": "Impact of User Data Privacy Management Controls on Mobile Device Investigations",
+                    "authors": "Panagiotis Andriotis, Theo Tryfonas",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758690/file/431606_1_En_5_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用户数据隐私管理控制对移动设备调查的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_6",
+                    "title": "Analyzing Mobile Device Ads to Identify Users",
+                    "authors": "Jayaprakash Govindaraj, Robin Verma, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758680/file/431606_1_En_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分析移动设备广告以识别用户"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_7",
+                    "title": "A Forensic Methodology for Analyzing Nintendo 3DS Devices",
+                    "authors": "Huw Read, Elizabeth Thomas, Iain Sutherland, Konstantinos Xynos, Mikhaila Burgess",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分析任天堂3DS设备的取证方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_8",
+                    "title": "Reconstructing Interactions with Rich Internet Applications from HTTP Traces",
+                    "authors": "Sara Baghbanzadeh, Salman Hooshmand, Gregor von Bochmann, Guy-Vincent Jourdan, Seyed M. Mirtaheri, Muhammad Faheem, Iosif-Viorel Onut",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758682/file/431606_1_En_8_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从HTTP跟踪中重构与富互联网应用程序的交互"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_9",
+                    "title": "Reconstructing Tabbed Browser Sessions Using Metadata Associations",
+                    "authors": "Sriram Raghavan, S. V. Raghavan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758688/file/431606_1_En_9_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用元数据关联重构选项卡式浏览器会话"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_10",
+                    "title": "A Probabilistic Network Forensic Model for Evidence Analysis",
+                    "authors": "Changwei Liu, Anoop Singhal, Duminda Wijesekera",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758685/file/431606_1_En_10_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种用于证据分析的概率网络取证模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_11",
+                    "title": "API-Based Forensic Acquisition of Cloud Drives",
+                    "authors": "Vassil Roussev, Andres Barreto, Irfan Ahmed",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758692/file/431606_1_En_11_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于API的云驱动器取证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_12",
+                    "title": "The Cloud Storage Ecosystem - A New Business Model for Internet Piracy?",
+                    "authors": "Raymond Chan, Kam-Pui Chow, Vivien P. S. Chan, Michael Y. K. Kwan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758684/file/431606_1_En_12_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "云存储生态系统——互联网盗版的新商业模式？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_13",
+                    "title": "Windows 8.x Facebook and Twitter Metro App Artifacts",
+                    "authors": "Swasti Bhushan Deb",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758693/file/431606_1_En_13_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Windows 8.x脸书和Twitter地铁应用神器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_14",
+                    "title": "Profiling Flash Mob Organizers in Web Discussion Forums",
+                    "authors": "Vivien P. S. Chan, Kam-Pui Chow, Raymond Chan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758678/file/431606_1_En_14_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在网络论坛中剖析快闪组织者"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_15",
+                    "title": "Enhancing Image Forgery Detection Using 2-D Cross Products",
+                    "authors": "Songpon Teerakanok, Tetsutaro Uehara",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758681/file/431606_1_En_15_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用二维叉积增强图像伪造检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_16",
+                    "title": "Forensic Authentication of Bank Checks",
+                    "authors": "Rajesh Kumar, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758675/file/431606_1_En_16_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "银行支票的司法鉴定"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_17",
+                    "title": "Data Type Classification: Hierarchical Class-to-Type Modeling",
+                    "authors": "Nicole Beebe, Lishu Liu, Minghe Sun",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数据类型分类:层次化的类到类型建模"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_18",
+                    "title": "Secure File Deletion for Solid State Drives",
+                    "authors": "Bhupendra Singh, Ravi Saharan, Gaurav Somani, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758677/file/431606_1_En_18_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "固态驱动器的安全文件删除"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_19",
+                    "title": "A Tool for Volatile Memory Acquisition from Android Devices",
+                    "authors": "Haiyu Yang, Jianwei Zhuge, Huiming Liu, Wei Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758679/file/431606_1_En_19_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从Android设备获取易失性内存的工具"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-46279-0_20",
+                    "title": "Advanced Automated Disk Investigation Toolkit",
+                    "authors": "Umit Karabiyik, Sudhir Aggarwal",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01758683/file/431606_1_En_20_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "高级自动磁盘调查工具包"
+                }
+            ]
+        }
+    ],
+    "2015": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ifip11-9/df2015.html",
+            "conf_title": "Digital Forensics 2015: Orlando, FL, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-319-24123-4",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_1",
+                    "title": "A Tale of Two Traces - Diplomatics and Forensics",
+                    "authors": "Fred Cohen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_1.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "两条线索的故事——外交和法医"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_2",
+                    "title": "Notions of Hypothesis in Digital Forensics",
+                    "authors": "Segen Tewelde, Stefan Gruner, Martin S. Olivier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01449069/file/978-3-319-24123-4_2_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数字取证中的假设概念"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_3",
+                    "title": "Using Yin's Approach to Case Studies as a Paradigm for Conducting Examinations",
+                    "authors": "Oluwasayo Oyelami, Martin S. Olivier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_3.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "以尹的案例研究方法作为指导考试的范例"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_4",
+                    "title": "An Information Extraction Framework for Digital Forensic Investigations",
+                    "authors": "Min Yang, Kam-Pui Chow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_4.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种用于数字取证调查的信息提取框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_5",
+                    "title": "A Graph-Based Investigation of Bitcoin Transactions",
+                    "authors": "Chen Zhao, Yong Guan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01449078/file/978-3-319-24123-4_5_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于图形的比特币交易研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_6",
+                    "title": "Profiling and Tracking a Cyberlocker Link Sharer in a Public Web Forum",
+                    "authors": "Xiao-Xi Fan, Kam-Pui Chow, Fei Xu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01449072/file/978-3-319-24123-4_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在公共网络论坛中剖析和跟踪Cyberlocker链接共享者"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_7",
+                    "title": "A Privacy-Preserving Encryption Scheme for an Internet Realname Registration System",
+                    "authors": "Fei Xu, Ken Yau, Ping Zhang, Kam-Pui Chow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01449073/file/978-3-319-24123-4_7_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种用于互联网实名注册系统的隐私保护加密方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_8",
+                    "title": "A Logic-Based Network Forensic Model for Evidence Analysis",
+                    "authors": "Changwei Liu, Anoop Singhal, Duminda Wijesekera",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_8.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于逻辑的证据分析网络取证模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_9",
+                    "title": "Characteristics of Malicious DLLs in Windows Memory",
+                    "authors": "Dae Glendowne, Cody Miller, Robert Wesley McGrew, David A. Dampier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_9.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Windows内存中恶意dll的特征"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_10",
+                    "title": "Determining Trigger Involvement During Forensic Attribution in Databases",
+                    "authors": "Werner K. Hauger, Martin S. Olivier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01449057/file/978-3-319-24123-4_10_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在数据库中确定法医归因期间的触发参与"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_11",
+                    "title": "Using Internal MySQL/InnoDB B-Tree Index Navigation for Data Hiding",
+                    "authors": "Peter Frühwirt, Peter Kieseberg, Edgar R. Weippl",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01449058/file/978-3-319-24123-4_11_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用内部MySQL/InnoDB B树索引导航进行数据隐藏"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_12",
+                    "title": "Identifying Passwords Stored on Disk",
+                    "authors": "Shiva Houshmand, Sudhir Aggarwal, Umit Karabiyik",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_12.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "识别存储在磁盘上的密码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_13",
+                    "title": "Fragmented JPEG File Recovery Using Pseudo Headers",
+                    "authors": "Yanbin Tang, Zheng Tan, Kam-Pui Chow, Siu-Ming Yiu, Jun-bin Fang, Xiamu Niu, Qi Han, Xianyan Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_13.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用伪头的碎片JPEG文件恢复"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_14",
+                    "title": "Forensic-Ready Secure iOS Apps for Jailbroken iPhones",
+                    "authors": "Jayaprakash Govindaraj, Rashmi Mata, Robin Verma, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01449061/file/978-3-319-24123-4_14_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "适用于越狱iPhones的法医安全iOS应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_15",
+                    "title": "A Framework for Describing Multimedia Circulation in a Smartphone Ecosystem",
+                    "authors": "Panagiotis Andriotis, Theo Tryfonas, George C. Oikonomou, Irwin King",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_15.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "描述智能手机生态系统中多媒体流通的框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_16",
+                    "title": "A Trustworthy Cloud Forensics Environment",
+                    "authors": "Shams Zawoad, Ragib Hasan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_16.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "值得信赖的云取证环境"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_17",
+                    "title": "Locating and Tracking Digital Objects in the Cloud",
+                    "authors": "Philip M. Trenwith, Hein S. Venter",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_17.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在云中定位和跟踪数字对象"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_18",
+                    "title": "A Tool for Extracting Static and Volatile Forensic Artifacts of Windows 8.x Apps",
+                    "authors": "Shariq Murtuza, Robin Verma, Jayaprakash Govindaraj, Gaurav Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_18.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于提取Windows 8.x应用程序的静态和易变取证工件的工具"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_19",
+                    "title": "Criteria for Validating Secure Wiping Tools",
+                    "authors": "Muhammad Sharjeel Zareen, Baber Aslam, Monis Akhlaq",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-24123-4_19.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "验证安全擦拭工具的标准"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-24123-4_20",
+                    "title": "Do Data Loss Prevention Systems Really Work?",
+                    "authors": "Sara Ghorbanian, Glenn Fryklund, Stefan Axelsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01449068/file/978-3-319-24123-4_20_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数据丢失预防系统真的有效吗？"
+                }
+            ]
+        }
+    ]
+}

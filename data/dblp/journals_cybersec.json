@@ -1,0 +1,1733 @@
+{
+    "2022": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/cybersec/cybersec5.html",
+            "journals_title": "Cybersecurity, Volume 5",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00103-8",
+                    "title": "Performance analysis of machine learning models for intrusion detection system using Gini Impurity-based Weighted Random Forest (GIWRF) feature selection technique",
+                    "authors": "Raisa Abedin Disha, Sajjad Waheed",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00103-8"
+                    },
+                    "title_zh": "基于Gini杂质加权随机森林特征选择技术的入侵检测系统机器学习模型性能分析",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00104-7",
+                    "title": "A decade of research on patterns and architectures for IoT security",
+                    "authors": "Tanusan Rajmohan, Phu Hong Nguyen, Nicolas Ferry",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00104-7"
+                    },
+                    "title_zh": "物联网安全模式和架构的十年研究",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00106-5",
+                    "title": "TIM: threat context-enhanced TTP intelligence mining on unstructured threat data",
+                    "authors": "Yizhe You, Jun Jiang, Zhengwei Jiang, Peian Yang, Baoxu Liu, Huamin Feng, Xuren Wang, Ning Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00106-5"
+                    },
+                    "title_zh": "TIM:威胁上下文增强的非结构化威胁数据TTP情报挖掘",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00105-6",
+                    "title": "Threats, attacks and defenses to federated learning: issues, taxonomy and perspectives",
+                    "authors": "Pengrui Liu, Xiangrui Xu, Wei Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00105-6"
+                    },
+                    "title_zh": "联合学习的威胁、攻击和防御:问题、分类和前景",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00107-4",
+                    "title": "Blockchain abnormal behavior awareness methods: a survey",
+                    "authors": "Chuyi Yan, Chen Zhang, Zhigang Lu, Zehui Wang, Yuling Liu, Baoxu Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00107-4"
+                    },
+                    "title_zh": "区块链异常行为感知方法综述",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00112-1",
+                    "title": "Identifying high-risk over-entitlement in access control policies using fuzzy logic",
+                    "authors": "Simon Parkinson, Saad Khan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-022-00112-1"
+                    },
+                    "title_zh": "使用模糊逻辑识别访问控制策略中的高风险过度授权",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00109-w",
+                    "title": "Abstract security patterns and the design of secure systems",
+                    "authors": "Eduardo B. Fernández, Nobukazu Yoshioka, Hironori Washizaki, Joseph W. Yoder",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-022-00109-w"
+                    },
+                    "title_zh": "抽象安全模式和安全系统的设计",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00110-3",
+                    "title": "TriCTI: an actionable cyber threat intelligence discovery system via trigger-enhanced neural network",
+                    "authors": "Jian Liu, Junjie Yan, Jun Jiang, Yitong He, Xuren Wang, Zhengwei Jiang, Peian Yang, Ning Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-022-00110-3"
+                    },
+                    "title_zh": "TriCTI:通过触发增强型神经网络的可操作网络威胁情报发现系统",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00114-z",
+                    "title": "Enabling data-driven anomaly detection by design in cyber-physical production systems",
+                    "authors": "Rui Pinto, Gil Gonçalves, Jerker Delsing, Eduardo Tovar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-022-00114-z"
+                    },
+                    "title_zh": "在信息物理生产系统中通过设计实现数据驱动的异常检测",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00113-0",
+                    "title": "Generic, efficient and isochronous Gaussian sampling over the integers",
+                    "authors": "Shuo Sun, Yongbin Zhou, Yunfeng Ji, Rui Zhang, Yang Tao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-022-00113-0"
+                    },
+                    "title_zh": "整数上的通用、高效和等时高斯采样",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00111-2",
+                    "title": "A flexible approach for cyber threat hunting based on kernel audit records",
+                    "authors": "Fengyu Yang, Yanni Han, Ying Ding, Qian Tan, Zhen Xu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00111-2"
+                    },
+                    "title_zh": "一种基于内核审计记录的灵活网络威胁搜索方法",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00108-3",
+                    "title": "Improved conditional differential attacks on lightweight hash family QUARK",
+                    "authors": "Xiaojuan Lu, Bohan Li, Meicheng Liu, Dongdai Lin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00108-3"
+                    },
+                    "title_zh": "轻量级hash族夸克的改进条件差分攻击",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00117-w",
+                    "title": "Hash-based signature revisited",
+                    "authors": "Lingyun Li, Xianhui Lu, Kunpeng Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00117-w"
+                    },
+                    "title_zh": "基于散列的签名再探",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00118-9",
+                    "title": "The inconsistency of documentation: a study of online C standard library documents",
+                    "authors": "Ruishi Li, Yunfei Yang, Jinghua Liu, Peiwei Hu, Guozhu Meng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00118-9"
+                    },
+                    "title_zh": "文档的不一致性:在线C标准库文档的研究",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00115-y",
+                    "title": "Hybrid dual attack on LWE with arbitrary secrets",
+                    "authors": "Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang, Zhenfei Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00115-y"
+                    },
+                    "title_zh": "任意秘密对LWE的混合双重攻击",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00119-8",
+                    "title": "On building machine learning pipelines for Android malware detection: a procedural survey of practices, challenges and opportunities",
+                    "authors": "Masoud Mehrabi Koushki, Ibrahim Y. Abualhaol, Anandharaju Durai Raju, Yang Zhou, Ronnie Salvador Giagone, Shengqiang Huang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00119-8"
+                    },
+                    "title_zh": "为Android恶意软件检测构建机器学习管道:实践、挑战和机遇的程序性调查",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00116-x",
+                    "title": "CAMFuzz: Explainable Fuzzing with Local Interpretation",
+                    "authors": "Ji Shi, Wei Zou, Chao Zhang, Lingxiao Tan, Yanyan Zou, Yue Peng, Wei Huo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00116-x"
+                    },
+                    "title_zh": "CAMFuzz:带有局部解释的可解释模糊化",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00123-y",
+                    "title": "Embedded fuzzing: a review of challenges, tools, and solutions",
+                    "authors": "Max Eisele, Marcello Maugeri, Rachna Shriwas, Christopher Huth, Giampaolo Bella",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00123-y"
+                    },
+                    "title_zh": "嵌入式模糊化:挑战、工具和解决方案综述",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00124-x",
+                    "title": "PUMD: a PU learning-based malicious domain detection framework",
+                    "authors": "Zhaoshan Fan, Qing Wang, Haoran Jiao, Junrong Liu, Zelin Cui, Song Liu, Yuling Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00124-x"
+                    },
+                    "title_zh": "PUMD:一种基于PU学习的恶意域检测框架",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00120-1",
+                    "title": "NDFuzz: a non-intrusive coverage-guided fuzzing framework for virtualized network devices",
+                    "authors": "Yu Zhang, Nanyu Zhong, Wei You, Yanyan Zou, Kunpeng Jian, Jiahuan Xu, Jian Sun, Baoxu Liu, Wei Huo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00120-1"
+                    },
+                    "title_zh": "NDFuzz:一个用于虚拟化网络设备的非侵入式覆盖导向模糊框架",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00126-9",
+                    "title": "Phishing website prediction using base and ensemble classifier techniques with cross-validation",
+                    "authors": "Anjaneya Awasthi, Noopur Goel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00126-9"
+                    },
+                    "title_zh": "使用具有交叉验证的基本和集成分类器技术的网络钓鱼网站预测",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00121-0",
+                    "title": "Unleashing the power of pseudo-code for binary code similarity analysis",
+                    "authors": "Weiwei Zhang, Zhengzi Xu, Yang Xiao, Yinxing Xue",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00121-0"
+                    },
+                    "title_zh": "释放伪代码的力量进行二进制代码相似性分析",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00125-w",
+                    "title": "Deep 3D mesh watermarking with self-adaptive robustness",
+                    "authors": "Feng Wang, Hang Zhou, Han Fang, Weiming Zhang, Nenghai Yu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00125-w"
+                    },
+                    "title_zh": "具有自适应鲁棒性的深度三维网格水印",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00127-8",
+                    "title": "Study of methods for endpoint aware inspection in a next generation firewall",
+                    "authors": "Jenny Heino, Antti Hakkala, Seppo Virtanen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00127-8"
+                    },
+                    "title_zh": "下一代防火墙中端点检测方法的研究",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00130-z",
+                    "title": "The differential fault analysis on block cipher FeW",
+                    "authors": "Haiyan Xiao, Lifang Wang, Jinyong Chang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00130-z"
+                    },
+                    "title_zh": "分组密码的差分故障分析",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00131-y",
+                    "title": "Subspace clustering via graph auto-encoder network for unknown encrypted traffic recognition",
+                    "authors": "Ruipeng Yang, Aimin Yu, Lijun Cai, Dan Meng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00131-y"
+                    },
+                    "title_zh": "基于图自动编码网络的子空间聚类在未知加密流量识别中的应用",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00122-z",
+                    "title": "A fully dynamic forward-secure group signature from lattice",
+                    "authors": "Zhijian Liao, Qiong Huang, Xinjian Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00122-z"
+                    },
+                    "title_zh": "基于格的完全动态前向安全群签名",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00132-x",
+                    "title": "Valet attack on privacy: a cybersecurity threat in automotive Bluetooth infotainment systems",
+                    "authors": "Vishnu Renganathan, Ekim Yurtsever, Qadeer Ahmed, Aylin Yener",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00132-x"
+                    },
+                    "title_zh": "隐私代客攻击:汽车蓝牙信息娱乐系统的网络安全威胁",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00129-6",
+                    "title": "Sarve: synthetic data and local differential privacy for private frequency estimation",
+                    "authors": "Gatha Varma, Ritu Chauhan, Dhananjay Singh",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00129-6"
+                    },
+                    "title_zh": "Sarve:用于私有频率估计的合成数据和局部差分隐私",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00128-7",
+                    "title": "A lightweight DDoS detection scheme under SDN context",
+                    "authors": "Kun Jia, Chaoge Liu, Qixu Liu, Junnan Wang, Jiazhi Liu, Feng Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00128-7"
+                    },
+                    "title_zh": "SDN环境下的轻量级DDoS检测方案",
+                    "abstract_zh": ""
+                }
+            ]
+        }
+    ],
+    "2023": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/cybersec/cybersec6.html",
+            "journals_title": "Cybersecurity, Volume 6",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00134-9",
+                    "title": "Practical autoencoder based anomaly detection by using vector reconstruction error",
+                    "authors": "Hasan Torabi, Seyedeh Leili Mirtaheri, Sergio Greco",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00134-9"
+                    },
+                    "title_zh": "基于向量重构误差的实用自动编码器异常检测",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00135-8",
+                    "title": "Tackling imbalanced data in cybersecurity with transfer learning: a case with ROP payload detection",
+                    "authors": "Haizhou Wang, Anoop Singhal, Peng Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00135-8"
+                    },
+                    "title_zh": "用迁移学习处理网络安全中的不平衡数据:以ROP有效载荷检测为例",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00136-7",
+                    "title": "RBFK cipher: a randomized butterfly architecture-based lightweight block cipher for IoT devices in the edge computing environment",
+                    "authors": "Sohel Rana, M. Rubaiyat Hossain Mondal, Joarder Kamruzzaman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00136-7"
+                    },
+                    "title_zh": "RBFK密码:一种面向边缘计算环境中物联网设备的基于随机蝶形架构的轻量级分组密码",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00137-0",
+                    "title": "Cancelable biometric schemes for Euclidean metric and Cosine metric",
+                    "authors": "Yubing Jiang, Peisong Shen, Li Zeng, Xiaojie Zhu, Di Jiang, Chi Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00137-0"
+                    },
+                    "title_zh": "欧几里德度量和余弦度量的可取消生物特征方案",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-022-00133-w",
+                    "title": "An ensemble deep learning based IDS for IoT using Lambda architecture",
+                    "authors": "Rubayyi Alghamdi, Martine Bellaïche",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-022-00133-w"
+                    },
+                    "title_zh": "基于集成深度学习的Lambda架构物联网入侵检测系统",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00139-y",
+                    "title": "Android malware category detection using a novel feature vector-based machine learning model",
+                    "authors": "Hashida Haidros Rahima Manzil, S. Manohar Naik",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00139-y"
+                    },
+                    "title_zh": "基于新特征向量的机器学习模型的Android恶意软件类别检测",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00138-z",
+                    "title": "Exploring best-matched embedding model and classifier for charging-pile fault diagnosis",
+                    "authors": "Wen Wang, Jianhua Wang, Xiaofeng Peng, Ye Yang, Chun Xiao, Shuai Yang, Mingcai Wang, Lingfei Wang, Lin Li, Xiaolin Chang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00138-z"
+                    },
+                    "title_zh": "探索充电桩故障诊断的最佳匹配嵌入模型和分类器",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00140-5",
+                    "title": "Time sensitive networking security: issues of precision time protocol and its implementation",
+                    "authors": "Davide Berardi, Nils Ole Tippenhauer, Andrea Melis, Marco Prandini, Franco Callegati",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00140-5"
+                    },
+                    "title_zh": "时间敏感网络安全:精确时间协议及其实现问题",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00153-0",
+                    "title": "Jeu de mots paronomasia: a StackOverflow-driven bug discovery approach",
+                    "authors": "Yi Yang, Ying Li, Kai Chen, Jinghua Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00153-0"
+                    },
+                    "title_zh": "Jeu de mots paronomasia:一种StackOverflow驱动的bug发现方法",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00141-4",
+                    "title": "DLP: towards active defense against backdoor attacks with decoupled learning process",
+                    "authors": "Zonghao Ying, Bin Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00141-4"
+                    },
+                    "title_zh": "DLP:利用解耦学习过程实现对后门攻击的主动防御",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00144-1",
+                    "title": "Confidential computing and related technologies: a critical review",
+                    "authors": "Muhammad Usama Sardar, Christof Fetzer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00144-1"
+                    },
+                    "title_zh": "机密计算和相关技术:评论",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00145-0",
+                    "title": "IPatch: a remote adversarial patch",
+                    "authors": "Yisroel Mirsky",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00145-0"
+                    },
+                    "title_zh": "IPatch:远程对抗补丁",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00143-2",
+                    "title": "PosFuzz: augmenting greybox fuzzing with effective position distribution",
+                    "authors": "Yanyan Zou, Wei Zou, JiaCheng Zhao, Nanyu Zhong, Yu Zhang, Ji Shi, Wei Huo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00143-2"
+                    },
+                    "title_zh": "PosFuzz:用有效位置分布增强灰盒模糊",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00147-y",
+                    "title": "Reversible data hiding based on histogram and prediction error for sharing secret data",
+                    "authors": "Chaidir Chalaf Islamy, Tohari Ahmad, Royyana Muslim Ijtihadie",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00147-y"
+                    },
+                    "title_zh": "基于直方图和预测误差的秘密数据可逆隐藏",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00146-z",
+                    "title": "Rainbow: reliable personally identifiable information retrieval across multi-cloud",
+                    "authors": "Zishuai Song, Hui Ma, Shuzhou Sun, Yansen Xin, Rui Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00146-z"
+                    },
+                    "title_zh": "Rainbow:跨多种云的可靠的个人身份信息检索",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00150-3",
+                    "title": "SkillSim: voice apps similarity detection",
+                    "authors": "Zhixiu Guo, Ruigang Liang, Guozhu Meng, Kai Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00150-3"
+                    },
+                    "title_zh": "SkillSim:语音应用相似性检测",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00148-x",
+                    "title": "Are our clone detectors good enough? An empirical study of code effects by obfuscation",
+                    "authors": "Weihao Huang, Guozhu Meng, Chaoyang Lin, Qiucun Yan, Kai Chen, Zhuo Ma",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00148-x"
+                    },
+                    "title_zh": "我们的克隆探测器够好吗？混淆对代码影响的实证研究",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00154-z",
+                    "title": "NBA: defensive distillation for backdoor removal via neural behavior alignment",
+                    "authors": "Zonghao Ying, Bin Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00154-z"
+                    },
+                    "title_zh": "NBA:通过神经行为排列去除后门的防御蒸馏",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00165-w",
+                    "title": "An efficient confidentiality protection solution for pub/sub system",
+                    "authors": "Jinglei Pei, Yuyang Shi, Qingling Feng, Ruisheng Shi, Lina Lan, Shui Yu, Jinqiao Shi, Zhaofeng Ma",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00165-w"
+                    },
+                    "title_zh": "一种高效的发布/订阅系统机密性保护解决方案",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00149-w",
+                    "title": "Enhancing non-profiled side-channel attacks by time-frequency analysis",
+                    "authors": "Chengbin Jin, Yongbin Zhou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00149-w"
+                    },
+                    "title_zh": "通过时频分析增强非轮廓侧信道攻击",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00151-2",
+                    "title": "AppChainer: investigating the chainability among payloads in android applications",
+                    "authors": "Xiaobo Xiang, Yue Jiang, Qingli Guo, Xiu Zhang, Xiaorui Gong, Baoxu Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00151-2"
+                    },
+                    "title_zh": "AppChainer:调查android应用程序中有效负载之间的链接能力",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00157-w",
+                    "title": "MRm-DLDet: a memory-resident malware detection framework based on memory forensics and deep neural network",
+                    "authors": "Jiaxi Liu, Yun Feng, Xinyu Liu, Jianjun Zhao, Qixu Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00157-w"
+                    },
+                    "title_zh": "MRm-DLDet:基于内存取证和深度神经网络的内存驻留恶意软件检测框架",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00171-y",
+                    "title": "FMSA: a meta-learning framework-based fast model stealing attack technique against intelligent network intrusion detection systems",
+                    "authors": "Kaisheng Fan, Weizhe Zhang, Guangrui Liu, Hui He",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-023-00171-y"
+                    },
+                    "title_zh": "FMSA:基于元学习框架的智能网络入侵检测系统快速模型窃取攻击技术",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-023-00177-6",
+                    "title": "Towards the universal defense for query-based audio adversarial attacks on speech recognition system",
+                    "authors": "Feng Guo, Zheng Sun, Yuxuan Chen, Lei Ju",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "面向语音识别系统的基于查询的音频对抗攻击的通用防御",
+                    "abstract_zh": ""
+                }
+            ]
+        }
+    ],
+    "2020": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/cybersec/cybersec3.html",
+            "journals_title": "Cybersecurity, Volume 3",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0043-x",
+                    "title": "An emerging threat Fileless malware: a survey and research challenges",
+                    "authors": "Sudhakar, Sushil Kumar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0043-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "新兴威胁的无归档恶意软件：调查和研究挑战"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0042-y",
+                    "title": "Malware Guard Extension: abusing Intel SGX to conceal cache attacks",
+                    "authors": "Michael Schwarz, Samuel Weiser, Daniel Gruss, Clémentine Maurice, Stefan Mangard",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0042-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "恶意软件守卫扩展：滥用英特尔SGX隐藏缓存攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-0045-8",
+                    "title": "Efficient electro-magnetic analysis of a GPU bitsliced AES implementation",
+                    "authors": "Yiwen Gao, Yongbin Zhou, Wei Cheng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-0045-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "GPU位置AES实施的有效电磁分析"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00046-6",
+                    "title": "A DGA domain names detection modeling method based on integrating an attention mechanism and deep neural network",
+                    "authors": "Fangli Ren, Zhengwei Jiang, Xuren Wang, Jian Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00046-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DGA域名检测模型基于集成注意机制和深神经网络"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00047-5",
+                    "title": "Predicting individuals' vulnerability to social engineering in social networks",
+                    "authors": "Samar Muslah Albladi, George R. S. Weir",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00047-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "预测个人在社交网络中对社会工程的脆弱性"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00048-4",
+                    "title": "Under false flag: using technical artifacts for cyber attack attribution",
+                    "authors": "Florian Skopik, Timea Pahi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00048-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在错误的标志下：使用技术工件进行网络攻击归因"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00049-3",
+                    "title": "Layered obfuscation: a taxonomy of software obfuscation techniques for layered security",
+                    "authors": "Hui Xu, Yangfan Zhou, Jiang Ming, Michael R. Lyu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-020-00049-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分层混淆：针对分层安全性软件混淆技术的分类法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00050-w",
+                    "title": "Review and insight on the behavioral aspects of cybersecurity",
+                    "authors": "Rachid Ait Maalem Lahcen, Bruce D. Caulkins, Ram N. Mohapatra, Manish Kumar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00050-w"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "审查和洞察网络安全的行为方面"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00051-9",
+                    "title": "Iso-UniK: lightweight multi-process unikernel through memory protection keys",
+                    "authors": "Guanyu Li, Dong Du, Yubin Xia",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00051-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ISO-UNIK：通过内存保护键轻巧的多进程Unikernel"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00054-6",
+                    "title": "Server-aided immediate and robust user revocation mechanism for SM9",
+                    "authors": "Shuzhou Sun, Hui Ma, Rui Zhang, Wenhan Xu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00054-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SM9的服务器辅助的即时且可靠的用户撤销机制"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00052-8",
+                    "title": "Cyber risk at the edge: current and future trends on cyber risk analytics and artificial intelligence in the industrial internet of things and industry 4.0 supply chains",
+                    "authors": "Petar Radanliev, David De Roure, Kevin R. Page, Jason R. C. Nurse, Rafael Mantilla Montalvo, Omar Santos, La Treall Maddox, Pete Burnap",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-020-00052-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "边缘的网络风险：在工业互联网和行业中，网络风险分析和人工智能的当前和未来趋势4.0供应链"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00053-7",
+                    "title": "Conceptualisation of Cyberattack prediction with deep learning",
+                    "authors": "Ayei E. Ibor, Florence A. Oladeji, Olusoji B. Okunoye, Obeten O. Ekabua",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00053-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "深度学习对网络攻击预测的概念化"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00055-5",
+                    "title": "Using deep learning to solve computer security challenges: a survey",
+                    "authors": "Yoon-Ho Choi, Peng Liu, Zitong Shang, Haizhou Wang, Zhilong Wang, Lan Zhang, Junwei Zhou, Qingtian Zou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00055-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用深度学习来解决计算机安全挑战：一项调查"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00056-4",
+                    "title": "A novel feature extraction methodology using Siamese convolutional neural networks for intrusion detection",
+                    "authors": "Serafeim P. Moustakidis, Patrik Karlsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00056-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用暹罗卷积神经网络进行入侵检测的一种新型特征提取方法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00057-3",
+                    "title": "Lightning-fast and privacy-preserving outsourced computation in the cloud",
+                    "authors": "Ximeng Liu, Robert H. Deng, Pengfei Wu, Yang Yang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00057-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "云中的闪电和保护外包计算"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00060-8",
+                    "title": "Automating threat modeling using an ontology framework",
+                    "authors": "Margus Välja, Fredrik Heiding, Ulrik Franke, Robert Lagerström",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00060-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用本体框架自动化威胁建模"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00059-1",
+                    "title": "Development of anti-phishing browser based on random forest and rule of extraction framework",
+                    "authors": "Mohith Gowda HR, Adithya MV, Gunesh Prasad S, Vinay S",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00059-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于随机森林和提取规则框架开发反捕捞浏览器"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00061-7",
+                    "title": "Practical pairing-Free sensor cooperation scheme for cloud-Assisted wireless body area networks",
+                    "authors": "Yuanzhao Song, Haowen Tan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00061-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于云辅助无线身体区域网络的实用配对传感器合作方案"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00062-6",
+                    "title": "Inner product encryption from ring learning with errors",
+                    "authors": "Shisen Fang, Shaojun Yang, Yuexin Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00062-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "内部产品加密从戒指学习与错误"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00058-2",
+                    "title": "ELAID: detecting integer-Overflow-to-Buffer-Overflow vulnerabilities by light-weight and accurate static analysis",
+                    "authors": "Lili Xu, Mingjie Xu, Feng Li, Wei Huo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00058-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ELAID：通过轻巧和准确的静态分析检测整数跨流到空班越来越多的漏洞"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00063-5",
+                    "title": "On the combination of data augmentation method and gated convolution model for building effective and robust intrusion detection",
+                    "authors": "Yixiang Wang, ShaoHua Lv, Jiqiang Liu, Xiaolin Chang, Jinqiang Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00063-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于数据增强方法和门控卷积模型的组合，以构建有效和稳健的入侵检测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00064-4",
+                    "title": "Sifu - a cybersecurity awareness platform with challenge assessment and intelligent coach",
+                    "authors": "Tiago Espinha Gasiba, Ulrike Lechner, Maria Pinto-Albuquerque",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00064-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SIFU-具有挑战评估和智能教练的网络安全意识平台"
+                }
+            ]
+        }
+    ],
+    "2021": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/cybersec/cybersec4.html",
+            "journals_title": "Cybersecurity, Volume 4",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00065-3",
+                    "title": "A renewable energy forecasting and control approach to secured edge-level efficiency in a distributed micro-grid",
+                    "authors": "Raphael Anaadumba, Qi Liu, Bockarie Daniel Marah, Francis Mawuli Nakoty, Xiaodong Liu, Yonghong Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00065-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "可再生能源预测和控制方法，可在分布式微网格中获得安全边缘效率"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00067-1",
+                    "title": "Efficient functional encryption for inner product with simulation-based security",
+                    "authors": "Wenbo Liu, Qiong Huang, Xinjian Chen, Hongbo Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-020-00067-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有基于模拟的安全性的内部产品的有效功能加密"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00066-2",
+                    "title": "A lightweight cryptographic algorithm for the transmission of images from road environments in self-driving",
+                    "authors": "Runchen Gao, Shen Li, Yuqi Gao, Rui Guo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-020-00066-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种轻巧的加密算法，用于从自动驾驶中的道路环境传输图像"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-020-00068-0",
+                    "title": "A PLS blockchain for IoT applications: protocols and architecture",
+                    "authors": "Alex Shafarenko",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-020-00068-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一个用于物联网应用程序的PLS区块链：协议和体系结构"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00070-0",
+                    "title": "Neutron: an attention-based neural decompiler",
+                    "authors": "Ruigang Liang, Ying Cao, Peiwei Hu, Kai Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00070-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "中子：基于注意力的神经代偿剂"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00071-z",
+                    "title": "Cascading effects of cyber-attacks on interconnected critical infrastructure",
+                    "authors": "Venkata Reddy Palleti, Sridhar Adepu, Vishrut Kumar Mishra, Aditya Mathur",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00071-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络攻击对互连关键基础设施的级联影响"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00074-w",
+                    "title": "An efficient hybrid system for anomaly detection in social networks",
+                    "authors": "Md. Shafiur Rahman, Sajal Halder, Md. Ashraf Uddin, Uzzal Kumar Acharjee",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00074-w"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一个有效的社交网络异常检测的混合系统"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00078-6",
+                    "title": "Curve25519 based lightweight end-to-end encryption in resource constrained autonomous 8-bit IoT devices",
+                    "authors": "Shafi Ullah, Raja Zahilah Raja Mohd Radzi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00078-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Curve25519基于资源约束的自动型8位IoT设备中的轻质端到端加密"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00077-7",
+                    "title": "A critical review of intrusion detection systems in the internet of things: techniques, deployment strategy, validation strategy, attacks, public datasets and challenges",
+                    "authors": "Ansam Khraisat, Ammar Alazab",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00077-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对物联网中入侵检测系统的批判性审查：技术，部署策略，验证策略，攻击，公共数据集和挑战"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00069-7",
+                    "title": "Deriving invariant checkers for critical infrastructure using axiomatic design principles",
+                    "authors": "Cheah Huei Yoong, Venkata Reddy Palleti, Rajib Ranjan Maiti, Arlindo Silva, Christopher M. Poskitt",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00069-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用公理设计原理得出关键基础架构的不变跳棋"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00073-x",
+                    "title": "An end-to-end text spotter with text relation networks",
+                    "authors": "Jianguo Jiang, Baole Wei, Min Yu, Gang Li, Boquan Li, Chao Liu, Min Li, Weiqing Huang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00073-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "带有文本关系网络的端到端文本摄"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00080-y",
+                    "title": "Precision time protocol attack strategies and their resistance to existing security extensions",
+                    "authors": "Waleed Alghamdi, Michael Schukat",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00080-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "精确时间协议攻击策略及其对现有安全扩展的抵抗力"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00079-5",
+                    "title": "DeepMal: maliciousness-Preserving adversarial instruction learning against static malware detection",
+                    "authors": "Chun Yang, Jinghui Xu, Shuangshuang Liang, Yanna Wu, Yu Wen, Boyang Zhang, Dan Meng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00079-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DeepMal：针对静态恶意软件检测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00082-w",
+                    "title": "A secure and highly efficient first-order masking scheme for AES linear operations",
+                    "authors": "Jingdian Ming, Yongbin Zhou, Huizhong Li, Qian Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00082-w"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "AES线性操作的安全且高效的一阶遮罩方案"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00081-x",
+                    "title": "Searching for impossible subspace trails and improved impossible differential characteristics for SIMON-like block ciphers",
+                    "authors": "Xuzi Wang, Baofeng Wu, Lin Hou, Dongdai Lin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00081-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "寻找不可能的子空间步道和改善类似Simon的块密码的不可能的差分特性"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00083-9",
+                    "title": "Hypervisor-assisted dynamic malware analysis",
+                    "authors": "Roee Leon, Michael Kiperberg, Anat Anatey Leon Zabag, Nezer Jacob Zaidenberg",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00083-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "管理程序辅助动态恶意软件分析"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00084-8",
+                    "title": "Evaluation indicators for open-source software: a review",
+                    "authors": "Yuhang Zhao, Ruigang Liang, Xiang Chen, Jing Zou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00084-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "开源软件的评估指标：评论"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00085-7",
+                    "title": "B2SMatcher: fine-Grained version identification of open-Source software in binary files",
+                    "authors": "Gu Ban, Lili Xu, Yang Xiao, Xinhua Li, Zimu Yuan, Wei Huo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00085-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "B2Smatcher：二进制文件中开源软件的细粒度版本标识"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00091-9",
+                    "title": "ESRFuzzer: an enhanced fuzzing framework for physical SOHO router devices to discover multi-Type vulnerabilities",
+                    "authors": "Yu Zhang, Wei Huo, Kunpeng Jian, Ji Shi, Longquan Liu, Yanyan Zou, Chao Zhang, Baoxu Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00091-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ESRFUZZER：一个增强的模糊框架，用于物理SOHO路由器设备，以发现多型漏洞"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00093-7",
+                    "title": "LSTM RNN: detecting exploit kits using redirection chain sequences",
+                    "authors": "Jonah Burgess, Philip O'Kane, Sakir Sezer, Domhnall Carlin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00093-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "LSTM RNN：使用重定向链序列检测利用套件"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00089-3",
+                    "title": "Quantum key recovery attack on SIMON32/64",
+                    "authors": "Hui Liu, Li Yang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00089-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SIMON32/64的量子密钥恢复攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00095-5",
+                    "title": "Machine learning for intrusion detection in industrial control systems: challenges and lessons from experimental evaluation",
+                    "authors": "M. R. Gauthama Raman, Chuadhry Mujeeb Ahmed, Aditya Mathur",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00095-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "工业控制系统中入侵检测的机器学习：实验评估的挑战和经验教训"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00087-5",
+                    "title": "ICPFuzzer: proprietary communication protocol fuzzing by using machine learning and feedback strategies",
+                    "authors": "Pei-Yi Lin, Chia-Wei Tien, Ting-Chun Huang, Chin-Wei Tien",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00087-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ICPFUZZER：专有通信协议通过使用机器学习和反馈策略来模糊"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00094-6",
+                    "title": "Social engineering in cybersecurity: a domain ontology and knowledge graph application examples",
+                    "authors": "Zuoguang Wang, Hongsong Zhu, Peipei Liu, Limin Sun",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00094-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络安全中的社会工程：领域本体论和知识图应用程序示例"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00086-6",
+                    "title": "Bayesian network model to distinguish between intentional attacks and accidental technical failures: a case study of floodgates",
+                    "authors": "Sabarathinam Chockalingam, Wolter Pieters, André Teixeira, Pieter H. A. J. M. van Gelder",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00086-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "贝叶斯网络模型以区分故意攻击和意外技术故障：闸门案例研究"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00092-8",
+                    "title": "Confidential machine learning on untrusted platforms: a survey",
+                    "authors": "Sagar Sharma, Keke Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00092-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "不受信任平台上的机密机器学习：调查"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00096-4",
+                    "title": "Multidimensional linear cryptanalysis with key difference invariant bias for block ciphers",
+                    "authors": "Wenqin Cao, Wentao Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00096-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多维线性密码分析具有块密码的关键差异偏差"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00098-2",
+                    "title": "Position paper: GPT conjecture: understanding the trade-offs between granularity, performance and timeliness in control-flow integrity",
+                    "authors": "Zhilong Wang, Peng Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00098-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "职位论文：GPT猜想：了解粒度，性能和及时性之间的权衡"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00097-3",
+                    "title": "Verifiable image revision from chameleon hashes",
+                    "authors": "Junpeng Xu, Haixia Chen, Xu Yang, Wei Wu, Yongcheng Song",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00097-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "变色龙哈希的可验证图像修订"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00099-1",
+                    "title": "Transparency order versus confusion coefficient: a case study of NIST lightweight cryptography S-Boxes",
+                    "authors": "Huizhong Li, Guang Yang, Jingdian Ming, Yongbin Zhou, Chengbin Jin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00099-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "透明度顺序与混淆系数：NIST轻型密码学S框的案例研究"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00101-w",
+                    "title": "Indexing structures for the PLS blockchain",
+                    "authors": "Alex Shafarenko",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-021-00101-w"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "PLS区块链的索引结构"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00100-x",
+                    "title": "Privacy preserving divisible double auction with a hybridized TEE-blockchain system",
+                    "authors": "Bingyu Liu, Shangyu Xie, Yuanzhou Yang, Rujia Wang, Yuan Hong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00100-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "与杂交TEE-块链系统保留可分配的双重拍卖的隐私性"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00102-9",
+                    "title": "LSGAN-AT: enhancing malware detector robustness against adversarial examples",
+                    "authors": "Jianhua Wang, Xiaolin Chang, Yixiang Wang, Ricardo J. Rodríguez, Jianan Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00102-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "LSGAN-AT：增强恶意软件检测器的鲁棒性针对对抗性示例"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00072-y",
+                    "title": "Data and knowledge-driven named entity recognition for cyber security",
+                    "authors": "Chen Gao, Xuan Zhang, Hui Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00072-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数据和知识驱动的网络安全识别"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00075-9",
+                    "title": "TKCA: a timely keystroke-based continuous user authentication with short keystroke sequence in uncontrolled settings",
+                    "authors": "Lulu Yang, Chen Li, Ruibang You, Bibo Tu, Linghui Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00075-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "TKCA：及时基于击键的连续用户身份验证，在不受控制的设置中具有短键序列"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00088-4",
+                    "title": "Bin2vec: learning representations of binary executable programs for security tasks",
+                    "authors": "Shushan Arakelyan, Sima Arasteh, Christophe Hauser, Erik Kline, Aram Galstyan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00088-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "BIN2VEC：安全任务的二进制可执行程序的学习表示形式"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00076-8",
+                    "title": "An efficient fully dynamic group signature with message dependent opening from lattice",
+                    "authors": "Yiru Sun, Yanyan Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00076-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "有效的完全动态组签名，依赖于晶格的消息依赖"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-021-00090-w",
+                    "title": "VAECGAN: a generating framework for long-term prediction in multivariate time series",
+                    "authors": "Xiang Yin, Yanni Han, Zhen Xu, Jie Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/counter/pdf/10.1186/s42400-021-00090-w"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Vaecgan：多元时间序列中长期预测的生成框架"
+                }
+            ]
+        }
+    ],
+    "2019": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/cybersec/cybersec2.html",
+            "journals_title": "Cybersecurity, Volume 2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0018-3",
+                    "title": "DTrace: fine-grained and efficient data integrity checking with hardware instruction tracing",
+                    "authors": "Xiayang Wang, Fuqian Huang, Haibo Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0018-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DTRACE：使用硬件指令跟踪的细粒度和高效数据完整性检查"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0019-2",
+                    "title": "Automated extraction of attributes from natural language attribute-based access control (ABAC) Policies",
+                    "authors": "Manar Alohaly, Hassan Takabi, Eduardo Blanco",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0019-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从基于自然语言属性的访问控制（ABAC）策略中自动提取属性"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0020-9",
+                    "title": "Access control technologies for Big Data management systems: literature review and future trends",
+                    "authors": "Pietro Colombo, Elena Ferrari",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0020-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "大数据管理系统的访问控制技术：文献审查和未来趋势"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0021-3",
+                    "title": "Semi Markov process inspired selfish aware co-operative scheme for wireless sensor networks (SMPISCS)",
+                    "authors": "Kanchana Devi V., Ganesan R.",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0021-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "半马尔可夫流程启发了无线传感器网络（SMPISC）的自私感知合作计划"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0022-2",
+                    "title": "The privacy protection mechanism of Hyperledger Fabric and its application in supply chain finance",
+                    "authors": "Chaoqun Ma, Xiaolin Kong, Qiujun Lan, Zhongding Zhou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0022-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Hyperledger织物的隐私保护机制及其在供应链融资中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0024-0",
+                    "title": "A framework for the extended evaluation of ABAC policies",
+                    "authors": "Charles Morisset, Tim A. C. Willemse, Nicola Zannone",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0024-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ABAC政策扩展评估的框架"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0025-z",
+                    "title": "Privacy-preserving decision tree for epistasis detection",
+                    "authors": "Qingfeng Chen, Xu Zhang, Ruchang Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0025-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有隐私的遗传决策树用于上毒检测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0026-y",
+                    "title": "Comprehensive evaluation of key management hierarchies for outsourced data",
+                    "authors": "Naveen Kumar, Anish Mathuria",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0026-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对外包数据的主要管理层次结构的全面评估"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0023-1",
+                    "title": "PathMarker: protecting web contents against inside crawlers",
+                    "authors": "Shengye Wan, Yue Li, Kun Sun",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0023-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Pathmarker：保护Web内容免受内部爬网的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0029-8",
+                    "title": "Group topic-author model for efficient discovery of latent social astroturfing groups in tourism domain",
+                    "authors": "Noora Hashim Alallaq, Muhmmad Al-Khiza'ay, Xin Han",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0029-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "小组主题的作者模型，用于有效发现旅游领域中潜在社会Astroturfing群体"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0027-x",
+                    "title": "Adversarial attack and defense in reinforcement learning-from AI security view",
+                    "authors": "Tong Chen, Jiqiang Liu, Yingxiao Xiang, Wenjia Niu, Endong Tong, Zhen Han",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0027-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对抗性攻击和防御在强化中学习，从AI安全视图中"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0028-9",
+                    "title": "From proof-of-concept to exploitable",
+                    "authors": "Yan Wang, Wei Wu, Chao Zhang, Xinyu Xing, Xiaorui Gong, Wei Zou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0028-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从概念证明到可剥削"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0030-2",
+                    "title": "Towards IP geolocation with intermediate routers based on topology discovery",
+                    "authors": "Zhihao Wang, Hong Li, Qiang Li, Wei Li, Hongsong Zhu, Limin Sun",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0030-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于拓扑发现的中间路由器朝着IP地理位置"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0031-1",
+                    "title": "Creeper: a tool for detecting permission creep in file system access controls",
+                    "authors": "Simon Parkinson, Saad Khan, James Bray, Daiyaan Shreef",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0031-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "爬行者：用于检测文件系统访问控制中许可蠕变的工具"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0032-0",
+                    "title": "ASSERT: attack synthesis and separation with entropy redistribution towards predictive cyber defense",
+                    "authors": "Ahmet Okutan, Shanchieh Jay Yang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0032-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "断言：攻击综合和分离，熵重新分布向预测网络防御"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0033-z",
+                    "title": "One-way information reconciliation schemes of quantum key distribution",
+                    "authors": "Li Yang, Hua Dong, Zhao Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0033-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "量子密钥分布的单向信息对帐方案"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0035-x",
+                    "title": "Memory access integrity: detecting fine-grained memory access errors in binary code",
+                    "authors": "Wenjie Li, Dongpeng Xu, Wei Wu, Xiaorui Gong, Xiaobo Xiang, Yan Wang, Fangming Gu, Qianxiang Zeng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0035-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "内存访问完整性：在二进制代码中检测细粒度的内存访问错误"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0034-y",
+                    "title": "(Identity-based) dual receiver encryption from lattice-based programmable hash functions with high min-entropy",
+                    "authors": "Yanyan Liu, Daode Zhang, Yi Deng, Bao Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0034-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "（基于身份的）基于晶格的可编程哈希功能具有高最小渗透率的双重接收器加密"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0036-9",
+                    "title": "On the use of Max-SAT and PDDL in RBAC maintenance",
+                    "authors": "Marco Benedetti, Marco Mori",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0036-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于在RBAC维护中使用Max-Sat和PDDL"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0038-7",
+                    "title": "Survey of intrusion detection systems: techniques, datasets and challenges",
+                    "authors": "Ansam Khraisat, Iqbal Gondal, Peter Vamplew, Joarder Kamruzzaman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0038-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "入侵检测系统的调查：技术，数据集和挑战"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0037-8",
+                    "title": "An efficient full dynamic group signature scheme over ring",
+                    "authors": "Yiru Sun, Yanyan Liu, Bo Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0037-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "有效的完整动态组签名方案"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0039-6",
+                    "title": "Predicate encryption against master-key tampering attacks",
+                    "authors": "Yuejun Liu, Rui Zhang, Yongbin Zhou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-019-0039-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "谓语加密反对大关篡改攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-019-0040-0",
+                    "title": "Human-as-a-security-sensor for harvesting threat intelligence",
+                    "authors": "Manfred Vielberth, Florian Menges, Günther Pernul",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "收获威胁智能的人类安全传感器"
+                }
+            ]
+        }
+    ],
+    "2018": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/cybersec/cybersec1.html",
+            "journals_title": "Cybersecurity, Volume 1",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0005-8",
+                    "title": "Ensuring data confidentiality via plausibly deniable encryption and secure deletion - a survey",
+                    "authors": "Qionglu Zhang, Shijie Jia, Bing Chang, Bo Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0005-8.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过合理否认的加密和安全删除确保数据机密性 - 调查"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0001-z",
+                    "title": "Security-first architecture: deploying physically isolated active security processors for safeguarding the future of computing",
+                    "authors": "Dan Meng, Rui Hou, Gang Shi, Bibo Tu, Aimin Yu, Ziyuan Zhu, Xiaoqi Jia, Peng Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0001-z.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "安全优先架构：部署物理隔离的主动安全处理器来保护计算的未来"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0003-x",
+                    "title": "Feedback control can make data structure layout randomization more cost-effective under zero-day attacks",
+                    "authors": "Ping Chen, Zhisheng Hu, Jun Xu, Minghui Zhu, Peng Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "反馈控制可以使数据结构布局在零日攻击下更具成本效益"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0006-7",
+                    "title": "DroidEcho: an in-depth dissection of malicious behaviors in Android applications",
+                    "authors": "Guozhu Meng, Ruitao Feng, Guangdong Bai, Kai Chen, Yang Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0006-7.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Droidecho：在Android应用中对恶意行为的深入解剖"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0007-6",
+                    "title": "Using IM-Visor to stop untrusted IME apps from stealing sensitive keystrokes",
+                    "authors": "Chen Tian, Yazhe Wang, Peng Liu, Qihui Zhou, Chengyi Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0007-6.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用IM-Visor阻止不受信任的IME应用程序窃取敏感的击键"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0002-y",
+                    "title": "Fuzzing: a survey",
+                    "authors": "Jun Li, Bodong Zhao, Chao Zhang",
+                    "abstract": "Fuzz testing (fuzzing) has witnessed its prosperity in detecting security flaws recently. It generates a large number of test cases and monitors the executions for defects. Fuzzing has detected thousands of bugs and vulnerabilities in various applications. Although effective, there lacks systematic analysis of gaps faced by fuzzing. As a technique of defect detection, fuzzing is required to narrow down the gaps between the entire input space and the defect space. Without limitation on the generated inputs, the input space is infinite. However, defects are sparse in an application, which indicates that the defect space is much smaller than the entire input space. Besides, because fuzzing generates numerous test cases to repeatedly examine targets, it requires fuzzing to perform in an automatic manner. Due to the complexity of applications and defects, it is challenging to automatize the execution of diverse applications. In this article, we systematically review and analyze the gaps as well as their solutions, considering both breadth and depth. This survey can be a roadmap for both beginners and advanced developers to better understand fuzzing.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "模糊测试(fuzzing)最近在检测安全缺陷方面取得了很大的成功。它生成大量的测试用例，并监控缺陷的执行。Fuzzing已经在各种应用程序中检测到了数千个错误和漏洞。虽然有效，但缺乏对模糊化所面临的差距的系统分析。作为一种缺陷检测技术，模糊化需要缩小整个输入空间和缺陷空间之间的间隙。没有对生成的输入的限制，输入空间是无限的。然而，缺陷在应用中是稀疏的，这表明缺陷空间比整个输入空间小得多。此外，由于fuzzing会生成大量的测试用例来重复检查目标，因此它要求fuzzing以自动方式执行。由于应用程序的复杂性和缺陷，自动化不同应用程序的执行具有挑战性。在本文中，我们从广度和深度两方面系统地回顾和分析了差距及其解决方案。这个调查可以作为初学者和高级开发人员更好地理解fuzzing的路线图。",
+                    "title_zh": "模糊：调查"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0009-4",
+                    "title": "Making a good thing better: enhancing password/PIN-based user authentication with smartwatch",
+                    "authors": "Bing Chang, Yingjiu Li, Qiongxiao Wang, Wen Tao Zhu, Robert H. Deng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0009-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使一件好事更好：使用智能手表增强密码/基于PIN的用户身份验证"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0008-5",
+                    "title": "Detecting telecommunication fraud by understanding the contents of a call",
+                    "authors": "Qianqian Zhao, Kai Chen, Tongxin Li, Yi Yang, XiaoFeng Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0008-5.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过了解呼叫的内容来检测电信欺诈"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0012-9",
+                    "title": "A survey of practical adversarial example attacks",
+                    "authors": "Lu Sun, Mingtian Tan, Zhe Zhou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0012-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对实践对抗示例攻击的调查"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0010-y",
+                    "title": "Sensitive system calls based packed malware variants detection using principal component initialized MultiLayers neural networks",
+                    "authors": "Jixin Zhang, Kehuan Zhang, Zheng Qin, Hui Yin, Qixin Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0010-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用主组件初始化多层神经网络基于敏感的系统呼叫的包装恶意软件变体检测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0013-8",
+                    "title": "CCA1 secure FHE from PIO, revisited",
+                    "authors": "Biao Wang, Xueqing Wang, Rui Xue",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0013-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "CCA1从PIO中获得安全，重新审视"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0014-7",
+                    "title": "Concurrent non-malleable zero-knowledge and simultaneous resettable non-malleable zero-knowledge in constant rounds",
+                    "authors": "Zhenbin Yan, Yi Deng, Yiru Sun",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "同时不可兑现的零知识和同时可重置的不可兑现的零知识在恒定回合中"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0011-x",
+                    "title": "Automated identification of sensitive data from implicit user specification",
+                    "authors": "Ziqi Yang, Zhenkai Liang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0011-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从隐式用户规范中自动识别敏感数据"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0015-6",
+                    "title": "Cloud repository as a malicious service: challenge, identification and implication",
+                    "authors": "Xiaojing Liao, Sumayah A. Alrwais, Kan Yuan, Luyi Xing, XiaoFeng Wang, Shuang Hao, Raheem Beyah",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0015-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "云存储库作为恶意服务：挑战，身份证明和含义"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0016-5",
+                    "title": "Forecasting cyberattacks with incomplete, imbalanced, and insignificant data",
+                    "authors": "Ahmet Okutan, Gordon Werner, Shanchieh Jay Yang, Katie McConky",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0016-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "预测与数据不完整，不平衡和微不足道的数据的网络攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s42400-018-0017-4",
+                    "title": "Graph-based visual analytics for cyber threat intelligence",
+                    "authors": "Fabian Böhm, Florian Menges, Günther Pernul",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cybersecurity.springeropen.com/track/pdf/10.1186/s42400-018-0017-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于图的网络威胁智能的视觉分析"
+                }
+            ]
+        }
+    ]
+}

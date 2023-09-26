@@ -1,0 +1,2780 @@
+{
+    "2021": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/sec/sec2021.html",
+            "conf_title": "SEC 2021: Oslo, Norway",
+            "conf_url": "https://doi.org/10.1007/978-3-030-78120-0",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_1",
+                    "title": "XML Signature Wrapping Still Considered Harmful: A Case Study on the Personal Health Record in Germany",
+                    "authors": "Paul Höller, Alexander Krumeich, Luigi Lo Iacono",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "XML签名包装仍被视为有害:德国个人健康记录案例研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_2",
+                    "title": "Trust Me If You Can: Trusted Transformation Between (JSON) Schemas to Support Global Authentication of Education Credentials",
+                    "authors": "Stefan More, Peter Grassberger, Felix Hörandner, Andreas Abraham, Lukas Daniel Klausner",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "如果可以，请相信我:支持教育证书全局认证的(JSON)模式间的可信转换"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_3",
+                    "title": "SIUV: A Smart Car Identity Management and Usage Control System Based on Verifiable Credentials",
+                    "authors": "Ali Hariri, Subhajit Bandopadhyay, Athanasios Rizos, Theo Dimitrakos, Bruno Crispo, Muttukrishnan Rajarajan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://openaccess.city.ac.uk/id/eprint/27851/1/Smart_Car_IAM_ESORICS.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SIUV:基于可验证凭证的智能汽车身份管理和使用控制系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_4",
+                    "title": "A Performance Assessment of Free-to-Use Vulnerability Scanners - Revisited",
+                    "authors": "Ricardo Araújo, António Pinto, Pedro Pinto",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "免费使用的漏洞扫描器的性能评估——再探"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_5",
+                    "title": "QuickBCC: Quick and Scalable Binary Vulnerable Code Clone Detection",
+                    "authors": "Hajin Jang, Kyeongseok Yang, Geonwoo Lee, Yoonjong Na, Jeremy D. Seideman, Shoufu Luo, Heejo Lee, Sven Dietrich",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "QuickBCC:快速和可伸缩的二进制易受攻击代码克隆检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_6",
+                    "title": "Automatic Inference of Taint Sources to Discover Vulnerabilities in SOHO Router Firmware",
+                    "authors": "Kai Cheng, Dongliang Fang, Chuan Qin, Huizhao Wang, Yaowen Zheng, Nan Yu, Limin Sun",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "自动推断污染源以发现SOHO路由器固件中的漏洞"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_7",
+                    "title": "ESQABE: Predicting Encrypted Search Queries",
+                    "authors": "Isaac Meers, Mariano Di Martino, Peter Quax, Wim Lamotte",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ESQABE:预测加密的搜索查询"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_8",
+                    "title": "Reconnection-Based Covert Channels in Wireless Networks",
+                    "authors": "Sebastian Zillien, Steffen Wendzel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "无线网络中基于重连接的隐蔽信道"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_9",
+                    "title": "Minecraft Altered Skin Channel (MASC)",
+                    "authors": "Sam Abrams, Brandon Keller, Kenneth Nero, Gino Placella, Daryl Johnson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "《我的世界》改变皮肤频道(MASC)"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_10",
+                    "title": "Lattice-Based Weak Curve Fault Attack on ECDSA",
+                    "authors": "Weiqiong Cao, Hongsong Shi, Hua Chen, Wei Wei, Jiazhe Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于格的ECDSA弱曲线故障攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_11",
+                    "title": "HyperSec: Visual Analytics for Blockchain Security Monitoring",
+                    "authors": "Benedikt Putz, Fabian Böhm, Günther Pernul",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2103.14414"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "HyperSec:区块链安全监控的可视化分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_12",
+                    "title": "100 Popular Open-Source Infosec Tools",
+                    "authors": "Rauli Kaksonen, Tommi Järvenpää, Jukka Pajukangas, Mihai Mahalean, Juha Röning",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://jultika.oulu.fi/files/nbnfi-fe2021100149105.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "100种流行的开源信息安全工具"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_13",
+                    "title": "RootAsRole: Towards a Secure Alternative to sudo/su Commands for Home Users and SME Administrators",
+                    "authors": "Ahmad Samer Wazan, David W. Chadwick, Rémi Venant, Romain Laborde, Abdelmalek Benzekri",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RootAsRole:面向家庭用户和SME管理员的sudo/su命令的安全替代方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_14",
+                    "title": "Accept All: The Landscape of Cookie Banners in Greece and the UK",
+                    "authors": "Georgios Kampanos, Siamak F. Shahandashti",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprints.whiterose.ac.uk/173052/1/Cookie_Banner_Analysis_UK_Greece_IFIP_SEC_2021.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "接受一切:希腊和英国饼干横幅的景观"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_15",
+                    "title": "The AppChk Crowd-Sourcing Platform: Which Third Parties are iOS Apps Talking To?",
+                    "authors": "Oleg Geier, Dominik Herrmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2104.06167"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "AppChk众包平台:iOS应用在和哪些第三方对话？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_16",
+                    "title": "Compiling Personal Data and Subject Categories from App Data Models",
+                    "authors": "Christian Burkert, Maximilian Blochberger, Hannes Federrath",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从应用数据模型中编译个人数据和主题类别"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_17",
+                    "title": "Privacy Concerns Go Hand in Hand with Lack of Knowledge: The Case of the German Corona-Warn-App",
+                    "authors": "Sebastian Pape, David Harborth, Jacob Leon Kröger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "隐私问题与缺乏知识密切相关:德国Corona-Warn-App的案例"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_18",
+                    "title": "Perceived Privacy Problems Within Digital Contact Tracing: A Study Among Swedish Citizens",
+                    "authors": "Ali Mohammad Padyab, Joakim Kävrestad",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数字接触追踪中的感知隐私问题:一项针对瑞典公民的研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_19",
+                    "title": "Secure and Scalable IoT: An IoT Network Platform Based on Network Overlay and MAC Security",
+                    "authors": "Junwon Lee, Heejo Lee",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "安全可扩展的物联网:基于网络覆盖和MAC安全的物联网网络平台"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_20",
+                    "title": "Enriching DNS Flows with Host-Based Events to Bypass Future Protocol Encryption",
+                    "authors": "Stanislav Spacek, Daniel Tovarnák, Pavel Celeda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用基于主机的事件丰富DNS流，以绕过未来的协议加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_21",
+                    "title": "Advanced Cowrie Configuration to Increase Honeypot Deceptiveness",
+                    "authors": "Warren Z. Cabral, Craig Valli, Leslie F. Sikos, Samuel G. Wakeling",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "高级Cowrie配置增加蜜罐的欺骗性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_22",
+                    "title": "Less is Often More: Header Whitelisting as Semantic Gap Mitigation in HTTP-Based Software Systems",
+                    "authors": "Andre Büttner, Hoai Viet Nguyen, Nils Gruschka, Luigi Lo Iacono",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://pub.h-brs.de/files/5549/Buettner2021_LessIsOftenMore.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "少即是多:在基于HTTP的软件系统中作为语义差距缓解的标题白名单"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_23",
+                    "title": "TAR: Generalized Forensic Framework to Detect Deepfakes Using Weakly Supervised Learning",
+                    "authors": "Sangyup Lee, Shahroz Tariq, Junyaup Kim, Simon S. Woo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2105.06117"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "TAR:使用弱监督学习检测Deepfakes的通用取证框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_24",
+                    "title": "Anomaly Detection for Insider Threats: An Objective Comparison of Machine Learning Models and Ensembles",
+                    "authors": "Filip Wieslaw Bartoszewski, Mike Just, Michael A. Lones, Oleksii Mandrychenko",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "内部威胁的异常检测:机器学习模型和集成的客观比较"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_25",
+                    "title": "Revitalizing Self-Organizing Map: Anomaly Detection Using Forecasting Error Patterns",
+                    "authors": "Young Geun Kim, Jeong-Han Yun, Siho Han, Hyoung Chun Kim, Simon S. Woo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "振兴自组织映射:使用预测误差模式的异常检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_26",
+                    "title": "What Is Lurking in Your Backups?",
+                    "authors": "Ben Lenard, Alexander Rasin, Nick Scope, James Wagner",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "您的备份中隐藏着什么？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_27",
+                    "title": "How Do Users Chain Email Accounts Together?",
+                    "authors": "Lydia Kraus, Mária Svidronová, Elizabeth Stobert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用户如何将电子邮件帐户链接在一起？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-78120-0_28",
+                    "title": "Tensions that Hinder the Implementation of Digital Security Governance",
+                    "authors": "Stef Schinagl, Svetlana Khapova, Abbas Shahim",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://research.vu.nl/ws/files/152953360/Schinagl2021_Chapter_TensionsThatHinderTheImplementationOfDigitalSecurityGovernance.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "阻碍数字安全治理实施的紧张关系"
+                }
+            ]
+        }
+    ],
+    "2020": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/sec/sec2020.html",
+            "conf_title": "SEC 2020: Maribor, Slovenia",
+            "conf_url": "https://doi.org/10.1007/978-3-030-58201-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_1",
+                    "title": "Leaky Controller: Cross-VM Memory Controller Covert Channel on Multi-core Systems",
+                    "authors": "Benjamin Semal, Konstantinos Markantonakis, Raja Naeem Akram, Jan Kalbantner",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440832/file/497034_1_En_1_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "泄漏控制器:多核系统上跨虚拟机内存控制器的隐蔽通道"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_2",
+                    "title": "Evaluation of Statistical Tests for Detecting Storage-Based Covert Channels",
+                    "authors": "Thomas A. V. Sattolo, Jason Jaskolka",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440831/file/497034_1_En_2_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "检测基于存储的隐蔽通道的统计检验的评价"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_3",
+                    "title": "IE-Cache: Counteracting Eviction-Based Cache Side-Channel Attacks Through Indirect Eviction",
+                    "authors": "Muhammad Asim Mukhtar, Muhammad Khurram Bhatti, Guy Gogniat",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://inria.hal.science/hal-03440838/document"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IE-Cache:通过间接驱逐对抗基于驱逐的缓存旁路攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_4",
+                    "title": "Refined Detection of SSH Brute-Force Attackers Using Machine Learning",
+                    "authors": "Karel Hynek, Tomás Benes, Tomás Cejka, Hana Kubátová",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440815/file/497034_1_En_4_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用机器学习精确检测SSH暴力攻击者"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_5",
+                    "title": "MultiTLS: Secure Communication Channels with Cipher Suite Diversity",
+                    "authors": "Ricardo Moura, David R. Matos, Miguel L. Pardal, Miguel Correia",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440809/file/497034_1_En_5_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "MultiTLS:具有密码套件多样性的安全通信通道"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_6",
+                    "title": "Improving Big Data Clustering for Jamming Detection in Smart Mobility",
+                    "authors": "Hind Bangui, Mouzhi Ge, Barbora Buhnova",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440835/file/497034_1_En_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "改进智能移动中干扰检测的大数据聚类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_7",
+                    "title": "Assisting Users to Create Stronger Passwords Using ContextBased MicroTraining",
+                    "authors": "Joakim Kävrestad, Marcus Nohlberg",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440869/file/497034_1_En_7_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用基于上下文的微训练帮助用户创建更强的密码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_8",
+                    "title": "Facilitating Privacy Attitudes and Behaviors with Affective Visual Design",
+                    "authors": "Agnieszka Kitkowska, Yefim Shulman, Leonardo A. Martucci, Erik Wästlund",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440807/file/497034_1_En_8_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用情感视觉设计促进隐私态度和行为"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_9",
+                    "title": "Privacy CURE: Consent Comprehension Made Easy",
+                    "authors": "Olha Drozd, Sabrina Kirrane",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://research.wu.ac.at/ws/files/21761562/IFIP_SEC_2020_CR_paper_47%20(4).pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "隐私治疗:同意理解变得容易"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_10",
+                    "title": "JavaScript Malware Detection Using Locality Sensitive Hashing",
+                    "authors": "Stefan Carl Peiser, Ludwig Friborg, Riccardo Scandariato",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440842/file/497034_1_En_10_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用位置敏感散列的JavaScript恶意软件检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_11",
+                    "title": "RouAlign: Cross-Version Function Alignment and Routine Recovery with Graphlet Edge Embedding",
+                    "authors": "Can Yang, Jian Liu, Mengxia Luo, Xiaorui Gong, Baoxu Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440839/file/497034_1_En_11_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RouAlign:使用Graphlet边缘嵌入的跨版本函数对齐和例程恢复"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_12",
+                    "title": "Code Between the Lines: Semantic Analysis of Android Applications",
+                    "authors": "Johannes Feichtner, Stefan Gruber",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440841/file/497034_1_En_12_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "字里行间的代码:Android应用程序的语义分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_13",
+                    "title": "IMShell-Dec: Pay More Attention to External Links in PowerShell",
+                    "authors": "Ruidong Han, Chao Yang, Jianfeng Ma, Siqi Ma, Yunbo Wang, Feng Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440834/file/497034_1_En_13_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IMShell-Dec:多关注PowerShell中的外部链接"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_14",
+                    "title": "Secure Attestation of Virtualized Environments",
+                    "authors": "Michael Eckel, Andreas Fuchs, Jürgen Repp, Markus Springer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440811/file/497034_1_En_14_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "虚拟化环境的安全证明"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_15",
+                    "title": "Security and Performance Implications of BGP Rerouting-Resistant Guard Selection Algorithms for Tor",
+                    "authors": "Asya Mitseva, Marharyta Aleksandrova, Thomas Engel, Andriy Panchenko",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440868/file/497034_1_En_15_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Tor中抗BGP重路由保护选择算法的安全性和性能影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_16",
+                    "title": "Actively Probing Routes for Tor AS-Level Adversaries with RIPE Atlas",
+                    "authors": "Wilfried Mayer, Georg Merzdovnik, Edgar R. Weippl",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440850/file/497034_1_En_16_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用成熟的Atlas积极探索Tor AS级对手的路线"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_17",
+                    "title": "Zeek-Osquery: Host-Network Correlation for Advanced Monitoring and Intrusion Detection",
+                    "authors": "Steffen Haas, Robin Sommer, Mathias Fischer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2002.04547"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Zeek-Osquery:用于高级监控和入侵检测的主机网络关联"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_18",
+                    "title": "Revisiting Security Vulnerabilities in Commercial Password Managers",
+                    "authors": "Michael Carr, Siamak F. Shahandashti",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2003.01985"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "重新审视商业密码管理器中的安全漏洞"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_19",
+                    "title": "Evaluation of Risk-Based Re-Authentication Methods",
+                    "authors": "Stephan Wiefling, Tanvi Patil, Markus Dürmuth, Luigi Lo Iacono",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://pub.h-brs.de/files/4952/Wiefling2020_Evaluation_of_Risk-based_Re-Authentication_Methods.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于风险的再认证方法评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_20",
+                    "title": "Fuzzy Vault for Behavioral Authentication System",
+                    "authors": "Md. Morshedul Islam, Reihaneh Safavi-Naini",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440844/file/497034_1_En_20_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于行为认证系统的模糊金库"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_21",
+                    "title": "Improvements of the Balance Discovery Attack on Lightning Network Payment Channels",
+                    "authors": "Gijs van Dam, Rabiah Abdul Kadir, Puteri Nor Ellyza binti Nohuddin, Halimah Badioze Zaman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440806/file/497034_1_En_21_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对闪电网支付渠道余额发现攻击的改进"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_22",
+                    "title": "CCBRSN: A System with High Embedding Capacity for Covert Communication in Bitcoin",
+                    "authors": "Weizheng Wang, Chunhua Su",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440808/file/497034_1_En_22_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "CCBRSN:一种高嵌入容量的比特币隐蔽通信系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_23",
+                    "title": "Privacy-Friendly Monero Transaction Signing on a Hardware Wallet",
+                    "authors": "Dusan Klinec, Vashek Matyas",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440818/file/497034_1_En_23_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "硬件钱包上的隐私友好Monero交易签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_24",
+                    "title": "A Matter of Life and Death: Analyzing the Security of Healthcare Networks",
+                    "authors": "Guillaume Dupont, Daniel Ricardo dos Santos, Elisa Costante, Jerry den Hartog, Sandro Etalle",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440820/file/497034_1_En_24_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "生死攸关的问题:分析医疗保健网络的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_25",
+                    "title": "Establishing a Strong Baseline for Privacy Policy Classification",
+                    "authors": "Najmeh Mousavi Nejad, Pablo Jabat, Rostislav Nedelchev, Simon Scerri, Damien Graux",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440825/file/497034_1_En_25_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "为隐私政策分类建立坚实的基准"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_26",
+                    "title": "Cross-Platform File System Activity Monitoring and Forensics - A Semantic Approach",
+                    "authors": "Kabul Kurniawan, Andreas Ekelhart, Fajar J. Ekaputra, Elmar Kiesling",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440824/file/497034_1_En_26_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "跨平台文件系统活动监控和取证——一种语义方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_27",
+                    "title": "A Correlation-Preserving Fingerprinting Technique for Categorical Data in Relational Databases",
+                    "authors": "Tanja Sarcevic, Rudolf Mayer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440847/file/497034_1_En_27_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关系数据库中分类数据的相关性保持指纹技术"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_28",
+                    "title": "FDFtNet: Facing Off Fake Images Using Fake Detection Fine-Tuning Network",
+                    "authors": "Hyeonseong Jeon, Youngoh Bang, Simon S. Woo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2001.01265"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "FDFtNet:使用伪检测微调网络来对抗伪图像"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-58201-2_29",
+                    "title": "Escaping Backdoor Attack Detection of Deep Learning",
+                    "authors": "Yayuan Xiong, Fengyuan Xu, Sheng Zhong, Qun Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03440830/file/497034_1_En_29_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "逃避深度学习的后门攻击检测"
+                }
+            ]
+        }
+    ],
+    "2022": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/sec/sec2022.html",
+            "conf_title": "SEC 2022: Copenhagen, Denmark",
+            "conf_url": "https://doi.org/10.1007/978-3-031-06975-8",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_1",
+                    "title": "A Privacy Calculus Model for Contact Tracing Apps: Analyzing the German Corona-Warn-App",
+                    "authors": "David Harborth, Sebastian Pape",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "联系追踪应用的隐私演算模型:分析德国Corona-Warn-App"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_2",
+                    "title": "Deriving and Using Synthetic Consequences for Privacy Risk Modeling",
+                    "authors": "Stuart S. Shapiro",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "为隐私风险建模推导和使用合成结果"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_3",
+                    "title": "Enhanced Privacy in Smart Workplaces: Employees' Preferences for Transparency Indicators and Control Interactions in the Case of Data Collection with Smart Watches",
+                    "authors": "Alexander Richter, Patrick Kühtreiber, Delphine Reinhardt",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "智能工作场所中增强的隐私:在使用智能手表收集数据的情况下，员工对透明度指标和控制交互的偏好"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_4",
+                    "title": "DAEMON: Dynamic Auto-encoders for Contextualised Anomaly Detection Applied to Security MONitoring",
+                    "authors": "Alexandre Dey, Eric Totel, Benjamin Costé",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DAEMON:用于安全监控的上下文异常检测的动态自动编码器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_5",
+                    "title": "FOCUS: Frequency Based Detection of Covert Ultrasonic Signals",
+                    "authors": "Wouter Hellemans, Md Masoom Rabbani, Jo Vliegen, Nele Mentens",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "聚焦:基于频率的隐蔽超声信号检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_6",
+                    "title": "Passive, Transparent, and Selective TLS Decryption for Network Security Monitoring",
+                    "authors": "Florian Wilkens, Steffen Haas, Johanna Amann, Mathias Fischer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://arxiv.org/pdf/2104.09828"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于网络安全监控的被动、透明和选择性TLS解密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_7",
+                    "title": "A Study on the Use of 3rd Party DNS Resolvers for Malware Filtering or Censorship Circumvention",
+                    "authors": "Martin Fejrskov, Emmanouil Vasilomanolakis, Jens Myrup Pedersen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://vbn.aau.dk/ws/files/498375565/Use_of_third_party_resolvers_1_.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用第三方DNS解析器过滤恶意软件或规避审查的研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_8",
+                    "title": "RAAM: A Restricted Adversarial Attack Model with Adding Perturbations to Traffic Features",
+                    "authors": "Peishuai Sun, Shuhao Li, Jiang Xie, Hongbo Xu, Zhenyu Cheng, Rui Qin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RAAM:对流量特征增加扰动的限制性对抗性攻击模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_9",
+                    "title": "Evaluation of Circuit Lifetimes in Tor",
+                    "authors": "Kevin Köster, Matthias Marx, Anne Kunstmann, Hannes Federrath",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Tor中电路寿命的评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_10",
+                    "title": "D-Cloud-Collector: Admissible Forensic Evidence from Mobile Cloud Storage",
+                    "authors": "Mark Vella, Christian Colombo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-031-06975-8_10.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "D-Cloud-Collector:来自移动云存储的可接受的法庭证据"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_11",
+                    "title": "Robust PDF Files Forensics Using Coding Style",
+                    "authors": "Supriya Adhatarao, Cédric Lauradoux",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://arxiv.org/pdf/2103.02702"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用编码风格的强大PDF文件取证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_12",
+                    "title": "Light-Weight File Fragments Classification Using Depthwise Separable Convolutions",
+                    "authors": "Kunwar Muhammed Saaim, Muhamad Felemban, Saleh Alsaleh, Ahmad Almulhem",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于深度方向可分卷积的轻量级文件碎片分类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_13",
+                    "title": "Novel Approaches for the Development of Trusted IoT Entities",
+                    "authors": "Davide Ferraris, M. Carmen Fernández Gago, Javier López",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "可信物联网实体开发的新方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_14",
+                    "title": "Requirements and Secure Serialization for Selective Disclosure Verifiable Credentials",
+                    "authors": "Vasilis Kalos, George C. Polyzos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "选择性公开可验证凭证的要求和安全序列化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_15",
+                    "title": "UP-MLE: Efficient and Practical Updatable Block-Level Message-Locked Encryption Scheme Based on Update Properties",
+                    "authors": "Shaoqiang Wu, Chunfu Jia, Ding Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "UP-MLE:高效实用的基于更新特性的可更新块级消息锁加密方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_16",
+                    "title": "CryptKSP: A Kernel Stack Protection Model Based on AES-NI Hardware Feature",
+                    "authors": "Bingnan Zhong, Zicheng Wang, Yinggang Guo, Qingkai Zeng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "CryptKSP:一种基于AES-NI硬件特征的内核栈保护模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_17",
+                    "title": "Usability Insights from Establishing TLS Connections",
+                    "authors": "Lydia Kraus, Matej Grabovský, Martin Ukrop, Katarína Galanská, Vashek Matyás",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "建立TLS连接的可用性洞察"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_18",
+                    "title": "Usability of Antivirus Tools in a Threat Detection Scenario",
+                    "authors": "Michael Körber, Anatoli Kalysch, Werner Massonne, Zinaida Benenson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "防病毒工具在威胁检测场景中的可用性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_19",
+                    "title": "Data Minimisation Potential for Timestamps in Git: An Empirical Analysis of User Configurations",
+                    "authors": "Christian Burkert, Johanna Ansohn McDougall, Hannes Federrath",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Git中时间戳的数据最小化潜力:用户配置的实证分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_20",
+                    "title": "Greedy Networking in Cryptocurrency Blockchain",
+                    "authors": "Simeon Wuthier, Pranav Chandramouli, Xiaobo Zhou, Sang-Yoon Chang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "加密货币区块链中的贪婪组网"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_21",
+                    "title": "Towards Supporting Attribute-Based Access Control in Hyperledger Fabric Blockchain",
+                    "authors": "Amshumaan Pericherla, Proteet Paul, Shamik Sural, Jaideep Vaidya, Vijay Atluri",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在超分类帐结构区块链中支持基于属性的访问控制"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_22",
+                    "title": "AndroClonium: Bytecode-Level Code Clone Detection for Obfuscated Android Apps",
+                    "authors": "Ardalan Foroughipour, Natalia Stakhanova, Farzaneh Abazari, Bahman Sistany",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "AndroClonium:针对模糊Android应用的字节码级代码克隆检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_23",
+                    "title": "One Light, One App: Tackling a Common Misperception Causing Breach of User Privacy",
+                    "authors": "Efi Siapiti, Ioanna Dionysiou, K. Harald Gjermundrød",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一盏灯，一个应用程序:解决导致侵犯用户隐私的常见误解"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_24",
+                    "title": "Double-X: Towards Double-Cross-Based Unlock Mechanism on Smartphones",
+                    "authors": "Wenjuan Li, Jiao Tan, Nan Zhu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "双X:智能手机上基于双十字的解锁机制"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_25",
+                    "title": "Post-Quantum Cheating Detectable Private Information Retrieval",
+                    "authors": "Lin Zhu, Changlu Lin, Fuchun Lin, Liang Feng Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "后量子欺骗可检测私人信息检索"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_26",
+                    "title": "Anonymous Trusted Data Relocation for TEEs",
+                    "authors": "Vasco Guita, Daniel Andrade, João Nuno Silva, Miguel Correia",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面向tee的匿名可信数据重定位"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_27",
+                    "title": "Efficient Volume-Hiding Encrypted Multi-Maps with Support for Conjunctive Queries",
+                    "authors": "Tianci Li, Jiaojiao Wu, Jianfeng Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "支持合取查询的高效体积隐藏加密多映射"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_28",
+                    "title": "Upside Down: Exploring the Ecosystem of Dark Web Data Markets",
+                    "authors": "Bogdan Covrig, Enrique Barrueco Mikelarena, Constanta Rosca, Catalina Goanta, Gerasimos Spanakis, Apostolis Zarras",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cris.maastrichtuniversity.nl/files/97305392/Spanakis_2022_Upside_Down_Exploring_the_Ecosystem.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "颠倒:探索黑暗网络数据市场的生态系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-06975-8_29",
+                    "title": "An Efficient Use-after-Free Mitigation Approach via Static Dangling Pointer Nullification",
+                    "authors": "Yue Yu, Xiaoqi Jia, Xun An, Shengzhi Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种有效的静态悬空指针无效释放后使用缓解方法"
+                }
+            ]
+        }
+    ],
+    "2019": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/sec/sec2019.html",
+            "conf_title": "SEC 2019: Lisbon, Portugal",
+            "conf_url": "https://doi.org/10.1007/978-3-030-22312-0",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_1",
+                    "title": "Hunting Brand Domain Forgery: A Scalable Classification for Homograph Attack",
+                    "authors": "Tran Phuong Thao, Yukiko Sawaya, Hoang-Quoc Nguyen-Son, Akira Yamada, Kazumasa Omote, Ayumu Kubota",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744295/file/485650_1_En_1_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "狩猎品牌域名伪造:一种可扩展的同形异义攻击分类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_2",
+                    "title": "GanDef: A GAN Based Adversarial Training Defense for Neural Network Classifier",
+                    "authors": "Guanxiong Liu, Issa Khalil, Abdallah Khreishah",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1903.02585"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "GanDef:一种基于GAN的神经网络分类器对抗训练防御方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_3",
+                    "title": "Control Logic Injection Attacks on Industrial Control Systems",
+                    "authors": "Hyunguk Yoo, Irfan Ahmed",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744305/file/485650_1_En_3_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "工业控制系统中的控制逻辑注入攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_4",
+                    "title": "An Efficient and Scalable Intrusion Detection System on Logs of Distributed Applications",
+                    "authors": "David Lanoë, Michel Hurfin, Eric Totel, Carlos Maziero",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02409487/file/IFIPSEC-Hal-Inria.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于分布式应用日志的高效可扩展入侵检测系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_5",
+                    "title": "Performance of Password Guessing Enumerators Under Cracking Conditions",
+                    "authors": "Mathieu Valois, Patrick Lacharme, Jean-Marie Le Bars",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-02060091/file/ifipsec.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "破解条件下密码猜测枚举器的性能"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_6",
+                    "title": "An Offline Dictionary Attack Against zkPAKE Protocol",
+                    "authors": "José Becerra, Peter Y. A. Ryan, Petra Sala, Marjan Skrobot",
+                    "abstract": "Password Authenticated Key Exchange (PAKE) allows a user to establish a secure cryptographic key with a server, using only knowledge of a pre-shared password. One of the basic security requirements of PAKE is to prevent offline dictionary attacks. In this paper, we revisit zkPAKE, an augmented PAKE that has been recently proposed by Mochetti, Resende, and Aranha (SBSeg 2015). Our work shows that the zkPAKE protocol is prone to offline password guessing attack, even in the presence of an adversary that has only eavesdropping capabilities. Therefore, zkPAKE is insecure and should not be used as a password-authenticated key exchange mechanism.",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744290/file/485650_1_En_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "口令认证密钥交换(PAKE)允许用户仅使用预共享口令的知识与服务器建立安全的加密密钥。PAKE的一个基本安全需求是防止离线字典攻击。在本文中，我们重新考察了zkPAKE，这是最近由Mochetti、Resende和Aranha (SBSeg 2015)提出的一种扩充的PAKE。我们的工作表明，zkPAKE协议很容易受到离线密码猜测攻击，即使对手只有窃听能力。所以zkPAKE是不安全的，不应该作为密码认证的密钥交换机制。",
+                    "title_zh": "针对zkPAKE协议的离线字典攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_7",
+                    "title": "Fine-Grained Access Control in Industrial Internet of Things - Evaluating Outsourced Attribute-Based Encryption",
+                    "authors": "Dominik Ziegler, Josef Sabongui, Gerald Palfinger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744312/file/485650_1_En_7_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "工业物联网中的细粒度访问控制——外包属性加密评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_8",
+                    "title": "Towards an Automated Extraction of ABAC Constraints from Natural Language Policies",
+                    "authors": "Manar Alohaly, Hassan Takabi, Eduardo Blanco",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744313/file/485650_1_En_8_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从自然语言策略中自动提取ABAC约束"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_9",
+                    "title": "Removing Problems in Rule-Based Policies",
+                    "authors": "Zheng Cheng, Jean-Claude Royer, Massimo Tisi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-02169342/file/main.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "消除基于规则的策略中的问题"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_10",
+                    "title": "Is This Really You? An Empirical Study on Risk-Based Authentication Applied in the Wild",
+                    "authors": "Stephan Wiefling, Luigi Lo Iacono, Markus Dürmuth",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2003.07622"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "真的是你吗？基于风险的认证在野外应用的实证研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_11",
+                    "title": "Differentially Private Generative Adversarial Networks for Time Series, Continuous, and Discrete Open Data",
+                    "authors": "Lorenzo Frigerio, Anderson Santana de Oliveira, Laurent Gomez, Patrick Duverger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1901.02477"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "时序、连续和离散开放数据的差分私有生成对抗网络"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_12",
+                    "title": "ESARA: A Framework for Enterprise Smartphone Apps Risk Assessment",
+                    "authors": "Majid Hatamian, Sebastian Pape, Kai Rannenberg",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://zenodo.org/record/3248903/files/Hatamian-SEC19.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ESARA:企业智能手机应用风险评估框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_13",
+                    "title": "SocialAuth: Designing Touch Behavioral Smartphone User Authentication Based on Social Networking Applications",
+                    "authors": "Weizhi Meng, Wenjuan Li, Lijun Jiang, Jianying Zhou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://backend.orbit.dtu.dk/ws/files/223213836/IFIPSEC_2019_SocialAuth_1_.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SocialAuth:设计基于社交网络应用的触摸行为智能手机用户认证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_14",
+                    "title": "The Influence of Organizational, Social and Personal Factors on Cybersecurity Awareness and Behavior of Home Computer Users",
+                    "authors": "Joëlle Simonet, Stephanie Teufel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744309/file/485650_1_En_14_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "组织、社会和个人因素对家用电脑用户网络安全意识和行为的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_15",
+                    "title": "To Be, or Not to Be Notified - Eliciting Privacy Notification Preferences for Online mHealth Services",
+                    "authors": "Patrick Murmann, Delphine Reinhardt, Simone Fischer-Hübner",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744291/file/485650_1_En_15_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "被通知还是不被通知——引出在线移动医疗服务的隐私通知偏好"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_16",
+                    "title": "A Structured Comparison of the Corporate Information Security Maturity Level",
+                    "authors": "Michael Schmid, Sebastian Pape",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744289/file/485650_1_En_16_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "企业信息安全成熟度级别的结构化比较"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_17",
+                    "title": "Predicting Students' Security Behavior Using Information-Motivation-Behavioral Skills Model",
+                    "authors": "Ali Farooq, Debora Jeske, Jouni Isoaho",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744297/file/485650_1_En_17_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用信息-动机-行为技能模型预测学生的安全行为"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_18",
+                    "title": "Why Do People Pay for Privacy-Enhancing Technologies? The Case of Tor and JonDonym",
+                    "authors": "David Harborth, Xinyuan Cai, Sebastian Pape",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744293/file/485650_1_En_18_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "为什么人们会为增强隐私的技术付费？Tor和JonDonym的案件"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_19",
+                    "title": "Arcana: Enabling Private Posts on Public Microblog Platforms",
+                    "authors": "Anirudh Narasimman, Qiaozhi Wang, Fengjun Li, Dongwon Lee, Bo Luo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744299/file/485650_1_En_19_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Arcana:在公共微博平台上启用私人帖子"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_20",
+                    "title": "Fast Keyed-Verification Anonymous Credentials on Standard Smart Cards",
+                    "authors": "Jan Camenisch, Manu Drijvers, Petr Dzurenda, Jan Hajny",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744308/file/485650_1_En_20_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "标准智能卡上的快速密钥验证匿名凭证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_21",
+                    "title": "BlockTag: Design and Applications of a Tagging System for Blockchain Analysis",
+                    "authors": "Yazan Boshmaf, Husam Al Jawaheri, Mashael Al Sabah",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1809.06044"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "区块标签:区块链分析标签系统的设计与应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_22",
+                    "title": "Forward Secure Identity-Based Signature Scheme with RSA",
+                    "authors": "Hankyung Ko, Gweonho Jeong, Jongho Kim, Jihye Kim, Hyunok Oh",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744294/file/485650_1_En_22_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于RSA的前向安全身份签名方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_23",
+                    "title": "On the Effectiveness of Control-Flow Integrity Against Modern Attack Techniques",
+                    "authors": "Sarwar Sayeed, Hector Marco-Gisbert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744303/file/485650_1_En_23_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "控制流完整性对现代攻击技术的有效性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_24",
+                    "title": "Automatically Proving Purpose Limitation in Software Architectures",
+                    "authors": "Kai Bavendiek, Tobias Mueller, Florian Wittner, Thea Schwaneberg, Christian-Alexander Behrendt, Wolfgang Schulz, Hannes Federrath, Sibylle Schupp",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744307/file/485650_1_En_24_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "软件体系结构中目的限制的自动证明"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_25",
+                    "title": "Commit Signatures for Centralized Version Control Systems",
+                    "authors": "Sangat Vaidya, Santiago Torres-Arias, Reza Curtmola, Justin Cappos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744292/file/485650_1_En_25_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "集中式版本控制系统的提交签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22312-0_26",
+                    "title": "Towards Contractual Agreements for Revocation of Online Data",
+                    "authors": "Theodor Schnitzler, Markus Dürmuth, Christina Pöpper",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03744301/file/485650_1_En_26_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于撤销在线数据的合同协议"
+                }
+            ]
+        }
+    ],
+    "2016": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/sec/sec2016.html",
+            "conf_title": "SEC 2016: Ghent, Belgium",
+            "conf_url": "https://doi.org/10.1007/978-3-319-33630-5",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_1",
+                    "title": "Coercion-Resistant Proxy Voting",
+                    "authors": "Oksana Kulyk, Stephan Neumann, Karola Marky, Jurlind Budurushi, Melanie Volkamer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://publikationen.bibliothek.kit.edu/1000081964/15444958"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "抗胁迫代理投票"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_2",
+                    "title": "A Posteriori Openable Public Key Encryption",
+                    "authors": "Xavier Bultel, Pascal Lafourcade",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369535/file/421518_1_En_2_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "后验可开公钥加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_3",
+                    "title": "Multicast Delayed Authentication for Streaming Synchrophasor Data in the Smart Grid",
+                    "authors": "Sérgio M. Câmara, Dhananjay Anand, Victoria Pillitteri, Luiz F. R. C. Carmo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://europepmc.org/articles/pmc5520642?pdf=render"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "智能电网中同步相量流数据的组播延迟认证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_4",
+                    "title": "Developing a Human Activity Model for Insider IS Security Breaches Using Action Design Research",
+                    "authors": "Gurpreet Dhillon, Spyridon Samonas, Ugo Etudo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369541/file/421518_1_En_4_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用行动设计研究为内部人员开发一个人类活动模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_5",
+                    "title": "Evaluating CVSS Base Score Using Vulnerability Rewards Programs",
+                    "authors": "Awad A. Younis, Yashwant K. Malaiya, Indrajit Ray",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用漏洞奖励计划评估CVSS基础分数"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_6",
+                    "title": "Defining Objectives for Preventing Cyberstalking",
+                    "authors": "Gurpreet Dhillon, Chandrashekar Challa, Kane Smith",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369544/file/421518_1_En_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "界定防止网络跟踪的目标"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_7",
+                    "title": "Using Process Invariants to Detect Cyber Attacks on a Water Treatment System",
+                    "authors": "Sridhar Adepu, Aditya Mathur",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369545/file/421518_1_En_7_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用进程不变量检测水处理系统的网络攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_8",
+                    "title": "Expression and Enforcement of Security Policy for Virtual Resource Allocation in IaaS Cloud",
+                    "authors": "Yanhuang Li, Nora Cuppens-Boulahia, Jean-Michel Crom, Frédéric Cuppens, Vincent Frey",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369546/file/421518_1_En_8_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IaaS云中虚拟资源分配安全策略的表达与实施"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_9",
+                    "title": "Software Defined Networking Reactive Stateful Firewall",
+                    "authors": "Salaheddine Zerkane, David Espes, Philippe Le Parc, Frédéric Cuppens",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.univ-brest.fr/hal-01333445/file/2016_Software%20Defined%20Networking%20Reactive%20Stateful%20Firewall_Draft.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "软件定义的网络反应式状态防火墙"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_10",
+                    "title": "Teaching Phishing-Security: Which Way is Best?",
+                    "authors": "Simon Stockhardt, Benjamin Reinheimer, Melanie Volkamer, Peter Mayer, Alexandra Kunz, Philipp Rack, Daniel Lehmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://publikationen.bibliothek.kit.edu/1000081966/16530103"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "教授网络钓鱼-安全:哪种方法是最好的？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_11",
+                    "title": "On Gender Specific Perception of Data Sharing in Japan",
+                    "authors": "Markus Tschersich, Shinsaku Kiyomoto, Sebastian Pape, Toru Nakamura, Gökhan Bal, Haruo Takasaki, Kai Rannenberg",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://publikationen.ub.uni-frankfurt.de/files/58307/421518_1_En_11_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "日本对数据共享的性别观点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_12",
+                    "title": "TORPEDO: TOoltip-poweRed Phishing Email DetectiOn",
+                    "authors": "Melanie Volkamer, Karen Renaud, Benjamin Reinheimer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://publikationen.bibliothek.kit.edu/1000081965/16532962"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "鱼雷:工具提示驱动的钓鱼邮件检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_13",
+                    "title": "SybilRadar: A Graph-Structure Based Framework for Sybil Detection in On-line Social Networks",
+                    "authors": "Dieudonne Mulamba, Indrajit Ray, Indrakshi Ray",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SybilRadar:一个基于图结构的在线社交网络Sybil检测框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_14",
+                    "title": "Collateral Damage of Facebook Apps: Friends, Providers, and Privacy Interdependence",
+                    "authors": "Iraklis Symeonidis, Fatemeh Shirazi, Gergely Biczók, Cristina Pérez-Solà, Bart Preneel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://real.mtak.hu/41605/1/IFIP_SEC_Springer_u.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "脸书应用的附带损害:朋友、提供商和隐私相互依赖"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_15",
+                    "title": "Automated Source Code Instrumentation for Verifying Potential Vulnerabilities",
+                    "authors": "Hongzhe Li, Jaesang Oh, Hakjoo Oh, Heejo Lee",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于验证潜在漏洞的自动化源代码检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_16",
+                    "title": "An Information Flow-Based Taxonomy to Understand the Nature of Software Vulnerabilities",
+                    "authors": "Daniela Oliveira, Jedidiah R. Crandall, Harry A. Kalodner, Nicole Morin, Megan Maher, Jesús Navarro, Felix Emiliano",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369556/file/421518_1_En_16_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种基于信息流的分类法，用于理解软件漏洞的本质"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_17",
+                    "title": "XSS PEEKER: Dissecting the XSS Exploitation Techniques and Fuzzing Mechanisms of Blackbox Web Application Scanners",
+                    "authors": "Enrico Bazzoli, Claudio Criscione, Federico Maggi, Stefano Zanero",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369557/file/421518_1_En_17_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "XSS·皮克:剖析黑盒Web应用程序扫描器的XSS利用技术和模糊机制"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_18",
+                    "title": "A Utility-Based Reputation Model for the Internet of Things",
+                    "authors": "Benjamin Aziz, Paul Fremantle, Rui Wei, Álvaro Enrique Arenas",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://pure.port.ac.uk/ws/files/4752201/A_utility_based_reputation_model_for_the_Internet_of_Things.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于效用的物联网信誉模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_19",
+                    "title": "Advanced Remote Firmware Upgrades Using TPM 2.0",
+                    "authors": "Andreas Fuchs, Christoph Krauß, Jürgen Repp",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369561/file/421518_1_En_19_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用TPM 2.0进行高级远程固件升级"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_20",
+                    "title": "RegRSA: Using Registers as Buffers to Resist Memory Disclosure Attacks",
+                    "authors": "Yuan Zhao, Jingqiang Lin, Wuqiong Pan, Cong Xue, Fangyu Zheng, Ziqiang Ma",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RegRSA:使用寄存器作为缓冲区来抵御内存泄漏攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_21",
+                    "title": "Uncertain? No, It's Very Certain! - Recovering the Key from Guessing Entropy Enhanced CPA",
+                    "authors": "Changhai Ou, Zhu Wang, Degang Sun, Xinping Zhou, Juan Ai",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "不确定？不，非常确定！-从猜测熵增强CPA中恢复密钥"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_22",
+                    "title": "Advanced or Not? A Comparative Study of the Use of Anti-debugging and Anti-VM Techniques in Generic and Targeted Malware",
+                    "authors": "Ping Chen, Christophe Huygens, Lieven Desmet, Wouter Joosen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/467926/1/ifipsec2016-chen.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "先进不先进？普通恶意软件和目标恶意软件中反调试和反虚拟机技术使用的比较研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_23",
+                    "title": "NativeProtector: Protecting Android Applications by Isolating and Intercepting Third-Party Native Libraries",
+                    "authors": "Yu-Yang Hong, Yu-Ping Wang, Jie Yin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369567/file/421518_1_En_23_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "NativeProtector:通过隔离和拦截第三方原生库来保护Android应用程序"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_24",
+                    "title": "A Progress-Sensitive Flow-Sensitive Inlined Information-Flow Control Monitor",
+                    "authors": "Andrew Bedford, Stephen Chong, Josée Desharnais, Nadia Tawbi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://dash.harvard.edu/bitstream/1/34390139/1/54251920.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一个进程敏感的流敏感的内联信息流控制监视器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_25",
+                    "title": "Deducing User Presence from Inter-Message Intervals in Home Automation Systems",
+                    "authors": "Frederik Möllers, Christoph Sorge",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从家庭自动化系统中的消息间隔推断用户存在"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_26",
+                    "title": "Privacy by Design Principles in Design of New Generation Cognitive Assistive Technologies",
+                    "authors": "Ella Kolkowska, Annica Kristoffersson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://oru.diva-portal.org/smash/get/diva2:933136/FULLTEXT01"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "新一代认知辅助技术设计中的隐私设计原则"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-33630-5_27",
+                    "title": "A Trustless Privacy-Preserving Reputation System",
+                    "authors": "Alexander Schaub, Rémi Bazin, Omar Hasan, Lionel Brunie",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01369572/file/421518_1_En_27_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种不可信的隐私保护信誉系统"
+                }
+            ]
+        }
+    ],
+    "2018": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/sec/sec2018.html",
+            "conf_title": "SEC 2018: Poznan, Poland",
+            "conf_url": "https://doi.org/10.1007/978-3-319-99828-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_1",
+                    "title": "Design Weaknesses in Recent Ultralightweight RFID Authentication Protocols",
+                    "authors": "Paolo D'Arco, Roberto De Prisco",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023727/file/472722_1_En_1_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "最近超轻型RFID认证协议中的设计弱点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_2",
+                    "title": "CPMap: Design of Click-Points Map-Based Graphical Password Authentication",
+                    "authors": "Weizhi Meng, Fei Fei, Lijun Jiang, Zhe Liu, Chunhua Su, Jinguang Han",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023732/file/472722_1_En_2_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "CPMap:基于点击地图的图形密码认证设计"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_3",
+                    "title": "The Influence of Native Language on Password Composition and Security: A Socioculture Theoretical View",
+                    "authors": "Pardon Blessings Maoneke, Stephen Flowerday, Naomi Isabirye",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023726/file/472722_1_En_3_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "母语对密码组成和安全性的影响:社会文化理论视角"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_4",
+                    "title": "A Hypergame Analysis for ErsatzPasswords",
+                    "authors": "Christopher N. Gutierrez, Mohammed H. Almeshekah, Saurabh Bagchi, Eugene H. Spafford",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023738/file/472722_1_En_4_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "假冒密码的超博弈分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_5",
+                    "title": "Walking Through the Deep: Gait Analysis for User Authentication Through Deep Learning",
+                    "authors": "Giacomo Giorgi, Fabio Martinelli, Andrea Saracino, Mina Sheikhalishahi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023725/file/472722_1_En_5_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "穿越深度:通过深度学习进行用户认证的步态分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_6",
+                    "title": "Practical Cryptographic Data Integrity Protection with Full Disk Encryption",
+                    "authors": "Milan Broz, Mikulás Patocka, Vashek Matyás",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023745/file/472722_1_En_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "全磁盘加密的实用加密数据完整性保护"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_7",
+                    "title": "When Your Browser Becomes the Paper Boy - An Anonymous Browser Network",
+                    "authors": "Juan D. Parra Rodriguez, Eduard Brehm, Joachim Posegga",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023747/file/472722_1_En_7_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "当你的浏览器成为报童——一个匿名的浏览器网络"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_8",
+                    "title": "EMPower: Detecting Malicious Power Line Networks from EM Emissions",
+                    "authors": "Richard Baker, Ivan Martinovic",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023733/file/472722_1_En_8_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "EMPower:从电磁辐射中检测恶意电力线网络"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_9",
+                    "title": "Attacking RO-PUFs with Enhanced Challenge-Response Pairs",
+                    "authors": "Nils Wisiol, Marian Margraf",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023734/file/472722_1_En_9_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用增强的挑战-响应对攻击RO-puf"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_10",
+                    "title": "A Security Analysis of FirstCoin",
+                    "authors": "Alexander Marsalek, Christian Kollmann, Thomas Zefferer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023720/file/472722_1_En_10_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "FirstCoin的安全性分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_11",
+                    "title": "PRETT: Protocol Reverse Engineering Using Binary Tokens and Network Traces",
+                    "authors": "Choong In Lee, Jeonghan Bae, Heejo Lee",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023719/file/472722_1_En_11_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "PRETT:使用二进制令牌和网络跟踪的协议逆向工程"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_12",
+                    "title": "Assessing Privacy Policies of Internet of Things Services",
+                    "authors": "Niklas Paul, Welderufael B. Tesfay, Dennis-Kenji Kipker, Mattea Stelter, Sebastian Pape",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://publikationen.ub.uni-frankfurt.de/files/58309/472722_1_En_12_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "评估物联网服务的隐私策略"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_13",
+                    "title": "JonDonym Users' Information Privacy Concerns",
+                    "authors": "David Harborth, Sebastian Pape",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://publikationen.ub.uni-frankfurt.de/files/58308/472722_1_En_13_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "JonDonym用户的信息隐私问题"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_14",
+                    "title": "Optimal Security Configuration for Cyber Insurance",
+                    "authors": "Fabio Martinelli, Ganbayar Uuganbayar, Artsiom Yautsiukhin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://zenodo.org/record/7628910/files/Optimal%20Security%20Configuration%20for%20Cyber%20Insurance.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络保险的最优安全配置"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_15",
+                    "title": "The Tweet Advantage: An Empirical Analysis of 0-Day Vulnerability Information Shared on Twitter",
+                    "authors": "Clemens Sauerwein, Christian Sillaber, Michael M. Huber, Andrea Mussmann, Ruth Breu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023722/file/472722_1_En_15_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "推特优势:推特上共享的0天漏洞信息的实证分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_16",
+                    "title": "Anti-forensic = Suspicious: Detection of Stealthy Malware that Hides Its Network Traffic",
+                    "authors": "Mayank Agarwal, Rami Puzis, Jawad Haj-Yahya, Polina Zilberman, Yuval Elovici",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023723/file/472722_1_En_16_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "反取证=可疑:检测隐藏其网络流量的秘密恶意软件"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_17",
+                    "title": "Usability Characteristics of Security and Privacy Tools: The User's Perspective",
+                    "authors": "Ioanna Topa, Maria Karyda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023741/file/472722_1_En_17_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "安全和隐私工具的可用性特征:用户视角"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_18",
+                    "title": "Efficient Identification of Applications in Co-resident VMs via a Memory Side-Channel",
+                    "authors": "Jens Lindemann, Mathias Fischer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023744/file/472722_1_En_18_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过存储器侧通道有效识别共存虚拟机中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_19",
+                    "title": "Follow the WhiteRabbit: Towards Consolidation of On-the-Fly Virtualization and Virtual Machine Introspection",
+                    "authors": "Sergej Proskurin, Julian Kirsch, Apostolis Zarras",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023739/file/472722_1_En_19_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "跟随白兔:整合动态虚拟化和虚拟机自省"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_20",
+                    "title": "Hunting Password Leaks in Android Applications",
+                    "authors": "Johannes Feichtner",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023717/file/472722_1_En_20_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "寻找Android应用程序中的密码泄露"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_21",
+                    "title": "Smashing the Stack Protector for Fun and Profit",
+                    "authors": "Bruno Bierbaumer, Julian Kirsch, Thomas Kittel, Aurélien Francillon, Apostolis Zarras",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023742/file/472722_1_En_21_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "粉碎栈保护器的乐趣和利润"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_22",
+                    "title": "Formal Analysis of Sneak-Peek: A Data Centre Attack and Its Mitigations",
+                    "authors": "Wei Chen, Yuhui Lin, Vashti Galpin, Vivek Nigam, Myungjin Lee, David Aspinall",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-99828-2_22.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数据中心攻击及其缓解措施的形式化分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_23",
+                    "title": "An Evaluation of Bucketing in Systems with Non-deterministic Timing Behavior",
+                    "authors": "Yuri Gil Dantas, Richard Gay, Tobias Hamann, Heiko Mantel, Johannes Schickel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023728/file/472722_1_En_23_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有不确定性定时行为的系统中的分桶评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_24",
+                    "title": "Detection and Response to Data Exfiltration from Internet of Things Android Devices",
+                    "authors": "Mariem Graa, Ivan Marco Lobe Kome, Nora Cuppens-Boulahia, Frédéric Cuppens, Vincent Frey",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023715/file/472722_1_En_24_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "物联网Android设备数据泄露的检测和响应"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_25",
+                    "title": "When George Clooney Is Not George Clooney: Using GenAttack to Deceive Amazon's and Naver's Celebrity Recognition APIs",
+                    "authors": "Keeyoung Kim, Simon S. Woo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023746/file/472722_1_En_25_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "当乔治·克鲁尼不是乔治·克鲁尼:利用GenAttack欺骗亚马逊和Naver的名人识别API"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_26",
+                    "title": "Performance Improvements in Behavior Based Malware Detection Solutions",
+                    "authors": "Gheorghe Hajmasan, Alexandra Mondoc, Radu Portase, Octavian Cret",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02023724/file/472722_1_En_26_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于行为的恶意软件检测解决方案的性能改进"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-99828-2_27",
+                    "title": "On the Integrity of Cross-Origin JavaScripts",
+                    "authors": "Jukka Ruohonen, Joonas Salovaara, Ville Leppänen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1809.05628"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "跨源JavaScripts的完整性"
+                }
+            ]
+        }
+    ],
+    "2017": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/sec/sec2017.html",
+            "conf_title": "SEC 2017: Rome, Italy",
+            "conf_url": "https://doi.org/10.1007/978-3-319-58469-0",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_1",
+                    "title": "Turning Active TLS Scanning to Eleven",
+                    "authors": "Wilfried Mayer, Martin Schmiedecker",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "将活动TLS扫描设置为11"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_2",
+                    "title": "Slow TCAM Exhaustion DDoS Attack",
+                    "authors": "Túlio A. Pascoal, Yuri Gil Dantas, Iguatemi E. Fonseca, Vivek Nigam",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649013/file/449885_1_En_2_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "缓慢TCAM衰竭DDoS攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_3",
+                    "title": "Evasive Malware Detection Using Groups of Processes",
+                    "authors": "Gheorghe Hajmasan, Alexandra Mondoc, Radu Portase, Octavian Cret",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649019/file/449885_1_En_3_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用进程组的规避恶意软件检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_4",
+                    "title": "A Malware-Tolerant, Self-Healing Industrial Control System Framework",
+                    "authors": "Michael Denzel, Mark Ryan, Eike Ritter",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种容忍恶意软件、自我修复的工业控制系统框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_5",
+                    "title": "Process Discovery for Industrial Control System Cyber Attack Detection",
+                    "authors": "David Myers, Kenneth Radke, Suriadi Suriadi, Ernest Foo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprints.qut.edu.au/103994/1/IFIP-SEC-Paper.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "工业控制系统网络攻击检测的进程发现"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_6",
+                    "title": "Secure Photo Sharing in Social Networks",
+                    "authors": "Pablo Picazo-Sanchez, Raúl Pardo, Gerardo Schneider",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649017/file/449885_1_En_6_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "社交网络中的安全照片共享"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_7",
+                    "title": "Context-Dependent Privacy-Aware Photo Sharing Based on Machine Learning",
+                    "authors": "Lin Yuan, Joël Theytaz, Touradj Ebrahimi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://infoscience.epfl.ch/record/226368/files/2017_IFIP_SEC_ProShareS_CamReady.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于机器学习的上下文相关隐私感知照片共享"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_8",
+                    "title": "3LP: Three Layers of Protection for Individual Privacy in Facebook",
+                    "authors": "Khondker Jahid Reza, Md Zahidul Islam, Vladimir Estivill-Castro",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649014/file/449885_1_En_8_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "3LP:脸书个人隐私的三层保护"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_9",
+                    "title": "A Framework for Moving Target Defense Quantification",
+                    "authors": "Warren Connell, Massimiliano Albanese, Sridhar Venkatesan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "移动目标防御量化框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_10",
+                    "title": "Query Privacy in Sensing-as-a-Service Platforms",
+                    "authors": "Ruben Rios, David Nuñez, Javier López",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01648989/file/449885_1_En_10_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "感知即服务平台中的隐私查询"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_11",
+                    "title": "Secure and Efficient k-NN Queries",
+                    "authors": "Hafiz Salman Asif, Jaideep Vaidya, Basit Shafiq, Nabil R. Adam",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://europepmc.org/articles/pmc5713910?pdf=render"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "安全高效的k-NN查询"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_12",
+                    "title": "Secure and Trustable Distributed Aggregation Based on Kademlia",
+                    "authors": "Stéphane Grumbach, Robert Riemann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1709.03265"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于Kademlia的安全可信分布式聚合"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_13",
+                    "title": "HyBIS: Advanced Introspection for Effective Windows Guest Protection",
+                    "authors": "Roberto Di Pietro, Federico Franzoni, Flavio Lombardi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1601.05851"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "HyBIS:有效保护Windows访客的高级内省"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_14",
+                    "title": "Detection of Side Channel Attacks Based on Data Tainting in Android Systems",
+                    "authors": "Mariem Graa, Nora Cuppens-Boulahia, Frédéric Cuppens, Jean-Louis Lanet, Routa Moussaileb",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01648994/file/449885_1_En_14_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Android系统中基于数据污染的旁路攻击检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_15",
+                    "title": "The Fuzzing Awakens: File Format-Aware Mutational Fuzzing on Smartphone Media Server Daemons",
+                    "authors": "MinSik Shin, JungBeen Yu, Youngjin Yoon, Taekyoung Kwon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "模糊觉醒:智能手机媒体服务器守护进程上的文件格式感知突变模糊"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_16",
+                    "title": "Towards Automated Classification of Firmware Images and Identification of Embedded Devices",
+                    "authors": "Andrei Costin, Apostolis Zarras, Aurélien Francillon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jyx.jyu.fi/bitstream/123456789/56025/1/ifip17costincameraready.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面向固件映像的自动分类和嵌入式设备的识别"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_17",
+                    "title": "Runtime Firmware Product Lines Using TPM2.0",
+                    "authors": "Andreas Fuchs, Christoph Krauß, Jürgen Repp",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649005/file/449885_1_En_17_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用TPM2.0的运行时固件产品线"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_18",
+                    "title": "On the Use of Emojis in Mobile Authentication",
+                    "authors": "Lydia Kraus, Robert Schmidt, Marcel Walch, Florian Schaub, Sebastian Möller",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649025/file/449885_1_En_18_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "表情符号在手机认证中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_19",
+                    "title": "EmojiTCHA: Using Emotion Recognition to Tell Computers and Humans Apart",
+                    "authors": "David Lorenzi, Jaideep Vaidya, Achyuta Aich, Shamik Sural, Vijayalakshmi Atluri, Joseph Calca",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649012/file/449885_1_En_19_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "EmojiTCHA:使用情感识别来区分计算机和人类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_20",
+                    "title": "Assisted Authoring, Analysis and Enforcement of Access Control Policies in the Cloud",
+                    "authors": "Umberto Morelli, Silvio Ranise",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649021/file/449885_1_En_20_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "云中访问控制策略的辅助创作、分析和实施"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_21",
+                    "title": "Capturing Policies for BYOD",
+                    "authors": "Joseph Hallett, David Aspinall",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-58469-0_21.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "获取BYOD策略"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_22",
+                    "title": "Improving Blind Steganalysis in Spatial Domain Using a Criterion to Choose the Appropriate Steganalyzer Between CNN and SRM+EC",
+                    "authors": "Jean-François Couchot, Raphaël Couturier, Michel Salomon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1612.08882"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用在CNN和SRM+EC之间选择适当隐写分析器的标准来改进空间域中的盲隐写分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_23",
+                    "title": "BinSign: Fingerprinting Binary Functions to Support Automated Analysis of Code Executables",
+                    "authors": "Lina Nouh, Ashkan Rahimian, Djedjiga Mouheb, Mourad Debbabi, Aiman Hanna",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01648996/file/449885_1_En_23_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "BinSign:指纹二进制函数，支持代码可执行文件的自动分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_24",
+                    "title": "Decoy Password Vaults: At Least as Hard as Steganography?",
+                    "authors": "Cecilia Pasquini, Pascal Schöttle, Rainer Böhme",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-58469-0_24.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "诱骗密码金库:至少和隐写术一样难？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_25",
+                    "title": "Election-Dependent Security Evaluation of Internet Voting Schemes",
+                    "authors": "Stephan Neumann, Manuel Noll, Melanie Volkamer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01648992/file/449885_1_En_25_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "互联网投票方案的选举相关安全性评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_26",
+                    "title": "Combating Control Flow Linearization",
+                    "authors": "Julian Kirsch, Clemens Jonischkeit, Thomas Kittel, Apostolis Zarras, Claudia Eckert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649008/file/449885_1_En_26_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对抗控制流线性化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_27",
+                    "title": "Ghost Patches: Fake Patches for Fake Vulnerabilities",
+                    "authors": "Jeffrey Avery, Eugene H. Spafford",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "幽灵补丁:针对虚假漏洞的虚假补丁"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_28",
+                    "title": "SIMBER: Eliminating Redundant Memory Bound Checks via Statistical Inference",
+                    "authors": "Hongfa Xue, Yurong Chen, Fan Yao, Yongbo Li, Tian Lan, Guru Venkataramani",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01648985/file/449885_1_En_28_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SIMBER:通过统计推断消除冗余内存边界检查"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_29",
+                    "title": "Towards Systematic Privacy and Operability (PRIOP) Studies",
+                    "authors": "Rene Meis, Maritta Heisel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "走向系统隐私和可操作性(PRIOP)研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_30",
+                    "title": "Data Minimisation: A Language-Based Approach",
+                    "authors": "Thibaud Antignac, David Sands, Gerardo Schneider",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01648986/file/449885_1_En_30_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数据最小化:基于语言的方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_31",
+                    "title": "Differentially Private Neighborhood-Based Recommender Systems",
+                    "authors": "Jun Wang, Qiang Tang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1701.02120"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于差别私有邻域的推荐系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_32",
+                    "title": "Privacy-Enhanced Profile-Based Authentication Using Sparse Random Projection",
+                    "authors": "Somayeh Taheri, Md. Morshedul Islam, Reihaneh Safavi-Naini",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用稀疏随机投影的隐私增强的基于简档的认证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_33",
+                    "title": "Supporting Privacy by Design Using Privacy Process Patterns",
+                    "authors": "Vasiliki Diamantopoulou, Christos Kalloniatis, Stefanos Gritzalis, Haralambos Mouratidis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cris.brighton.ac.uk/ws/files/458523/typeinst.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用隐私过程模式通过设计支持隐私"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_34",
+                    "title": "Evaluating the Privacy Implications of Frequent Itemset Disclosure",
+                    "authors": "Edoardo Serra, Jaideep Vaidya, Haritha Akella, Ashish Sharma",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://europepmc.org/articles/pmc5710857?pdf=render"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "评估频繁项集披露的隐私含义"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_35",
+                    "title": "Forward-Secure Digital Signature Schemes with Optimal Computation and Storage of Signers",
+                    "authors": "Jihye Kim, Hyunok Oh",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "签名者计算和存储最优的前向安全数字签名方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_36",
+                    "title": "RiskInDroid: Machine Learning-Based Risk Analysis on Android",
+                    "authors": "Alessio Merlo, Gabriel Claudiu Georgiu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01648990/file/449885_1_En_36_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RiskInDroid:基于机器学习的Android风险分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_37",
+                    "title": "Using Fraud Patterns for Fraud Risk Assessment of E-services",
+                    "authors": "Ahmed Seid Yesuf, Jetzabel Serna-Olvera, Kai Rannenberg",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用欺诈模式对电子服务进行欺诈风险评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-58469-0_38",
+                    "title": "Gadget Weighted Tagging: A Flexible Framework to Protect Against Code Reuse Attacks",
+                    "authors": "Liwei Chen, Mengyu Ma, Wenhao Zhang, Gang Shi, Dan Meng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01649002/file/449885_1_En_38_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "小工具加权标记:一个灵活的防止代码重用攻击的框架"
+                }
+            ]
+        }
+    ],
+    "2015": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/sec/sec2015.html",
+            "conf_title": "SEC 2015: Hamburg, Germany",
+            "conf_url": "https://doi.org/10.1007/978-3-319-18467-8",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_1",
+                    "title": "O-PSI: Delegated Private Set Intersection on Outsourced Datasets",
+                    "authors": "Aydin Abadi, Sotirios Terzis, Changyu Dong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://strathprints.strath.ac.uk/52407/1/Abadi_etal_IFIP_SEC2015_O_PSI_delegated_private_set_intersection_outsourced_datasets.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "O-PSI:外包数据集上的委托私有集交集"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_2",
+                    "title": "Flexible and Robust Privacy-Preserving Implicit Authentication",
+                    "authors": "Josep Domingo-Ferrer, Qianhong Wu, Alberto Blanco-Justicia",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_2.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "灵活和健壮的隐私保护隐式认证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_3",
+                    "title": "Towards Relations Between the Hitting-Set Attack and the Statistical Disclosure Attack",
+                    "authors": "Dang Vinh Pham, Dogan Kesdogan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345094/file/337885_1_En_3_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "击中集攻击与统计泄露攻击的关系"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_4",
+                    "title": "POSN: A Personal Online Social Network",
+                    "authors": "Esra Erdin, Eric Klukovich, Gurhan Gunduz, Mehmet Hadi Gunes",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345095/file/337885_1_En_4_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "POSN:个人在线社交网络"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_5",
+                    "title": "Strategic Noninterference",
+                    "authors": "Wojciech Jamroga, Masoud Tabatabaei",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_5.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "战略不干涉"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_6",
+                    "title": "Verifying Observational Determinism",
+                    "authors": "Jaber Karimpour, Ayaz Isazadeh, Ali A. Noroozi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_6.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "验证观察决定论"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_7",
+                    "title": "Cache Timing Attacks Revisited: Efficient and Repeatable Browser History, OS and Network Sniffing",
+                    "authors": "Chetan Bansal, Sören Preibusch, Natasa Milic-Frayling",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_7.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "重新审视缓存计时攻击:高效且可重复的浏览器历史记录、操作系统和网络嗅探"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_8",
+                    "title": "Enforcing Usage Constraints on Credentials for Web Applications",
+                    "authors": "Jinwei Hu, Heiko Mantel, Sebastian Ruhleder",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345100/file/337885_1_En_8_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对Web应用程序的凭据实施使用约束"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_9",
+                    "title": "A Survey of Alerting Websites: Risks and Solutions",
+                    "authors": "Amrit Kumar, Cédric Lauradoux",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_9.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "预警网站调查:风险与解决方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_10",
+                    "title": "A Generalization of ISO/IEC 24761 to Enhance Remote Authentication with Trusted Product at Claimant",
+                    "authors": "Asahiko Yamada",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_10.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ISO/IEC 24761的推广，以增强索赔方对可信产品的远程认证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_11",
+                    "title": "Enhancing Passwords Security Using Deceptive Covert Communication",
+                    "authors": "Mohammed H. Almeshekah, Mikhail J. Atallah, Eugene H. Spafford",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_11.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用欺骗性隐蔽通信增强密码安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_12",
+                    "title": "Information Sharing and User Privacy in the Third-Party Identity Management Landscape",
+                    "authors": "Anna Vapen, Niklas Carlsson, Anirban Mahanti, Nahid Shahmehri",
+                    "abstract": "Third-party identity management services enable cross-site information sharing, making Web access seamless but also raise significant privacy implications for the users. Using a combination of manual analysis of identified third-party identity management relationships and targeted case studies we capture how the protocol usage and third-party selection is changing, profile what information is requested to be shared (and actions to be performed) between websites, and identify privacy issues and practical problems that occur when using multiple accounts (associated with these services). The study highlights differences in the privacy leakage risks associated with different classes of websites, and shows that the use of multiple third-party websites, in many cases, can cause the user to lose (at least) partial control over which information is shared/posted on their behalf.",
+                    "files": {
+                        "openAccessPdf": "http://liu.diva-portal.org/smash/get/diva2:809431/FULLTEXT02"
+                    },
+                    "abstract_zh": "第三方身份管理服务支持跨站点信息共享，使Web访问变得无缝，但也给用户带来了严重的隐私问题。通过结合对已识别的第三方身份管理关系的手动分析和有针对性的案例研究，我们了解了协议使用和第三方选择是如何变化的，描述了网站之间需要共享的信息(以及要执行的操作)，并确定了使用多个帐户(与这些服务相关)时出现的隐私问题和实际问题。该研究强调了与不同类别网站相关的隐私泄露风险的差异，并表明在许多情况下，使用多个第三方网站会导致用户失去(至少)对代表他们共享/发布的信息的部分控制。",
+                    "title_zh": "第三方身份管理环境中的信息共享和用户隐私"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_13",
+                    "title": "An Iterative Algorithm for Reputation Aggregation in Multi-dimensional and Multinomial Rating Systems",
+                    "authors": "Mohsen Rezvani, Mohammad Allahbakhsh, Lorenzo Vigentini, Aleksandar Ignjatovic, Sanjay K. Jha",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_13.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多维多项式评级系统中信誉聚合的迭代算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_14",
+                    "title": "A Comparison of PHY-Based Fingerprinting Methods Used to Enhance Network Access Control",
+                    "authors": "Timothy J. Carbino, Michael A. Temple, Juan Lopez Jr.",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_14.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于增强网络访问控制的基于PHY的指纹方法的比较"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_15",
+                    "title": "Model-Driven Integration and Analysis of Access-control Policies in Multi-layer Information Systems",
+                    "authors": "Salvador Martínez Perez, Joaquín García-Alfaro, Frédéric Cuppens, Nora Cuppens-Boulahia, Jordi Cabot",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01152528/file/SEC2015.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多层信息系统中访问控制策略的模型驱动集成与分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_16",
+                    "title": "Authenticated File Broadcast Protocol",
+                    "authors": "Simão Reis, André Zúquete, Carlos Faneca, José M. N. Vieira",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345111/file/337885_1_En_16_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "认证文件广播协议"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_17",
+                    "title": "Automated Classification of C&C Connections Through Malware URL Clustering",
+                    "authors": "Nizar Kheir, Gregory Blanc, Hervé Debar, Joaquín García-Alfaro, Dingqi Yang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-01255089/file/337885_1_En_17_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过恶意软件URL聚类对C&C连接进行自动分类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_18",
+                    "title": "B.Hive: A Zero Configuration Forms Honeypot for Productive Web Applications",
+                    "authors": "Christoph Pohl, Alf Zugenmaier, Michael Meier, Hans-Joachim Hof",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_18.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "B.Hive:生产性Web应用的零配置形式蜜罐"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_19",
+                    "title": "Investigation of Employee Security Behaviour: A Grounded Theory Approach",
+                    "authors": "Lena Yuryna Connolly, Michael Lang, J. Doug Tygar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345114/file/337885_1_En_19_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "员工安全行为调查:扎根理论方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_20",
+                    "title": "Practice-Based Discourse Analysis of InfoSec Policies",
+                    "authors": "Fredrik Karlsson, Göran Goldkuhl, Karin Hedström",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_20.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于实践的信息安全政策话语分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_21",
+                    "title": "Understanding Collaborative Challenges in IT Security Preparedness Exercises",
+                    "authors": "Maria B. Line, Nils Brede Moe",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345116/file/337885_1_En_21_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "了解IT安全准备工作中的协作挑战"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_22",
+                    "title": "Social Groupings and Information Security Obedience Within Organizations",
+                    "authors": "Teodor Sommestad",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_22.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "组织内的社会群体与信息安全服从"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_23",
+                    "title": "Attack Trees with Sequential Conjunction",
+                    "authors": "Ravi Jhawar, Barbara Kordy, Sjouke Mauw, Sasa Radomirovic, Rolando Trujillo-Rasua",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_23.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用顺序合取攻击树"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_24",
+                    "title": "Enhancing the Security of Image CAPTCHAs Through Noise Addition",
+                    "authors": "David Lorenzi, Emre Uzun, Jaideep Vaidya, Shamik Sural, Vijayalakshmi Atluri",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345127/file/337885_1_En_24_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过添加噪声增强图像验证码的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_25",
+                    "title": "SHRIFT System-Wide HybRid Information Flow Tracking",
+                    "authors": "Enrico Lovat, Alexander Fromm, Martin Mohr, Alexander Pretschner",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_25.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SHRIFT全系统混合信息流跟踪"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_26",
+                    "title": "ISboxing: An Instruction Substitution Based Data Sandboxing for x86 Untrusted Libraries",
+                    "authors": "Liang Deng, Qingkai Zeng, Yao Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_26.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ISboxing:基于指令替换的x86非信任库数据沙箱"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_27",
+                    "title": "Exploit Generation for Information Flow Leaks in Object-Oriented Programs",
+                    "authors": "Quoc Huy Do, Richard Bubel, Reiner Hähnle",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345131/file/337885_1_En_27_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面向对象程序中信息流泄漏的利用生成"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_28",
+                    "title": "Memoized Semantics-Based Binary Diffing with Application to Malware Lineage Inference",
+                    "authors": "Jiang Ming, Dongpeng Xu, Dinghao Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://faculty.ist.psu.edu/wu/papers/memoized-IFIP_SEC_2015.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于记忆语义的二元区分及其在恶意软件谱系推断中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_29",
+                    "title": "Mitigating Code-Reuse Attacks on CISC Architectures in a Hardware Approach",
+                    "authors": "Zhijiao Zhang, Ya-Shuai Lü, Yu Chen, Yongqiang Lu, Yuanchun Shi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345134/file/337885_1_En_29_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用硬件方法减轻对CISC体系结构的代码重用攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_30",
+                    "title": "Integrity for Approximate Joins on Untrusted Computational Servers",
+                    "authors": "Sabrina De Capitani di Vimercati, Sara Foresti, Sushil Jajodia, Stefano Paraboschi, Pierangela Samarati",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_30.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "不可信计算服务器上近似连接的完整性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_31",
+                    "title": "Fast Revocation of Attribute-Based Credentials for Both Users and Verifiers",
+                    "authors": "Wouter Lueks, Gergely Alpár, Jaap-Henk Hoepman, Pim Vullers",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://repository.ubn.ru.nl/bitstream/handle/2066/173188/5/173188.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用户和验证者的基于属性的凭证的快速撤销"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_32",
+                    "title": "Chaotic Chebyshev Polynomials Based Remote User Authentication Scheme in Client-Server Environment",
+                    "authors": "Toan-Thinh Truong, Minh-Triet Tran, Anh Duc Duong, Isao Echizen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_32.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "客户-服务器环境下基于混沌Chebyshev多项式的远程用户认证方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_33",
+                    "title": "A Secure Exam Protocol Without Trusted Parties",
+                    "authors": "Giampaolo Bella, Rosario Giustolisi, Gabriele Lenzini, Peter Y. A. Ryan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01345141/file/337885_1_En_33_Chapter.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种无可信中心的安全考试协议"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_34",
+                    "title": "ApkCombiner: Combining Multiple Android Apps to Support Inter-App Analysis",
+                    "authors": "Li Li, Alexandre Bartel, Tegawendé F. Bissyandé, Jacques Klein, Yves Le Traon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_34.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ApkCombiner:组合多个Android应用程序以支持应用程序间分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_35",
+                    "title": "Assessment of the Susceptibility to Data Manipulation of Android Games with In-app Purchases",
+                    "authors": "Francisco Vigário, Miguel Neto, Diogo Fonseca, Mário M. Freire, Pedro R. M. Inácio",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_35.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "应用内购买的Android游戏易受数据操纵影响的评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_36",
+                    "title": "An Empirical Study on Android for Saving Non-shared Data on Public Storage",
+                    "authors": "Xiangyu Liu, Zhe Zhou, Wenrui Diao, Zhou Li, Kehuan Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1407.5410"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Android在公共存储上保存非共享数据的实证研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_37",
+                    "title": "The Dual-Execution-Environment Approach: Analysis and Comparative Evaluation",
+                    "authors": "Mohamed Sabt, Mohammed Achemlal, Abdelmadjid Bouabdallah",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-01246353/file/ifipsec_2015_the_dual_ee_approach.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "双执行环境方法:分析和比较评价"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_38",
+                    "title": "On the Privacy, Security and Safety of Blood Pressure and Diabetes Apps",
+                    "authors": "Konstantin Knorr, David Aspinall, Maria Wolters",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_38.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于血压和糖尿病应用程序的隐私、安全性和安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_39",
+                    "title": "A Cloud-Based eHealth Architecture for Privacy Preserving Data Integration",
+                    "authors": "Alevtina Dubovitskaya, Visara Urovi, Matteo Vasirani, Karl Aberer, Michael Ignaz Schumacher",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://infoscience.epfl.ch/record/207974/files/ACloudBasedEHealth_Dubovitskaya et al. 2015.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种基于云的隐私保护数据集成电子健康架构"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_40",
+                    "title": "Application of a Game Theoretic Approach in Smart Sensor Data Trustworthiness Problems",
+                    "authors": "Konstantinos Maraslis, Theodoros Spyridopoulos, George C. Oikonomou, Theo Tryfonas, Mo Haghighi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_40.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "博弈论方法在智能传感器数据可信性问题中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_41",
+                    "title": "Securing BACnet's Pitfalls",
+                    "authors": "Jaspreet Kaur, Jernej Tonejc, Steffen Wendzel, Michael Meier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_41.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "保护BACnet的陷阱"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-18467-8_42",
+                    "title": "On the Secure Distribution of Vendor-Specific Keys in Deployment Scenarios",
+                    "authors": "Nicolai Kuntze, Andreas Fuchs, Carsten Rudolph",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-319-18467-8_42.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "部署场景中特定于供应商的密钥的安全分发"
+                }
+            ]
+        }
+    ]
+}

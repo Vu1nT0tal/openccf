@@ -1,0 +1,16 @@
+rich
+pyyaml
+aiohttp
+tenacity
+requests
+pyfiglet
+scholarly
+free-proxy
+playwright
+translators
+httpx[socks]
+bibtexparser
+pycryptodome
+fake_useragent
+beautifulsoup4
+semanticscholar

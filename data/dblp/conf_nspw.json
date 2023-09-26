@@ -1,0 +1,965 @@
+{
+    "2020": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/nspw/nspw2020.html",
+            "conf_title": "NSPW 2020: Virtual Event, USA",
+            "conf_url": "https://doi.org/10.1145/3442167",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442171",
+                    "title": "Categorizing Uses of Communications Metadata: Systematizing Knowledge and Presenting a Path for Privacy",
+                    "authors": "Susan Landau",
+                    "abstract": "Communications metadata can be used to determine a communication’s device, identify the user of the device, and profile the user’s personality and behavior. The current state of affairs is that the increase of attacks against user privacy based on using communications metadata vastly outpaces the ability of users to protect themselves. With few exceptions, protections are point solutions against a specific attack. In the current situation, the user loses. This paper is an initial step in a multi-step research effort to reset that balance. The main contribution of this paper is a categorization of the uses of communications metadata based on their privacy impact. Because of the technical complexity of the problem, including the wide variety of electronic communications, technology can only go so far in providing solutions to the privacy problems created by the use of communications metadata. Legal and policy intervention will also be needed. This categorization is intended to provide a start in developing legal and policy privacy protections for communications metadata. Along the way, I also provide an explanation for how it is that communications metadata has become so valuable, sometimes surpassing the value of content. This work provides both an intellectual framework for thinking about the privacy implications of the use of communications metadata and a roadmap, with first steps taken, for providing privacy protections for users of electronic communications.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3442167.3442171"
+                    },
+                    "abstract_zh": "通信元数据可用于确定通信的设备、识别设备的用户以及描述用户的个性和行为。目前的情况是，基于使用通信元数据对用户隐私的攻击的增加大大超过了用户保护自己的能力。除了少数例外，保护是针对特定攻击的单点解决方案。在目前的情况下，用户输了。这篇论文是一项多步骤研究努力的第一步，旨在恢复这种平衡。本文的主要贡献是根据通信元数据对隐私的影响对通信元数据的使用进行了分类。由于这一问题的技术复杂性，包括各种各样的电子通信，技术只能为使用通信元数据造成的隐私问题提供解决方案。还需要法律和政策干预。这种分类旨在为制定通信元数据的法律和政策隐私保护提供一个开端。同时，我还解释了为什么通信元数据变得如此有价值，有时甚至超过了内容的价值。这项工作为思考使用通信元数据的隐私含义提供了一个智力框架，并为向电子通信用户提供隐私保护提供了一个路线图，并采取了初步措施。",
+                    "title_zh": "通信元数据的分类使用:知识系统化和展示隐私之路"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442180",
+                    "title": "Towards In-Band Non-Cryptographic Authentication",
+                    "authors": "Nour Dabbour, Anil Somayaji",
+                    "abstract": "Robust, secure authentication is essential in online interactions. Current best practice is to combine factors communicated using different channels; however, in some contexts multi-factor authentication may not be feasible or appropriate. Thus there is a need for authentication strategies that do not rely on classic multiple factors. While people normally rely upon multiple factors to authenticate each other, there is anecdotal evidence that such factors are not needed to authenticate close relationships, and that in fact they can recognize each other over an extremely low-bandwidth channel: texting. In this work we examine whether people who know each other well can, in fact, authenticate each other while texting in an adversarial context. We present results from a “friend imitation” game that has many similarities to Turing’s Imitation Game. Results from this user study indicate that people use a variety of syntactic and semantic techniques to authenticate each other when texting. While some of the observed techniques are not secure against adversaries with access to social media and other data sources, others leverage sophisticated mental models of the other person’s expected behaviour that can quickly be used to detect impersonation attempts. We also explore to what extent these insights could inform mechanisms for in-band non-cryptographic authentication in computer-to-human, human-to-computer, and computer-to-computer communication contexts.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "强大、安全的身份认证在在线交互中至关重要。目前的最佳做法是结合使用不同渠道传达的因素；但是，在某些情况下，多因素身份认证可能不可行或不合适。因此，需要不依赖于传统多重因素的认证策略。虽然人们通常依赖多种因素来认证彼此，但有轶事证据表明，认证亲密关系不需要这些因素，事实上，他们可以通过极低带宽的渠道识别彼此:短信。在这项工作中，我们检验了在敌对的环境中发短信时，彼此非常了解的人是否真的能够相互认证。我们展示了一个“朋友模仿”游戏的结果，这个游戏和图灵的模仿游戏有很多相似之处。这项用户研究的结果表明，人们在发短信时使用各种句法和语义技术来验证对方。虽然观察到的一些技术对于访问社交媒体和其他数据源的对手来说是不安全的，但其他技术利用了其他人预期行为的复杂心理模型，可以快速用于检测假冒企图。我们还探索了这些见解在多大程度上可以为计算机到人、人到计算机和计算机到计算机通信环境中的带内非加密认证机制提供信息。",
+                    "title_zh": "走向带内非密码认证"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442178",
+                    "title": "Putting the Sec in DevSecOps: Using Social Practice Theory to Improve Secure Software Development",
+                    "authors": "Debi Ashenden, Gail Ollis",
+                    "abstract": "Practices such as open source development, agile, DevOps and DevSecOps mean that cyber security professionals need to find ways to blend cyber security with software development practices. One way of approaching this is as an awareness, education and training problem and many organisations are focusing on training software developers in cyber security. In this paper, however, we make the case for looking more broadly at group rather than individual behaviours, by examining the social practices of software developers. Changing software development practices are shaping the lived experience of software developers and we argue that understanding these practices will enable us to improve secure software development. We use social practice theory as a framework to develop recommendations for aligning and blending cyber security and software development. To achieve this, we carried out a rapid review of research on software development practices and supplemented this with data from ten key informant interviews to ascertain what we need to consider when developing an intervention for secure software development. Finally, we outline how our research could be used to develop a workshop that would facilitate the co-creation of security practices for software development. We conclude with suggestions for future research.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3442167.3442178"
+                    },
+                    "abstract_zh": "开源开发、敏捷、DevOps和DevSecOps等实践意味着网络安全专业人员需要找到将网络安全与软件开发实践相融合的方法。解决这一问题的一个方法是意识、教育和培训问题，许多组织正专注于培训网络安全方面的软件开发人员。然而，在本文中，我们通过研究软件开发人员的社会实践，提出了更广泛地看待群体行为而不是个人行为的理由。不断变化的软件开发实践正在塑造软件开发人员的生活体验，我们认为理解这些实践将使我们能够改进安全的软件开发。我们使用社会实践理论作为一个框架，为调整和融合网络安全和软件开发提出建议。为了实现这一点，我们对软件开发实践的研究进行了快速回顾，并补充了来自10个关键信息提供者访谈的数据，以确定我们在开发安全软件开发的干预措施时需要考虑什么。最后，我们概述了如何将我们的研究用于开发一个研讨会，该研讨会将促进软件开发的安全实践的共同创建。最后，我们对未来的研究提出了建议。",
+                    "title_zh": "将Sec置于DevSecOps:使用社会实践理论改进安全软件开发"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442173",
+                    "title": "The Framework of Security-Enhancing Friction: How UX Can Help Users Behave More Securely",
+                    "authors": "Verena Distler, Gabriele Lenzini, Carine Lallemand, Vincent Koenig",
+                    "abstract": "A growing body of research in the usable privacy and security community addresses the question of how to best influence user behavior to reduce risk-taking. We propose to address this challenge by integrating the concept of user experience (UX) into empirical usable privacy and security studies that attempt to change risk-taking behavior. UX enables us to study the complex interplay between user-related, system-related and contextual factors and provides insights into the experiential aspects underlying behavior change, including negative experiences. We first compare and contrast existing security-enhancing interventions (e.g., nudges, warnings, fear appeals) through the lens of friction. We then build on these insights to argue that it can be desirable to design for moments of negative UX in security-critical situations. For this purpose, we introduce the novel concept of security-enhancing friction, friction that effectively reduces the occurrence of risk-taking behavior and ensures that the overall UX (after use) is not compromised. We illustrate how security-enhancing friction provides an actionable way to systematically integrate the concept of UX into empirical usable privacy and security studies for meeting both the objectives of secure behavior and of overall acceptable experience.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3442167.3442173"
+                    },
+                    "abstract_zh": "在可用隐私和安全社区中，越来越多的研究致力于解决如何最好地影响用户行为以减少冒险的问题。我们建议通过将用户体验(UX)的概念整合到试图改变冒险行为的经验性可用隐私和安全研究中来应对这一挑战。UX使我们能够研究用户相关、系统相关和背景因素之间的复杂相互作用，并提供了对行为变化背后的经验方面的见解，包括负面体验。我们首先从摩擦的角度比较和对比现有的增强安全性的干预措施(例如，轻推、警告、恐惧呼吁)。然后，我们在这些见解的基础上提出，在安全关键情况下，为负面UX时刻进行设计是可取的。为此，我们引入了安全增强摩擦的新概念，这种摩擦可以有效地减少冒险行为的发生，并确保整体UX(使用后)不会受到损害。我们展示了增强安全性的摩擦如何提供一种可行的方法，将UX的概念系统地整合到经验可用的隐私和安全性研究中，以满足安全行为和整体可接受体验的目标。",
+                    "title_zh": "增强安全性的摩擦框架:UX如何帮助用户行为更安全"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442169",
+                    "title": "TrollHunter [Evader]: Automated Detection [Evasion] of Twitter Trolls During the COVID-19 Pandemic",
+                    "authors": "Peter Jachim, Filipo Sharevski, Paige Treebridge",
+                    "abstract": "This paper presents TrollHunter, an automated reasoning mechanism we used to hunt for trolls on Twitter during the COVID-19 pandemic in 2020. Trolls quickly seized the opportunity to create a COVID-19 infodemic by promulgating dubious content on Twitter. To counter the COVID-19 infodemic, the TrollHunter leverages a unique linguistic analysis of a multi-dimensional set of Twitter content features to detect whether or not a tweet was meant to troll. TrollHunter achieved 98.5% accuracy, 75.4% precision and 69.8% recall over a dataset of 1.3 million tweets. Without a final resolution of the pandemic in sight, it is unlikely that the trolls will go away, although they might be forced to evade automated hunting. To explore the plausibility of this strategy, we developed and tested an adversarial machine learning mechanism called TrollHunter-Evader. TrollHunter-Evader employs a Test Time Evasion (TTE) approach in a combination with a Markov chain-based mechanism to recycle originally trolling tweets. The recycled tweets were able to achieve a remarkable 40% decrease in the TrollHunter’s ability to correctly identify trolling tweets. Because the COVID-19 infodemic could have a harmful impact on the COVID-19 pandemic, we provide an elaborate discussion about the implications of employing adversarial machine learning to evade Twitter troll hunts.",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2012.02586"
+                    },
+                    "abstract_zh": "本文介绍了TrollHunter，这是一种自动推理机制，我们在2020年新冠肺炎疫情期间用于在Twitter上搜索巨魔。巨魔很快抓住机会，通过在Twitter上发布可疑内容，创造了一个新冠肺炎信息时代。为了对抗新冠肺炎信息流行病，TrollHunter利用对Twitter内容特征的多维集的独特语言分析来检测一条推文是否旨在传播。TrollHunter在130万条推文中取得了98.5%的准确率、75.4%的精确度和69.8%的召回率。在疫情问题没有最终解决的情况下，巨魔不太可能消失，尽管它们可能会被迫躲避自动追捕。为了探索这种策略的合理性，我们开发并测试了一种叫做TrollHunter-Evader的对抗性机器学习机制。TrollHunter-Evader采用测试时间规避(TTE)方法结合基于马尔可夫链的机制来回收最初的trolling tweets。回收的tweet能够实现TrollHunter正确识别TrollHunter tweet的能力显著降低40%。因为新冠肺炎信息学术可能对新冠肺炎疫情产生有害影响，我们提供了一个关于使用对抗性机器学习来逃避Twitter巨魔搜索的含义的详细讨论。",
+                    "title_zh": "TrollHunter[规避者]:在新冠肺炎疫情期间自动检测[规避]推特巨魔"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442179",
+                    "title": "Trust-Based Security; Or, Trust Considered Harmful",
+                    "authors": "Abe Singer, Matt Bishop",
+                    "abstract": "Our review of common, popular risk analysis frameworks finds that they are very homogenous in their approach. These are considered IT Security Industry ”best practices.” However, one wonders if they are indeed ”best”, as evinced by the almost daily news of large companies suffering major compromises. Embedded in these ”best practices” is the notion that ”trust” is ”good”, i.e. is a desirable feature: ”trusted computing,” ”trusted third party,” etc. We argue for the opposite: that vulnerabilities stem from trust relationships. We propose a a paradigm for risk analysis centered around identifying and minimizing trust relationships. We argue that by bringing trust relationships to the foreground, we can identify paths to compromise that would otherwise go undetected; a more comprehensive assessment of vulnerability, from which one can better prioritize and reduce risk.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "我们对常见的流行风险分析框架的回顾发现，它们在方法上非常相似。这些被认为是IT安全行业的“最佳实践”然而，正如几乎每天都有大公司遭受重大损失的新闻所证明的那样，人们怀疑它们是否真的是“最好的”。嵌入在这些“最佳实践”中的是“信任”是“好的”这一概念，即“可信计算”、“可信第三方”等等。我们支持相反的观点:脆弱性源于信任关系。我们提出了一个以识别和最小化信任关系为中心的风险分析范式。我们认为，通过将信任关系置于前台，我们可以识别出妥协的路径，否则将无法被发现；对脆弱性进行更全面的评估，从中可以更好地确定优先级并降低风险。",
+                    "title_zh": "基于信任的安全性；或者，信任被认为是有害的"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442168",
+                    "title": "Transcending the Teetering Tower of Trust: Demonstrated with Virtual Memory Fuses for Software Enclaves",
+                    "authors": "Scott Brookes",
+                    "abstract": "When it comes to security, there is a dangerous disconnect between the mental model we use for the modern computation stack and the real thing. The model we all use is not rich enough to understand the constant battle between attackers and security researchers across the layers of the stack. This paper offers an enhanced model and explains how security fits into the picture. We use our model to explain the implications of various types of defensive mechanisms. Then, we practice the recommended method for future security research by designing an operating system feature – software-enforced trusted execution enclaves using Virtual Memory Fuses (VMFs) – with the best-practices we argue for. The Teetering Tower of Trust model offers a new way to think about security across the computation stack, while the novel Virtual Memory Fuse creates the possibility of a new operating system feature: software enclaves.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "谈到安全性，我们用于现代计算堆栈的心理模型和真实事物之间存在危险的脱节。我们都使用的模型还不够丰富，不足以理解攻击者和安全研究人员之间跨越堆栈层的持续战斗。本文提供了一个增强的模型，并解释了安全性是如何融入其中的。我们用我们的模型来解释各种防御机制的含义。然后，我们通过设计操作系统功能(使用虚拟内存熔丝(VMFs)的软件强制可信执行飞地)以及我们主张的最佳实践，实践为未来安全研究推荐的方法。摇摇欲坠的信任塔模型提供了一种新的方式来考虑整个计算堆栈的安全性，而新颖的虚拟内存Fuse则创造了一种新的操作系统功能的可能性:软件飞地。",
+                    "title_zh": "超越摇摇欲坠的信任之塔:用软件飞地的虚拟内存熔丝演示"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442170",
+                    "title": "Deconstructing Cybersecurity: From Ontological Security to Ontological Insecurity",
+                    "authors": "Justin Joque, S. M. Taiabul Haque",
+                    "abstract": "This paper examines the philosophical aspects of cybersecurity through the lens of deconstruction, as proposed by the French philosopher Jacques Derrida. We offer deconstruction as an analytical orientation to better understand and challenge the very philosophical concepts a security system presupposes, arguing that not only are concrete systems necessarily insecure but that the concepts and structures through which their security is understood are also insecure. By centering our discourse on instability and contradictions, we demonstrate the relevance of deconstruction in cybersecurity through four concrete examples drawn from four different areas: digital rights management, cyberwar, software vulnerability, and user authentication. We further address the concept of ontological security to draw the boundaries between beneficial and detrimental uses of deconstruction. These insights complement other HCISec efforts to conceptualize cybersecurity as a holistic discipline that incorporates art and philosophy in addition to science and technology.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "本文从法国哲学家雅克·德里达提出的解构主义视角审视了网络安全的哲学层面。我们提出解构主义作为一种分析取向，以更好地理解和挑战安全系统预设的哲学概念，认为不仅具体的系统必然不安全，而且理解其安全的概念和结构也不安全。通过将我们的论述集中在不稳定性和矛盾上，我们通过从四个不同领域提取的四个具体例子来展示解构在网络安全中的相关性:数字版权管理、网络战、软件漏洞和用户认证。我们进一步阐述了本体安全的概念，以划清解构有益和有害使用之间的界限。这些见解补充了HCISec的其他努力，将网络安全概念化为一个整体学科，除了科学和技术之外，还包括艺术和哲学。",
+                    "title_zh": "解构网络安全:从本体安全到本体不安全"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442177",
+                    "title": "On managing vulnerabilities in AI/ML systems",
+                    "authors": "Jonathan M. Spring, April Galyardt, Allen D. Householder, Nathan M. VanHoudnos",
+                    "abstract": "This paper explores how the current paradigm of vulnerability management might adapt to include machine learning systems through a thought experiment: what if flaws in machine learning (ML) were assigned Common Vulnerabilities and Exposures (CVE) identifiers (CVE-IDs)? We consider both ML algorithms and model objects. The hypothetical scenario is structured around exploring the changes to the six areas of vulnerability management: discovery, report intake, analysis, coordination, disclosure, and response. While algorithm flaws are well-known in academic research community, there is no apparent clear line of communication between this research community and the operational communities that deploy and manage systems that use ML. The thought experiments identify some ways in which CVE-IDs may establish some useful lines of communication between these two communities. In particular, it would start to introduce the research community to operational security concepts, which appears to be a gap left by existing efforts.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3442167.3442177"
+                    },
+                    "abstract_zh": "本文通过一个思想实验探索了当前漏洞管理的范式如何适应包括机器学习系统:如果机器学习(ML)中的缺陷被分配了通用漏洞和暴露(CVE)标识符(CVE-IDs)，会怎么样？我们考虑ML算法和模型对象。假设的场景是围绕探讨漏洞管理的六个领域的变化而构建的:发现、报告接收、分析、协调、披露和响应。虽然算法缺陷在学术研究团体中是众所周知的，但是在该研究团体和部署和管理使用ML的系统的操作团体之间没有明显清晰的交流路线。思想实验确定了CVE-IDs在这两个社区之间建立一些有用的沟通渠道的一些方式。特别是，它将开始向研究界介绍操作安全概念，这似乎是现有努力留下的空白。",
+                    "title_zh": "人工智能/人工智能系统中的漏洞管理"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3442167.3442174",
+                    "title": "Out of Sight, Out of Mind: UI Design and the Inhibition of Mental Models of Security",
+                    "authors": "Eric Spero, Robert Biddle",
+                    "abstract": "In this paper we make the case that UI design inhibits mental models of security by concealing most of the security-relevant aspects of software functionality. Users are frequently required to make decisions that have important security implications, that requires a mental model of software infrastructure to know what actions are ‘safe’ versus ‘unsafe’. People build internal causal models of what they experience that have explanatory and predictive power, and therefore form the basis of the decision-making faculty. By concealing security information, user interfaces hinder the user from building the kinds of models that will keep them safer, and only the small minority who are willing to go beyond the interface will acquire this knowledge. We suggest increasing the visibility of some essential information about the security-relevant aspects of software functionality in a way that ordinary users will be able to make sense of, so that through normal interactions with software everyone develops the kind of knowledge needed to better support security. We review the cognitive science and cybersecurity literature on mental models, present three ‘case studies’ which embody the security concealment problem, and present preliminary suggestions for how UI design might amend this problem.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "在本文中，我们认为UI设计通过隐藏软件功能中大多数与安全相关的方面，抑制了安全的心理模型。用户经常需要做出具有重要安全含义的决策，这需要软件基础设施的心理模型来知道什么行为是“安全”的，什么是“不安全”的。人们对他们所经历的事情建立内部因果模型，这些模型具有解释和预测能力，因此形成了决策能力的基础。通过隐藏安全信息，用户界面阻碍了用户构建使他们更安全的模型，只有一小部分愿意超越界面的人会获得这些知识。我们建议以普通用户能够理解的方式，增加关于软件功能的安全相关方面的一些基本信息的可见性，以便通过与软件的正常交互，每个人都可以获得更好地支持安全所需的知识。我们回顾了关于心智模型的认知科学和网络安全文献，提出了三个体现安全隐藏问题的“案例研究”,并对UI设计如何修正这个问题提出了初步建议。",
+                    "title_zh": "眼不见，心不烦:UI设计与安全心理模型的抑制"
+                }
+            ]
+        }
+    ],
+    "2021": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/nspw/nspw2021.html",
+            "conf_title": "NSPW 2021: Virtual Event, USA",
+            "conf_url": "https://doi.org/10.1145/3498891",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1145/3498891.3501257",
+                    "title": "Blessed Are The Lawyers, For They Shall Inherit Cybersecurity",
+                    "authors": "Daniel W. Woods, Aaron Ceross",
+                    "abstract": "This paper considers which types of evidence guide cybersecurity decisions. We argue that the “InfoSec belongs to the quants” paradigm will not be realised despite its normative appeal. In terms of progress to date, we find few empirical results that can guide risk mitigation decisions. We suggest the knowledge base about quantitative cybersecurity is continually eroded by increasing complexity, technological flux, and strategic adversaries. Given these secular forces will not abate any time soon, we argue that legal reasoning will increasingly influence cybersecurity decisions relative to technical and quantitative reasoning. The law as a system of social control bristles with ambiguity and so legal mechanisms exist to resolve uncertainties over time. Actors with greater claims to authority over this knowledge base, predominantly lawyers, will accrue decision making power within organisations. We speculate about the downstream impacts of lawyers inheriting cybersecurity, and also sketch the limits of the paradigm’s explanatory power.",
+                    "files": {
+                        "openAccessPdf": "https://zenodo.org/record/6576799/files/biblical_NSPW__revision%284%29.pdf"
+                    },
+                    "abstract_zh": "本文考虑哪些类型的证据指导网络安全决策。我们认为，尽管“信息安全属于量化派”的范式具有规范性吸引力，但它不会实现。就迄今为止的进展而言，我们发现很少有实证结果可以指导风险缓解决策。我们认为，关于定量网络安全的知识库不断受到日益增加的复杂性、技术变化和战略对手的侵蚀。鉴于这些世俗力量不会很快减弱，我们认为，相对于技术和定量推理，法律推理将越来越多地影响网络安全决策。作为社会控制系统的法律充满了模糊性，因此法律机制的存在是为了解决长期的不确定性。对这一知识库拥有更大权力的行为者，主要是律师，将在组织内获得决策权。我们推测了律师继承网络安全的下游影响，也勾画了范式解释力的极限。",
+                    "title_zh": "律师有福了，因为他们将继承网络安全"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3498891.3498903",
+                    "title": "COLBAC: Shifting Cybersecurity from Hierarchical to Horizontal Designs",
+                    "authors": "Kevin Gallagher, Santiago Torres-Arias, Nasir D. Memon, Jessica Feldman",
+                    "abstract": "Cybersecurity suffers from an oversaturation of centralized, hierarchical systems and a lack of exploration in the area of horizontal security, or security techniques and technologies which utilize democratic participation for security decision-making. Because of this, many horizontally governed organizations such as activist groups, worker cooperatives, trade unions, not-for-profit associations, and others are not represented in current cybersecurity solutions, and are forced to adopt hierarchical solutions to cybersecurity problems. This causes power dynamic mismatches that lead to cybersecurity and organizational operations failures. In this work we introduce COLBAC, a collective based access control system aimed at addressing this lack. COLBAC uses democratically authorized capability tokens to express access control policies. It allows for a flexible and dynamic degree of horizontality to meet the needs of different horizontally governed organizations. After introducing COLBAC, we finish with a discussion on future work needed to realize more horizontal security techniques, tools, and technologies.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3498891.3498903"
+                    },
+                    "abstract_zh": "网络安全受制于中央集权、等级制度的过度饱和，以及缺乏对横向安全领域的探索，或利用民主参与安全决策的安全技巧和技术。正因为如此，许多横向治理的组织，如活动家团体、工人合作社、工会、非营利协会和其他组织，在当前的网络安全解决方案中没有代表，被迫采用分层解决方案来解决网络安全问题。这导致权力动态不匹配，从而导致网络安全和组织运营失败。在这项工作中，我们介绍了COLBAC，一个基于集体的访问控制系统，旨在解决这一不足。COLBAC使用民主授权的能力令牌来表达访问控制策略。它允许灵活和动态的水平度，以满足不同水平治理组织的需求。在介绍COLBAC之后，我们最后讨论了实现更多横向安全技术、工具和技术所需的未来工作。",
+                    "title_zh": "COLBAC:将网络安全从分层设计转向横向设计"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3498891.3498895",
+                    "title": "Change that Respects Business Expertise: Stories as Prompts for a Conversation about Organisation Security",
+                    "authors": "Simon Parkin, Simon Arnell, Jeremy Ward",
+                    "abstract": "Leaders of organisations must make investment decisions relating to the security of their organisation. This often happens through consultation with a security specialist. Consultations may be regarded as conversations taking place in a trading zone between the two domains. We propose that supporting the trading zone is a route to sustainable, workable security change improvements. Prompts for such improvements are already in place, in the security stories that reach business leaders through news media, or anecdotes from trusted peers. However, a shift in perspective is needed to view these stories and anecdotes as prompts for individual decision makers to enter into the trading zone with security specialists. We illustrate how to facilitate this shift by recasting security ontology tools, previously centred around security-specific expertise, as a support device to enrich conversations between business expertise and security advice toward finding workable security choices. We frame our proposal within a broader view of community transformation, exploring the important principle of identifying practical opportunities to inform discussions about security solutions that are appropriate in the business context. Community-level discussions have potential to lead to more lasting, effective improvements than those instigated by one-way interventions from security specialists. We extend the view, applying the paradigm to articulate the importance of two-way conversations between business peers and security specialists.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3498891.3498895"
+                    },
+                    "abstract_zh": "组织的领导者必须做出与其组织安全相关的投资决策。这通常是通过咨询安全专家来实现的。协商可以被视为在两个域之间的贸易区中发生的对话。我们认为，支持贸易区是一条可持续、可行的安全变革改进之路。这种改进的提示已经存在，在通过新闻媒体传达给企业领导人的安全故事中，或者来自可信同行的轶事中。然而，需要转换视角来看待这些故事和轶事，作为个人决策者与安全专家一起进入交易区的提示。我们说明了如何通过重新构建安全本体工具来促进这种转变，这些工具以前以特定于安全的专业知识为中心，作为一种支持设备来丰富业务专业知识和安全建议之间的对话，以找到可行的安全选择。我们将我们的提议置于社区转型的大视野中，探索识别实际机会的重要原则，以便为关于适合业务环境的安全解决方案的讨论提供信息。与安全专家的单向干预相比，社区一级的讨论有可能带来更持久、更有效的改进。我们扩展了这一观点，应用这一范式来阐明业务同行和安全专家之间双向对话的重要性。",
+                    "title_zh": "尊重商业专长的变革:作为组织安全对话提示的故事"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3498891.3500928",
+                    "title": "The tragedy of common bandwidth: rDDoS",
+                    "authors": "Arturs Lavrenovs, Éireann Leverett, Aaron Kaplan",
+                    "abstract": "Reflected distributed denial of service (rDDoS) policy interventions often focus on reflector count reductions. Current rDDoS metrics (max DDoS witnessed) favour commercial responses, but don’t frame this as a problem of the commons. This results in non-objective, and non-independent discussion of policy interventions, and holds back discussion of any public health style interventions that aren’t commercially motivated. In this paper, we explore multiple questions when it comes to measuring the potential for rDDoS attacks (i.e. how large could a rDDoS attack become?). We also raise some new questions. The paper builds on top of our previous research [6]. Whereas [7] was motivated by understanding properties of the individual rDDoS reflectors, in the current paper we present evidence that chasing high bandwidth reflectors is far more impact-ful in rDDoS harm reduction. If the internet is a commons, then high bandwidth reflectors contribute the most to a tragedy of the commons (see Figure 1). We examine and compare reflector counts, contribution estimation, and empirical contribution verification as methodologies. We also extend previous works on the topic to provide ASN level metrics, and show that the top 5 ASNs contribute between 30-70 percent of the problem depending on the protocol examined. This finding alone, motivates much easier and cheaper layered policy interventions which we discuss within the paper. The motivation of our research is also given by the surprisingly strong increase of actual (r)DDoS attacks as shown by [30]. Given this increase, our aim is to trigger policy change1 when it comes to cleaning up reflectors. Our main contribution in this paper is to show that policy should focus on the high bandwidth reflectors and some top ASNs reduce rDDoS’s potential.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "反射式分布式拒绝服务(rDDoS)策略干预通常侧重于减少反射器数量。当前的rDDoS指标(最大DDoS见证数)有利于商业响应，但不要将此框定为公共领域的问题。这导致了对政策干预的非客观、非独立的讨论，并阻碍了对任何非商业动机的公共卫生类型干预的讨论。在本文中，我们探讨了衡量rDDoS攻击可能性的多个问题(例如，rDDoS攻击的规模会有多大？).我们也提出了一些新的问题。这篇论文建立在我们之前的研究基础上[6]。虽然[7]的动机是了解单个rDDoS反射体的特性，但在本文中，我们提出了证据，证明追逐高带宽反射体对降低rDDoS危害更有影响。如果互联网是一个公地，那么高带宽反射器是造成公地悲剧的主要原因(见图1)。我们检查和比较反射计数，贡献估计，和经验贡献验证的方法。我们还扩展了以前在该主题上的工作，以提供ASN级别的度量，并显示前5个ASN造成了30-70%的问题，这取决于所检查的协议。这一发现本身，激发了我们在本文中讨论的更容易和更便宜的分层政策干预。如[30]所示，实际(r)DDoS攻击的惊人增长也是我们研究的动机。鉴于这种增长，我们的目标是在清理反射体时引发政策变化。我们在本文中的主要贡献是表明政策应该集中在高带宽反射器上，并且一些顶级ASN降低了rDDoS的潜力。",
+                    "title_zh": "公共带宽的悲剧:rDDoS"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3498891.3501259",
+                    "title": "Beyond NVD: Cybersecurity meets the Semantic Web",
+                    "authors": "Raúl Aranovich, Muting Wu, Dian Yu, Katya Katsy, Benyamin Ahmadnia, Matthew Bishop, Vladimir Filkov, Kenji Sagae",
+                    "abstract": "Cybersecurity experts rely on the knowledge stored in databases like the NVD to do their work, but these are not the only sources of information about threats and vulnerabilities. Much of that information flows through social media channels. In this paper we argue that security experts and general users alike can benefit from the technologies of the Semantic Web, merging heterogeneous sources of knowledge in an ontological representation. We present a system that has an ontology of vulnerabilities at its core, but that is enhanced with NLP tools to identify cybersecurity-related information in social media and to launch queries over heterogeneous data sources. The transformative power of Semantic Web technologies for cybersecurity, which has been proven in the biomedical field, is evaluated and discussed.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3498891.3501259"
+                    },
+                    "abstract_zh": "网络安全专家依靠存储在NVD等数据库中的知识来开展工作，但这些并不是威胁和漏洞信息的唯一来源。这些信息大多通过社交媒体渠道传播。在本文中，我们认为安全专家和普通用户都可以从语义网技术中受益，语义网将不同种类的知识融合在一个本体表示中。我们提出了一个系统，其核心是一个漏洞本体，但它通过NLP工具得到了增强，以识别社交媒体中的网络安全相关信息，并对异构数据源进行查询。语义网技术对网络安全的变革力量，已经在生物医学领域得到证明，进行了评估和讨论。",
+                    "title_zh": "超越NVD:网络安全与语义网相遇"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3498891.3498896",
+                    "title": "Shame in Cyber Security: Effective Behavior Modification Tool or Counterproductive Foil?",
+                    "authors": "Karen Renaud, Rosalind Searle, Marc J. Dupuis",
+                    "abstract": "Organizations often respond to cyber security breaches by blaming and shaming the employees who were involved. There is an intuitive natural justice to using such strategies in the belief that the need to avoid repeated shaming occurrences will encourage them to exercise more care. However, psychology highlights significant short- and long-term impacts and harmful consequences of felt shame. To explore and investigate this in the cyber domain, we asked those who had inadvertently triggered an adverse cyber security incident to tell us about their responses and to recount the emotions they experienced when this occurred. We also examined the impact of the organization’s management of the incident on the “culprit’s” future behaviors and attitudes. We discovered that those who had caused a cyber security incident often felt guilt and shame, and their employers’ responses either exacerbated or ameliorated these negative emotions. In the case of the former, there were enduring unfavorable consequences, both in terms of employee well-being and damaged relationships. We conclude with a set of recommendations for employers, in terms of responding to adverse cyber security incidents. The aim is to ensure that negative emotions, such as shame, do not make the incident much more damaging than it needs to be.",
+                    "files": {
+                        "openAccessPdf": "https://strathprints.strath.ac.uk/77829/1/Renaud_etal_NSPW_2021_Shame_in_cyber_security_effective_behavior_modification_tool_or_counterproductive_foil.pdf"
+                    },
+                    "abstract_zh": "组织通常通过指责和羞辱参与其中的员工来应对网络安全漏洞。使用这种策略有一种直觉的自然公正，因为他们相信，避免羞辱事件重复发生的需要会鼓励他们更加小心。然而，心理学强调了羞耻感的短期和长期影响以及有害后果。为了在网络领域探索和研究这一点，我们请那些无意中引发了负面网络安全事件的人告诉我们他们的反应，并讲述他们在这种情况发生时的情绪。我们还研究了组织对事件的管理对“罪犯”未来行为和态度的影响。我们发现，那些引发网络安全事件的人通常会感到内疚和羞愧，他们雇主的反应要么加剧要么缓解了这些负面情绪。就前者而言，在员工福利和受损关系方面，都存在持久的不利后果。最后，在应对不利的网络安全事件方面，我们为雇主提出了一系列建议。这样做的目的是确保负面情绪，如羞耻，不会使事件变得比它需要的更具破坏性。",
+                    "title_zh": "网络安全中的羞耻:有效的行为矫正工具还是适得其反的陪衬？"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3498891.3498893",
+                    "title": "VoxPop: An Experimental Social Media Platform for Calibrated (Mis)information Discourse",
+                    "authors": "Filipo Sharevski, Peter Jachim, Emma Pieroni, Nate Jachim",
+                    "abstract": "VoxPop, shortened for Vox Populi, is an experimental social media platform that neither has an absolute “truth-keeping” mission nor an uncontrolled “free-speaking” vision. Instead, it allows discourses that naturally include (mis)information to contextualize among users with the aid of UX design and data science affordances and frictions. VoxPop introduces calibration metrics, namely a Faithfulness-To-Known-Facts (FTKF) score associated with each post and a Cumulative FTKF (C-FTKF) score associated with each user, appealing to the self-regulated participation using sociocognitive signals. The goal of VoxPop is not to become an ideal platform—that is impossible; rather, to bring to attention an adaptive approach in dealing with (mis)information rooted in social calibration instead of imposing or avoiding altogether punitive moderation.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "VoxPop是Vox Populi的缩写，是一个实验性的社交媒体平台，既没有绝对的“保持真相”使命，也没有不受控制的“自由言论”愿景。相反，它允许自然包含(错误)信息的话语在UX设计和数据科学的帮助下在用户中进行语境化。VoxPop引入了校准指标，即与每个帖子相关的忠实于已知事实(FTKF)分数和与每个用户相关的累积FTKF (C-FTKF)分数，利用社会认知信号吸引自我调节的参与。VoxPop的目标不是成为一个理想的平台——那是不可能的；相反，在处理植根于社会校准的(错误)信息时，要注意适应性方法，而不是强加或完全避免惩罚性的节制。",
+                    "title_zh": "VoxPop:校准(错误)信息话语的实验性社交媒体平台"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3498891.3498902",
+                    "title": "\"Taking out the Trash\": Why Security Behavior Change requires Intentional Forgetting",
+                    "authors": "Jonas Hielscher, Annette Kluge, Uta Menges, M. Angela Sasse",
+                    "abstract": "Security awareness is big business – virtually every organization in the Western world provides some form of awareness or training, mostly bought from external vendors. However, studies and industry reports show that these programs have little to no effect in terms of changing the security behavior of employees. We explain the conditions that enable behavior change, and identify one significant blocker in the implementation phase: not disabling existing (insecure) routines – failure to take out the trash – prevents embedding of new (secure) routines. Organizational Psychology offers the paradigm Intentional Forgetting (IF) and associated tools for replacing old (insecure) behaviors with new (secure) ones by identifying and eliminating different cues (sensoric, routine-based, time and space based as well as situational strength cues) that trigger old behavior. We introduce the underlying theory, examples of successful application in safety contexts, and show how its application leads to effective behavior change by reducing the information that needs to be transmitted to employees, and suppressing obsolete routines.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3498891.3498902"
+                    },
+                    "abstract_zh": "安全意识是一项大业务，几乎西方世界的每个组织都提供某种形式的安全意识或培训，大部分是从外部供应商那里购买的。然而，研究和行业报告显示，这些计划在改变员工的安全行为方面几乎没有效果。我们解释了促使行为改变的条件，并确定了实现阶段的一个重要障碍:不禁用现有的(不安全的)例程——未能清除垃圾——阻止了新的(安全的)例程的嵌入。组织心理学提供了有意遗忘(IF)范式和相关工具，通过识别和消除触发旧行为的不同线索(感官的、基于常规的、基于时间和空间的以及情境强度的线索),用新的(安全的)行为取代旧的(不安全的)行为。我们介绍了基本理论，安全环境中成功应用的例子，并展示了其应用如何通过减少需要传递给员工的信息和抑制过时的惯例来导致有效的行为改变。",
+                    "title_zh": "“倒垃圾”:为什么安全行为改变需要有意遗忘"
+                }
+            ]
+        }
+    ],
+    "2019": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/nspw/nspw2019.html",
+            "conf_title": "NSPW 2019: San Carlos, Costa Rica",
+            "conf_url": "https://doi.org/10.1145/3368860",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368861",
+                    "title": "Usability analysis of shared device ecosystem security: informing support for survivors of IoT-facilitated tech-abuse",
+                    "authors": "Simon Parkin, Trupti Patel, Isabel Lopez-Neira, Leonie Tanczer",
+                    "abstract": "The use of Internet of Things (IoT) devices is an emerging trend for citizens. These devices may have implications for the security of various areas of life; for survivors of technology-facilitated domestic abuse and violence (tech-abuse), a shared ecosystem of IoT devices poses new risks. Here we develop a novel adaptation of `heuristic walkthrough' usability assessment, applying it to two readily available families of consumer smart assistant devices (Amazon Echo and Google Home). The paradigm underpinning the method considers the shared device ecosystem, and the potential threats to a person sharing smart devices with another. Prior tech abuse research informed the design of 11 tasks representing different phases of potential IoT tech-abuse. Phenomena produced by the tasks were assessed across well-defined design heuristics. Assessment was from both primary and secondary user perspectives, via a range of service interfaces (such as App, browser interface, and visual device cues). We find that many security-related elements of devices do not present usability problems, including that a secondary user has only a very limited view of the actions of a primary device user. We differentiate between features which delay or block effective use, informing potential areas for developing support solutions. For instance, findings indicate that task feedback and instructions may impact a tech-abuse survivor in an IoT ecosystem. Our results have implications for the definition of usability for concurrent users with differing expectations and needs, especially within a tech-abuse context. Our approach can inform the stakeholder conversations necessary to explore these issues across a range of other IoT devices.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "使用物联网(IoT)设备是市民的一个新兴趋势。这些设备可能对生活的各个领域的安全性有影响；对于技术促进的家庭虐待和暴力(技术滥用)的幸存者来说，物联网设备的共享生态系统带来了新的风险。在这里，我们开发了一个“启发式预排”可用性评估的新版本，将其应用于两个现成的消费者智能助理设备家族(Amazon Echo和Google Home)。支撑该方法的范式考虑了共享设备生态系统，以及对与他人共享智能设备的人的潜在威胁。先前的技术滥用研究为代表潜在物联网技术滥用不同阶段的11项任务的设计提供了信息。任务产生的现象通过明确定义的设计试探法进行评估。通过一系列服务界面(如应用程序、浏览器界面和可视设备提示)，从主要用户和次要用户的角度进行评估。我们发现，设备的许多安全相关元素并不存在可用性问题，包括次要用户对主要设备用户的操作只有非常有限的了解。我们区分延迟或阻碍有效使用的功能，告知开发支持解决方案的潜在领域。例如，研究结果表明，任务反馈和指令可能会影响物联网生态系统中的技术滥用幸存者。我们的结果对具有不同期望和需求的并发用户的可用性定义有影响，特别是在技术滥用的背景下。我们的方法可以为利益相关者提供必要的对话，以便在一系列其他物联网设备上探索这些问题。",
+                    "title_zh": "共享设备生态系统安全性的可用性分析:为物联网促进的技术滥用幸存者提供支持"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368862",
+                    "title": "Employing attack graphs for intrusion detection",
+                    "authors": "Frank Capobianco, Rahul George, Kaiming Huang, Trent Jaeger, Srikanth V. Krishnamurthy, Zhiyun Qian, Mathias Payer, Paul L. Yu",
+                    "abstract": "Intrusion detection systems are a commonly deployed defense that examines network traffic, host operations, or both to detect attacks. However, more attacks bypass IDS defenses each year, and with the sophistication of attacks increasing as well, we must examine new perspectives for intrusion detection. Current intrusion detection systems focus on known attacks and/or vulnerabilities, limiting their ability to identify new attacks, and lack the visibility into all system components necessary to confirm attacks accurately, particularly programs. To change the landscape of intrusion detection, we propose that future IDSs track how attacks evolve across system layers by adapting the concept of attack graphs. Attack graphs were proposed to study how multi-stage attacks could be launched by exploiting known vulnerabilities. Instead of constructing attacks reactively, we propose to apply attack graphs proactively to detect sequences of events that fulfill the requirements for vulnerability exploitation. Using this insight, we examine how to generate modular attack graphs automatically that relate adversary accessibility for each component, called its attack surface, to flaws that provide adversaries with permissions that create threats, called attack states, and exploit operations from those threats, called attack actions. We evaluate the proposed approach by applying it to two case studies: (1) attacks on file retrieval, such as TOCTTOU attacks, and (2) attacks propagated among processes, such as attacks on Shell-shock vulnerabilities. In these case studies, we demonstrate how to leverage existing tools to compute attack graphs automatically and assess the effectiveness of these tools for building complete attack graphs. While we identify some research areas, we also find several reasons why attack graphs can provide a valuable foundation for improving future intrusion detection systems.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3368860.3368862"
+                    },
+                    "abstract_zh": "入侵检测系统是一种常用的防御手段，它通过检查网络流量、主机操作或两者来检测攻击。然而，每年都有更多的攻击绕过IDS防御，并且随着攻击复杂性的增加，我们必须研究入侵检测的新观点。当前的入侵检测系统关注已知的攻击和/或漏洞，限制了它们识别新攻击的能力，并且缺乏对准确确认攻击所必需的所有系统组件的可见性，特别是程序。为了改变入侵检测的前景，我们建议未来的IDSs通过采用攻击图的概念来跟踪攻击如何在系统层之间演变。提出了攻击图来研究如何通过利用已知的漏洞发起多阶段攻击。我们建议主动应用攻击图来检测满足漏洞利用要求的事件序列，而不是被动地构造攻击。利用这种洞察力，我们研究如何自动生成模块化攻击图，将对手对每个组件的可访问性(称为其攻击面)与为对手提供创建威胁的权限的缺陷(称为攻击状态)以及利用这些威胁的操作(称为攻击动作)联系起来。我们通过将所提出的方法应用于两个案例研究来评估它:(1)对文件检索的攻击，如TOCTTOU攻击，以及(2)在进程间传播的攻击，如对Shell-shock漏洞的攻击。在这些案例研究中，我们展示了如何利用现有工具来自动计算攻击图，并评估这些工具构建完整攻击图的有效性。虽然我们确定了一些研究领域，但我们也发现了攻击图可以为改进未来的入侵检测系统提供有价值的基础的几个原因。",
+                    "title_zh": "利用攻击图进行入侵检测"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368863",
+                    "title": "Manipulation of perceived politeness in a web-based email discourse through a malicious browser extension",
+                    "authors": "Filipo Sharevski, Paige Treebridge, Jessica Westbrook",
+                    "abstract": "This paper presents a specific man-in-the-middle exploit: Ambient Tactical Deception (ATD) in online communication, realized via a malicious web browser extension. Extensions manipulate web content in unobtrusive ways as ambient intermediaries of the overall browsing experience. In our previous work, we demonstrated that it is possible to employ tactical deception by making covert changes in the text content of a web page, regardless of the source. In this work, we investigated the application of ATD in a web-based email discourse where the objective is to manipulate the interpersonal perception without the knowledge of the involved parties. We focus on web-based email text because it is asynchronous and usually revised for clarity and politeness. Previous research has demonstrated that people's perception of politeness in online communication is based on three factors: the degree of imposition, the power of the receiver over the sender, and the social distance between them. We interviewed participants about their perception of these factors to establish the plausibility of ATD for email discourse. The results indicate that by covertly altering the politeness strategy in an email, it is possible for an ATD attacker to manipulate the receiver's perception on all of the politeness factors. Our findings support the Brown and Levinson's politeness theory and Walther's hyperpersonal model of email communication.",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1908.11752"
+                    },
+                    "abstract_zh": "本文介绍了一种特定的中间人攻击:在线通信中的环境战术欺骗(ATD ),通过恶意的web浏览器扩展实现。扩展以不引人注目的方式操纵web内容，作为整体浏览体验的环境中介。在我们之前的工作中，我们证明了通过在网页的文本内容中进行隐蔽的改变来实施战术欺骗是可能的，而不管其来源如何。在这项工作中，我们研究了ATD在基于网络的电子邮件话语中的应用，其目的是在当事人不知情的情况下操纵人际感知。我们专注于基于网络的电子邮件文本，因为它是异步的，并且通常为了清晰和礼貌而被修改。先前的研究表明，人们对在线交流中礼貌的感知基于三个因素:强加的程度，接收者对发送者的权力，以及他们之间的社会距离。我们采访了参与者，询问他们对这些因素的看法，以确定电子邮件话语ATD的合理性。结果表明，通过暗中改变电子邮件中的礼貌策略，ATD攻击者有可能操纵接收者对所有礼貌因素的感知。我们的研究结果支持布朗和莱文森的礼貌理论和瓦尔特的电子邮件交际超个人模型。",
+                    "title_zh": "通过恶意浏览器扩展操纵基于网络的电子邮件话语中的感知礼貌"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368864",
+                    "title": "Cyber security fear appeals: unexpectedly complicated",
+                    "authors": "Karen Renaud, Marc J. Dupuis",
+                    "abstract": "Cyber security researchers are starting to experiment with fear appeals, with a wide variety of designs and reported efficaciousness. This makes it hard to derive recommendations for designing and deploying these interventions. We thus reviewed the wider fear appeal literature to arrive at a set of guidelines to assist cyber security researchers. Our review revealed a degree of dissent about whether or not fear appeals are indeed helpful and advisable. Our review also revealed a wide range of fear appeal experimental designs, in both cyber and other domains, which confirms the need for some standardized guidelines to inform practice in this respect. We propose a protocol for carrying out fear appeal experiments, and we review a sample of cyber security fear appeal studies, via this lens, to provide a snapshot of the current state of play. We hope the proposed experimental protocol will prove helpful to those who wish to engage in future cyber security fear appeal research.",
+                    "files": {
+                        "openAccessPdf": "https://rke.abertay.ac.uk/ws/files/17678964/Renaud_Cyber_Security_Fear_Accepted_2020.pdf"
+                    },
+                    "abstract_zh": "网络安全研究人员开始试验恐惧呼吁，有各种各样的设计和报道的有效性。这使得很难获得设计和部署这些干预措施的建议。因此，我们回顾了更广泛的恐惧呼吁文献，以达成一套准则，以协助网络安全研究人员。我们的评论显示了对恐惧上诉是否真的有用和可取的不同意见。我们的审查还揭示了在网络和其他领域的广泛的恐惧上诉实验设计，这证实了在这方面需要一些标准化的指导方针来指导实践。我们提出了一个进行恐惧呼吁实验的协议，并通过这个镜头回顾了一个网络安全恐惧呼吁研究的样本，以提供当前游戏状态的快照。我们希望提议的实验协议将证明对那些希望从事未来网络安全恐惧上诉研究的人有所帮助。",
+                    "title_zh": "网络安全恐惧诉求:出乎意料的复杂"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368865",
+                    "title": "Opt out of privacy or \"go home\": understanding reluctant privacy behaviours through the FoMO-centric design paradigm",
+                    "authors": "Fiona Westin, Sonia Chiasson",
+                    "abstract": "This paper explores how the design of online technology influences social factors and manipulates users' online privacy behaviours. In short, users reveal information and participate in online activities even when reluctant due to the influence of dark patterns. We propose FoMO-Centric Design as a paradigm for explaining how dark pattern-infused design may lead users to reluctantly behave in a less secure or privacy-preserving way than their attitudes reflect. We review the literature for evidence pointing to the existence of such design and for potential explanations for how it works. We then discuss the implications, present a list of preliminary recommendations, and offer an agenda for the research community based on our findings.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "本文探讨了在线技术的设计如何影响社会因素并操纵用户的在线隐私行为。简而言之，即使由于黑暗模式的影响而不情愿，用户也会透露信息并参与在线活动。我们提出以信息为中心的设计作为一个范例，来解释黑暗模式注入的设计可能会导致用户不情愿地以一种比他们的态度反映的更不安全或隐私保护的方式行事。我们回顾了文献中指出这种设计存在的证据以及对其工作原理的潜在解释。然后，我们讨论其含义，提出一系列初步建议，并根据我们的发现为研究团体提供一个议程。",
+                    "title_zh": "选择退出隐私或“回家”:通过以信息为中心的设计范式理解不情愿的隐私行为"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368866",
+                    "title": "FrameProv: towards end-to-end video provenance",
+                    "authors": "Mansoor Ahmed-Rengers",
+                    "abstract": "Video feeds are often deliberately used as evidence, as in the case of CCTV footage; but more often than not, the existence of footage of a supposed event is perceived as proof of fact in the eyes of the public at large. This reliance represents a societal vulnerability given the existence of easy-to-use editing tools and means to fabricate entire video feeds using machine learning. And, as the recent barrage of fake news and fake porn videos have shown, this isn't merely an academic concern, it is actively been exploited. I posit that this exploitation is only going to get more insidious. In this position paper, I introduce a long term project that aims to mitigate some of the most egregious forms of manipulation by embedding trustworthy components in the video transmission chain. Unlike earlier works, I am not aiming to do tamper detection or other forms of forensics - approaches I think are bound to fail in the face of the reality of necessary editing and compression - instead, the aim here is to provide a way for the video publisher to prove the integrity of the video feed as well as make explicit any edits they may have performed. To do this, I present a novel data structure, a video-edit specification language and supporting infrastructure that provides end-to-end video provenance, from the camera sensor to the viewer. I have implemented a prototype of this system and am in talks with journalists and video editors to discuss the best ways forward with introducing this idea to the mainstream.",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2005.09199"
+                    },
+                    "abstract_zh": "视频资料经常被故意用作证据，例如闭路电视录像；但通常情况下，在公众眼中，一个假想事件的镜头的存在被视为事实的证据。这种依赖代表了一种社会脆弱性，因为存在易于使用的编辑工具和使用机器学习来制作整个视频馈送的手段。而且，正如最近接二连三的假新闻和假色情视频所显示的那样，这不仅仅是一个学术问题，它正被积极利用。我认为这种剥削只会变得更加阴险。在这份立场文件中，我介绍了一个长期项目，旨在通过在视频传输链中嵌入值得信赖的组件来减少一些最恶劣的操纵形式。与早期的作品不同，我的目标不是进行篡改检测或其他形式的取证——我认为这些方法在必要的编辑和压缩面前注定会失败——相反，这里的目标是为视频发布者提供一种方法来证明视频源的完整性，并明确他们可能进行的任何编辑。为此，我提出了一种新颖的数据结构，一种视频编辑规范语言和支持基础设施，它提供了从摄像机传感器到观众的端到端视频来源。我已经实现了这个系统的原型，并且正在与记者和视频编辑讨论将这个想法引入主流的最佳方式。",
+                    "title_zh": "FrameProv:走向端到端视频起源"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368867",
+                    "title": "Privacy controls for always-listening devices",
+                    "authors": "Nathan Malkin, Serge Egelman, David A. Wagner",
+                    "abstract": "Intelligent voice assistants (IVAs) and other voice-enabled devices already form an integral component of the Internet of Things and will continue to grow in popularity. As their capabilities evolve, they will move beyond relying on the wake-words today's IVAs use, engaging instead in continuous listening. Though potentially useful, the continuous recording and analysis of speech can pose a serious threat to individuals' privacy. Ideally, users would be able to limit or control the types of information such devices have access to. But existing technical approaches are insufficient for enforcing any such restrictions. To begin formulating a solution, we develop a systematic methodology for studying continuous-listening applications and survey architectural approaches to designing a system that enhances privacy while preserving the benefits of always-listening assistants.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3368860.3368867"
+                    },
+                    "abstract_zh": "智能语音助理(IVAs)和其他支持语音的设备已经成为物联网不可或缺的组成部分，并将继续普及。随着他们能力的发展，他们将不再依赖今天的IVAs使用的唤醒词，而是参与持续的倾听。尽管有潜在的用途，对语音的连续记录和分析会对个人隐私造成严重威胁。理想情况下，用户将能够限制或控制这些设备可以访问的信息类型。但是现有的技术方法不足以实施任何这样的限制。为了开始制定一个解决方案，我们开发了一个研究连续监听应用程序的系统方法，并调查了设计一个增强隐私同时保留始终监听助手好处的系统的架构方法。",
+                    "title_zh": "始终监听设备的隐私控制"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368868",
+                    "title": "Everything-as-a-hack: claims-making for access to digital and social resources",
+                    "authors": "Wolter Pieters",
+                    "abstract": "In media and public discourse, cyber incidents are typically covered in terms of cybercriminals or other external threat agents managing to gain access to sensitive data and systems through weaknesses in technology and/or human factors. Such a framing of incidents foregrounds the (problematic) access claims of \"hackers\" and the protection against those as the key issue in security. However, other access claims play a role in the same incidents, such as those of the data owners, service providers, advertising companies, intelligence agencies, etc. These access claims are made via different means, and they are backgrounded when the problem is framed in terms of unauthorised access through hacks. In this contribution, I investigate the activity of claiming access as a key analytical concept in a more symmetrical treatment of cybersecurity and associated incidents. Rather than implicit, normalised, and technologically congealed notions of threats and associated access claims, this analytical framework aims at highlighting all access claims within the scope of a cybersecurity phenomenon, in order to uncover the politics behind cybersecurity and associated discourses and infrastructures, and thereby increase transparency. By covering different types of resources and different means of access, the approach also has the potential to connect the rather separated discourses on cybersecurity, privacy, and social manipulation through technology.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "在媒体和公共话语中，网络事件通常被描述为网络罪犯或其他外部威胁代理人通过技术和/或人为因素的弱点设法获取敏感数据和系统。这种事件的框架突出了“黑客”的(有问题的)访问声明以及针对这些访问声明的保护是安全中的关键问题。但是，其他访问声明在相同的事件中也扮演了角色，例如数据所有者、服务提供商、广告公司、情报机构等的访问声明。这些访问声明是通过不同的方式提出的，当问题被框定为通过黑客进行未经授权的访问时，它们是有背景的。在这篇文章中，我调查了在更对称地处理网络安全和相关事件中作为一个关键分析概念的声明访问的活动。这一分析框架旨在强调网络安全现象范围内的所有访问主张，而不是隐含的、标准化的和技术上凝固的威胁和相关访问主张的概念，以揭示网络安全和相关论述及基础设施背后的政治，从而提高透明度。通过涵盖不同类型的资源和不同的访问方式，这种方法也有可能通过技术将网络安全、隐私和社会操纵方面相当分散的话语联系起来。",
+                    "title_zh": "一切尽在掌握:获取数字和社会资源的权利主张"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368869",
+                    "title": "Towards models for quantifying the known adversary",
+                    "authors": "Alaadin Addas, Julie Thorpe, Amirali Salehi-Abari",
+                    "abstract": "The known adversary threat model has drawn growing attention of the security community. The known adversary is any individual with elevated first-hand knowledge of a potential victim and/or elevated access to a potential victim's devices. However, little attention is given on how to carefully recruit paired participants for user studies, who are qualified as legitimate known adversaries. Also, there is no formal framework for detecting and quantifying the known adversary. We develop three models, inspired by Social Psychology literature, to quantify the known adversary in paired user studies, and test them using a case study. Our results indicate that our proposed adapted-relationship closeness inventory and known adversary inventory models could accurately quantify and predict the known adversary. We subsequently discuss how social network analysis and artificial intelligence can automatically quantify the known adversary using publicly available data. We further discuss how these technologies can help the development of privacy assistants, which can automatically mitigate the risk of sharing sensitive information with potential known adversaries.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "已知的对手威胁模型已经引起了安全社区越来越多的关注。已知对手是任何对潜在受害者有大量第一手知识和/或对潜在受害者的设备有大量访问权的个人。然而，很少有人关注如何为用户研究精心招募成对的参与者，他们被认为是合法的已知对手。此外，没有正式的框架来检测和量化已知的对手。受社会心理学文献的启发，我们开发了三个模型来量化配对用户研究中的已知对手，并使用案例研究来测试它们。我们的结果表明，我们提出的适应关系亲密度量表和已知对手量表模型可以准确地量化和预测已知对手。我们随后讨论了社交网络分析和人工智能如何使用公开可用的数据自动量化已知的对手。我们进一步讨论这些技术如何帮助隐私助手的开发，隐私助手可以自动降低与潜在的已知对手共享敏感信息的风险。",
+                    "title_zh": "量化已知对手的模型"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3368860.3368870",
+                    "title": "Why Jenny can't figure out which of these messages is a covert information operation",
+                    "authors": "Tristan Caulfield, Jonathan M. Spring, M. Angela Sasse",
+                    "abstract": "We view foreign interference in US and UK elections via social manipulation through the lens of usable security. Our goal is to provide advice on what interventions on the socio-technical election system are likely to work, and which are likely to fail. Strategies that the usable security literature indicates are likely to work are those that (1) avoid overloading the user's primary task; (2) help people understand negative consequences of their actions; and (3) support the long-term education of users with analytic reasoning skills and adequate background knowledge. Several of the responses to election interference proposed by governments and technology companies so far do not abide by these recommendations and are likely to be ineffective.",
+                    "files": {
+                        "openAccessPdf": "https://discovery.ucl.ac.uk/10088492/1/tcasjs_why-Jenny.pdf"
+                    },
+                    "abstract_zh": "我们透过可用安全的视角，通过社会操纵来看待外国对美国和英国选举的干预。我们的目标是就社会技术选举系统的哪些干预措施可能有效，哪些干预措施可能失败提供建议。可用的安全文献表明可能起作用的策略是那些(1)避免使用户的主要任务过载；(2)帮助人们理解他们行为的负面后果；以及(3)用分析推理技能和足够的背景知识支持用户的长期教育。迄今为止，政府和技术公司提出的一些应对选举干预的措施没有遵守这些建议，很可能是无效的。",
+                    "title_zh": "为什么珍妮搞不清这些信息中哪些是秘密信息行动"
+                }
+            ]
+        }
+    ],
+    "2018": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/nspw/nspw2018.html",
+            "conf_title": "NSPW 2018: Windsor, UK",
+            "conf_url": "https://doi.org/10.1145/3285002",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285005",
+                    "title": "Augmenting Machine Learning with Argumentation",
+                    "authors": "Matt Bishop, Carrie Gates, Karl N. Levitt",
+                    "abstract": "The information security community is haunted by the failure of an appropriate break-the-glass access control at the United States Center for Disease Control that led to an estimated additional 1.2 million deaths in North America in 2036. In this paper we review what caused the security failures in this system and argue that, by combining human intelligence with multiple technological approaches to create a system that emphasizes human approaches to guide analysis, the failures that occurred will not recur. We also leverage people and technologies to identify and fill gaps in the training data to minimize the threat of unexpected events. While we use this scenario as our running example, we note that our approach is generalizable to a broader problem space where machine learning approaches have been deployed to make decisions.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "美国疾病控制中心的适当的碎玻璃访问控制失败，导致2036年北美估计增加120万例死亡，这一直困扰着信息安全界。在本文中，我们回顾了导致该系统安全失败的原因，并指出，通过将人类智能与多种技术方法相结合，创建一个强调人类方法来指导分析的系统，已经发生的失败将不会再次发生。我们还利用人员和技术来识别和填补培训数据中的空白，以最大限度地减少意外事件的威胁。虽然我们使用这个场景作为我们的运行示例，但我们注意到，我们的方法可推广到更广泛的问题空间，其中已经部署了机器学习方法来做出决策。",
+                    "title_zh": "用论证扩充机器学习"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285004",
+                    "title": "Against Mindset",
+                    "authors": "Arne Padmos",
+                    "abstract": "The security field has adopted the social construct of the security mindset: the idea that there exists a single attitude that allows individuals to think like an attacker. However, there is little evidence that the security mindset is an appropriate construct. We suggest an alternative approach, consisting of multiple security-relevant attitudes, which are linked to security roles within the systems development life-cycle. To illustrate the usefulness of our approach, we show how the framework can be used to help shape curricula.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "安全领域已经采用了安全思维模式的社会结构:存在一种允许个人像攻击者一样思考的单一态度。然而，很少有证据表明安全思维是一个合适的概念。我们建议一种替代方法，由多种安全相关的态度组成，这些态度与系统开发生命周期中的安全角色相关联。为了说明我们的方法的有效性，我们展示了如何使用该框架来帮助塑造课程。",
+                    "title_zh": "对抗心态"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285013",
+                    "title": "Shifting Paradigms: Using Strategic Foresight to Plan for Security Evolution",
+                    "authors": "Heather Vescent, Bob Blakley",
+                    "abstract": "Everyone wants to know the future. Exploring the future is not to make predictions, but to anticipate which futures might happen, so we may make better decisions today. The foresight process is a tool which enables researchers to become more attuned to the future; the foresight process is designed to help anticipate emerging trends, rather than be surprised by dramatic change. This paper identifies possible futures in two ways: extrapolating from the present into the future, and starting from future states to reconstruct how they might be arrived at from the current state. The result is 12 fresh scenarios and 13 new paradigms.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "每个人都想知道未来。探索未来不是为了做预测，而是为了预期哪些未来可能会发生，所以我们今天可能会做出更好的决定。预见过程是一种工具，它能使研究人员更加适应未来；预见过程旨在帮助预测新兴趋势，而不是对戏剧性的变化感到惊讶。本文以两种方式确定了可能的未来:从现在外推至未来，以及从未来状态出发重建如何从当前状态达到未来。结果是12个新的场景和13个新的范例。",
+                    "title_zh": "转变范式:利用战略远见规划安全发展"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285009",
+                    "title": "Can Software Licenses Contribute to Cyberarms Control?",
+                    "authors": "Steve Dierker, Volker Roth",
+                    "abstract": "We discuss the potential role that software licenses can play in cyberarms control, the attribution of cyber attacks and the adherence to international humanitarian law and treaties that stipulate that the effects of war on the civilian population shall be minimized. We consider the increasing reliance of civilian and military institutions on FOSS and conduct a thought experiment: what would happen if a fraction of FOSS migrated to a license with non-military use clauses? If this caused civilian and military systems to diverge in design, and exploits and malware reflect their targets, then erroneous targeting of civilian institutions could be ruled out. This idea led us to perform an initial analysis of software dependencies and their relationship to the propagation of copyleft licenses. We analyzed packet manager data for seven different programming languages, based on data from Libraries.io. Among other things we found that a small number of packages accounts for the majority of the dependencies. The number of dependent packages varies from language to language and ranges from 79% in the case of Cargo to merely 3.9% in the case of Pypi. We also review existing non-military licenses and identify areas that need further research in order to understand the potential and the applicability of non-military licensing regimes.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "我们讨论了软件许可证在网络军备控制中的潜在作用、网络攻击的归属以及遵守国际人道主义法和规定应尽量减少战争对平民人口影响的条约。我们考虑到民用和军用机构对自由和开放源码软件越来越多的依赖，并进行一个思想实验:如果一小部分自由和开放源码软件迁移到带有非军事使用条款的许可证上会发生什么？如果这导致民用和军用系统在设计上出现分歧，并且漏洞和恶意软件反映了它们的目标，那么就可以排除错误地将民用机构作为目标的可能性。这个想法让我们对软件依赖性及其与版权许可传播的关系进行了初步分析。我们根据Libraries.io中的数据，分析了七种不同编程语言的数据包管理器数据。除其他外，我们还发现少数包占了大多数依赖项。依赖包的数量因语言而异，从Cargo的79%到Pypi的3.9%不等。我们还审查现有的非军事许可，并确定需要进一步研究的领域，以了解非军事许可制度的潜力和适用性。",
+                    "title_zh": "软件许可证有助于网络军备控制吗？"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285011",
+                    "title": "Going Dark: A Retrospective on the North American Blackout of 2038",
+                    "authors": "Prashant Anantharaman, J. Peter Brady, Patrick Flathers, Vijay H. Kothari, Michael C. Millian, Jason Reeves, Nathan Reitinger, William G. Nisen, Sean W. Smith",
+                    "abstract": "From March 29, 2038, to April 6, 2038, the world observed the North American Blackout of 2038. The blackout left upwards of 300 million people without power, ravaged the world economy, and devastated the global internet. By many accounts, it was the most devastating blackout ever witnessed. That said, its occurrence should not be surprising. While pundits harp on the technical sophistication of the adversary, debate the merits of a kinetic response, and politicize the blackout, the sad reality is that we have, for years, known we were susceptible to such an event. Moreover, we have had the requisite knowledge and tools to avert the blackout, but failed to use them. Plenty has been written on the wide-reaching societal effects of the blackout; our focus will be on the blackout itself.\n The Blackout of 2038 had two major phases. In the first phase, an active adversary exploited a vulnerability in the implementation of the Wireless Access in SCADA Environment (WASE) protocol suite that supports the grid. Grid operators acted swiftly and switched to a fallback system to restore power. Unfortunately, the adversary then subverted the fallback system by exploiting a well-known vulnerability in DNP3, a popular industrial control system protocol. The led to the second blackout. Eventually, a patched implementation of the WASE protocol suite was developed and deployed, which restored power.\n In hindsight, this blackout stemmed from two erroneous assumptions. First, immediately following the Texas Brownout of 2020, academics, industry professionals, regulators, and other stakeholders advocated for the adoption of a protocol that was formally verified to protect against race conditions (i.e., the cause of the brownout). However, it was wrong to equate formal verification with perfect security; we should have heeded the adage from Donald Knuth, \"[b]eware of bugs in the above code; I have only proved it correct, not tried it.\" Second, we wrongly assumed a known-to-be-insecure fallback system would be an adequate stopgap until the primary system was back online.\n This paper serves as a postmortem to the North American Blackout of 2038. We analyze how the failures came to pass and the assumptions that underlie them. Moreover, we offer a complete and simple solution to prevent these conditions from ever arising again: the adoption of Language-theoretic Security (LangSec) principles. To this end, we provide and evaluate a preliminary implementation of a LangSec parser for the WASE Short Message Protocol format (WSMP). Additionally, we urge lawmakers and regulatory agencies to mandate the verification of fallback protocols.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "从2038年3月29日到2038年4月6日，全世界都观测到了2038年的北美大停电。大停电导致3亿多人断电，破坏了世界经济，摧毁了全球互联网。从很多方面来说，这是有史以来最具破坏性的停电。也就是说，这种情况的发生并不奇怪。虽然专家们喋喋不休地谈论对手的技术复杂性，争论动态反应的优点，并将停电政治化，但可悲的现实是，多年来，我们都知道我们容易受到这样一个事件的影响。此外，我们有必要的知识和工具来避免大停电，但没有使用它们。关于大停电的广泛社会影响，已经有很多报道；我们的重点是昏迷事件本身。\n2038年的大停电有两个主要阶段。在第一阶段，一个活跃的对手利用了支持网格的SCADA环境无线接入(WASE)协议套件实现中的一个漏洞。电网运营商迅速采取行动，切换到备用系统恢复供电。不幸的是，对手随后利用DNP3(一种流行的工业控制系统协议)中的一个众所周知的漏洞破坏了后备系统。导致了第二次昏迷事件。最终，WASE协议套件的补丁实现被开发和部署，恢复了电力。\n事后看来，这次停电源于两个错误的假设。首先，紧接着2020年德克萨斯州限电之后，学者、行业专业人士、监管机构和其他利益相关者主张采用一项经过正式验证的协议，以防止竞争条件(即限电的原因)。然而，将形式验证等同于完美的安全性是错误的；我们应该留意唐纳德·克努特的格言，“上面的代码中有错误；我只是证明了它是正确的，而不是尝试过。”其次，我们错误地认为，在主系统恢复运行之前，一个已知不安全的备用系统将是一个适当的权宜之计。\n这篇论文是对2038年北美大停电的事后分析。我们分析失败是如何发生的，以及失败背后的假设。此外，我们提供了一个完整而简单的解决方案来防止这些情况再次发生:采用语言理论安全(LangSec)原则。为此，我们提供并评估了WASE短消息协议格式(WSMP)的LangSec解析器的初步实现。此外，我们敦促立法者和监管机构授权对后备方案进行验证。",
+                    "title_zh": "走向黑暗:2038年北美大停电回顾"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285003",
+                    "title": "An Online Consent Maturity Model: Moving from Acceptable Use Towards Ethical Practice",
+                    "authors": "Vivien M. Rooney, Simon N. Foley",
+                    "abstract": "Achieving informed consent in online and digital contexts is challenging for several reasons. One reason is that conveying the meaning and implications of agreements to individuals is hindered by legalistic formats obscuring the potential harm that can ensue from analytics of data collected in a socio-technical context, such as online. Furthermore, as technical capability advances, what can be achieved with data mining and initiatives outpaces statutory regulation, as well as the social norms that frame individual human understandings. It is argued that the paradigm that currently underpins informed consent in online settings draws on ethical positions that are either utilitarian or legalistic. In contrast, the adoption of an ethics of virtue approach as a new paradigm provides a framework for reconceptualising informed consent. Characteristics that are material for informed consent, shared by Online Analytics and Qualitative Longitudinal Research, provide the inspiration and basis for this interdisciplinary approach, with the application of lessons learned in the practice and theory of one discipline to another.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "出于几个原因，在网络和数字环境中实现知情同意具有挑战性。一个原因是，向个人传达协议的意义和影响受到法律形式的阻碍，这些形式掩盖了在社会技术背景下(如在线)收集的数据分析可能带来的潜在危害。此外，随着技术能力的进步，数据挖掘和计划所能实现的超越了法律法规，以及构建个人理解的社会规范。有人认为，目前在网上支持知情同意的模式是基于功利主义或法律主义的道德立场。相比之下，采用美德伦理学的方法作为新的范例，为重新界定知情同意提供了一个框架。在线分析和定性纵向研究共享的知情同意的重要特征为这种跨学科方法提供了灵感和基础，将一个学科的实践和理论中的经验教训应用于另一个学科。",
+                    "title_zh": "在线同意成熟度模型:从可接受的使用走向伦理实践"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285008",
+                    "title": "On Security Singularities",
+                    "authors": "Wolter Pieters",
+                    "abstract": "In future studies involving artificial intelligence, the so-called technological singularity is a key theme. It refers to a hypothetical point in the future where technological progress becomes automated through the creation of a new form of intelligence. Under the assumption of adversarial behaviour, this could pose an existential threat to humanity. More modestly, singularities and tipping points refer to thresholds beyond which the behaviour of a system changes in a qualitative way. The nonlinearity of the behaviour causes existing control mechanisms to become obsolete, guiding the system towards a new balance, if this exists. In this paper, we ask the question to what extent the notions of singularity and tipping point can contribute to an analysis of security in 2038. Can we expect to have seen such phenomena in twenty years time, and will they have changed our perception of what security entails? Or are they useless forms of speculation diverting our attention away from the day-to-day best practices that are needed to keep our basic security up-to-date? We discuss examples of singularity-style developments, characterise them in terms of acceleration mechanisms and discontinuities, and discuss whether and how these characteristics should be used to prepare ourselves. We conclude that a broad discussion on potential security singularities and associated general adaptation strategies is more useful than focusing on one big singularity.",
+                    "files": {
+                        "openAccessPdf": "https://zenodo.org/record/3237445/files/security-singularity-postproceedings.pdf"
+                    },
+                    "abstract_zh": "在未来涉及人工智能的研究中，所谓的技术奇点是一个关键主题。它指的是未来的一个假想点，通过创造一种新的智能形式，技术进步变得自动化。根据敌对行为的假设，这可能对人类构成生存威胁。更确切地说，奇点和临界点指的是系统行为发生质的变化的阈值。行为的非线性导致现有的控制机制变得过时，引导系统走向新的平衡，如果存在的话。在本文中，我们提出了这样一个问题:奇点和临界点的概念在多大程度上有助于2038年的安全分析。我们能指望在20年后看到这样的现象吗？它们会改变我们对安全的看法吗？或者它们是无用的投机形式，将我们的注意力从日常的最佳实践上转移开，而这些最佳实践是保持我们的基本安全与时俱进所必需的？我们讨论了奇点类型发展的例子，从加速机制和不连续性方面描述了它们的特征，并讨论了这些特征是否以及如何被用来为我们自己做准备。我们的结论是，对潜在的安全奇点和相关的一般适应策略进行广泛的讨论比关注一个大奇点更有用。",
+                    "title_zh": "关于安全奇点"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285006",
+                    "title": "Rethinking the Proposition of Privacy Engineering",
+                    "authors": "Aaron Ceross, Andrew Simpson",
+                    "abstract": "The field of privacy engineering proposes a methodological framework for designing privacy-protecting information systems. Recognising that the utilisation of privacy-enhancing techniques for data storage and analysis does not address the entire scope of individual privacy, privacy engineering incorporates influences from user sentiment, legal norms and risk analysis in order to provide a holistic approach. Framed by related design principles, such as 'Privacy-by-Design', privacy engineering purports to provide a practical, deployable set of methods by which to achieve such a holistic outcome. Yet, despite this aim, there have been difficulties in adequately articulating the value proposition of privacy engineering. Without being able to adequately define privacy or map its contours, any proposed methodology or framework will be difficult to implement in practice, if not self-defeating. This paper identifies and examines the assumptions that underpin privacy engineering, linking them to shortcomings and open questions. Further, we explore possible research avenues that may give rise to alternative frameworks.",
+                    "files": {
+                        "openAccessPdf": "https://ora.ox.ac.uk/objects/uuid:f59a9106-155c-43c2-b3da-dc986240ad03/files/mcf93f24af41120f005400b9071fd0342"
+                    },
+                    "abstract_zh": "隐私工程领域提出了一个设计隐私保护信息系统的方法框架。认识到在数据存储和分析中使用隐私增强技术并不能解决个人隐私的全部问题，隐私工程结合了用户情绪、法律规范和风险分析的影响，以提供一种整体的方法。在相关设计原则的框架下，如“设计隐私”，隐私工程旨在提供一套实用的、可部署的方法来实现这样一个整体的结果。然而，尽管有这个目标，在充分阐明隐私工程的价值主张方面仍然存在困难。如果不能充分定义隐私或描绘其轮廓，任何提议的方法或框架都将难以在实践中实施，甚至会弄巧成拙。本文确定并检查了支持隐私工程的假设，将它们与缺点和公开问题联系起来。此外，我们探索可能的研究途径，可能会导致替代框架。",
+                    "title_zh": "对隐私工程命题的再思考"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285012",
+                    "title": "After the BlockCLoud Apocalypse",
+                    "authors": "Mark Burgess, Anil Somayaji",
+                    "abstract": "In 2038 we have lived though a decade during which the world's global computational infrastructure undermined privacy and trust in virtually every aspect of our lives. The problems were seen far in advance, but it was commonplace belief that a combination of cryptography and more distributed responsibilty in systems---'blockchains for everything, and all hail the cloud'---would together restore what had been lost in the first decades of the 21st century. As it turned out, it was these very technologies that ended up destroying the privacy and trust we had left.\n In this review, we argue that the mistake collectively made was to think of privacy and trust as technological problems, when in fact they are properties of social and political systems. If we are to recover from what we call the BlockCloud Apocalypse, humans and machines are going to have to figure out how to build systems that support privacy and trust in society, rather than attempt to replace it with trust in technical validations. We propose a return to trust in humanitarian motives rather than technological supremacy.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "在2038年，我们经历了一个十年，在这个十年中，世界的全球计算基础设施在我们生活的几乎每个方面都破坏了隐私和信任。这些问题在很久以前就被发现了，但人们普遍认为，将加密技术和系统中更为分散的责任结合起来——“区块链支持一切，所有人欢迎云”——将共同恢复21世纪头几十年失去的东西。事实证明，正是这些技术最终摧毁了我们留下的隐私和信任。\n在这篇评论中，我们认为，集体犯下的错误是认为隐私和信任是技术问题，而事实上它们是社会和政治制度的属性。如果我们要从我们所谓的区块云启示录中恢复过来，人类和机器将不得不找出如何建立支持隐私和社会信任的系统，而不是试图用技术验证中的信任来取代它。我们建议回归对人道主义动机的信任，而不是技术优势。",
+                    "title_zh": "乌云启示录之后"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285007",
+                    "title": "Digital Signatures to Ensure the Authenticity and Integrity of Synthetic DNA Molecules",
+                    "authors": "Diptendu Mohan Kar, Indrajit Ray, Jenna Gallegos, Jean Peccoud",
+                    "abstract": "DNA synthesis has become increasingly common, and many synthetic DNA molecules are licensed intellectual property (IP). DNA samples are shared between academic labs, ordered from DNA synthesis companies and manipulated for a variety of different purposes, mostly to study their properties and improve upon them. However, it is not uncommon for a sample to change hands many times with very little accompanying information and no proof of origin. This poses significant challenges to the original inventor of a DNA molecule, trying to protect her IP rights. More importantly, following the anthrax attacks of 2001, there is an increased urgency to employ microbial forensic technologies to trace and track agent inventories. However, attribution of physical samples is next to impossible with existing technologies. In this paper, we describe our efforts to solve this problem by embedding digital signatures in DNA molecules synthesized in the laboratory. We encounter several challenges that we do not face in the digital world. These challenges arise primarily from the fact that changes to a physical DNA molecule can affect its properties, random mutations can accumulate in DNA samples over time, DNA sequencers can sequence (read) DNA erroneously and DNA sequencing is still relatively expensive (which means that laboratories would prefer not to read and re-read their DNA samples to get error-free sequences). We address these challenges and present a digital signature technology that can be applied to synthetic DNA molecules in living cells.",
+                    "files": {
+                        "openAccessPdf": "https://mountainscholar.org/bitstream/10217/195249/1/Kar_colostate_0053N_15284.pdf"
+                    },
+                    "abstract_zh": "DNA合成已经变得越来越普遍，并且许多合成的DNA分子被授予知识产权(IP)。DNA样本在学术实验室之间共享，从DNA合成公司订购，并被用于各种不同的目的，主要是研究它们的特性并加以改进。然而，样品多次易手，附带的信息很少，也没有原产地证明，这种情况并不少见。这对试图保护知识产权的DNA分子的最初发明者提出了重大挑战。更重要的是，在2001年炭疽袭击之后，使用微生物法医技术来追踪和跟踪制剂库存的紧迫性增加了。然而，现有技术几乎不可能对物理样本进行归属。在本文中，我们描述了我们通过在实验室合成的DNA分子中嵌入数字签名来解决这个问题的努力。我们遇到了一些在数字世界中没有遇到的挑战。这些挑战主要来自以下事实:物理DNA分子的变化会影响其特性，随机突变会随着时间的推移在DNA样品中积累，DNA测序仪可能会错误地测序(读取)DNA，DNA测序仍然相对昂贵(这意味着实验室不愿意读取和重新读取他们的DNA样品以获得无错误的序列)。我们解决了这些挑战，并提出了一种数字签名技术，可以应用于活细胞中的合成DNA分子。",
+                    "title_zh": "数字签名确保合成DNA分子的真实性和完整性"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3285002.3285010",
+                    "title": "Malicious User Experience Design Research for Cybersecurity",
+                    "authors": "Adam Trowbridge, Filipo Sharevski, Jessica Westbrook",
+                    "abstract": "This paper explores the factors and theory behind the user-centered research necessary to create a successful game-like prototype, and user experience, for malicious users in a cybersecurity context. We explore what is known about successful addictive design in the fields of video games and gambling to understand the allure of breaking into a system, and the joy of thwarting the security to reach a goal or a reward of data. Based on the malicious user research, game user research, and using the GameFlow framework, we propose a novel malicious user experience design approach.",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1806.11060"
+                    },
+                    "abstract_zh": "本文探讨了以用户为中心的研究背后的因素和理论，这是在网络安全环境中为恶意用户创建成功的类似游戏的原型和用户体验所必需的。我们探索了视频游戏和赌博领域中已知的成功成瘾设计，以了解闯入系统的诱惑，以及阻挠安全以达到目标或数据奖励的快乐。在恶意用户研究、游戏用户研究的基础上，利用GameFlow框架，提出了一种新的恶意用户体验设计方法。",
+                    "title_zh": "面向网络安全的恶意用户体验设计研究"
+                }
+            ]
+        }
+    ],
+    "2016": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/nspw/nspw2016.html",
+            "conf_title": "NSPW 2016: Granby, CO, USA",
+            "conf_url": "https://doi.org/10.1145/3011883",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1145/3011883.3011889",
+                    "title": "I'm not sure if we're okay: uncertainty for attackers and defenders",
+                    "authors": "Mark E. Fioravanti II, Matt Bishop, Richard Ford",
+                    "abstract": "Asymmetry and uncertainty have been written about at length in the context of computer security. Indeed, many cutting edge defensive techniques provide system protection by relying on attacker uncertainty about certain aspects of the system. However, with these defensive countermeasures, typically the defender has the ability to derive full knowledge of the system (as is the case in, for example, Instruction Set Randomization), but the attacker has limited knowledge. In this paper, we concern ourselves with the case in which neither the attacker nor the defender have perfect knowledge of the system, but where the level of uncertainty tolerable to both parties is different. In particular, we explore scenarios where the attacker's need for certainty is lower than that of the defender, and ask if non-determinism can be used as a weapon. We provide an example in the malware arena, demonstrating the use of quorum sensing as a potential application of this technique. We argue that this idea of mutual uncertainty is a new paradigm which opens the way to novel solutions in the space.",
+                    "files": {
+                        "openAccessPdf": "http://dl.acm.org/ft_gateway.cfm?id=3011889&type=pdf"
+                    },
+                    "abstract_zh": "不对称和不确定性已经在计算机安全的背景下被详细讨论过了。事实上，许多尖端防御技术依靠攻击者对系统某些方面的不确定性来提供系统保护。然而，使用这些防御对策，通常防御者有能力获得系统的全部知识(例如，指令集随机化的情况)，但是攻击者的知识有限。在本文中，我们关注的是攻击者和防御者都不完全了解系统，但是双方所能容忍的不确定性水平不同的情况。特别地，我们探索攻击者对确定性的需求低于防御者的场景，并询问非确定性是否可以用作武器。我们提供了一个恶意软件领域的例子，展示了群体感应作为这种技术的潜在应用的使用。我们认为，这种相互不确定性的想法是一种新的范式，为空间中的新解决方案开辟了道路。",
+                    "title_zh": "我不确定我们是否没事:进攻者和防守者的不确定性"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3011883.3011885",
+                    "title": "Harvesting the low-hanging fruits: defending against automated large-scale cyber-intrusions by focusing on the vulnerable population",
+                    "authors": "Hassan Halawa, Konstantin Beznosov, Yazan Boshmaf, Baris Coskun, Matei Ripeanu, Elizeu Santos-Neto",
+                    "abstract": "The orthodox paradigm to defend against automated social-engineering attacks in large-scale socio-technical systems is reactive and victim-agnostic. Defenses generally focus on identifying the attacks/attackers (e.g., phishing emails, social-bot infiltrations, malware offered for download). To change the status quo, we propose to identify, even if imperfectly, the vulnerable user population, that is, the users that are likely to fall victim to such attacks. Once identified, information about the vulnerable population can be used in two ways. First, the vulnerable population can be influenced by the defender through several means including: education, specialized user experience, extra protection layers and watchdogs. In the same vein, information about the vulnerable population can ultimately be used to fine-tune and reprioritize defense mechanisms to offer differentiated protection, possibly at the cost of additional friction generated by the defense mechanism. Secondly, information about the user population can be used to identify an attack (or compromised users) based on differences between the general and the vulnerable population. This paper considers the implications of the proposed paradigm on existing defenses in three areas (phishing of user credentials, malware distribution and socialbot infiltration) and discusses how using knowledge of the vulnerable population can enable more robust defenses.",
+                    "files": {
+                        "openAccessPdf": "http://dl.acm.org/ft_gateway.cfm?id=3011885&type=pdf"
+                    },
+                    "abstract_zh": "在大规模社会技术系统中防御自动化社会工程攻击的正统范式是被动的和受害者不可知的。防御通常侧重于识别攻击/攻击者(例如，网络钓鱼电子邮件、社交机器人渗透、提供下载的恶意软件)。为了改变现状，我们建议识别易受攻击的用户群体，即可能成为这种攻击的受害者的用户，即使是不完全识别。一旦确定，关于弱势群体的信息可以以两种方式使用。首先，弱势群体可以通过多种方式受到维权者的影响，包括:教育、专门的用户体验、额外的保护层和看门狗。同样，关于弱势群体的信息最终可以用来微调和重新安排防御机制的优先次序，以提供差异化保护，但代价可能是防御机制产生更多摩擦。其次，关于用户群体的信息可用于根据普通人群和易受攻击人群之间的差异来识别攻击(或受损用户)。本文考虑了所提出的模式对三个领域(用户凭证的网络钓鱼、恶意软件分发和社交机器人渗透)的现有防御的影响，并讨论了如何利用易受攻击人群的知识来实现更强大的防御。",
+                    "title_zh": "收获唾手可得的果实:通过关注弱势人群来防御自动化的大规模网络入侵"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3011883.3011888",
+                    "title": "Cross-layer personalization as a first-class citizen for situation awareness and computer infrastructure security",
+                    "authors": "Aokun Chen, Pratik Prabhanjan Brahma, Dapeng Oliver Wu, Natalie C. Ebner, Brandon Matthews, Jedidiah R. Crandall, Xuetao Wei, Michalis Faloutsos, Daniela Oliveira",
+                    "abstract": "We propose a new security paradigm that makes cross-layer personalization a premier component in the design of security solutions for computer infrastructure and situational awareness. This paradigm is based on the observation that computer systems have a personalized usage profile that depends on the user and his activities. Further, it spans the various layers of abstraction that make up a computer system, as if the user embedded his own DNA into the computer system. To realize such a paradigm, we discuss the design of a comprehensive and cross-layer profiling approach, which can be adopted to boost the effectiveness of various security solutions, e.g., malware detection, insider attacker prevention and continuous authentication. The current state-of-the-art in computer infrastructure defense solutions focuses on one layer of operation with deployments coming in a \"one size fits all\" format, without taking into account the unique way people use their computers. The key novelty of our proposal is the cross-layer personalization, where we derive the distinguishable behaviors from the intelligence of three layers of abstraction. First, we combine intelligence from: a) the user layer, (e.g., mouse click patterns); b) the operating system layer; c) the network layer. Second, we develop cross-layer personalized profiles for system usage. We will limit our scope to companies and organizations, where computers are used in a more routine and one-on-one style, before we expand our research to personally owned computers. Our preliminary results show that just the time accesses in user web logs are already sufficient to distinguish users from each other,with users of the same demographics showing similarities in their profiles. Our goal is to challenge today's paradigm for anomaly detection that seems to follow a monoculture and treat each layer in isolation. We also discuss deployment, performance overhead, and privacy issues raised by our paradigm.",
+                    "files": {
+                        "openAccessPdf": "http://dl.acm.org/ft_gateway.cfm?id=3011888&type=pdf"
+                    },
+                    "abstract_zh": "我们提出了一种新的安全模式，使跨层个性化成为计算机基础设施和情境感知安全解决方案设计中的首要组件。这种范式基于这样的观察，即计算机系统具有依赖于用户及其活动的个性化使用简档。此外，它跨越了构成计算机系统的各种抽象层，就像用户将自己的DNA嵌入到计算机系统中一样。为了实现这种模式，我们讨论了一种全面的跨层分析方法的设计，该方法可用于提高各种安全解决方案的有效性，例如恶意软件检测、内部攻击者预防和连续身份验证。当前最先进的计算机基础设施防御解决方案专注于一个操作层，以“一刀切”的方式进行部署，没有考虑到人们使用计算机的独特方式。我们的提议的关键新颖性是跨层个性化，其中我们从三个抽象层的智能中获得可区分的行为。首先，我们结合了来自以下方面的智能:a)用户层(例如，鼠标点击模式)；b)操作系统层；c)网络层。第二，我们为系统使用开发跨层的个性化配置文件。在我们将研究扩展到个人拥有的电脑之前，我们将把我们的范围限制在公司和组织，在这些地方，电脑的使用更加常规和一对一。我们的初步结果显示，仅仅是用户网络日志中的时间访问就已经足以区分用户彼此，具有相同人口统计特征的用户在其简档中显示相似性。我们的目标是挑战今天的异常检测范式，这种范式似乎遵循单一文化，孤立地对待每一层。我们还讨论了部署、性能开销和由我们的范例引起的隐私问题。",
+                    "title_zh": "跨层个性化作为情况感知和计算机基础设施安全的一等公民"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3011883.3011887",
+                    "title": "Cybersecurity as a Politikum: implications of security discourses for infrastructures",
+                    "authors": "Laura Fichtner, Wolter Pieters, André Teixeira",
+                    "abstract": "In the cybersecurity community it is common to think of security as a design feature for systems and infrastructures that may be difficult to balance with other requirements. What is less studied is how security requirements come about, for which reasons, and what their influence is on the actions the system facilitates. Security is for example often used as an argument for or against granting access rights that are of importance to stakeholders, such as in the discussion on counterterrorism and privacy. This paper argues that the ongoing politicization of security issues calls for a paradigm to study cybersecurity as a Politikum: a matter of political concern, embedded in existing and future infrastructures. We summarize literature which inspired this paper and explain the role of security arguments for infrastructure governance. Then we outline the new paradigm and its core concepts and contribution, including the notion of framing. Finally, we present discourse analysis and infrastructure ethnography as research methods and discuss cases in which discourses (may) shape infrastructures, in particular smart cities.",
+                    "files": {
+                        "openAccessPdf": "https://ris.utwente.nl/ws/files/5422665/politikum_NSPW.pdf"
+                    },
+                    "abstract_zh": "在网络安全社区中，人们通常认为安全是系统和基础设施的一个设计特征，可能难以与其他需求相平衡。较少研究的是安全需求是如何产生的，出于什么原因，以及它们对系统促进的动作有什么影响。例如，安全性经常被用作支持或反对授予对利益相关者很重要的访问权限的论据，例如在关于反恐和隐私的讨论中。本文认为，当前安全问题的政治化需要一种范式，将网络安全作为一个政治问题来研究:这是一个政治问题，嵌入在现有和未来的基础设施中。我们总结了启发本文的文献，并解释了基础设施治理的安全论点的作用。然后，我们概述了新的范式及其核心概念和贡献，包括框架的概念。最后，我们提出了话语分析和基础设施民族志作为研究方法，并讨论了话语塑造基础设施，特别是智能城市的案例。",
+                    "title_zh": "作为政治的网络安全:安全话语对基础设施的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3011883.3011890",
+                    "title": "Content-based security for the web",
+                    "authors": "Alexander Afanasyev, J. Alex Halderman, Scott Ruoti, Kent E. Seamons, Yingdi Yu, Daniel Zappala, Lixia Zhang",
+                    "abstract": "The World Wide Web has become the most common platform for building applications and delivering content. Yet despite years of research, the web continues to face severe security challenges related to data integrity and confidentiality. Rather than continuing the exploit-and-patch cycle, we propose addressing these challenges at an architectural level, by supplementing the web's existing connection-based and server-based security models with a new approach: content-based security. With this approach, content is directly signed and encrypted at rest, enabling it to be delivered via any path and then validated by the browser. We explore how this new architectural approach can be applied to the web and analyze its security benefits. We then discuss a broad research agenda to realize this vision and the challenges that must be overcome.",
+                    "files": {
+                        "openAccessPdf": "http://dl.acm.org/ft_gateway.cfm?id=3011890&type=pdf"
+                    },
+                    "abstract_zh": "万维网已经成为构建应用程序和传递内容的最常见平台。然而，尽管经过多年的研究，网络仍然面临着与数据完整性和保密性相关的严峻的安全挑战。我们建议在架构层面上解决这些挑战，而不是继续开发和修补的循环，用一种新的方法来补充web现有的基于连接和基于服务器的安全模型:基于内容的安全。使用这种方法，内容在静态时直接签名和加密，使其能够通过任何路径交付，然后由浏览器进行验证。我们探索如何将这种新的架构方法应用于web，并分析其安全性优势。然后，我们讨论实现这一愿景的广泛研究议程以及必须克服的挑战。",
+                    "title_zh": "基于内容的网络安全"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3011883.3011892",
+                    "title": "Trusted execution environment-based authentication gauge (TEEBAG)",
+                    "authors": "Ranjbar A. Balisane, Andrew C. Martin",
+                    "abstract": "We present a new approach to authentication using Trusted Execution Environments (TEEs), by changing the location of authentication from a remote device (e.g. remote authentication server) to user device(s) that are TEE enabled. The authentication takes place locally on the user device and only the outcome is sent back to the remote device. Our approach uses existing features and capabilities of TEEs to enhance the security of user authentication. We reverse the way traditional authentication schemes work: instead of the user presenting their authentication data to a remote device, we request the remote device to send the stored authentication template (s) to the local device. Almost paradoxically, this enhances security of authentication data by supplying it only to a trusted device, and so enabling users to authenticate the intended remote entity. This addresses issues related with bad SSL certificates on local devices, DNS poisoning, and counteracts certain threats posed by the presence of malware. We present a protocol to implement such authentication system discussing its strengths and limitations, before identifying available technologies to implement the architecture.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "我们提出了一种使用可信执行环境(TEEs)进行认证的新方法，通过将认证的位置从远程设备(例如，远程认证服务器)改变到启用了TEE的用户设备。认证在用户设备上本地进行，并且只有结果被发送回远程设备。我们的方法使用tee的现有特征和能力来增强用户认证的安全性。我们颠倒了传统认证方案的工作方式:不是用户将他们的认证数据呈现给远程设备，而是我们请求远程设备将存储的认证模板发送给本地设备。几乎矛盾的是，这通过将认证数据仅提供给可信设备而增强了认证数据的安全性，并且因此使得用户能够认证预期的远程实体。这解决了与本地设备上的坏SSL证书、DNS中毒相关的问题，并抵消了恶意软件的存在所带来的某些威胁。我们提出了一个实现这种认证系统的协议，讨论了它的优点和局限性，然后确定了实现该体系结构的可用技术。",
+                    "title_zh": "基于可信执行环境的认证规范(TEEBAG)"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3011883.3011886",
+                    "title": "Rethinking operating system design: asymmetric multiprocessing for security and performance",
+                    "authors": "Scott Brookes, Stephen Taylor",
+                    "abstract": "Developers and academics are constantly seeking to increase the speed and security of operating systems. Unfortunately, an increase in either one often comes at the cost of the other. In this paper, we present an operating system design that challenges a long-held tenet of multicore operating systems in order to produce an alternative architecture that has the potential to deliver both increased security and faster performance. In particular, we propose decoupling the operating system kernel from user processes by running each on completely separate processor cores instead of at different privilege levels within shared cores. Without using the hardware's privilege modes, virtualization and virtual memory contexts enforce the security policies necessary to maintain process isolation and protection. Our new kernel design paradigm offers the opportunity to simultaneously increase both performance and security; utilizing the hardware facilities for inter-core communication in place of those for privilege mode switching offers the opportunity for increased system call performance, while the hard separation between user processes and the kernel provides several strong security properties.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "开发者和学者一直在寻求提高操作系统的速度和安全性。不幸的是，其中任何一个的增加都是以另一个为代价的。在本文中，我们提出了一种操作系统设计，该设计挑战了多核操作系统的长期原则，以产生一种替代架构，该架构有可能提供更高的安全性和更快的性能。具体来说，我们建议通过在完全独立的处理器内核上运行操作系统内核和用户进程，而不是在共享内核中的不同特权级别上运行，从而将操作系统内核与用户进程分离。在不使用硬件特权模式的情况下，虚拟化和虚拟内存上下文强制实施维护进程隔离和保护所必需的安全策略。我们新的内核设计范例提供了同时提高性能和安全性的机会；利用硬件设施进行内核间通信来代替特权模式切换提供了提高系统调用性能的机会，同时用户进程和内核之间的硬分离提供了几个强大的安全属性。",
+                    "title_zh": "反思操作系统设计:安全性和性能的非对称多处理"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3011883.3011891",
+                    "title": "Searching for software diversity: attaining artificial diversity through program synthesis",
+                    "authors": "Gilmore R. Lundquist, Vishwath Mohan, Kevin W. Hamlen",
+                    "abstract": "A means of attaining richer, more comprehensive forms of software diversity on a mass scale is proposed through leveraging and repurposing a closely related, yet heretofore untapped, line of computer science research---automatic program synthesis. It is argued that the search-based methodologies presently used for obtaining implementations from specifications can be broadened relatively easily to a search for many candidate solutions, potentially diversifying the software monoculture. Small-scale experiments using the Rosette synthesis tool offer preliminary support for this proposed approach. But the possible rewards are not without danger: It is argued that the same approach can power a dangerous new level of sophistication for malware mutation and reactively adaptive software threats.",
+                    "files": {
+                        "openAccessPdf": "http://dl.acm.org/ft_gateway.cfm?id=3011891&type=pdf"
+                    },
+                    "abstract_zh": "提出了一种在大规模上获得更丰富、更全面的软件多样性的方法，该方法通过利用和重新利用一个密切相关的、但迄今尚未开发的计算机科学研究领域——自动程序合成。有人认为，目前用于从规范中获取实现的基于搜索的方法可以相对容易地扩展到搜索许多候选解决方案，这有可能使软件单一文化多样化。使用玫瑰花结合成工具的小规模实验为这种提出的方法提供了初步的支持。但可能的回报并非没有危险:有人认为，同样的方法可能会使恶意软件变异和反应性适应性软件威胁达到危险的新水平。",
+                    "title_zh": "寻找软件多样性:通过程序合成获得人工多样性"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3011883.3011884",
+                    "title": "A case for the economics of secure software development",
+                    "authors": "Chad Heitzenrater, Andrew C. Simpson",
+                    "abstract": "Over the past 15 years the topic of information security economics has grown to become a large and diverse field, influencing security thinking on issues as diverse as bitcoin markets and cybersecurity insurance. An aspect yet to receive much attention in this respect is that of secure software development, or 'SWSec' --- another area that has seen a surge of research since 2000. SWSec provides paradigms, practices and procedures that offer some promise to address current security problems, yet those solutions face financial and technical barriers that necessitate a more thorough approach to planning and execution. Meanwhile, information security economics has developed theory and practice to support a particular world-view; however, it has yet to account for the investments, constructs and benefits of SWSec. As the frequency and severity of computer misuse has increased, both areas have struggled to impart a new mindset for addressing the inherent issues that arise in a diverse, connected and functionality-driven landscape. This paper presents a call for the establishment of an economics of secure software development. We present the primary challenges facing practice, citing relevant literature from both communities to illustrate where commonalities lie --- and where further work is needed. Those challenges are decomposed into a research agenda, deriving from the application of principles in both themes a lack of models, representation and analysis in practice. A framework emerges that facilitates discussions of security theory and practice.",
+                    "files": {
+                        "openAccessPdf": "https://ora.ox.ac.uk/objects/uuid:89a09660-84c4-4064-aba9-7446e88c74fb/files/m9243f5dbe646ba6d1284be4c12911775"
+                    },
+                    "abstract_zh": "在过去15年里，信息安全经济学的主题已经发展成为一个庞大而多样化的领域，影响着人们对比特币市场和网络安全保险等各种问题的安全思考。在这方面，还有一个方面没有得到太多关注，那就是安全软件开发，或“SWSec”，这是自2000年以来研究激增的另一个领域。SWSec提供了范例、实践和程序，为解决当前的安全问题提供了一些希望，但这些解决方案面临着财务和技术障碍，需要更彻底的规划和执行方法。同时，信息安全经济学发展了理论和实践来支持特定的世界观；然而，它尚未说明SWSec的投资、结构和效益。随着计算机滥用的频率和严重性的增加，这两个领域都在努力传授一种新的思维模式，以解决在多样化、互联和功能驱动的环境中出现的固有问题。本文呼吁建立安全软件开发的经济学。我们提出了实践面临的主要挑战，引用了来自两个社区的相关文献来说明共同点在哪里，以及哪里需要进一步的工作。这些挑战被分解到一个研究议程中，源于这两个主题中的原则的应用缺乏模型，代表性和分析在实践中。一个促进安全理论和实践讨论的框架出现了。",
+                    "title_zh": "安全软件开发的经济学案例"
+                }
+            ]
+        }
+    ],
+    "2015": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/nspw/nspw2015.html",
+            "conf_title": "NSPW 2015: Twente, The Netherlands",
+            "conf_url": "https://doi.org/10.1145/2841113",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841114",
+                    "title": "Choose Your Own Authentication",
+                    "authors": "Alain Forget, Sonia Chiasson, Robert Biddle",
+                    "abstract": "To solve the long-standing problems users have in creating and remembering text passwords, a wide variety of alternative authentication schemes have been proposed. Some of these schemes outperform others by various metrics in various contexts. However, none unilaterally outperform all others, and so text passwords persist as the main scheme applications depend upon. In this paper, we challenge the long-standing assumption that only one authentication scheme can be offered by an application service. We propose Choose Your Own Authentication (CYOA): a novel authentication architecture that enables users to choose a scheme amongst several available alternatives. CYOA would enable users to select whichever scheme best suits their preferences, abilities, and usage context. Existing text password systems could easily be replaced. Furthermore, the three-party architecture would enable delegating the management of authentication systems to trusted-third parties. The architecture allows rapid deployment and testing of novel authentication technologies. Our two-week usability study suggests that participants were willing to leverage alternative schemes. Participants were confident that CYOA could keep their financial information secure.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "为了解决用户在创建和记忆文本密码方面的长期问题，已经提出了各种各样的替代认证方案。这些方案中的一些在各种环境下通过各种度量优于其他方案。然而，没有一种方法比其他方法更好，所以文本密码仍然是应用程序依赖的主要方案。在本文中，我们对一个应用服务只能提供一种认证方案的长期假设提出质疑。我们建议选择你自己的认证(CYOA):一种新颖的认证架构，使用户能够在几个可用的方案中选择一个方案。CYOA将使用户能够选择最适合他们的偏好、能力和使用环境的方案。现有的文本密码系统很容易被取代。此外，三方架构能够将认证系统的管理委托给可信的第三方。该架构允许快速部署和测试新的认证技术。我们为期两周的可用性研究表明，参与者愿意利用替代方案。参与者相信CYOA能够保护他们的财务信息安全。",
+                    "title_zh": "选择您自己的身份验证"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841115",
+                    "title": "The Myth of the Average User: Improving Privacy and Security Systems through Individualization",
+                    "authors": "Serge Egelman, Eyal Péer",
+                    "abstract": "While individual differences in decision-making have been examined within the social sciences for several decades, they have only recently begun to be applied by computer scientists to examine privacy and security attitudes (and ultimately behaviors). Specifically, several researchers have shown how different online privacy decisions are correlated with the \"Big Five\" personality traits. In this paper, we show that the five factor model is actually a weak predictor of privacy attitudes, and that other well-studied individual differences in the psychology literature are much stronger predictors. Based on this result, we introduce the new paradigm of psychographic targeting of privacy and security mitigations: we believe that the next frontier in privacy and security research will be to tailor mitigations to users' individual differences. We explore the extensive work on choice architecture and \"nudges,\" and discuss the possible ways it could be leveraged to improve security outcomes by personalizing privacy and security mitigations to specific user traits.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "虽然决策中的个体差异已经在社会科学中研究了几十年，但直到最近计算机科学家才开始将其应用于研究隐私和安全态度(以及最终的行为)。具体来说，一些研究人员已经展示了不同的在线隐私决策与“五大”人格特征之间的关系。在本文中，我们表明五因素模型实际上是隐私态度的一个弱预测因素，而心理学文献中其他研究充分的个体差异是更强的预测因素。基于这一结果，我们引入了针对隐私和安全缓解的心理测量学的新范式:我们相信隐私和安全研究的下一个前沿将是根据用户的个体差异定制缓解。我们探讨了choice体系结构和“轻推”方面的大量工作，并讨论了通过针对特定用户特征个性化隐私和安全缓解来提高安全性的可能方法。",
+                    "title_zh": "普通用户的神话:通过个性化改进隐私和安全系统"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841116",
+                    "title": "Milware: Identification and Implications of State Authored Malicious Software",
+                    "authors": "Trey Herr, Eric Armbrust",
+                    "abstract": "The pervasive development and deployment of malicious software by states presents a new challenge for the information security and policy communities because of the resource advantage and legal status of governments. The difference between state and non-state authored code is typically described in vague terms of sophistication, contributing to the inaccurate confirmation bias of many that states simply `do it better'. This paper attempts to determine if state authored code is demonstrably different from that written by non-state actors and if so, how. To do so, we examine a collection of malware samples which, through existing analytic techniques, have been attributed to a mix of state and non-state actors. Reviewing technical information available in the public domain for each sample, reverse-engineering a sub-set, we determine that there is a set of criteria by which state authored code can be differentiated from the conventional malware of non-state groups. This MAlicious Software Sophistication or MASS index relies on a set of characteristics which describe the behavior and construction of malware including the severity of exploits and customization of the payload. In addition to highlighting these particular differences, the paper discusses several policy implications which arise from identifying a separate class of state-authored code. This is an interdisciplinary effort and pilot project based on a limited dataset however the conclusions drawn have important ramifications for both the information security and relevant policymaking communities.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "由于政府的资源优势和法律地位，国家普遍开发和部署恶意软件给信息安全和政策界带来了新的挑战。国家和非国家创作的代码之间的差异通常以模糊的复杂程度来描述，导致许多国家简单地“做得更好”的不准确的确认偏差。本文试图确定国家编写的代码是否明显不同于非国家行为者编写的代码，如果不同，又是如何不同的。为了做到这一点，我们检查了一组恶意软件样本，通过现有的分析技术，这些样本已被归因于国家和非国家行为者的混合。查看每个样本的公共领域中可用的技术信息，反向工程子集，我们确定存在一组标准，通过这些标准可以将国家创作的代码与非国家组织的传统恶意软件区分开。这种恶意软件复杂性或大规模指数依赖于一组描述恶意软件的行为和构造的特征，包括利用的严重性和有效载荷的定制。除了强调这些特殊的差异之外，本文还讨论了由确定一个独立的国家创作代码类别而产生的一些政策含义。这是一个基于有限数据集的跨学科工作和试点项目，但得出的结论对信息安全和相关决策机构都有重要影响。",
+                    "title_zh": "Milware:国家创作的恶意软件的识别和含义"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841117",
+                    "title": "Exploiting the Physical Environment for Securing the Internet of Things",
+                    "authors": "Christian T. Zenger, Jan Zimmer, Mario Pietersz, Jan-Felix Posielek, Christof Paar",
+                    "abstract": "Using the randomness provided by the physical environment to build security solutions has received much attention recently. In particular, the shared entropy provided by measuring ambient audio, luminosity modalities or electromagnetic emanations has been used to build location-based, proximity-based, or context-based security mechanisms. The majority of those protocols is based on a standard model consisting channel probing, quantization, information reconciliation, privacy amplification, and key verification. The main problem for almost all approaches is the limited understanding of the security that is provided. For example, security analyses often only address single components and not the entire system or are based on broad abstractions of the physical source of randomness. Further, a big open question is the feasibility of such systems for low-resource platforms. Our first contribution is a detailed, optimized realization of a key establishment system. We demonstrate the feasibility of deriving a shared secret from correlated quantities on resource-constrained devices with tight power budget. Our system was realized on the popular ARM Cortex-M3 processor that reports detailed resource requirements. The second major contribution is a summary and abstraction of previous works together with a rigorous security analysis. We substantiate our investigation by presenting practical attack results.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "最近，利用物理环境提供的随机性来构建安全解决方案受到了广泛关注。具体而言，通过测量环境音频、发光模态或电磁辐射提供的共享熵已经被用于构建基于位置、基于接近度或基于上下文的安全机制。这些协议中的大多数是基于标准模型，包括信道探测、量化、信息协调、隐私放大和密钥验证。几乎所有方法的主要问题是对所提供的安全性理解有限。例如，安全性分析通常只针对单个组件，而不是整个系统，或者是基于对随机性物理来源的广泛抽象。此外，一个悬而未决的问题是这种系统对于低资源平台的可行性。我们的第一个贡献是一个详细的，优化的密钥建立系统的实现。我们证明了在具有紧张的功率预算的资源受限设备上从相关量导出共享秘密的可行性。我们的系统是在流行的ARM Cortex-M3处理器上实现的，它报告详细的资源需求。第二个主要贡献是对以前工作的总结和抽象以及严格的安全性分析。我们通过展示实际的攻击结果来证实我们的调查。",
+                    "title_zh": "利用物理环境保护物联网"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841118",
+                    "title": "Examining the Contribution of Critical Visualisation to Information Security",
+                    "authors": "Peter Hall, Claude Heath, Lizzie Coles-Kemp, Axel Tanner",
+                    "abstract": "This paper examines the use of visualisations in the field of information security and in particular focuses on the practice of information security risk assessment. We examine the current roles of information security visualisations and place these roles in the wider information visualisation discourse. We present an analytic lens which divides visualisations into three categories: journalistic, scientific and critical visualisations. We then present a case study that uses these three categories of visualisations to further support information security practice. Two significant results emerge from this case study: (1) visualisations that promote critical thinking and reflection (a form of critical visualisation) support the multi-stakeholder nature of risk assessment and (2) a preparatory stage in risk assessment is sometimes needed by service designers in order to establish the service design before conducting a formal risk assessment. The reader is invited to explore the images in the digital version of this paper where they can zoom in to particular aspects of the images and view the images in colour.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "本文研究了可视化在信息安全领域中的应用，并特别关注了信息安全风险评估的实践。我们研究信息安全可视化的当前角色，并将这些角色置于更广泛的信息可视化讨论中。我们提出了一个分析透镜，它将视觉化分为三类:新闻的、科学的和批判的视觉化。然后，我们展示了一个案例研究，使用这三类可视化来进一步支持信息安全实践。本案例研究得出了两个重要结果:(1)促进批判性思考和反思的可视化(批判性可视化的一种形式)支持风险评估的多利益主体性质;( 2)服务设计师有时需要风险评估的准备阶段，以便在进行正式风险评估之前建立服务设计。我们邀请读者探索本文数字版中的图像，他们可以放大图像的特定方面，并查看彩色图像。",
+                    "title_zh": "检验关键可视化对信息安全的贡献"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841119",
+                    "title": "Employee Rule Breakers, Excuse Makers and Security Champions: : Mapping the risk perceptions and emotions that drive security behaviors",
+                    "authors": "Odette Beris, Adam Beautement, M. Angela Sasse",
+                    "abstract": "We introduce a new methodology for identifying the factors that drive employee security behaviors in organizations, based on a well-known paradigm from psychology, the Johari Window. An analysis of 93 interviews with staff from 2 multinational organizations revealed that security behavior is driven by a combination of risk understanding and emotional stance towards security policy. Furthermore, we found that a quantitative analysis of these dimensions is capable of differentiating between the staff populations of the two organizations. Organization B showed a healthier set of security behaviors, as a result of its employees having better risk understanding and a more positive emotional stance. The framework distinguishes between 16 theoretical behavioral types, (3 of which are rule breakers, excuse makers and security champions). It can be used to identify groups of employees that potentially pose a risk to the organization, as well as those with beneficial skills and expertise. This allows highly specific messages to be targeted to change the risk perception and emotional stance of such groups. Assuming the organization has ensured security hygiene (i.e. its policies can be complied with in the context of productive activity), this can shift behavior towards compliance. Our framework thus offers diagnostic and intervention-shaping tools for the next step in improving security culture.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "我们引入了一种新的方法来确定组织中驱动员工安全行为的因素，该方法基于心理学中一个著名的范式，即Johari Window。对来自两家跨国组织的93名员工的访谈分析表明，安全行为是由对风险的理解和对安全策略的情感立场共同驱动的。此外，我们发现这些方面的定量分析能够区分两个组织的工作人员群体。组织B表现出更健康的安全行为，这是因为其员工对风险有更好的理解，情绪也更积极。该框架区分了16种理论行为类型(其中3种是违规者、借口制造者和安全拥护者)。它可用于识别对组织构成潜在风险的员工组，以及具有有益技能和专业知识的员工组。这使得非常具体的信息有针对性地改变这类群体的风险认知和情绪立场。假设组织已经确保了安全卫生(即，它的策略可以在生产活动的上下文中得到遵守)，这可以将行为转向合规性。因此，我们的框架为下一步改进安全文化提供了诊断和干预工具。",
+                    "title_zh": "员工违规者、借口制造者和安全拥护者:描绘驱动安全行为的风险认知和情绪"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841120",
+                    "title": "Maybe Poor Johnny Really Cannot Encrypt: The Case for a Complexity Theory for Usable Security",
+                    "authors": "Zinaida Benenson, Gabriele Lenzini, Daniela Oliveira, Simon Parkin, Sven Uebelacker",
+                    "abstract": "Psychology and neuroscience literature shows the existance of upper bounds on the human capacity for executing cognitive tasks and for information processing. These bounds are where, demonstrably, people start experiencing cognitive strain and consequently committing errors in the tasks execution. We argue that the usable security discipline should scientifically understand such bounds in order to have realistic expectations about what people can or cannot attain when coping with security tasks. This may shed light on whether Johnny will be ever be able to encrypt. We propose a conceptual framework for evaluation of human capacities in security that also assigns systems to complexity categories according to their security and usability. From what we have initiated in this paper, we ultimately aim at providing designers of security mechanisms and policies with the ability to say: \"This feature of the security mechanism X or this security policy element Y is inappropriate, because this evidence shows that it is beyond the capacity of its target community\".",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "心理学和神经科学文献表明，人类执行认知任务和信息处理的能力存在上限。显而易见，这些界限是人们开始经历认知紧张并因此在任务执行中犯错误的地方。我们认为，可用的安全规程应该科学地理解这样的界限，以便对人们在处理安全任务时能够或不能达到什么有现实的期望。这可能会让我们知道Johnny是否能够加密。我们提出了一个评估人类安全能力的概念框架，该框架还根据系统的安全性和可用性将系统划分为不同的复杂类别。从本文开始，我们的最终目标是为安全机制和策略的设计者提供这样的能力:“安全机制X的这个特征或安全策略元素Y是不适当的，因为这个证据表明它超出了其目标社区的能力”。",
+                    "title_zh": "也许可怜的约翰尼真的不会加密:可用安全性的复杂性理论案例"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841121",
+                    "title": "Towards Managed Role Explosion",
+                    "authors": "Aaron Elliott, Scott Knight",
+                    "abstract": "Role-based access control (RBAC) is a popular framework for securing information systems in medium to large organizations with hundreds or thousands of employees. However, very few descriptions of existing RBAC systems can be found in the literature. In this paper, we challenge the belief, notion or sense that the number of subjects far exceeds the roles found in enterprise systems. First, we analyze the RBAC system found at ACME University, comparing it to a recently introduced fragment of RBAC called bi-sorted role-based access control (RBÄC). Then we investigate how ACME performs access management, using our new hierarchical graphing model to better visualize the subject-permission mappings. Next, we present our results and introduce a new role-centric methodology for dynamically constraining access to information. Finally, we describe how organizational scalability is enhanced at ACME University by decoupling subject and permission management at the expense of managed role explosion.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "基于角色的访问控制(RBAC)是一种流行的框架，用于保护拥有成百上千员工的大中型组织的信息系统。然而，在文献中很少能找到现有RBAC系统的描述。在本文中，我们对主体的数量远远超过企业系统中的角色这一信念、概念或感觉提出了质疑。首先，我们分析了在ACME大学发现的RBAC系统，将其与最近引入的RBAC的片段进行比较，该片段被称为双排序的基于角色的访问控制(RBC)。然后我们研究ACME如何执行访问管理，使用我们新的分层图形模型来更好地可视化主题-权限映射。接下来，我们展示了我们的结果，并介绍了一种新的以角色为中心的方法，用于动态约束对信息的访问。最后，我们描述了ACME University如何通过以托管角色爆炸为代价分离主题和权限管理来增强组织的可伸缩性。",
+                    "title_zh": "走向管理角色爆炸"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841122",
+                    "title": "\"If you were attacked, you'd be sorry\": Counterfactuals as security arguments",
+                    "authors": "Cormac Herley, Wolter Pieters",
+                    "abstract": "Counterfactuals (or what-if scenarios) are often employed as security arguments, but the dos and don'ts of their use are poorly understood. They are useful to discuss vulnerability of systems under threats that haven't yet materialized, but they can also be used to justify investment in obscure controls. In this paper, we shed light on the role of counterfactuals in security, and present conditions under which counterfactuals are legitimate arguments, linked to the exclusion or inclusion of the threat environment in security metrics. We provide a new paradigm for security reasoning by deriving essential questions to ask in order to decide on the acceptability of specific counterfactuals as security arguments, which can serve as a basis for further study in this field. We conclude that counterfactuals are a necessary evil in security, which should be carefully controlled.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "反事实(或假设情景)经常被用作安全论据，但人们对其使用的注意事项知之甚少。它们有助于讨论尚未实现的威胁下的系统漏洞，但也可用于证明对模糊控制的投资是合理的。在本文中，我们阐明了反事实在安全中的作用，并提出了反事实作为合法论据的条件，这些条件与在安全指标中排除或包含威胁环境相关。我们为安全推理提供了一个新的范式，通过推导出一些基本问题来决定特定反事实作为安全论据的可接受性，这可以作为该领域进一步研究的基础。我们的结论是，反事实是安全中不可避免的邪恶，应该小心控制。",
+                    "title_zh": "“如果你被攻击，你会后悔的”:作为安全论据的反事实"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841123",
+                    "title": "Peace vs. Privacy: Leveraging Conflicting Jurisdictions for Email Security",
+                    "authors": "Mohammad Mannan, Arash Shahkar, Atieh Saberi Pirouz, Vladimir Rabotka",
+                    "abstract": "We introduce the paradigm of security through hostility: cloud-based service providers in conflicting jurisdictions are assumed to be non-cooperating, and are used for transmitting encrypted content and corresponding keys through separate but accessible channels among end-users from both jurisdictions. Such separation between content and key can enable effortless user-to-user encrypted communication without any user-managed keys. As an example use-case of this paradigm, we consider encrypted email, which is complicated by the requirement of balancing security and ease-of-use needs. For example, users cannot be expected to manage long-term keys (e.g., PGP key-pair), or understand crypto primitives. We design CherAmi by leveraging existing relationships between a sender and a receiver on an online social networking (OSN) site, and assuming users can use OSN and email providers that are hosted from hostile/non-cooperating jurisdictions. CherAmi can provide integrity, authentication and confidentiality guarantees for selected messages among OSN friends. A confidentiality-protected email is encrypted by a randomly-generated key, and the key is privately shared with the receiver via the OSN site. Our implementation consists of a Thunderbird add-on and a Twitter app; the add-on is available at: https://madiba.encs.concordia.ca/software.html. CherAmi is a client-end solution and does not require changes to email or OSN servers. In this paper, the focus of our discussion includes: the paradigm of security through hostility, and the design, implementation and security analysis of the proposed encrypted email solution. We acknowledge that a user study will be required to validate usability-related features of CherAmi.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "我们引入了通过敌意实现安全的范式:冲突管辖区中的云服务提供商被认为是不合作的，并被用于通过来自两个管辖区的最终用户之间独立但可访问的通道传输加密内容和相应的密钥。内容和密钥之间的这种分离可以在没有任何用户管理的密钥的情况下轻松实现用户到用户的加密通信。作为这种范例的一个用例，我们考虑加密电子邮件，它因平衡安全性和易用性需求而变得复杂。例如，不能期望用户管理长期密钥(例如，PGP密钥对)，或者理解加密原语。我们通过利用在线社交网络(OSN)网站上发送者和接收者之间的现有关系来设计CherAmi，并假设用户可以使用来自敌对/不合作管辖区的OSN和电子邮件提供商。CherAmi可以为OSN朋友之间选定的消息提供完整性、认证和机密性保证。受机密性保护的电子邮件由随机生成的密钥加密，该密钥通过OSN站点与接收者秘密共享。我们的实现包括一个雷鸟插件和一个Twitter应用程序；该附加软件可从以下网址获得:https://madiba.encs.concordia.ca/software.html.切拉米是一个客户端解决方案，不需要更改电子邮件或OSN服务器。在本文中，我们讨论的焦点包括:通过敌意的安全范例，以及所提出的加密电子邮件解决方案的设计、实现和安全性分析。我们承认需要进行用户研究来验证CherAmi的可用性相关功能。",
+                    "title_zh": "和平与隐私:利用冲突的电子邮件安全管辖权"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841124",
+                    "title": "WebSheets: Web Applications for Non-Programmers",
+                    "authors": "Riccardo Pelizzi, R. Sekar",
+                    "abstract": "Spreadsheets are a very successful programming paradigm. Their success stems from user's familiarity with tabular data, and their previous experience in performing manual computations on such data. Since tabular data is familiar to users in the context of web applications as well, we propose WebSheets, a new paradigm for developing web applications using a spreadsheet-like language. WebSheets can enable simple web applications to be developed without \"programming,\" in much the same way that non-programmers create budgets or expense reports using spreadsheets. More importantly, WebSheets enable users to express fine-grained privacy policies on their data in a simple manner, thus putting them in charge of their own privacy and security concerns.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "电子表格是一个非常成功的编程范例。他们的成功源于用户对表格数据的熟悉，以及他们以前对这些数据进行手工计算的经验。由于用户在web应用程序的上下文中也熟悉表格数据，我们提出了WebSheets，这是一种使用类似电子表格的语言开发web应用程序的新范式。WebSheets可以使简单的web应用程序在没有“编程”的情况下得到开发，就像非程序员使用电子表格创建预算或费用报告一样。更重要的是，WebSheets使用户能够以一种简单的方式表达关于他们的数据的细粒度隐私策略，从而让他们对自己的隐私和安全问题负责。",
+                    "title_zh": "WebSheets:面向非程序员的Web应用程序"
+                },
+                {
+                    "url": "https://doi.org/10.1145/2841113.2841125",
+                    "title": "Bridging the Trust Gap: Integrating Models of Behavior and Perception",
+                    "authors": "Raquel Hill, Devan Ray Donaldson",
+                    "abstract": "In this paper, we propose a process-oriented trust framework that integrates an integrity-based trust model with the requirements and perceptions of those who manage and administer computing infrastructure. This integration enables a feedback loop between the system administrator and established models of trust that have been proposed to harden and secure systems. The proposed study will engage administrators in the design and use of mechanisms for establishing and evaluating the trust of cyberinfrastructure. The proposed study addresses a gap in current security research, which often views users as managers of a single computer, and not as an administrator of large computing environments. This work seeks to capture system administrators' perceptions of security and trust and incorporate real-world practices into the design of mechanisms for securing systems.",
+                    "files": {
+                        "openAccessPdf": "https://scholarworks.iu.edu/dspace/bitstream/2022/22470/1/Hill%20and%20Donaldson%20preprint.pdf"
+                    },
+                    "abstract_zh": "在本文中，我们提出了一个面向过程的信任框架，该框架将基于完整性的信任模型与那些管理计算基础设施的人的需求和认知相集成。这种集成实现了系统管理员和已建立的信任模型之间的反馈循环，这些模型已被提出来加强和保护系统。拟议的研究将使管理员参与建立和评估网络基础设施信任的机制的设计和使用。这项提议的研究填补了当前安全研究中的一个空白，即通常将用户视为单台计算机的管理者，而不是大型计算环境的管理员。这项工作旨在捕捉系统管理员对安全和信任的看法，并将现实世界的实践融入到保护系统的机制设计中。",
+                    "title_zh": "弥合信任鸿沟:整合行为和感知模型"
+                }
+            ]
+        }
+    ],
+    "2017": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/nspw/nspw2017.html",
+            "conf_title": "NSPW 2017: Santa Cruz, CA, USA",
+            "conf_url": "https://doi.org/10.1145/3171533",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171540",
+                    "title": "Practicing a Science of Security: A Philosophy of Science Perspective",
+                    "authors": "Jonathan M. Spring, Tyler Moore, David J. Pym",
+                    "abstract": "Our goal is to refocus the question about cybersecurity research from 'is this process scientific' to 'why is this scientific process producing unsatisfactory results'. We focus on five common complaints that claim cybersecurity is not or cannot be scientific. Many of these complaints presume views associated with the philosophical school known as Logical Empiricism that more recent scholarship has largely modified or rejected. Modern philosophy of science, supported by mathematical modeling methods, provides constructive resources to mitigate all purported challenges to a science of security. Therefore, we argue the community currently practices a science of cybersecurity. A philosophy of science perspective suggests the following form of practice: structured observation to seek intelligible explanations of phenomena, evaluating explanations in many ways, with specialized fields (including engineering and forensics) constraining explanations within their own expertise, inter-translating where necessary. A natural question to pursue in future work is how collecting, evaluating, and analyzing evidence for such explanations is different in security than other sciences.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "我们的目标是将网络安全研究的问题从“这个过程科学吗”重新聚焦到“为什么这个科学过程产生的结果不令人满意”。我们关注五种常见的抱怨，它们声称网络安全不科学或不可能科学。这些抱怨中的许多都假定了与被称为逻辑经验主义的哲学学派相关的观点，而最近的学术已经在很大程度上修改或拒绝了这些观点。由数学建模方法支持的现代科学哲学提供了建设性的资源来减轻对安全科学的所有声称的挑战。因此，我们认为社区目前正在实践网络安全科学。科学哲学的观点提出了以下实践形式:结构化观察以寻求对现象的可理解的解释，以多种方式评估解释，专业领域(包括工程学和法医学)将解释限制在自己的专业知识范围内，必要时进行互译。在未来的工作中，一个自然的问题是，为这种解释收集、评估和分析证据在安全性方面与其他科学有何不同。",
+                    "title_zh": "实践安全科学:科学哲学的视角"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171541",
+                    "title": "Market-based Security for Distributed Applications",
+                    "authors": "George Bissias, Brian Neil Levine, Nikunj Kapadia",
+                    "abstract": "Ethereum contracts can be designed to function as fully decentralized applications called DAPPs that hold financial assets, and many have already been fielded. Unfortunately, DAPPs can be hacked, and the assets they control can be stolen. A recent attack on an Ethereum decentralized application called The DAO demonstrated that smart contract bugs are more than an academic concern. Ether worth hundreds of millions of US dollars was extracted by an attacker from The DAO, sending the value of its tokens and the overall exchange price of ether itself tumbling. We present two market-based techniques for insuring the ether holdings of a DAPP. These mechanisms exist and are managed as part of the core programming of the DAPP, rather than as separate mechanisms managed by users. Our first technique is based on futures contracts indexed by the trade price of ether for DAPP tokens. Under fairly general circumstances, our technique is capable of recovering the majority of ether lost from theft with high probability even when all of the ether holdings are stolen; and the only cost to DAPP token holders is an adjustable ether withdrawal fee. As a second, complementary, technique we propose the use of Gated Public Offerings (GPO) as a mechanism that mitigates the effects of attackers that exploit DAPP withdrawal vulnerabilities. We show that using more than one public offering round encourages attackers to exploit the vulnerability early, or depending on certain factors, to delay exploitation (possibly indefinitely) and short tokens in the market instead. In both cases, less ether is ultimately stolen from the DAPP, and in the later case, some of the losses are transferred to the market.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "以太坊合约可以被设计成完全去中心化的应用程序，称为DAPPs，持有金融资产，许多已经投入使用。不幸的是，DAPPs可以被黑客攻击，他们控制的资产可以被窃取。最近对名为DAO的以太坊去中心化应用程序的攻击表明，智能契约错误不仅仅是一个学术问题。价值数亿美元的以太被攻击者从DAO中提取，导致其令牌的价值和以太本身的整体交易价格暴跌。我们提出了两种基于市场的技术来确保一个DAPP的乙醚持有量。这些机制作为DAPP核心编程的一部分存在并被管理，而不是作为由用户管理的独立机制。我们的第一项技术是基于由DAPP代币的乙醚交易价格指数化的期货合约。在相当一般的情况下，我们的技术能够以很高的概率找回因盗窃而丢失的大部分乙醚，即使所有的乙醚被盗；DAPP令牌持有者的唯一成本是可调整的乙醚提取费。作为第二种补充技术，我们建议使用门控公开发行(GPO)作为一种机制，来减轻利用DAPP撤销漏洞的攻击者的影响。我们表明，使用一轮以上的公开发行会鼓励攻击者尽早利用漏洞，或者根据某些因素，推迟利用(可能无限期地)并在市场上做空代币。在这两种情况下，最终从DAPP中窃取的乙醚较少，在后一种情况下，一些损失转移到了市场上。",
+                    "title_zh": "分布式应用的基于市场的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171535",
+                    "title": "Beyond the pretty penny: the Economic Impact of Cybercrime",
+                    "authors": "Carlos Hernandez Gañán, Michael Ciere, Michel van Eeten",
+                    "abstract": "Over the past decade, considerable research effort has been devoted to articulating and measuring the various ways through which cyber crime impacts overall society. The large volume of literature on the topic contains few attempts to produce estimates of the financial impact of specific cyber incidents and little agreement on how to derive such estimates. An important substrata of this literature focuses on placing a monetary value on the costs of cyber crime but little is known about the long-term economic impact to society. In this article, we first assess the shortcomings of existing cost estimates and focus on the relevant issues pertinent to the feasibility of deriving valid and useful estimates beyond cost-benefit analyses. Following a mixed top-down/bottom-up methodology, we propose a theoretical framework to systematically identify the short and long-term impacts of cyber crime both at the agent and societal level. This framework serves as the foundation to assess the economic consequences of cyber crime beyond monetary costs by focusing on the impact on economic growth.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "在过去十年中，大量研究工作致力于阐明和衡量网络犯罪影响整个社会的各种方式。关于这一主题的大量文献很少试图对特定网络事件的财务影响进行估计，也很少就如何得出这种估计达成一致。该文献的一个重要基础集中在对网络犯罪的成本进行货币价值评估，但对其对社会的长期经济影响却知之甚少。在本文中，我们首先评估了现有成本估算的缺点，并重点关注了与超越成本效益分析得出有效和有用估算的可行性相关的问题。遵循自上而下/自下而上的混合方法，我们提出了一个理论框架，以系统地确定网络犯罪在代理人和社会层面的短期和长期影响。该框架通过关注对经济增长的影响，为评估网络犯罪在货币成本之外的经济后果提供了基础。",
+                    "title_zh": "超越金钱:网络犯罪的经济影响"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171539",
+                    "title": "Developer-centered security and the symmetry of ignorance",
+                    "authors": "Olgierd Pieczul, Simon N. Foley, Mary Ellen Zurko",
+                    "abstract": "In contemporary software development anybody can become a developer, sharing, building and interacting with software components and services in a virtual free for all. In this environment, it is not feasible to expect these developers to be expert in every security detail of the software they use, and we discuss how difficult it can be to build secure software. In this respect, the practical challenges of the emerging paradigm of developer-centered security are explored, where developers would be required to consider security from the perspective of those other developers who use their software. We question whether current user-centered security techniques are adequate for this task and suggest that new thinking will be required. Two directions---symmetry of ignorance and security archaeology-are offered as a new way to consider this challenge.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "在当代软件开发中，任何人都可以成为开发者，共享、构建软件组件和服务，并与之交互。在这种环境下，期望这些开发人员精通他们使用的软件的每一个安全细节是不可行的，我们将讨论构建安全的软件有多困难。在这方面，本文探讨了新兴的以开发人员为中心的安全模式的实际挑战，开发人员需要从使用他们软件的其他开发人员的角度来考虑安全问题。我们质疑当前以用户为中心的安全技术是否足以完成这项任务，并建议需要新的思维。两个方向——无知的对称性和安全考古学——提供了考虑这一挑战的新方法。",
+                    "title_zh": "以开发者为中心的安全性和无知的对称性"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171534",
+                    "title": "Risk Homeostasis in Information Security: Challenges in Confirming Existence and Verifying Impact",
+                    "authors": "Karen Renaud, Merrill Warkentin",
+                    "abstract": "The central premise behind risk homeostasis theory is that humans adapt their behaviors, based on external factors, to align with a personal risk tolerance level. In essence, this means that the safer or more secure they feel, the more likely it is that they will behave in a risky manner. If this effect exists, it serves to restrict the ability of risk mitigation techniques to effect improvements. The concept is hotly debated in the safety area. Some authors agree that the effect exists, but also point out that it is poorly understood and unreliably predicted. Other re-searchers consider the entire concept fallacious. It is important to gain clarity about whether the effect exists, and to gauge its impact if such evidence can indeed be found. In this paper we consider risk homeostasis in the context of information security. Similar to the safety area, information security could well be impaired if a risk homeostasis effect neutralizes the potential benefits of risk mitigation measures. If the risk homeostasis effect does indeed exist and does impact risk-related behaviors, people will simply elevate risky behaviors in response to feeling less vulnerable due to following security procedures and using protective technologies. Here we discuss, in particular, the challenges we face in confirming the existence and impact of the risk homeostasis effect in information security, especially in an era of ethical research practice.",
+                    "files": {
+                        "openAccessPdf": "https://rke.abertay.ac.uk/ws/files/14612225/Renaud_RiskHomeostasisInInformationSecurity_Author_2017.pdf"
+                    },
+                    "abstract_zh": "风险体内平衡理论背后的核心前提是，人类根据外部因素调整自己的行为，以符合个人的风险承受水平。本质上，这意味着他们越感到安全，越有安全感，就越有可能做出冒险的行为。如果这种影响存在，它会限制风险缓解技术实现改进的能力。这个概念在安全领域引起了激烈的争论。一些作者同意这种效应是存在的，但也指出人们对它的了解很少，预测也不可靠。其他研究者认为整个概念是错误的。重要的是要弄清楚这种影响是否存在，如果确实能找到这样的证据，就要衡量它的影响。在本文中，我们考虑信息安全背景下的风险动态平衡。与安全领域类似，如果风险稳态效应抵消了风险缓解措施的潜在好处，信息安全很可能会受到损害。如果风险体内平衡效应确实存在，并且确实影响了与风险相关的行为，那么由于遵循安全程序和使用保护性技术，人们会简单地提高风险行为，以回应感觉不那么脆弱。在这里，我们特别讨论了我们在确认信息安全中风险稳态效应的存在和影响时所面临的挑战，尤其是在一个伦理研究实践的时代。",
+                    "title_zh": "信息安全中的风险动态平衡:确认存在和验证影响的挑战"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171537",
+                    "title": "Is the Future of Authenticity All In Our Heads?: Moving Passthoughts From the Lab to the World",
+                    "authors": "Nick Merrill, Max T. Curran, John Chuang",
+                    "abstract": "Passthoughts, in which a user thinks a secret thought to log in to services or devices, provides two factors of authentication (knowledge and inherence) in a single step. Since its proposal in 2005, passthoughts enjoyed a number of successful empirical studies. In this paper, we renew the promise of passthoughts authentication, outlining the main challenges that passthoughts must overcome in order to move from the lab to the real world. We propose two studies, which seek different angles at the fundamental questions we pose. Further, we propose it as a fruitful case study for thinking about what authentication can, and should, be expected to do, as it pushes up against questions of what sorts of \"selves\" authentication systems must be tasked with recognizing. Through this discussion, we raise novel possibilities for authentication broadly, such as \"organic passwords\" that change naturally over time, or systems that reject users who are not acting quite \"like themselves.\"",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "Passthoughts，即用户想出一个秘密的想法来登录服务或设备，在一个步骤中提供了两个身份验证因素(知识和固有)。自2005年提出建议以来，pass thinks进行了大量成功的实证研究。在本文中，我们重申了passthoughts认证的承诺，概述了passthoughts为了从实验室走向现实世界而必须克服的主要挑战。我们提出两项研究，从不同的角度探讨我们提出的基本问题。此外，我们建议将它作为一个富有成效的案例研究，用于思考身份认证能够并且应该做什么，因为它提出了身份认证系统必须识别哪种“自我”的问题。通过这次讨论，我们提出了广泛的新的身份验证可能性，如随着时间的推移自然变化的“有机密码”，或拒绝行为不太“像自己”的用户的系统",
+                    "title_zh": "真实性的未来是不是都在我们的脑袋里？:让思想从实验室走向世界"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171536",
+                    "title": "A Model of Owner Controlled, Full-Provenance, Non-Persistent, High-Availability Information Sharing",
+                    "authors": "Sean Peisert, Matt Bishop, Edward B. Talbot",
+                    "abstract": "In this paper, we propose principles of information control and sharing that support ORCON (ORiginator COntrolled access control) models while simultaneously improving components of confidentiality, availability, and integrity needed to inherently support, when needed, responsibility to share policies, rapid information dissemination, data provenance, and data redaction. This new paradigm of providing unfettered and unimpeded access to information by authorized users, while at the same time, making access by unauthorized users impossible, contrasts with historical approaches to information sharing that have focused on need to know rather than need to (or responsibility to) share.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3171533.3171536"
+                    },
+                    "abstract_zh": "在本文中，我们提出了信息控制和共享的原则，这些原则支持ORCON(发起者控制的访问控制)模型，同时改进机密性、可用性和完整性组件，以便在需要时内在地支持共享策略、快速信息传播、数据来源和数据编辑的责任。这种让授权用户不受约束、不受阻碍地访问信息，同时让未授权用户无法访问信息的新模式，与以往信息共享方式形成鲜明对比，以往的信息共享方式注重的是了解的需要，而不是分享的需要(或责任)。",
+                    "title_zh": "一种所有者控制的、全来源的、非持久的、高可用性的信息共享模型"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171543",
+                    "title": "Panel: Empirically-based Secure OS Design",
+                    "authors": "Sam Weber, Adam Shostack, Jon A. Solworth, Mary Ellen Zurko",
+                    "abstract": "This NSPW panel discussed how we, as a community, should pursue evidence-based research on designs for commoditizable mass-market secure operating systems. This panel did not discuss what features or architectures should be adopted, but instead focused on how we evaluate competing features and designs. How can, or should, we gather data about the usability and resilience of secure OS designs without requiring massive implementations and deployments?",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3171533.3171543"
+                    },
+                    "abstract_zh": "这个NSPW小组讨论了我们作为一个社区应该如何对商品化的大众市场安全操作系统的设计进行循证研究。这个小组没有讨论应该采用什么样的特性或架构，而是关注我们如何评估竞争特性和设计。在不需要大规模实施和部署的情况下，我们如何或者应该收集关于安全操作系统设计的可用性和弹性的数据？",
+                    "title_zh": "面板:基于经验的安全操作系统设计"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171544",
+                    "title": "Can I believe you?: Establishing Trust in Computer Mediated Introductions",
+                    "authors": "Borke Obada-Obieh, Anil Somayaji",
+                    "abstract": "The problem of trust is one of the more prominent security issue in online communications. This paper critically analyses and discusses the issue of trust in computer mediated introduction (CMI) where individuals are introduced for the purpose of interacting offline. One of the most popular forms of CMI today is online dating. We evaluate and compare the attempts made to solve the problem of trust in various computer mediated communications. We further specifically analyze three online dating platforms, Match.com, Plenty of Fish, and Tinder, and compare how they attempt to establish trust between potential matches. We find that existing mechanisms are not sufficient to establish meaningful trust in online dating. While we propose some potential alternative mechanisms for establishing trust in CMIs, the key contribution of this work is to identify the security challenges that arise in computer mediated introductions as a previously unrecognized class of security problems.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "信任问题是在线通信中较为突出的安全问题之一。本文批判性地分析和讨论了计算机中介介绍(CMI)中的信任问题，在CMI中，个人被介绍以进行离线交互。今天最流行的CMI形式之一是网上约会。我们评估和比较了为解决各种计算机媒介通信中的信任问题所做的尝试。我们进一步具体分析了三个在线约会平台，Match.com，大量的鱼，和火绒，并比较他们如何试图建立潜在匹配之间的信任。我们发现现有的机制不足以在网上约会中建立有意义的信任。虽然我们提出了一些在CMIs中建立信任的潜在替代机制，但这项工作的主要贡献是将计算机中介介绍中出现的安全挑战识别为以前未认识到的一类安全问题。",
+                    "title_zh": "我能相信你吗？:在计算机媒介介绍中建立信任"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171542",
+                    "title": "End-to-End Passwords",
+                    "authors": "Scott Ruoti, Kent E. Seamons",
+                    "abstract": "Passwords continue to be an important means for users to authenticate themselves to applications, websites, and backend services. However, password theft continues to be a significant issue, due in large part to the significant attack surface for passwords, including the operating system (e.g., key loggers), application (e.g., phishing websites in browsers), during transmission (e.g., TLS man-in-the-middle proxies), and at password verification services (e.g., theft of passwords stored at a server). Relatedly, even though there is a large body of research on improving passwords, the massive number of application verification services that use passwords stymie the diffusion of improvements---i.e., it does not scale for each improvement to require an update to every application and verification service. To address these problems, we propose a new end-to-end password paradigm that transfers password functionality to two end-points, the operating system (entry, management, storage, and verification) and the password verification service (verification, and verification token storage). In this paradigm, passwords are never shared with applications or transmitted over the network, but are instead verified using zero-knowledge protocols. There are five key benefits of this approach that are not possible with the current password paradigm: (a) a minimal attack surface, (b) protection from password phishing, (c) protection from malware, (d) consistent password policies, and (e) the ability to more rapidly diffuse improvements from password research.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "密码仍然是用户向应用程序、网站和后端服务进行身份验证的重要手段。然而，密码盗窃仍然是一个重大问题，这在很大程度上是由于密码的显著攻击面，包括操作系统(例如，按键记录器)、应用程序(例如，浏览器中的网络钓鱼网站)、传输期间(例如，TLS中间人代理)以及密码验证服务(例如，存储在服务器上的密码被盗)。相关地，尽管有大量关于改进密码的研究，但是使用密码的大量应用验证服务阻碍了改进的扩散，即，不能针对每个改进而要求更新每个应用和验证服务。为了解决这些问题，我们提出了一种新的端到端密码模式，将密码功能转移到两个端点，即操作系统(输入、管理、存储和验证)和密码验证服务(验证和验证令牌存储)。在这种模式中，密码从不与应用程序共享或通过网络传输，而是使用零知识协议进行验证。这种方法有五个主要优点，是当前密码范例所不能实现的:(a)最小的攻击面，(b)防止密码网络钓鱼，(c)防止恶意软件，(d)一致的密码策略，以及(e)更快速地传播密码研究改进的能力。",
+                    "title_zh": "端到端密码"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3171533.3171538",
+                    "title": "The Third Wave?: Inclusive Privacy and Security",
+                    "authors": "Yang Wang",
+                    "abstract": "The field of security and privacy has made steady progresses in developing technical mechanisms, which I refer to as the first wave of security and privacy research. Since the 70's, human factors and usability have been recognized as a key property of effective security and privacy mechanisms. This is what I call the second wave of security and privacy research, focusing on usability. In this article, I propose and advocate for a third wave of research that I call inclusive security and privacy, which is concerned with designing security and privacy mechanisms that are inclusive to people with various characteristics, abilities, needs and values. I present a preliminary research framework and research agenda for advancing inclusive security and privacy.",
+                    "files": {
+                        "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3171533.3171538"
+                    },
+                    "abstract_zh": "安全和隐私领域在开发技术机制方面取得了稳步进展，我称之为第一波安全和隐私研究。自70年代以来，人的因素和可用性已经被认为是有效的安全和隐私机制的关键属性。这就是我所说的第二波安全和隐私研究，关注可用性。在这篇文章中，我提出并倡导第三波研究，我称之为包容性安全和隐私，它涉及到设计安全和隐私机制，这些机制可以包容具有各种特征、能力、需求和价值观的人。我提出了推进包容性安全和隐私的初步研究框架和研究议程。",
+                    "title_zh": "第三波？:包容性隐私和安全性"
+                }
+            ]
+        }
+    ],
+    "2022": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/nspw/nspw2022.html",
+            "conf_title": "NSPW 2022:\nNorth Conway, NH, USA",
+            "conf_url": "https://doi.org/10.1145/3584318",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584319",
+                    "title": "Cybersecurity Regrets: I've had a few.... Je Ne Regrette",
+                    "authors": "Karen Renaud, Rosalind Searle, Marc J. Dupuis",
+                    "abstract": "James Baldwin says: “though we would like to live without regrets, and sometimes proudly insist that we have none, this is not really possible, if only because we are mortal”. The field of cybersecurity has its fair share of poor outcomes, some of which are bound to be due to regrettable actions. Similar to other negative emotions, such as fear and shame, it is likely that organisations are using anticipated regret as a behavioural control mechanism in the cybersecurity domain. We explore the nature and characteristics of cyber-related regrets, and the extent to which regret (both anticipated and experienced) influences future cybersecurity decisions. We derive a process model of regret and report on the way cybersecurity regrets occur, what their outcomes are, and how people experience them. We conclude with suggested directions for future research.",
+                    "files": {
+                        "openAccessPdf": "https://strathprints.strath.ac.uk/82571/1/Renaud_etal_NSP_2022_Cybersecurity_regrets_Ive_had_a_few_je_ne_regrette.pdf"
+                    },
+                    "title_zh": "网络安全遗憾:我有过一些....我不会后悔",
+                    "abstract_zh": "詹姆斯·鲍德温说:“虽然我们希望生活中没有遗憾，有时还骄傲地坚持认为我们没有遗憾，但这是不可能的，因为我们终有一死”。网络安全领域有相当一部分糟糕的结果，其中一些肯定是由令人遗憾的行动造成的。与恐惧和羞耻等其他负面情绪类似，组织很可能将预期后悔作为网络安全领域的行为控制机制。我们探讨了网络相关后悔的性质和特征，以及后悔(预期的和经历的)影响未来网络安全决策的程度。我们导出了后悔的过程模型，并报告了网络安全后悔发生的方式、后果以及人们如何经历这些后悔。最后，我们对未来的研究方向提出了建议。"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584320",
+                    "title": "\"It may be a pain in the backside but...\" Insights into the resilience of business after GDPR",
+                    "authors": "Gerard Buckley, Tristan Caulfield, Ingolf Becker",
+                    "abstract": "The General Data Protection Regulation (GDPR) came into effect in May 2018 and is designed to safeguard European Union (EU) citizens’ data privacy. The benefits of the regulation to consumers’ rights and to regulators’ powers are well known. The benefits to regulated businesses are less obvious and under-researched. We conduct exploratory research into understanding the socio-technical impacts and resilience of business in the face of a major new disruptive regulation. In particular, we investigate if GDPR is all pain and no gain. Using semi-structured interviews, we survey 14 senior-level executives responsible for business, finance, marketing, compliance and technology drawn from six companies in the UK and Ireland. We find the threat of fines has focused the corporate mind and made business more privacy aware. Organisationally, it has created new power bases within companies to advocate GDPR. It has forced companies to modernise their platforms and indirectly benefited them with better risk management processes, information security infrastructure and up to date customer databases. Compliance, for some, is used as a reputational signal of trustworthiness. Many implementation challenges remain. New business development and intra-company communication is more constrained. Regulation has increased costs and internal bureaucracy. Grey areas remain due to a lack of case law. Disgruntled customers and ex-employees weaponise Subject Access Requests (SAR) as a tool of retaliation. All small and medium-sized businesses in our sample see GDPR as overkill and overwhelming. We conclude GDPR may be regarded as a pain by business but it has made it more careful with data. It created a short-term disruption that monopolised IT budgets in the run-up to GDPR and created a long-term disruption to company politics as Compliance and Information Security leverage the regulation for budget and control. The rising trend in the number of fines issued by national data protection regulators and the establishment of new case law will continue to reshape organisations.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "“这可能是一个痛苦的背部，但……”洞察GDPR后的商业弹性",
+                    "abstract_zh": "《通用数据保护条例》(GDPR)于2018年5月生效，旨在保护欧盟(EU)公民的数据隐私。监管对消费者权利和监管者权力的好处是众所周知的。受监管企业的好处不太明显，也没有得到充分研究。我们开展探索性研究，以了解面对新的重大破坏性法规时，企业的社会技术影响和弹性。特别是，我们调查GDPR是否只有痛苦而没有收获。我们采用半结构化访谈的方式，调查了来自英国和爱尔兰6家公司的14位负责业务、财务、营销、合规和技术的高管。我们发现罚款的威胁已经集中了企业的注意力，并使企业更加关注隐私。在组织上，它在公司内部创造了新的权力基础来宣传GDPR教。它迫使企业对其平台进行现代化改造，并通过更好的风险管理流程、信息安全基础设施和最新的客户数据库间接受益。对一些人来说，遵从被用作可信度的声誉信号。许多实施挑战依然存在。新业务开发和公司内部沟通受到更多限制。监管增加了成本和内部官僚主义。由于缺乏判例法，灰色区域仍然存在。心怀不满的客户和前员工将主题访问请求(SAR)作为一种报复工具。在我们的样本中，所有中小型企业都认为GDPR矫枉过正，势不可挡。我们得出的结论是，GDPR可能被商界视为一个难题，但它已使自己对数据更加谨慎。它造成了短期的混乱，垄断了GDPR会议前的It预算，并对公司政治造成了长期的混乱，因为法规遵从性和信息安全利用了预算和控制方面的法规。国家数据保护监管机构开出的罚单数量呈上升趋势，新判例法的建立将继续重塑组织。"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584321",
+                    "title": "Side Auth: Synthesizing Virtual Sensors for Authentication",
+                    "authors": "Yan Long, Kevin Fu",
+                    "abstract": "While the embedded security research community aims to protect systems by reducing analog sensor side channels, our work argues that sensor side channels can be beneficial to defenders. This work introduces the general problem of synthesizing virtual sensors from existing circuits to authenticate physical sensors’ measurands. We investigate how to apply this approach and present a preliminary analytical framework and definitions for sensors side channels. To illustrate the general concept, we provide a proof-of-concept case study to synthesize a virtual inertial measurement unit from a camera motion side channel. Our work also provides an example of applying this technique to protect facial recognition against silicon mask spoofing attacks. Finally, we discuss downstream problems of how to ensure that side channels benefit the defender, but not the adversary, during authentication.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "侧认证:合成虚拟传感器进行认证",
+                    "abstract_zh": "虽然嵌入式安全研究社区旨在通过减少模拟传感器侧通道来保护系统，但我们的工作认为传感器侧通道对防御者有利。这项工作介绍了综合现有电路的虚拟传感器的一般问题，以认证物理传感器的被测对象。我们研究了如何应用这种方法，并提出了一个初步的分析框架和传感器侧通道的定义。为了说明一般概念，我们提供了一个概念验证案例研究，以从相机运动侧通道合成虚拟惯性测量单元。我们的工作也提供了一个应用这种技术来保护面部识别免受硅面具欺骗攻击的例子。最后，我们讨论了下游的问题，如何在认证过程中确保侧信道对防御者有利，而不是对手。"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584322",
+                    "title": "Designing Through The Stack: The Case for a Participatory Digital Security By Design",
+                    "authors": "Ian Slesinger, Lizzie Coles-Kemp, Niki Panteli, René Rydhof Hansen",
+                    "abstract": "Whilst participatory practice is increasingly adopted in end user studies, there has been far less use of a participatory approach when designing lower down the software stack. As a result, end users are often presented with security controls over which they have no control but for which they retain the responsibility. Conversely, hardware and software engineers struggle to innovate new security control designs that are resilient to new and emerging threats. In a study utilising ethnographic research and stakeholder interviews, we show that there is a siloing of communities of practice between hardware security engineers, software engineers and coders, manufacturers in the technology supply chain and end users. Our findings indicate that this siloing and a lack of participatory practice impedes the development of a more cohesive digital security design that integrates security through the stack from the hardware layer upwards to the OS and application layers. These barriers make difficult the negotiation between what is possible lower down the stack with what is needed and wanted higher up the stack. Our findings suggest that a more holistic and comprehensive participatory design approach is required to negotiate a digital security by design paradigm that more evenly distributes power over and responsibility for security controls throughout the stack. Working with the HCI literature on co-production in design, this paper will suggest that a pathway for breaking through this impasse is to utilise objects in the design process of the hardware secure instruction set architecture as a feedback mechanism to incorporate other sets of designers and users in the design process to create a more workable stack.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "通过堆栈进行设计:参与式数字安全设计案例",
+                    "abstract_zh": "虽然参与性实践在最终用户研究中被越来越多地采用，但在设计较低的软件堆栈时，参与性方法的使用却少得多。因此，最终用户经常面临他们无法控制但仍有责任的安全控制。相反，硬件和软件工程师努力创新新的安全控制设计，以应对新出现的威胁。在一项利用人种学研究和利益相关者访谈的研究中，我们发现在硬件安全工程师、软件工程师和编码员、技术供应链中的制造商和最终用户之间存在实践社区的孤岛。我们的发现表明，这种孤立和缺乏参与性的实践阻碍了更具凝聚力的数字安全设计的开发，这种设计通过从硬件层向上到操作系统和应用层的堆栈来集成安全性。这些障碍使得较低层次的可能与较高层次的需要和期望之间的协商变得困难。我们的研究结果表明，需要一种更全面、更全面的参与式设计方法来协商数字安全设计范例，以便在整个堆栈中更均匀地分配安全控制的权力和责任。本文将结合HCI关于合作设计的文献，提出突破这一僵局的途径是在硬件安全指令集架构的设计过程中利用对象作为反馈机制，在设计过程中整合其他设计者和用户，以创建更可行的堆栈。"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584323",
+                    "title": "From Utility to Capability: A New Paradigm to Conceptualize and Develop Inclusive PETs",
+                    "authors": "Partha Das Chowdhury, Andrés Domínguez Hernández, Kopo Marvin Ramokapane, Awais Rashid",
+                    "abstract": "The wider adoption of Privacy Enhancing Technologies (PETs) has relied on usability studies – which focus mainly on an assessment of how a specified group of users interface, in particular contexts, with the technical properties of a system. While human-centred efforts in usability aim to achieve important technical improvements and drive technology adoption, a focus on the usability of PETs alone is not enough. PETs development and adoption requires a broadening of focus to adequately capture the specific needs of individuals, particularly of vulnerable individuals and/or individuals in marginalized populations. We argue for a departure, from the utilitarian evaluation of surface features aimed at maximizing adoption, towards a bottom-up evaluation of what real opportunities humans have to use a particular system. We delineate a new paradigm for the way PETs are conceived and developed. To that end, we propose that Amartya Sen’s capability approach offers a foundation for the comprehensive evaluation of the opportunities individuals have based on their personal and environmental circumstances which can, in turn, inform the evolution of PETs. This includes considerations of vulnerability, age, education, physical and mental ability, language barriers, gender, access to technology, freedom from oppression among many important contextual factors.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "从效用到能力:概念化和发展包容性宠物的新范式",
+                    "abstract_zh": "隐私增强技术(PETs)的广泛采用依赖于可用性研究——可用性研究主要侧重于评估特定用户群在特定环境下如何使用系统的技术属性。虽然以人为中心的可用性努力旨在实现重要的技术改进和推动技术的采用，但只关注宠物的可用性是不够的。宠物的发展和收养需要扩大关注范围，以充分捕捉个体的具体需求，特别是弱势个体和/或边缘人群中的个体。我们主张从旨在最大化采用的表面特征的功利主义评估，转向自下而上的评估人类使用特定系统的真实机会。我们描绘了一个新的模式，为宠物的方式构思和发展。为此，我们建议Amartya Sen的能力方法为基于个人和环境情况的个人机会的综合评估提供基础，这反过来可以告知宠物的进化。这包括脆弱性、年龄、教育、身心能力、语言障碍、性别、获得技术的机会、免受压迫的自由等许多重要的背景因素。"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584324",
+                    "title": "Passwords and Cryptwords: The Final Limits on Lengths",
+                    "authors": "Michael Clark, Kent E. Seamons",
+                    "abstract": "Computers get faster every year; brains don’t. Passwords and other memorized credentials have unique usability advantages over tokens and biometrics, so we desire to design secure systems that maintain lengths that users can memorize. Some passwords are subject primarily to online attacks, and are simple to defend with rate limits and lockouts. Others, used to generate encryption keys, must be secure against offline attacks. We coin the term “cryptword” to distinguish these from passwords subject primarily to online attacks. Authentication passwords do not need to get longer as computers get faster, if protected by rate limits and lockouts. Using password key derivation functions (pwKDFs) — a class of preexisting cryptographic algorithms — we show that cryptwords can also remain the same length and maintain their security strength despite advances in computation. We achieve this by regularly updating the pwKDF parameters and regenerating the derived key from the cryptword. In cases where it is not possible to meaningfully regenerate the derived key, such as archival data or public verifiers, cryptword lengths should be chosen to last the lifetime of the data. We provide simple equations that end users and system administrators can use to determine minimal assigned password and cryptword lengths based on personal threat models. We also show how to use the capabilities of cloud computing providers to estimate attacker costs. These same equations give a timeframe for cryptword and secret rotation once the encrypted data leaks. Because these equations do not rely on the current date or current hardware capabilities, they show that if regularly used, password and cryptword lengths can remain constant despite improvements in hardware.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "密码和密码本:长度的最终限制",
+                    "abstract_zh": "计算机一年比一年快；大脑不会。与令牌和生物识别相比，密码和其他记忆凭证具有独特的可用性优势，因此我们希望设计安全的系统，以保持用户可以记忆的长度。一些密码主要受到在线攻击，并且很容易通过速率限制和锁定来防御。其他用于生成加密密钥的密钥必须能够抵御离线攻击。我们创造了“密码世界”这个术语，以区别于主要受到在线攻击的密码。如果受到速率限制和锁定的保护，随着计算机变得更快，验证密码不需要变得更长。使用密码密钥派生函数(pwk DFS)——一类预先存在的密码算法——我们表明，尽管计算有所进步，密码网络也可以保持相同的长度并保持其安全强度。我们通过定期更新pwKDF参数并从cryptword重新生成派生密钥来实现这一点。在不可能有意义地重新生成派生密钥的情况下，如档案数据或公共验证器，应选择密码长度以维持数据的生命周期。我们提供了简单的等式，最终用户和系统管理员可以使用这些等式根据个人威胁模型来确定最小分配密码和密码长度。我们还展示了如何使用云计算提供商的能力来估计攻击者的成本。一旦加密数据泄露，这些等式给出了密码和秘密轮换的时间框架。因为这些等式不依赖于当前的日期或当前的硬件能力，它们表明，如果经常使用，尽管硬件有所改进，密码和密码长度可以保持不变。"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584325",
+                    "title": "Autonomous Vehicle Security: Composing Attack, Defense, and Policy Surfaces",
+                    "authors": "Michael Clifford, Miriam Heller, Karl N. Levitt, Matt Bishop",
+                    "abstract": "An attack surface enumerates resources accessible to an attacker for cyber attacks on a system. These resources are: methods that can be called as part of an attack; channels that an attacker outside the system can use to get to a system’s interface; and untrusted data that an attacker can use in conjunction with the system’s programs and channels. Historically, a system’s attacks surface has provided a metric on the vulnerability of a system, in part to compare two systems’ exposure to attack. In this paper we extend the attack surface to (1) include rules on the system’s methods and channels that if enforced would prevent many attacks, and (2) be a composition of more primitive surfaces each characterizing vulnerabilities associated with types of resources, application-specific or system-specific, e.g., files, directories, and channels. We also introduce two additional surfaces. The defense surface identifies system mechanisms that can thwart cyber-attacks through prevention, or through detection followed by mitigation of an attack in progress and then system restoration. The policy surface defines the security policy of a system as reflected by constraints on its interface expected to be satisfied in the system’s operation. The security policy for a corporation would include steps the organization takes to prevent attacks and actions required to address a security incident. More relevant to this paper, the security policy for a community of autonomous vehicles would specify the minimum separation among vehicles that must be maintained even in the presence of a cyber-attack, i.e. a (safety) property. Through an analysis of the intersection of the three surfaces, it is, in principle, possible to determine if a defense exists for every attack that causes a policy violation. And, through computationally-efficient model checking, the defense action can be identified. If more than one defense action exists, model checking will identify all of them, thus enabling the selection of the optimal action based on criteria associated with a CAV.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "自主车辆安全:组成攻击、防御和策略面",
+                    "abstract_zh": "攻击面列举了攻击者可访问的资源，用于对系统进行网络攻击。这些资源是:可以作为攻击的一部分调用的方法；系统外部的攻击者可以用来进入系统接口的通道；和信道一起使用的不可信数据。从历史上看，系统的攻击面提供了系统漏洞的度量，部分是为了比较两个系统暴露于攻击的程度。在本文中，我们将攻击面扩展为(1)包括关于系统方法和通道的规则，如果实施这些规则，将会防止许多攻击，以及(2)由更原始的表面组成，每个表面都描述了与特定于应用程序或特定于系统的资源类型(例如文件、目录和通道)相关的漏洞。我们还引入了两个额外的表面。防御面确定了系统机制，这些机制可以通过预防，或者通过检测，然后缓解正在进行的攻击，然后恢复系统来挫败网络攻击。策略表面定义了系统的安全策略，如系统操作中期望满足的接口约束所反映的。公司的安全策略将包括组织为防止攻击而采取的步骤以及解决安全事故所需的行动。与本文更相关的是，自动驾驶汽车社区的安全政策将规定车辆之间的最小间隔，即使在存在网络攻击的情况下也必须保持，即(安全)属性。通过分析这三个表面的交集，原则上可以确定是否对每个导致违反策略的攻击都存在防御。并且，通过计算高效的模型检查，可以识别防御动作。如果存在一个以上的防御行动，模型检查将识别所有的防御行动，从而能够根据与CAV相关的标准选择最佳行动。"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584326",
+                    "title": "Incidental Incremental In-Band Fingerprint Verification: a Novel Authentication Ceremony for End-to-End Encrypted Messaging",
+                    "authors": "Nathan Malkin",
+                    "abstract": "End-to-end encryption in popular messaging applications relies on centralized key servers. To keep these honest, users are supposed to meet in person and compare “fingerprints” of their public keys. Very few people do this, despite attempts to make this process more usable, making trust in the systems tenuous. To encourage broader adoption of verification behaviors, this paper proposes a new type of authentication ceremony, incidental incremental in-band fingerprint verification (I3FV), in which users periodically share with their friends photos or videos of themselves responding to simple visual or behavioral prompts (“challenges”). This strategy allows verification to be performed incidentally to normal user activities, incrementally over time, and in-band within the messaging application. By replacing a dedicated security task with a fun, already-widespread activity, I3FV has the potential to vastly increase the number of people verifying keys and therefore strengthen trust in encrypted messaging.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "附带增量带内指纹验证:一种新的端到端加密消息认证仪式",
+                    "abstract_zh": "流行的消息传递应用程序中的端到端加密依赖于集中式密钥服务器。为了保持诚实，用户应该亲自见面，比较他们公钥的“指纹”。很少有人这样做，尽管试图使这个过程更有用，使系统的信任变得脆弱。为了鼓励更广泛地采用验证行为，本文提出了一种新的认证仪式，即附带增量带内指纹验证(I3FV)，用户可以定期与朋友分享自己响应简单视觉或行为提示(“挑战”)的照片或视频。这种策略允许在正常的用户活动中附带执行验证，随着时间的推移逐渐增加，并在消息传递应用程序内带内执行。I3FV用一个有趣的、已经普及的活动代替了专门的安全任务，它有可能极大地增加验证密钥的人数，从而增强对加密信息的信任。"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584327",
+                    "title": "Toward User Control over Information Access: A Sociotechnical Approach",
+                    "authors": "Caleb Malchik, Joan Feigenbaum",
+                    "abstract": "We study the relationship between Web users and service providers, taking a sociotechnical approach and focusing particularly (but not exclusively) on privacy and security of personal data. Much conventional Web-security practice seeks to protect benevolent parties, both individuals and organizations, against purely malevolent adversaries in an effort to prevent catastrophic events such as data breaches, ransomware attacks, and denial of service. By contrast, we highlight the dynamics among the parties that much conventional security technology seeks to protect. We regard most interactions between users and providers as implicit negotiations that, like the interactions between buyers and sellers in a marketplace, have both adversarial and cooperative aspects. Our goal is to rebalance these negotiations in order to give more power to users; toward that end we advocate the adoption of two techniques, one technical and one organizational. Technically, we introduce the Platform for Untrusted Resource Evaluation (PURE), a content-labeling framework that empowers users to make informed decisions about service providers, reduces the ability of providers to induce behaviors that benefit them more than users, and requires minimal time and effort to use. On the organizational side, we concur with Gordon-Tapiero et al. [19] that a collective approach is necessary to rebalance the power dynamics between users and providers; in particular, we suggest that the data co-op, an organizational form suggested by Ligett and Nissim [25] and Pentland and Hardjono [28], is a natural setting in which to deploy PURE and similar tools.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "信息访问的用户控制:一种社会技术方法",
+                    "abstract_zh": "我们研究网络用户和服务提供商之间的关系，采用社会技术方法，并特别关注(但不仅限于)个人数据的隐私和安全。许多传统的Web安全实践寻求保护个人和组织等善意方免受纯粹恶意对手的攻击，以防止灾难性事件，如数据泄露、勒索软件攻击和拒绝服务。相比之下，我们强调许多常规安全技术试图保护的各方之间的动态。我们认为用户和提供商之间的大多数互动都是隐含的协商，就像市场中买方和卖方之间的互动一样，既有对抗的一面，也有合作的一面。我们的目标是重新平衡这些谈判，以便给用户更多的权力；为此，我们提倡采用两种技术，一种是技术上的，一种是组织上的。在技术上，我们引入了不可信资源评估平台(PURE)，这是一个内容标签框架，使用户能够对服务提供商做出明智的决策，降低提供商诱导对他们比对用户更有利的行为的能力，并需要最少的时间和精力来使用。在组织方面，我们同意Gordon-Tapiero等人[19]的观点，即需要一种集体方法来重新平衡用户和提供商之间的权力动态；特别是，我们认为Ligett和Nissim [25]以及Pentland和Hardjono [28]提出的数据合作组织是部署纯工具和类似工具的自然环境。"
+                },
+                {
+                    "url": "https://doi.org/10.1145/3584318.3584854",
+                    "title": "Transparency, Compliance, And Contestability When Code Is(n't) Law",
+                    "authors": "Alexander Hicks",
+                    "abstract": "Both technical security mechanisms and legal processes serve as mechanisms to deal with misbehaviour according to a set of norms. While they share general similarities, there are also clear differences in how they are defined, act, and the effect they have on subjects. This paper considers the similarities and differences between both types of mechanisms as ways of dealing with misbehaviour, and where they interact with each other. Taking into consideration the idea of code as law, we discuss accountability mechanisms for code, and how they must relate to both security principles and legal principles. In particular, we identify the ability to contest norms enforced by code as an important part of accountability in this context. Based on this analysis, we make the case for transparency enhancing technologies as security mechanisms that can support legal processes, in contrast to other types of accountability mechanisms for code. We illustrate this through two examples based on recent court cases that involved Post Office in the United Kingdom and Uber in the Netherlands, and discuss some practical considerations.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "当代码是(不是)法律时的透明性、合规性和可争议性",
+                    "abstract_zh": "技术安全机制和法律程序都是根据一套规范来处理不当行为的机制。虽然它们有着普遍的相似性，但在如何定义、作用以及对受试者的影响方面也有明显的差异。本文考虑了这两种机制在处理不当行为方面的异同，以及它们之间的相互作用。考虑到代码作为法律的概念，我们讨论代码的责任机制，以及它们如何与安全原则和法律原则相关联。特别是，我们认为，在这种情况下，质疑由准则实施的规范的能力是问责制的重要组成部分。基于这一分析，我们将透明度增强技术作为支持法律程序的安全机制，与其他类型的代码责任机制形成对比。我们通过两个例子来说明这一点，这两个例子基于最近涉及英国邮政局和荷兰优步的法院案例，并讨论了一些实际考虑。"
+                }
+            ]
+        }
+    ]
+}

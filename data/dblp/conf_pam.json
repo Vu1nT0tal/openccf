@@ -1,0 +1,2558 @@
+{
+    "2023": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/pam/pam2023.html",
+            "conf_title": "24th PAM 2023: Virtual Event",
+            "conf_url": "https://doi.org/10.1007/978-3-031-28486-1",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_1",
+                    "title": "Measuring the Performance of iCloud Private Relay",
+                    "authors": "Martino Trevisan, Idilio Drago, Paul Schmitt, Francesco Bronzino",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.science/hal-04003057/file/pam23.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "测量iCloud专用中继的性能"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_2",
+                    "title": "Characterizing the VPN Ecosystem in the Wild",
+                    "authors": "Aniss Maghsoudlou, Lukas Vermeulen, Ingmar Poese, Oliver Gasser",
+                    "abstract": "With the increase of remote working during and after the COVID-19 pandemic, the use of Virtual Private Networks (VPNs) around the world has nearly doubled. Therefore, measuring the traffic and security aspects of the VPN ecosystem is more important now than ever. VPN users rely on the security of VPN solutions, to protect private and corporate communication. Thus a good understanding of the security state of VPN servers is crucial. Moreover, properly detecting and characterizing VPN traffic remains challenging, since some VPN protocols use the same port number as web traffic and port-based traffic classification will not help. In this paper, we aim at detecting and characterizing VPN servers in the wild, which facilitates detecting the VPN traffic. To this end, we perform Internet-wide active measurements to find VPN servers in the wild, and analyze their cryptographic certificates, vulnerabilities, locations, and fingerprints. We find 9.8M VPN servers distributed around the world using OpenVPN, SSTP, PPTP, and IPsec, and analyze their vulnerability. We find SSTP to be the most vulnerable protocol with more than 90% of detected servers being vulnerable to TLS downgrade attacks. Out of all the servers that respond to our VPN probes, 2% also respond to HTTP probes and therefore are classified as Web servers. Finally, we use our list of VPN servers to identify VPN traffic in a large European ISP and observe that 2.6% of all traffic is related to these VPN servers. © 2023, The Author(s), under exclusive license to Springer Nature Switzerland AG.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "随着新冠肺炎疫情期间和之后远程工作的增加，虚拟专用网络(VPN)在全世界的使用几乎翻了一番。因此，测量VPN生态系统的流量和安全性比以往任何时候都更加重要。VPN用户依靠VPN解决方案的安全性来保护私人和公司通信。因此，很好地理解VPN服务器的安全状态是至关重要的。此外，正确检测和描述VPN流量仍然具有挑战性，因为一些VPN协议使用与web流量相同的端口号，基于端口的流量分类将无济于事。在本文中，我们的目标是检测和描述VPN服务器在野外，这有助于检测VPN流量。为此，我们在互联网范围内执行主动测量，以在野外找到VPN服务器，并分析它们的加密证书、漏洞、位置和指纹。我们找到了分布在世界各地的980万台使用OpenVPN、SSTP、PPTP和IPsec的VPN服务器，并分析了它们的漏洞。我们发现SSTP是最易受攻击的协议，超过90%的检测到的服务器容易受到TLS降级攻击。在所有响应我们的VPN探测的服务器中，有2%也响应HTTP探测，因此被归类为Web服务器。最后，我们使用我们的VPN服务器列表来识别一家大型欧洲ISP的VPN流量，并观察到所有流量中有2.6%与这些VPN服务器相关。2023，作者，独家授权给Springer Nature Switzerland AG。",
+                    "title_zh": "在野外描述VPN生态系统的特征"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_3",
+                    "title": "Stranger VPNs: Investigating the Geo-Unblocking Capabilities of Commercial VPN Providers",
+                    "authors": "Etienne Khan, Anna Sperotto, Jeroen van der Ham, Roland van Rijswijk-Deij",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "陌生VPN:调查商业VPN提供商的地理解锁能力"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_4",
+                    "title": "Exploring the Evolution of TLS Certificates",
+                    "authors": "Syed Muhammad Farhan, Taejoong Chung",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "探索TLS证书的发展"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_5",
+                    "title": "Analysis of TLS Prefiltering for IDS Acceleration",
+                    "authors": "Lukas Sismis, Jan Korenek",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IDS加速的TLS预滤波分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_6",
+                    "title": "DissecTLS: A Scalable Active Scanner for TLS Server Configurations, Capabilities, and TLS Fingerprinting",
+                    "authors": "Markus Sosnowski, Johannes Zirngibl, Patrick Sattler, Georg Carle",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-031-28486-1_6.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一个可伸缩的主动扫描器，用于TLS服务器配置、功能和TLS指纹识别"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_7",
+                    "title": "A Measurement-Derived Functional Model for the Interaction Between Congestion Control and QoE in Video Conferencing",
+                    "authors": "Jia He, Mostafa H. Ammar, Ellen Zegura",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "视频会议中拥塞控制与QoE交互的测量导出功能模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_8",
+                    "title": "Effects of Political Bias and Reliability on Temporal User Engagement with News Articles Shared on Facebook",
+                    "authors": "Alireza Mohammadinodooshan, Niklas Carlsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "政治偏见和可靠性对脸书新闻文章时间用户参与度的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_9",
+                    "title": "Efficient Continuous Latency Monitoring with eBPF",
+                    "authors": "Simon Sundberg, Anna Brunström, Simone Ferlin Oliveira, Toke Høiland-Jørgensen, Jesper Dangaard Brouer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-031-28486-1_9.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用eBPF实现高效的连续延迟监控"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_10",
+                    "title": "Back-to-the-Future Whois: An IP Address Attribution Service for Working with Historic Datasets",
+                    "authors": "Florian Streibelt, Martina Lindorfer, Seda F. Gürses, Carlos Hernandez Gañán, Tobias Fiebig",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-031-28486-1_10.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "回到未来的Whois:用于处理历史数据集的IP地址归属服务"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_11",
+                    "title": "Towards Diagnosing Accurately the Performance Bottleneck of Software-Based Network Function Implementation",
+                    "authors": "Ru Jia, Heng Pan, Haiyang Jiang, Serge Fdida, Gaogang Xie",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "准确诊断基于软件的网络功能实现的性能瓶颈"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_12",
+                    "title": "Evaluation of the ProgHW/SW Architectural Design Space of Bandwidth Estimation",
+                    "authors": "Tianqi Fang, Lisong Xu, Witawas Srisa-an, Jay Patel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "评估带宽估算的ProgHW/SW架构设计空间"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_13",
+                    "title": "An In-Depth Measurement Analysis of 5G mmWave PHY Latency and Its Impact on End-to-End Delay",
+                    "authors": "Rostand A. K. Fezeu, Eman Ramadan, Wei Ye, Benjamin Minneci, Jack Xie, Arvind Narayanan, Ahmad Hassan, Feng Qian, Zhi-Li Zhang, Jaideep Chandrashekar, Myungjin Lee",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "5G毫米波PHY时延及其对端到端时延影响的深入测量分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_14",
+                    "title": "A Characterization of Route Variability in LEO Satellite Networks",
+                    "authors": "Vaibhav Bhosale, Ahmed Saeed, Ketan Bhardwaj, Ada Gavrilovska",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "低轨卫星网络中路由可变性的表征"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_15",
+                    "title": "Improving the Inference of Sibling Autonomous Systems",
+                    "authors": "Zhiyi Chen, Zachary S. Bischof, Cecilia Testart, Alberto Dainotti",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "改进兄弟自治系统的推理"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_16",
+                    "title": "A Global Measurement of Routing Loops on the Internet",
+                    "authors": "Abdulrahman Alaraj, Kevin Bock, Dave Levin, Eric Wustrow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "互联网路由环路的全局测量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_17",
+                    "title": "as2org+ : Enriching AS-to-Organization Mappings with PeeringDB",
+                    "authors": "Augusto Arturi, Esteban Carisimo, Fabián E. Bustamante",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "as2org+:使用PeeringDB丰富as到组织的映射"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_18",
+                    "title": "RPKI Time-of-Flight: Tracking Delays in the Management, Control, and Data Planes",
+                    "authors": "Romain Fontugne, Amreesh Phokeer, Cristel Pelsser, Kevin Vermeulen, Randy Bush",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RPKI飞行时间:跟踪管理、控制和数据飞机的延迟"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_19",
+                    "title": "Intercept and Inject: DNS Response Manipulation in the Wild",
+                    "authors": "Yevheniya Nosyk, Qasim Lone, Yury Zhauniarovich, Carlos Hernandez Gañán, Emile Aben, Giovane C. M. Moura, Samaneh Tajalizadehkhoob, Andrzej Duda, Maciej Korczynski",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://repository.tudelft.nl/islandora/object/uuid%3Abe654e40-f369-4808-a304-a422e3861d2b/datastream/OBJ/download"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "拦截和注入:在野外操纵DNS响应"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_20",
+                    "title": "A First Look at Brand Indicators for Message Identification (BIMI)",
+                    "authors": "Masanori Yajima, Daiki Chiba, Yoshiro Yoneya, Tatsuya Mori",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-031-28486-1_20.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "信息识别的品牌指标初探(BIMI)"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_21",
+                    "title": "A Second Look at DNS QNAME Minimization",
+                    "authors": "Jonathan Magnusson, Moritz Müller, Anna Brunström, Tobias Pulls",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-031-28486-1_21.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "再看DNS QNAME最小化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_22",
+                    "title": "How Ready is DNS for an IPv6-Only World?",
+                    "authors": "Florian Streibelt, Patrick Sattler, Franziska Lichtblau, Carlos Hernandez Gañán, Anja Feldmann, Oliver Gasser, Tobias Fiebig",
+                    "abstract": "DNS is one of the core building blocks of the Internet. In this paper, we investigate DNS resolution in a strict IPv6-only scenario and find that a substantial fraction of zones cannot be resolved. We point out, that the presence of an AAAA resource record for a zone's nameserver does not necessarily imply that it is resolvable in an IPv6-only environment since the full DNS delegation chain must resolve via IPv6 as well. Hence, in an IPv6-only setting zones may experience an effect similar to what is commonly referred to as lame delegation. Our longitudinal study shows that the continuing centralization of the Internet has a large impact on IPv6 readiness, i.e., a small number of large DNS providers has, and still can, influence IPv6 readiness for a large number of zones. A single operator that enabled IPv6 DNS resolution -- by adding IPv6 glue records -- was responsible for around 20.3% of all zones in our dataset not resolving over IPv6 until January 2017. Even today, 10% of DNS operators are responsible for more than 97.5% of all zones that do not resolve using IPv6.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "DNS是互联网的核心构件之一。在本文中，我们研究了严格的纯IPv6场景中的DNS解析，发现有很大一部分区域无法解析。我们指出，区域名称服务器的AAAA资源记录的存在并不一定意味着它在仅支持IPv6的环境中是可解析的，因为完整的DNS授权链也必须通过IPv6进行解析。因此，在仅支持IPv6的设置中，区域可能会经历类似于通常所说的lame委派的效果。我们的纵向研究表明，互联网的持续集中化对IPv6的就绪性有很大影响，即少数大型DNS提供商已经并将继续影响大量区域的IPv6就绪性。在2017年1月之前，我们数据集中约20.3%的区域没有通过IPv6进行解析，而启用IPv6 DNS解析(通过添加IPv6粘合记录)的一家运营商对此负有责任。即使在今天，10%的DNS运营商负责97.5%以上不使用IPv6解析的区域。",
+                    "title_zh": "DNS为纯IPv6的世界做好准备了吗？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_23",
+                    "title": "TTL Violation of DNS Resolvers in the Wild",
+                    "authors": "Protick Bhowmick, Md. Ishtiaq Ashiq, Casey T. Deccio, Taejoong Chung",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "野生环境中DNS解析器的TTL违规"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_24",
+                    "title": "Operational Domain Name Classification: From Automatic Ground Truth Generation to Adaptation to Missing Values",
+                    "authors": "Jan Bayer, Ben Chukwuemeka Benjamin, Sourena Maroofi, Thymen Wabeke, Cristian Hesselman, Andrzej Duda, Maciej Korczynski",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "操作域名分类:从自动生成基础事实到适应缺失值"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_25",
+                    "title": "A First Look at Third-Party Service Dependencies of Web Services in Africa",
+                    "authors": "Aqsa Kashaf, Jiachen Dou, Margarita Belova, Maria Apostolaki, Yuvraj Agarwal, Vyas Sekar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "非洲网络服务的第三方服务依赖性初探"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_26",
+                    "title": "Exploring the Cookieverse: A Multi-Perspective Analysis of Web Cookies",
+                    "authors": "Ali Rasaii, Shivani Singh, Devashish Gosain, Oliver Gasser",
+                    "abstract": "Web cookies have been the subject of many research studies over the last few years. However, most existing research does not consider multiple crucial perspectives that can influence the cookie landscape, such as the client's location, the impact of cookie banner interaction, and from which operating system a website is being visited. In this paper, we conduct a comprehensive measurement study to analyze the cookie landscape for Tranco top-10k websites from different geographic locations and analyze multiple different perspectives. One important factor which influences cookies is the use of cookie banners. We develop a tool, BannerClick, to automatically detect, accept, and reject cookie banners with an accuracy of 99%, 97%, and 87%, respectively. We find banners to be 56% more prevalent when visiting websites from within the EU region. Moreover, we analyze the effect of banner interaction on different types of cookies (i.e., first-party, third-party, and tracking). For instance, we observe that websites send, on average, 5.5x more third-party cookies after clicking ``accept'', underlining that it is critical to interact with banners when performing Web measurements. Additionally, we analyze statistical consistency, evaluate the widespread deployment of consent management platforms, compare landing to inner pages, and assess the impact of visiting a website on a desktop compared to a mobile phone. Our study highlights that all of these factors substantially impact the cookie landscape, and thus a multi-perspective approach should be taken when performing Web measurement studies.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "在过去的几年里，网络cookies已经成为许多研究的主题。然而，大多数现有的研究没有考虑可能影响cookie前景的多个关键角度，如客户端的位置、cookie横幅交互的影响以及网站是从哪个操作系统访问的。在本文中，我们进行了全面的测量研究，从不同的地理位置和多个不同的角度分析了Tranco top-10k网站的cookie情况。影响cookie的一个重要因素是cookie横幅的使用。我们开发了一个工具BannerClick，可以自动检测、接受和拒绝cookie横幅，准确率分别为99%、97%和87%。我们发现，在访问欧盟地区的网站时，横幅广告的出现率要高出56%。此外，我们分析了横幅互动对不同类型的cookies(即第一方、第三方和跟踪)的影响。例如，我们观察到，网站在点击“接受”后发送的第三方cookies平均多5.5倍，这强调了在执行网络测量时与横幅互动的重要性。此外，我们分析了统计一致性，评估了同意管理平台的广泛部署，比较了登陆和内页，并评估了在桌面上访问网站与在移动电话上访问相比的影响。我们的研究强调，所有这些因素都极大地影响着cookie的前景，因此在进行Web测量研究时应该采取多视角的方法。",
+                    "title_zh": "探索Cookieverse:网络Cookies的多视角分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-28486-1_27",
+                    "title": "Quantifying User Password Exposure to Third-Party CDNs",
+                    "authors": "Rui Xin, Shihan Lin, Xiaowei Yang",
+                    "abstract": "Web services commonly employ Content Distribution Networks (CDNs) for performance and security. As web traffic is becoming 100% HTTPS, more and more websites allow CDNs to terminate their HTTPS connections. This practice may expose a website's user sensitive information such as a user's login password to a third-party CDN. In this paper, we measure and quantify the extent of user password exposure to third-party CDNs. We find that among Alexa top 50K websites, at least 12,451 of them use CDNs and contain user login entrances. Among those websites, 33% of them expose users' passwords to the CDNs, and a popular CDN may observe passwords from more than 40% of its customers. This result suggests that if a CDN infrastructure has a vulnerability or an insider attack, many users' accounts will be at risk. If we assume the attacker is a passive eavesdropper, a website can avoid this vulnerability by encrypting users' passwords in HTTPS connections. Our measurement shows that less than 17% of the websites adopt this countermeasure.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "Web服务通常采用内容分发网络(cdn)来提高性能和安全性。随着网络流量成为100% HTTPS，越来越多的网站允许cdn终止其HTTPS连接。这种做法可能会将网站的用户敏感信息(如用户的登录密码)暴露给第三方CDN。在本文中，我们测量并量化了用户密码暴露于第三方cdn的程度。我们发现，在Alexa top 50K网站中，至少有12451个网站使用cdn，并包含用户登录入口。在这些网站中，33%的网站将用户的密码暴露给CDN，一个受欢迎的CDN可能会观察到超过40%的客户的密码。这一结果表明，如果CDN基础设施存在漏洞或内部攻击，许多用户的帐户将面临风险。如果我们假设攻击者是被动窃听者，网站可以通过在HTTPS连接中加密用户密码来避免这一漏洞。我们的测量显示，只有不到17%的网站采用这种对策。",
+                    "title_zh": "量化暴露给第三方cdn的用户密码"
+                }
+            ]
+        }
+    ],
+    "2020": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/pam/pam2020.html",
+            "conf_title": "21st PAM 2020: Eugene, Oregon, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-030-44081-7",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_1",
+                    "title": "Discovering the IPv6 Network Periphery",
+                    "authors": "Erik C. Rye, Robert Beverly",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2001.08684"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "发现IPv6网络外围设备"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_2",
+                    "title": "Improving Coverage of Internet Outage Detection in Sparse Blocks",
+                    "authors": "Guillermo Baltra, John S. Heidemann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "提高稀疏块中互联网中断检测的覆盖范围"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_3",
+                    "title": "FlowTrace : A Framework for Active Bandwidth Measurements Using In-band Packet Trains",
+                    "authors": "Adnan Ahmed, Ricky Mok, Zubair Shafiq",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "FlowTrace:一个使用带内包序列的主动带宽测量框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_4",
+                    "title": "Leopard: Understanding the Threat of Blockchain Domain Name Based Malware",
+                    "authors": "Zhangrong Huang, Ji Huang, Tianning Zang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Leopard:了解基于区块链域名的恶意软件的威胁"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_5",
+                    "title": "To Filter or Not to Filter: Measuring the Benefits of Registering in the RPKI Today",
+                    "authors": "Cecilia Testart, Philipp Richter, Alistair King, Alberto Dainotti, David Clark",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "过滤还是不过滤:衡量今天在RPKI注册的好处"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_6",
+                    "title": "A First Look at the Misuse and Abuse of the IPv4 Transfer Market",
+                    "authors": "Vasileios Giotsas, Ioana Livadariu, Petros Gigis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprints.lancs.ac.uk/id/eprint/139789/1/VGiotsas_PAM2020_IPv4_Transfers_abuse.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IPv4迁移市场的误用和滥用初探"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_7",
+                    "title": "Don't Forget to Lock the Front Door! Inferring the Deployment of Source Address Validation of Inbound Traffic",
+                    "authors": "Maciej Korczynski, Yevheniya Nosyk, Qasim Lone, Marcin Skwarek, Baptiste Jonglez, Andrzej Duda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2002.00441"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "别忘了锁前门！推断入站流量的源地址验证的部署"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_8",
+                    "title": "MUST, SHOULD, DON'T CARE: TCP Conformance in the Wild",
+                    "authors": "Mike Kosek, Leo Blöcher, Jan Rüth, Torsten Zimmermann, Oliver Hohlfeld",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2002.05400"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "必须，应该，不在乎:TCP在野外的一致性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_9",
+                    "title": "Extortion or Expansion? An Investigation into the Costs and Consequences of ICANN's gTLD Experiments",
+                    "authors": "Shahrooz Pouryousef, Muhammad Daniyal Dar, Suleman Ahmad, Phillipa Gill, Rishab Nithyanand",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "勒索还是扩张？对ICANN gTLD实验的成本和后果的调查"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_10",
+                    "title": "Counterfighting Counterfeit: Detecting and Taking down Fraudulent Webshops at a ccTLD",
+                    "authors": "Thymen Wabeke, Giovane C. M. Moura, Nanneke Franken, Cristian Hesselman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "打击假冒:在ccTLD检测和关闭欺诈性网店"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_11",
+                    "title": "When Parents and Children Disagree: Diving into DNS Delegation Inconsistency",
+                    "authors": "Raffaele Sommese, Giovane C. M. Moura, Mattijs Jonker, Roland van Rijswijk-Deij, Alberto Dainotti, Kimberly C. Claffy, Anna Sperotto",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://ris.utwente.nl/ws/files/237707586/Sommese2020when.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "当父母和孩子意见不一致时:陷入DNS授权不一致"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_12",
+                    "title": "A First Comparative Characterization of Multi-cloud Connectivity in Today's Internet",
+                    "authors": "Bahador Yeganeh, Ramakrishnan Durairajan, Reza Rejaie, Walter Willinger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "当今互联网中多云连接的第一个比较特征"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_13",
+                    "title": "Unintended Consequences: Effects of Submarine Cable Deployment on Internet Routing",
+                    "authors": "Rodérick Fanou, Bradley Huffaker, Ricky K. P. Mok, Kimberly C. Claffy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "意想不到的后果:海底电缆部署对互联网路由的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_14",
+                    "title": "Alias Resolution Based on ICMP Rate Limiting",
+                    "authors": "Kevin Vermeulen, Burim Ljuma, Vamsi Addanki, Matthieu Gouel, Olivier Fourmaux, Timur Friedman, Reza Rejaie",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-02513227/file/main.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于ICMP速率限制的别名解析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_15",
+                    "title": "APPLE: Alias Pruning by Path Length Estimation",
+                    "authors": "Alexander Marder",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "APPLE:通过路径长度估计进行别名修剪"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_16",
+                    "title": "Dissecting the Workload of a Major Adult Video Portal",
+                    "authors": "Andreas Grammenos, Aravindh Raman, Timm Böttger, Zafar Gilani, Gareth Tyson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2002.00115"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "剖析主要成人视频门户网站的工作量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_18",
+                    "title": "Understanding Video Streaming Algorithms in the Wild",
+                    "authors": "Melissa Licciardello, Maximilian Grüner, Ankit Singla",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2001.02951"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在野外理解视频流算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-44081-7_19",
+                    "title": "Exploring the Eastern Frontier: A First Look at Mobile App Tracking in China",
+                    "authors": "Zhaohua Wang, Zhenyu Li, Minhui Xue, Gareth Tyson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://qmro.qmul.ac.uk/xmlui/bitstream/123456789/64109/2/Tyson%20Exploring%20the%20Eastern%202020%20Accepted.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "探索东部边疆:中国移动应用追踪初探"
+                }
+            ]
+        }
+    ],
+    "2021": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/pam/pam2021.html",
+            "conf_title": "22nd PAM 2021: Virtual Event",
+            "conf_url": "https://doi.org/10.1007/978-3-030-72582-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_1",
+                    "title": "Video Conferencing and Flow-Rate Fairness: A First Look at Zoom and the Impact of Flow-Queuing AQM",
+                    "authors": "Constantin Sander, Ike Kunze, Klaus Wehrle, Jan Rüth",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2107.00904"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "视频会议和流量公平性:Zoom和流量排队AQM影响的初步研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_2",
+                    "title": "Characterizing Service Provider Response to the COVID-19 Pandemic in the United States",
+                    "authors": "Shinan Liu, Paul Schmitt, Francesco Bronzino, Nick Feamster",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2011.00419"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "表征服务提供商对美国新冠肺炎疫情的响应"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_3",
+                    "title": "A First Look at COVID-19 Domain Names: Origin and Implications",
+                    "authors": "Ryo Kawaoka, Daiki Chiba, Takuya Watanabe, Mitsuaki Akiyama, Tatsuya Mori",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2102.05290"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "新冠肺炎域名初探:起源与意义"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_4",
+                    "title": "Clairvoyance: Inferring Blocklist Use on the Internet",
+                    "authors": "Vector Guo Li, Gautam Akiwate, Kirill Levchenko, Geoffrey M. Voelker, Stefan Savage",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "千里眼:推断互联网上黑名单的使用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_5",
+                    "title": "Our (in)Secure Web: Understanding Update Behavior of Websites and Its Impact on Security",
+                    "authors": "Nurullah Demir, Tobias Urban, Kevin Wittek, Norbert Pohlmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "我们(不)安全的Web:了解网站的更新行为及其对安全性的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_6",
+                    "title": "Winding Path: Characterizing the Malicious Redirection in Squatting Domain Names",
+                    "authors": "Yuwei Zeng, Xunxun Chen, Tianning Zang, Haiwei Tsang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "曲折的道路:描述域名抢注中的恶意重定向"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_7",
+                    "title": "An Empirical Measurement Study of Free Live Streaming Services",
+                    "authors": "Sina Keshvadi, Carey Williamson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "免费直播流媒体服务的实证测量研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_8",
+                    "title": "A Data-Driven Analysis and Tuning of a Live Hybrid CDN/V2V Video Distribution System",
+                    "authors": "Ishani Sarkar, Soufiane Roubia, Dino Martin López-Pacheco, Guillaume Urvoy-Keller",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "实时混合CDN/V2V视频分发系统的数据驱动分析和调整"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_9",
+                    "title": "Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts",
+                    "authors": "Vivek Adarsh, Michael Nekrasov, Udit Paul, Alexander Ermakov, Arpit Gupta, Morgan Vigil-Hayes, Ellen W. Zegura, Elizabeth M. Belding",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "回放为时已晚:农村和城市背景下的视频流质量评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_10",
+                    "title": "Measurement and Analysis of Automated Certificate Reissuance",
+                    "authors": "Olamide Omolola, Richard Roberts, Md. Ishtiaq Ashiq, Taejoong Chung, Dave Levin, Alan Mislove",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "自动证书重新颁发的测量和分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_11",
+                    "title": "Revocation Statuses on the Internet",
+                    "authors": "Nikita Korzhitskii, Niklas Carlsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2102.04288"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "互联网上的撤销状态"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_12",
+                    "title": "Measuring DNS over TLS from the Edge: Adoption, Reliability, and Response Times",
+                    "authors": "Trinh Viet Doan, Irina Tsareva, Vaibhav Bajpai",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从边缘测量TLS上的DNS:采用、可靠性和响应时间"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_13",
+                    "title": "Long-Lasting Sequences of BGP Updates",
+                    "authors": "Lorenzo Ariemma, Giuseppe Liotta, Massimo Candela, Giuseppe Di Battista",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "BGP更新的持久序列"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_14",
+                    "title": "Inferring Cloud Interconnections: Validation, Geolocation, and Routing Behavior",
+                    "authors": "Alexander Marder, Kimberly C. Claffy, Alex C. Snoeren",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "推断云互联:验证、地理定位和路由行为"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_15",
+                    "title": "On the Resilience of Internet Infrastructures in Pacific Northwest to Earthquakes",
+                    "authors": "Juno Mayer, Valerie Sahakian, Emilie Hooft, Douglas Toomey, Ramakrishnan Durairajan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "太平洋西北地区互联网基础设施的抗震能力"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_16",
+                    "title": "New Kids on the DRDoS Block: Characterizing Multiprotocol and Carpet Bombing Attacks",
+                    "authors": "Tiago Heinrich, Rafael R. Obelheiro, Carlos Alberto Maziero",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DRDoS街区的新成员:描述多协议和地毯式轰炸攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_17",
+                    "title": "DDoS Never Dies? An IXP Perspective on DDoS Amplification Attacks",
+                    "authors": "Daniel Kopp, Christoph Dietzel, Oliver Hohlfeld",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2103.04443"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DDoS不死？DDoS放大攻击的IXP视角"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_18",
+                    "title": "A Peek into the DNS Cookie Jar - An Analysis of DNS Cookie Use",
+                    "authors": "Jacob Davis, Casey T. Deccio",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "窥探DNS Cookie Jar——DNS Cookie使用分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_19",
+                    "title": "What You Need to Know About (Smart) Network Interface Cards",
+                    "authors": "Georgios P. Katsikas, Tom Barbette, Marco Chiesa, Dejan Kostic, Gerald Q. Maguire Jr.",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://kth.diva-portal.org/smash/get/diva2:1541047/FULLTEXT02"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于(智能)网络接口卡，您需要了解什么"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_20",
+                    "title": "Scouting the Path to a Million-Client Server",
+                    "authors": "Yimeng Zhao, Ahmed Saeed, Mostafa H. Ammar, Ellen W. Zegura",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2104.13774"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "寻找通向百万客户机服务器的道路"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_21",
+                    "title": "Building Out the Basics with Hoplets",
+                    "authors": "Prathy Raman, Marcel Flores",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用Hoplets构建基础"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_22",
+                    "title": "NATting Else Matters: Evaluating IPv6 Access Control Policies in Residential Networks",
+                    "authors": "Karl Olson, Jack Wampler, Fan Shen, Nolen Scaife",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "其他事项:评估住宅网络中的IPv6访问控制策略"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_23",
+                    "title": "Plight at the End of the Tunnel - Legacy IPv6 Transition Mechanisms in the Wild",
+                    "authors": "John Kristoff, Mohammad Ghasemisharif, Chris Kanich, Jason Polakis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "隧道尽头的困境——荒野中的传统IPv6过渡机制"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_24",
+                    "title": "An Online Method for Estimating the Wireless Device Count via Privacy-Preserving Wi-Fi Fingerprinting",
+                    "authors": "Pegah Torkamandi, Ljubica Kärkkäinen, Jörg Ott",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种通过隐私保护Wi-Fi指纹估计无线设备数量的在线方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_25",
+                    "title": "Cache Me Outside: A New Look at DNS Cache Probing",
+                    "authors": "Arian Akhavan Niaki, William R. Marczak, Sahand Farhoodi, Andrew McGregor, Phillipa Gill, Nicholas Weaver",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在外面缓存我:DNS缓存探测的新观点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_26",
+                    "title": "Can Encrypted DNS Be Fast?",
+                    "authors": "Austin Hounsel, Paul Schmitt, Kevin Borgolte, Nick Feamster",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-72582-2_26.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "加密DNS能快吗？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_27",
+                    "title": "Fragmentation, Truncation, and Timeouts: Are Large DNS Messages Falling to Bits?",
+                    "authors": "Giovane C. M. Moura, Moritz Müller, Marco Davids, Maarten Wullink, Cristian Hesselman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "碎片化、截断和超时:大型DNS消息会变成比特吗？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_28",
+                    "title": "On the Accuracy of Tor Bandwidth Estimation",
+                    "authors": "Rob Jansen, Aaron Johnson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于Tor带宽估计的准确性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_29",
+                    "title": "Comparison of TCP Congestion Control Performance over a Satellite Network",
+                    "authors": "Saahil Claypool, Jae Chung, Mark Claypool",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "卫星网络上TCP拥塞控制性能的比较"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_30",
+                    "title": "Throughput Prediction on 60 GHz Mobile Devices for High-Bandwidth, Latency-Sensitive Applications",
+                    "authors": "Shivang Aggarwal, Zhaoning Kong, Moinak Ghoshal, Y. Charlie Hu, Dimitrios Koutsonikolas",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "针对高带宽、延迟敏感型应用的60 GHz移动设备吞吐量预测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_31",
+                    "title": "Characterizing the Security of Endogenous and Exogenous Desktop Application Network Flows",
+                    "authors": "Matthew R. McNiece, Ruidan Li, Bradley Reaves",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "描述内生和外生桌面应用程序网络流的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_32",
+                    "title": "Zeroing in on Port 0 Traffic in the Wild",
+                    "authors": "Aniss Maghsoudlou, Oliver Gasser, Anja Feldmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2103.13055"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "锁定野外的0号端口流量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-72582-2_33",
+                    "title": "A Study of the Partnership Between Advertisers and Publishers",
+                    "authors": "Wenrui Ma, Haitao Xu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "广告商和出版商之间的伙伴关系研究"
+                }
+            ]
+        }
+    ],
+    "2022": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/pam/pam2022.html",
+            "conf_title": "23rd PAM 2022: Virtual Event",
+            "conf_url": "https://doi.org/10.1007/978-3-030-98785-5",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_1",
+                    "title": "LogoMotive: Detecting Logos on Websites to Identify Online Scams - A TLD Case Study",
+                    "authors": "Thijs van Den Hout, Thymen Wabeke, Giovane C. M. Moura, Cristian Hesselman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "标识动机:检测网站上的标识以识别在线诈骗——TLD案例研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_2",
+                    "title": "Early Detection of Spam Domains with Passive DNS and SPF",
+                    "authors": "Simon Fernandez, Maciej Korczynski, Andrzej Duda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://arxiv.org/pdf/2205.01932"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用被动DNS和SPF早期检测垃圾邮件域"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_3",
+                    "title": "Changing of the Guards: Certificate and Public Key Management on the Internet",
+                    "authors": "Carl Magnus Bruhner, Oscar Linnarsson, Matús Nemec, Martin F. Arlitt, Niklas Carlsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "卫兵换岗:互联网上的证书和公钥管理"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_4",
+                    "title": "Design and Implementation of Web-Based Speed Test Analysis Tool Kit",
+                    "authors": "Rui Yang, Ricky K. P. Mok, Shuohan Wu, Xiapu Luo, Hongyu Zou, Weichao Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于Web的速度测试分析工具包的设计与实现"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_5",
+                    "title": "BatteryLab: A Collaborative Platform for Power Monitoring - https: //batterylab.dev",
+                    "authors": "Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Fabián E. Bustamante, Ben Livshits",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2201.12614"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "BatteryLab:一个电源监控的协作平台- https: //batterylab.dev"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_6",
+                    "title": "GPS-Based Geolocation of Consumer IP Addresses",
+                    "authors": "James Saxon, Nick Feamster",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2105.13389"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于GPS的消费者IP地址地理定位"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_7",
+                    "title": "Jitterbug: A New Framework for Jitter-Based Congestion Inference",
+                    "authors": "Esteban Carisimo, Ricky K. P. Mok, David D. Clark, Kimberly C. Claffy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Jitterbug:一种新的基于抖动的拥塞推断框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_8",
+                    "title": "Can 5G mmWave Support Multi-user AR?",
+                    "authors": "Moinak Ghoshal, Pranab Dash, Zhaoning Kong, Qiang Xu, Y. Charlie Hu, Dimitrios Koutsonikolas, Yuanjie Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "5G mmWave能支持多用户AR吗？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_9",
+                    "title": "A First Measurement with BGP Egress Peer Engineering",
+                    "authors": "Ryo Nakamura, Kazuki Shimizu, Teppei Kamata, Cristel Pelsser",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://univoak.eu/islandora/object/islandora:145314/datastream/PDF/download/citation.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "BGP出口对等工程的第一个测量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_10",
+                    "title": "RouteInfer: Inferring Interdomain Paths by Capturing ISP Routing Behavior Diversity and Generality",
+                    "authors": "Tianhao Wu, Jessie Hui Wang, Jilong Wang, Shuying Zhuang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RouteInfer:通过捕获ISP路由行为的多样性和一般性来推断域间路径"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_11",
+                    "title": "Measuring the Practical Effect of DNS Root Server Instances: A China-Wide Case Study",
+                    "authors": "Fenglu Zhang, Chaoyi Lu, Baojun Liu, Haixin Duan, Ying Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "衡量DNS根服务器实例的实际效果:中国案例研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_12",
+                    "title": "Old but Gold: Prospecting TCP to Engineer and Live Monitor DNS Anycast",
+                    "authors": "Giovane C. M. Moura, John S. Heidemann, Wes Hardaker, Pithayuth Charnsethikul, Jeroen Bulten, João M. Ceron, Cristian Hesselman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "古老而珍贵:寻找TCP工程师并实时监控DNS任播"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_13",
+                    "title": "A Matter of Degree: Characterizing the Amplification Power of Open DNS Resolvers",
+                    "authors": "Ramin Yazdani, Roland van Rijswijk-Deij, Mattijs Jonker, Anna Sperotto",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://ris.utwente.nl/ws/files/297837062/978_3_030_98785_5_13.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "程度问题:表征开放DNS解析器的放大能力"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_14",
+                    "title": "IRR Hygiene in the RPKI Era",
+                    "authors": "Ben Du, Gautam Akiwate, Thomas Krenc, Cecilia Testart, Alexander Marder, Bradley Huffaker, Alex C. Snoeren, Kimberly C. Claffy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RPKI时代的IRR卫生学"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_15",
+                    "title": "Peering Only? Analyzing the Reachability Benefits of Joining Large IXPs Today",
+                    "authors": "Lars Prehn, Franziska Lichtblau, Christoph Dietzel, Anja Feldmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "仅对等？分析当今加入大型ixp的可达性优势"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_16",
+                    "title": "On the Latency Impact of Remote Peering",
+                    "authors": "Fabrício M. Mazzola, Pedro de B. Marcos, Ignacio Castro, Matthew Luckie, Marinho P. Barcellos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://researchcommons.waikato.ac.nz/bitstream/10289/14838/10/PAM%202022%20paper.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "远程对等的延迟影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_17",
+                    "title": "Know Thy Lag: In-Network Game Detection and Latency Measurement",
+                    "authors": "Sharat Chandra Madanapalli, Hassan Habibi Gharakheili, Vijay Sivaraman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "了解你的滞后:网络游戏检测和延迟测量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_18",
+                    "title": "Differences in Social Media Usage Exist Between Western and Middle-East Countries",
+                    "authors": "Jens Helge Reelfs, Oliver Hohlfeld, Niklas Henckell",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2201.12892"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "西方和中东国家在社交媒体的使用上存在差异"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_19",
+                    "title": "Measuring the (Over)use of Service Workers for In-Page Push Advertising Purposes",
+                    "authors": "George Pantelakis, Panagiotis Papadopoulos, Nicolas Kourtellis, Evangelos P. Markatos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://arxiv.org/pdf/2110.11241"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "衡量页面内推送广告对服务人员的(过度)使用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_20",
+                    "title": "ISP Probing Reduction with Anaximander",
+                    "authors": "Emeline Marechal, Pascal Mérindol, Benoit Donnet",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://orbi.uliege.be/bitstream/2268/267688/1/paper.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ISP与阿那克西曼德探讨降低"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_21",
+                    "title": "Lights on Power Plant Control Networks",
+                    "authors": "Stefan Mehner, Franka Schuster, Oliver Hohlfeld",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "发电厂控制网络上的灯"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_22",
+                    "title": "Assessing Support for DNS-over-TCP in the Wild",
+                    "authors": "Jiarun Mao, Michael Rabinovich, Kyle Schomp",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "评估对DNS-over-TCP的支持"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_23",
+                    "title": "Measuring the Accessibility of Domain Name Encryption and Its Impact on Internet Filtering",
+                    "authors": "Nguyen Phong Hoang, Michalis Polychronakis, Phillipa Gill",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://arxiv.org/pdf/2202.00663"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "衡量域名加密的可访问性及其对互联网过滤的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_24",
+                    "title": "One to Rule Them All? A First Look at DNS over QUIC",
+                    "authors": "Mike Kosek, Trinh Viet Doan, Malte Granderath, Vaibhav Bajpai",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一个人来统治他们？QUIC上的DNS初探"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_25",
+                    "title": "Zoom Session Quality: A Network-Level View",
+                    "authors": "Albert Choi, Mehdi Karamollahi, Carey Williamson, Martin F. Arlitt",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "缩放会话质量:网络级视图"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_26",
+                    "title": "Zoomiversity: A Case Study of Pandemic Effects on Post-secondary Teaching and Learning",
+                    "authors": "Mehdi Karamollahi, Carey Williamson, Martin F. Arlitt",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "动物大学:疫情效应对高等教育教学影响的个案研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_27",
+                    "title": "SSQoE: Measuring Video QoE from the Server-Side at a Global Multi-tenant CDN",
+                    "authors": "Anant Shah, Juan Bran, Kyriakos Zarifis, Harkeerat Bedi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SSQoE:在全球多租户CDN中从服务器端测量视频QoE"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_28",
+                    "title": "Routing Loops as Mega Amplifiers for DNS-Based DDoS Attacks",
+                    "authors": "Yevheniya Nosyk, Maciej Korczynski, Andrzej Duda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.science/hal-04027472/file/PAM2022Nosyk.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "路由环路是基于DNS的DDoS攻击的巨大放大器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_29",
+                    "title": "Quantifying Nations' Exposure to Traffic Observation and Selective Tampering",
+                    "authors": "Alexander Gamero-Garrido, Esteban Carisimo, Shuai Hao, Bradley Huffaker, Alex C. Snoeren, Alberto Dainotti",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://arxiv.org/pdf/2110.05772"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "量化国家对流量观测和选择性篡改的暴露程度"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-98785-5_30",
+                    "title": "Longitudinal Study of Internet-Facing OpenSSH Update Patterns",
+                    "authors": "Jonathan Codi West, Tyler Moore",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面向互联网的OpenSSH更新模式的纵向研究"
+                }
+            ]
+        }
+    ],
+    "2019": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/pam/pam2019.html",
+            "conf_title": "20th PAM 2019: Puerto Varas, Chile",
+            "conf_url": "https://doi.org/10.1007/978-3-030-15986-3",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_1",
+                    "title": "Leveraging Context-Triggered Measurements to Characterize LTE Handover Performance",
+                    "authors": "Shichang Xu, Ashkan Nikravesh, Z. Morley Mao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用上下文触发的测量来表征LTE切换性能"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_2",
+                    "title": "Measuring Web Quality of Experience in Cellular Networks",
+                    "authors": "Alemnew Sheferaw Asrese, Ermias Andargie Walelgne, Vaibhav Bajpai, Andra Lutu, Özgü Alay, Jörg Ott",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://aaltodoc.aalto.fi:443/bitstream/123456789/108100/1/isbn9789526404011.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "测量蜂窝网络中的网络体验质量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_3",
+                    "title": "Realtime Mobile Bandwidth Prediction Using LSTM Neural Network",
+                    "authors": "Lifan Mei, Runchen Hu, Houwei Cao, Yong Liu, Zifa Han, Feng Li, Jin Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于LSTM神经网络的实时移动带宽预测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_4",
+                    "title": "Hidden Treasures - Recycling Large-Scale Internet Measurements to Study the Internet's Control Plane",
+                    "authors": "Jan Rüth, Torsten Zimmermann, Oliver Hohlfeld",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1901.07265"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "隐藏的宝藏-回收大规模的互联网测量，以研究互联网的控制平面"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_5",
+                    "title": "Caching the Internet: A View from a Global Multi-tenant CDN",
+                    "authors": "Marcel Flores, Harkeerat Bedi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "缓存互联网:来自全球多租户CDN的观点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_6",
+                    "title": "Sundials in the Shade - An Internet-Wide Perspective on ICMP Timestamps",
+                    "authors": "Erik C. Rye, Robert Beverly",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1903.08294"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "阴影中的日晷ICMP时间戳的互联网视角"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_7",
+                    "title": "Where on Earth Are the Best-50 Time Servers?",
+                    "authors": "Yi Cao, Darryl Veitch",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://opus.lib.uts.edu.au/bitstream/10453/134395/4/2-s2.0-85064056278%20am.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "世界上最好的50个时间服务器在哪？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_8",
+                    "title": "Service Traceroute: Tracing Paths of Application Flows",
+                    "authors": "Ivan Morandi, Francesco Bronzino, Renata Teixeira, Srikanth Sundaresan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01888618/file/Service_Traceroute.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "服务跟踪路由:跟踪应用程序流的路径"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_9",
+                    "title": "Mapping an Enterprise Network by Analyzing DNS Traffic",
+                    "authors": "Minzhao Lyu, Hassan Habibi Gharakheili, Craig Russell, Vijay Sivaraman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过分析DNS流量映射企业网络"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_10",
+                    "title": "A First Look at QNAME Minimization in the Domain Name System",
+                    "authors": "Wouter B. de Vries, Quirin Scheitle, Moritz Müller, Willem Toorop, Ralph Dolmans, Roland van Rijswijk-Deij",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "域名系统中QNAME最小化初探"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_11",
+                    "title": "Clustering and the Weekend Effect: Recommendations for the Use of Top Domain Lists in Security Research",
+                    "authors": "Walter Rweyemamu, Tobias Lauinger, Christo Wilson, William K. Robertson, Engin Kirda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "聚类和周末效应:在安全研究中使用顶级域名列表的建议"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_12",
+                    "title": "Funny Accents: Exploring Genuine Interest in Internationalized Domain Names",
+                    "authors": "Victor Le Pochat, Tom van Goethem, Wouter Joosen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/634538/2/pam2019-lepochat.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "有趣的口音:探索对国际化域名的真正兴趣"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_13",
+                    "title": "BGP Zombies: An Analysis of Beacons Stuck Routes",
+                    "authors": "Romain Fontugne, Esteban Bautista, Colin Petrie, Yutaro Nomura, Patrice Abry, Paulo Gonçalves, Kensuke Fukuda, Emile Aben",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01970596/file/zombie_cr_pam2019.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "BGP僵尸:信标阻塞路由分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_14",
+                    "title": "How to Find Correlated Internet Failures",
+                    "authors": "Ramakrishna Padmanabhan, Aaron Schulman, Alberto Dainotti, Dave Levin, Neil Spring",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "如何找到相关的互联网故障"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_15",
+                    "title": "On DNSSEC Negative Responses, Lies, and Zone Size Detection",
+                    "authors": "Jonathan Demke, Casey T. Deccio",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DNSSEC否定反应、谎言和区域大小检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_16",
+                    "title": "Spectrum Protection from Micro-transmissions Using Distributed Spectrum Patrolling",
+                    "authors": "Mallesham Dasari, Muhammad Bershgal Atique, Arani Bhattacharya, Samir R. Das",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用分布式频谱巡视的针对微传输的频谱保护"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_17",
+                    "title": "Measuring Cookies and Web Privacy in a Post-GDPR World",
+                    "authors": "Adrian Dabrowski, Georg Merzdovnik, Johanna Ullrich, Gerald Sendera, Edgar R. Weippl",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在后GDPR时代测量Cookies和网络隐私"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_18",
+                    "title": "The Value of First Impressions - The Impact of Ad-Blocking on Web QoE",
+                    "authors": "James Newman, Fabián E. Bustamante",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "第一印象的价值——广告屏蔽对网络QoE的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_19",
+                    "title": "Web Performance Pitfalls",
+                    "authors": "Theresa Enghardt, Thomas Zinner, Anja Feldmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Web性能陷阱"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-15986-3_20",
+                    "title": "Characterizing Web Pornography Consumption from Passive Measurements",
+                    "authors": "Andrea Morichetta, Martino Trevisan, Luca Vassio",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1904.11723"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从被动测量来表征网络色情消费"
+                }
+            ]
+        }
+    ],
+    "2016": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/pam/pam2016.html",
+            "conf_title": "17. PAM 2016: Heraklion, Greece",
+            "conf_url": "https://doi.org/10.1007/978-3-319-30505-9",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_1",
+                    "title": "Exploring Tor's Activity Through Long-Term Passive TLS Traffic Measurement",
+                    "authors": "Johanna Amann, Robin Sommer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过长期被动TLS流量测量探索Tor的活动"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_2",
+                    "title": "Measuring the Latency and Pervasiveness of TLS Certificate Revocation",
+                    "authors": "Liang Zhu, Johanna Amann, John S. Heidemann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "测量TLS证书吊销的延迟和普遍性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_3",
+                    "title": "Tracking Personal Identifiers Across the Web",
+                    "authors": "Marjan Falahrastegar, Hamed Haddadi, Steve Uhlig, Richard Mortier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过网络跟踪个人标识符"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_4",
+                    "title": "Like a Pack of Wolves: Community Structure of Web Trackers",
+                    "authors": "Vasiliki Kalavri, Jeremy Blackburn, Matteo Varvello, Konstantina Papagiannaki",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "像一群狼:网络追踪者的社区结构"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_5",
+                    "title": "A First Analysis of Multipath TCP on Smartphones",
+                    "authors": "Quentin De Coninck, Matthieu Baerts, Benjamin Hesmans, Olivier Bonaventure",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "智能手机上的多路径tcp浅析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_6",
+                    "title": "Crowdsourcing Measurements of Mobile Network Performance and Mobility During a Large Scale Event",
+                    "authors": "Alexander Frömmgen, Jens Heuschkel, Patrick Jahnke, Fabio Cuozzo, Immanuel Schweizer, Patrick Eugster, Max Mühlhäuser, Alejandro P. Buchmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "大型活动期间移动网络性能和移动性的众包测量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_7",
+                    "title": "A Study of MVNO Data Paths and Performance",
+                    "authors": "Paul Schmitt, Morgan Vigil, Elizabeth M. Belding",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "MVNO数据路径和性能的研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_8",
+                    "title": "Detecting Cellular Middleboxes Using Passive Measurement Techniques",
+                    "authors": "Utkarsh Goel, Moritz Steiner, Mike P. Wittie, Martin Flack, Stephen Ludin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用被动测量技术检测蜂窝中间盒"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_9",
+                    "title": "Home Network or Access Link? Locating Last-Mile Downstream Throughput Bottlenecks",
+                    "authors": "Srikanth Sundaresan, Nick Feamster, Renata Teixeira",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01294924/file/hoa-pam2016.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "家庭网络还是接入链路？定位最后一英里下游吞吐量瓶颈"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_10",
+                    "title": "A Case Study of Traffic Demand Response to Broadband Service-Plan Upgrades",
+                    "authors": "Sarthak Grover, Roya Ensafi, Nick Feamster",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "宽带服务计划升级的流量需求响应案例研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_11",
+                    "title": "eXploring Xfinity - A First Look at Provider-Enabled Community Networks",
+                    "authors": "Dipendra K. Jha, John P. Rula, Fabián E. Bustamante",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "探索Xfinity——提供者支持的社区网络初探"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_12",
+                    "title": "NAT Revelio: Detecting NAT444 in the ISP",
+                    "authors": "Andra Lutu, Marcelo Bagnulo, Amogh Dhamdhere, Kimberly C. Claffy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "NAT Revelio:检测ISP中的NAT444"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_13",
+                    "title": "GPLMT: A Lightweight Experimentation and Testbed Management Framework",
+                    "authors": "Matthias Wachs, Nadine Herold, Stephan-Alexander Posselt, Florian Dold, Georg Carle",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1601.03984"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "GPLMT:一个轻量级实验和测试平台管理框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_14",
+                    "title": "Periscope: Unifying Looking Glass Querying",
+                    "authors": "Vasileios Giotsas, Amogh Dhamdhere, Kimberly C. Claffy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "潜望镜:统一的窥镜查询"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_15",
+                    "title": "Analyzing Locality of Mobile Messaging Traffic using the MATAdOR Framework",
+                    "authors": "Quirin Scheitle, Matthias Wachs, Johannes Zirngibl, Georg Carle",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1601.04848"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用斗牛士框架分析移动消息流量的局部性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_16",
+                    "title": "Scout: A Point of Presence Recommendation System Using Real User Monitoring Data",
+                    "authors": "Yang Yang, Liang Zhang, Ritesh Maheshwari, Zaid Ali Kahn, Deepak Agarwal, Sanjay Dubey",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Scout:使用真实用户监控数据的存在点推荐系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_17",
+                    "title": "Is the Web HTTP/2 Yet?",
+                    "authors": "Matteo Varvello, Kyle Schomp, David Naylor, Jeremy Blackburn, Alessandro Finamore, Konstantina Papagiannaki",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Web是HTTP/2了吗？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_18",
+                    "title": "Modeling HTTP/2 Speed from HTTP/1 Traces",
+                    "authors": "Kyriakos Zarifis, Mark Holland, Manish Jain, Ethan Katz-Bassett, Ramesh Govindan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从HTTP/1跟踪模拟HTTP/2速度"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_19",
+                    "title": "Behind Box-Office Sales: Understanding the Mechanics of Automation Spam in Classifieds",
+                    "authors": "Andrew J. Kaizer, Minaxi Gupta, Mejbaol Sajib, Anirban Acharjee, Qatrunnada Ismail",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "票房销售背后:理解分类广告中自动化垃圾邮件的机制"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_20",
+                    "title": "Towards a Model of DNS Client Behavior",
+                    "authors": "Kyle Schomp, Michael Rabinovich, Mark Allman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "建立DNS客户端行为模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_21",
+                    "title": "Detecting DNS Root Manipulation",
+                    "authors": "Ben Jones, Nick Feamster, Vern Paxson, Nicholas Weaver, Mark Allman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "检测DNS根操作"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_22",
+                    "title": "Behind IP Prefix Overlaps in the BGP Routing Table",
+                    "authors": "Quentin Jacquemart, Guillaume Urvoy-Keller, Ernst W. Biersack",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "BGP路由表中IP前缀重叠的背后"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_23",
+                    "title": "Characterizing Rule Compression Mechanisms in Software-Defined Networks",
+                    "authors": "Curtis Yu, Cristian Lumezanu, Harsha V. Madhyastha, Guofei Jiang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "表征软件定义网络中的规则压缩机制"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_24",
+                    "title": "Blackholing at IXPs: On the Effectiveness of DDoS Mitigation in the Wild",
+                    "authors": "Christoph Dietzel, Anja Feldmann, Thomas King",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ixp中的黑洞:野外DDoS缓解的有效性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_25",
+                    "title": "Dissecting the Largest National Ecosystem of Public Internet eXchange Points in Brazil",
+                    "authors": "Samuel Henrique Bucke Brito, Mateus A. S. Santos, Ramon dos Reis Fontes, Danny Alex Lachos Perez, Christian Esteve Rothenberg",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "剖析巴西最大的公共互联网交换点国家生态系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_26",
+                    "title": "traIXroute: Detecting IXPs in traceroute paths",
+                    "authors": "George Nomikos, Xenofontas A. Dimitropoulos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1611.03895"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "traIXroute:检测跟踪路由路径中的ixp"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_27",
+                    "title": "A Brief History of MPLS Usage in IPv6",
+                    "authors": "Yves Vanaubel, Pascal Mérindol, Jean-Jacques Pansiot, Benoit Donnet",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://orbi.uliege.be/bitstream/2268/191439/1/paper.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IPv6中MPLS使用简史"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_28",
+                    "title": "An Empirical Study of Android Alarm Usage for Application Scheduling",
+                    "authors": "Mário Almeida, Muhammad Bilal, Jeremy Blackburn, Konstantina Papagiannaki",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Android应用程序调度警报使用的实证研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_29",
+                    "title": "Network Timing and the 2015 Leap Second",
+                    "authors": "Darryl Veitch, Kanthaiah Vijayalayan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://opus.lib.uts.edu.au/bitstream/10453/43923/1/LeapSecond_camera.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络计时和2015年闰秒"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-30505-9_30",
+                    "title": "Can Machine Learning Benefit Bandwidth Estimation at Ultra-high Speeds?",
+                    "authors": "Qianwen Yin, Jasleen Kaur",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "机器学习能在超高速下有益于带宽估计吗？"
+                }
+            ]
+        }
+    ],
+    "2015": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/pam/pam2015.html",
+            "conf_title": "PAM 2015: New York, NY, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-319-15509-8",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_1",
+                    "title": "~Open Resolvers: Understanding the Origins of Anomalous Open DNS Resolvers",
+                    "authors": "Andrew J. Kaizer, Minaxi Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "~开放解析器:了解异常开放DNS解析器的起源"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_2",
+                    "title": "Characterizing Optimal DNS Amplification Attacks and Effective Mitigation",
+                    "authors": "Douglas C. MacFarland, Craig A. Shue, Andrew J. Kalafut",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://web.cs.wpi.edu/%7Ecshue/research/pam15.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "表征最佳DNS放大攻击和有效缓解"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_3",
+                    "title": "Measuring BGP Route Origin Registration and Validation",
+                    "authors": "Daniele Iamartino, Cristel Pelsser, Randy Bush",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "测量BGP路由起点注册和验证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_4",
+                    "title": "On the Diversity of Interdomain Routing in Africa",
+                    "authors": "Rodérick Fanou, Pierre François, Emile Aben",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "论非洲域间路由的多样性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_5",
+                    "title": "AppPrint: Automatic Fingerprinting of Mobile Applications in Network Traffic",
+                    "authors": "Stanislav Miskovic, Gene Moo Lee, Yong Liao, Mario Baldi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "AppPrint:网络流量中移动应用的自动指纹识别"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_6",
+                    "title": "Uncovering the Footprints of Malicious Traffic in Cellular Data Networks",
+                    "authors": "Arun Raghuramu, Hui Zang, Chen-Nee Chuah",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://escholarship.org/content/qt10k6c6hb/qt10k6c6hb.pdf?t=o181s0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "揭示蜂窝数据网络中恶意流量的足迹"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_7",
+                    "title": "Characterizing Instant Messaging Apps on Smartphones",
+                    "authors": "Li Zhang, Chao Xu, Parth H. Pathak, Prasant Mohapatra",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "智能手机上即时消息应用的特征"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_8",
+                    "title": "Do Mobile Data Plans Affect Usage? Results from a Pricing Trial with ISP Customers",
+                    "authors": "Carlee Joe-Wong, Sangtae Ha, Soumya Sen, Mung Chiang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "移动数据计划会影响使用吗？ISP客户的定价试验结果"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_9",
+                    "title": "IPv6 AS Relationships, Cliques, and Congruence",
+                    "authors": "Vasileios Giotsas, Matthew J. Luckie, Bradley Huffaker, kc claffy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IPv6作为关系、派系和一致性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_10",
+                    "title": "Measuring and Characterizing IPv6 Router Availability",
+                    "authors": "Robert Beverly, Matthew J. Luckie, Lorenza Mosley, kc claffy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://calhoun.nps.edu/bitstream/10945/46378/2/Beverly_uptime-pam15-presentation_slides_2015.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IPv6路由器可用性的测量和表征"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_11",
+                    "title": "UAv6: Alias Resolution in IPv6 Using Unused Addresses",
+                    "authors": "Ramakrishna Padmanabhan, Zhihao Li, Dave Levin, Neil Spring",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ua V6:IPv6中使用未使用地址的别名解析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_12",
+                    "title": "Server Siblings: Identifying Shared IPv4/IPv6 Infrastructure Via Active Fingerprinting",
+                    "authors": "Robert Beverly, Arthur W. Berger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "服务器兄弟:通过主动指纹识别识别共享的IPv4/IPv6基础设施"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_13",
+                    "title": "On the Power and Limitations of Detecting Network Filtering via Passive Observation",
+                    "authors": "Matthew Sargent, Jakub Czyz, Mark Allman, Michael Bailey",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://www.icir.org/mallman/pubs/SCAB15/SCAB15.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过被动观察检测网络过滤的能力和局限性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_14",
+                    "title": "Distilling the Internet's Application Mix from Packet-Sampled Traffic",
+                    "authors": "Philipp Richter, Nikolaos Chatzis, Georgios Smaragdakis, Anja Feldmann, Walter Willinger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从分组抽样流量中提取互联网应用组合"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_15",
+                    "title": "Enabling Internet-Wide Deployment of Explicit Congestion Notification",
+                    "authors": "Brian Trammell, Mirja Kühlewind, Damiano Boppart, Iain Learmonth, Gorry Fairhurst, Richard Scheffenegger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "启用显式拥塞通知的互联网范围部署"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_16",
+                    "title": "Internet Outages, the Eyewitness Accounts: Analysis of the Outages Mailing List",
+                    "authors": "Ritwik Banerjee, Abbas Razaghpanah, Luis Chiang, Akassh Mishra, Vyas Sekar, Yejin Choi, Phillipa Gill",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://figshare.com/articles/journal_contribution/Internet_Outages_the_Eyewitness_Accounts_Analysis_of_the_Outages_Mailing_List/6468932/1/files/11897486.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "互联网中断，目击者的叙述:中断邮件列表的分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_17",
+                    "title": "Transparent Estimation of Internet Penetration from Network Observations",
+                    "authors": "Suso Benitez-Baleato, Nils B. Weidmann, Petros Gigis, Xenofontas A. Dimitropoulos, Eduard Glatz, Brian Trammell",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://kops.uni-konstanz.de/bitstreams/3b67e8e3-cf9c-4a9a-8fb3-5e9c99afe87c/download"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "根据网络观察对互联网渗透率的透明估计"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_18",
+                    "title": "A Quantitative Study of Video Duplicate Levels in YouTube",
+                    "authors": "Yao Liu, Sam Blasiak, Weijun Xiao, Zhenhua Li, Songqing Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "YouTube视频复制水平的定量研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_19",
+                    "title": "Measuring YouTube from Dual-Stacked Hosts",
+                    "authors": "Saba Ahsan, Vaibhav Bajpai, Jörg Ott, Jürgen Schönwälder",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从双栈主机测量YouTube"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_20",
+                    "title": "Investigating Transparent Web Proxies in Cellular Networks",
+                    "authors": "Xing Xu, Yurong Jiang, Tobias Flach, Ethan Katz-Bassett, David R. Choffnes, Ramesh Govindan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "研究蜂窝网络中的透明Web代理"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_21",
+                    "title": "TrackAdvisor: Taking Back Browsing Privacy from Third-Party Trackers",
+                    "authors": "Tai-Ching Li, Huy Hang, Michalis Faloutsos, Petros Efstathopoulos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "TrackAdvisor:从第三方追踪者手中夺回浏览隐私"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_22",
+                    "title": "Exploring Miner Evolution in Bitcoin Network",
+                    "authors": "Luqin Wang, Yong Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "探索比特币网络中的矿工进化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_23",
+                    "title": "Measuring the Performance of User Traffic in Home Wireless Networks",
+                    "authors": "Srikanth Sundaresan, Nick Feamster, Renata Teixeira",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01100675/file/paper.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "测量家庭无线网络中用户流量的性能"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_24",
+                    "title": "Enabling Wireless LAN Troubleshooting",
+                    "authors": "Ilias Syrigos, Stratos Keranidis, Thanasis Korakis, Constantine Dovrolis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "启用无线局域网故障排除"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_25",
+                    "title": "Improving the Packet Send-Time Accuracy in Embedded Devices",
+                    "authors": "Ricky K. P. Mok, Weichao Li, Rocky K. C. Chang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "提高嵌入式设备中数据包发送时间的准确性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_26",
+                    "title": "What You Need to Know About SDN Flow Tables",
+                    "authors": "Maciej Kuzniar, Peter Peresíni, Dejan Kostic",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://infoscience.epfl.ch/record/204742/files/Preprint.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于SDN流表，您需要了解什么"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-15509-8_27",
+                    "title": "Software-Defined Latency Monitoring in Data Center Networks",
+                    "authors": "Curtis Yu, Cristian Lumezanu, Abhishek B. Sharma, Qiang Xu, Guofei Jiang, Harsha V. Madhyastha",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "数据中心网络中软件定义的延迟监控"
+                }
+            ]
+        }
+    ],
+    "2017": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/pam/pam2017.html",
+            "conf_title": "18. PAM 2017: Sydney, NSW, Australia",
+            "conf_url": "https://doi.org/10.1007/978-3-319-54328-4",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_1",
+                    "title": "Understanding the Share of IPv6 Traffic in a Dual-Stack ISP",
+                    "authors": "Enric Pujol, Philipp Richter, Anja Feldmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "了解双栈ISP中IPv6流量的份额"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_2",
+                    "title": "On the Potential of IPv6 Open Resolvers for DDoS Attacks",
+                    "authors": "Luuk Hendriks, Ricardo de Oliveira Schmidt, Roland van Rijswijk-Deij, Aiko Pras",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IPv6开放解析器对DDoS攻击的潜在威胁"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_3",
+                    "title": "Something from Nothing (There): Collecting Global IPv6 Datasets from DNS",
+                    "authors": "Tobias Fiebig, Kevin Borgolte, Shuang Hao, Christopher Kruegel, Giovanni Vigna",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://repository.tudelft.nl/islandora/object/uuid%3A46788e2f-87e0-4f6f-9703-7c89fd82bd6b/datastream/OBJ/download"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从无到有:从DNS收集全球IPv6数据集"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_4",
+                    "title": "The Web, the Users, and the MOS: Influence of HTTP/2 on User Experience",
+                    "authors": "Enrico Bocchi, Luca De Cicco, Marco Mellia, Dario Rossi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://iris.polito.it/bitstream/11583/2667280/2/PamBocchi2017.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Web、用户和MOS:HTTP/2对用户体验的影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_5",
+                    "title": "Internet Scale User-Generated Live Video Streaming: The Twitch Case",
+                    "authors": "Jie Deng, Gareth Tyson, Félix Cuadrado, Steve Uhlig",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "互联网规模的用户生成直播视频流:Twitch案例"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_6",
+                    "title": "Internet Access for All: Assessing a Crowdsourced Web Proxy Service in a Community Network",
+                    "authors": "Emmanouil Dimogerontakis, Roc Meseguer, Leandro Navarro",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "所有人的互联网接入:评估社区网络中的众包Web代理服务"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_7",
+                    "title": "A First Look at the CT Landscape: Certificate Transparency Logs in Practice",
+                    "authors": "Josef Gustafsson, Gustaf Overier, Martin F. Arlitt, Niklas Carlsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://liu.diva-portal.org/smash/get/diva2:1141576/FULLTEXT01"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "CT前景初探:实践中的证书透明度日志"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_8",
+                    "title": "Where Is the Weakest Link? A Study on Security Discrepancies Between Android Apps and Their Website Counterparts",
+                    "authors": "Arash Alavi, Alan Quach, Hang Zhang, Bryan Marsh, Farhan Ul Haq, Zhiyun Qian, Long Lu, Rajiv Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "最薄弱的环节在哪里？安卓应用与网站应用的安全差异研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_9",
+                    "title": "Patch Me If You Can: A Study on the Effects of Individual User Behavior on the End-Host Vulnerability State",
+                    "authors": "Armin Sarabi, Ziyun Zhu, Chaowei Xiao, Mingyan Liu, Tudor Dumitras",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "如果可以，给我打补丁:个体用户行为对终端主机漏洞状态影响的研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_10",
+                    "title": "Application Bandwidth and Flow Rates from 3 Trillion Flows Across 45 Carrier Networks",
+                    "authors": "David Pariag, Tim Brecht",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "跨45个运营商网络的3万亿流量的应用带宽和流量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_11",
+                    "title": "Measuring What is Not Ours: A Tale of 3rd Party Performance",
+                    "authors": "Utkarsh Goel, Moritz Steiner, Mike P. Wittie, Martin Flack, Stephen Ludin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "衡量不属于我们的东西:第三方绩效的故事"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_12",
+                    "title": "The Utility Argument - Making a Case for Broadband SLAs",
+                    "authors": "Zachary S. Bischof, Fabián E. Bustamante, Rade Stanojevic",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "效用论——为宽带服务水平协议提供依据"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_13",
+                    "title": "Why Is the Internet so Slow?!",
+                    "authors": "Ilker Nadi Bozkurt, Anthony Aguirre, Balakrishnan Chandrasekaran, Brighten Godfrey, Gregory Laughlin, Bruce M. Maggs, Ankit Singla",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "为什么网速这么慢？！"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_14",
+                    "title": "Anycast Latency: How Many Sites Are Enough?",
+                    "authors": "Ricardo de Oliveira Schmidt, John S. Heidemann, Jan Harm Kuipers",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://ris.utwente.nl/ws/files/5122760/ISI-TR-2016-708.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "任播延迟:多少站点就够了？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_15",
+                    "title": "Where Has My Time Gone?",
+                    "authors": "Noa Zilberman, Matthew P. Grosvenor, Diana Andreea Popescu, Neelakandan Manihatty Bojan, Gianni Antichi, Marcin Wójcik, Andrew W. Moore",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "我的时间去了哪里？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_16",
+                    "title": "Mind the Gap Between HTTP and HTTPS in Mobile Networks",
+                    "authors": "Alessandro Finamore, Matteo Varvello, Konstantina Papagiannaki",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "介意移动网络中HTTP和HTTPS之间的差距吗"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_17",
+                    "title": "Using Loops Observed in Traceroute to Infer the Ability to Spoof",
+                    "authors": "Qasim Lone, Matthew J. Luckie, Maciej Korczynski, Michel van Eeten",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://researchcommons.waikato.ac.nz/bitstream/10289/11042/9/using_loops_observed_traceroute.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用Traceroute中观察到的环路推断欺骗能力"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_18",
+                    "title": "A Characterization of Load Balancing on the IPv6 Internet",
+                    "authors": "Rafael Almeida, Osvaldo L. H. M. Fonseca, Elverton C. Fazzion, Dorgival O. Guedes, Wagner Meira Jr., Ítalo S. Cunha",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IPv6互联网上负载均衡的表征"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_19",
+                    "title": "Enhancing WiFi Throughput with PLC Extenders: A Measurement Study",
+                    "authors": "Kittipat Apicharttrisorn, Ahmed Osama Fathy Atya, Jiasi Chen, Karthikeyan Sundaresan, Srikanth V. Krishnamurthy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用PLC扩展器提高WiFi吞吐量:一项测量研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-54328-4_20",
+                    "title": "Cutting Internet Access Costs Through HTTPS Caching: A Measurement Study",
+                    "authors": "Prerna Gupta, Mohammedsalman Patel, Kameswari Chebrolu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过HTTPS缓存降低互联网接入成本:一项测量研究"
+                }
+            ]
+        }
+    ],
+    "2018": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/pam/pam2018.html",
+            "conf_title": "19th PAM 2018: Berlin, Germany",
+            "conf_url": "https://doi.org/10.1007/978-3-319-76481-8",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_1",
+                    "title": "Detecting ICMP Rate Limiting in the Internet",
+                    "authors": "Hang Guo, John S. Heidemann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "检测互联网中的ICMP速率限制"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_2",
+                    "title": "On the Characteristics of Language Tags on the Web",
+                    "authors": "Joel Sommers",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "论网络语言标签的特征"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_3",
+                    "title": "Narrowing the Gap Between QoS Metrics and Web QoE Using Above-the-fold Metrics",
+                    "authors": "Diego Neves da Hora, Alemnew Sheferaw Asrese, Vassilis Christophides, Renata Teixeira, Dario Rossi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://research.aalto.fi/files/18580067/Hora_et_alabove_the_fold.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用超倍度量缩小QoS度量和Web QoE之间的差距"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_4",
+                    "title": "Internet Protocol Cameras with No Password Protection: An Empirical Investigation",
+                    "authors": "Haitao Xu, Fengyuan Xu, Bo Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "无密码保护的网络摄像机:一项实证研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_5",
+                    "title": "RARE: A Systematic Augmented Router Emulation for Malware Analysis",
+                    "authors": "Ahmad Darki, Chun-Yu Chuang, Michalis Faloutsos, Zhiyun Qian, Heng Yin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "罕见:用于恶意软件分析的系统化增强路由器仿真"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_6",
+                    "title": "Revisiting the Privacy Implications of Two-Way Internet Latency Data",
+                    "authors": "Brian Trammell, Mirja Kühlewind",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://www.research-collection.ethz.ch/bitstream/20.500.11850/309559/2/rtt-privacy.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "重新审视双向互联网延迟数据的隐私含义"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_7",
+                    "title": "Fury Route: Leveraging CDNs to Remotely Measure Network Distance",
+                    "authors": "Marcel Flores, Alexander Wenzel, Kevin Chen, Aleksandar Kuzmanovic",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Fury Route:利用CDNs远程测量网络距离"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_8",
+                    "title": "Mobile Content Hosting Infrastructure in China: A View from a Cellular ISP",
+                    "authors": "Zhenyu Li, Donghui Yang, Zhenhua Li, Chunjing Han, Gaogang Xie",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "中国的移动内容托管基础设施:来自蜂窝网络服务提供商的观点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_9",
+                    "title": "Characterizing a Meta-CDN",
+                    "authors": "Oliver Hohlfeld, Jan Rüth, Konrad Wolsing, Torsten Zimmermann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1803.09990"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "表征元CDN"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_10",
+                    "title": "In rDNS We Trust: Revisiting a Common Data-Source's Reliability",
+                    "authors": "Tobias Fiebig, Kevin Borgolte, Shuang Hao, Christopher Kruegel, Giovanni Vigna, Anja Feldmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://escholarship.org/content/qt6822t9g9/qt6822t9g9.pdf?t=pvrbie"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在我们信任的rDNS中:重新审视公共数据源的可靠性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_11",
+                    "title": "Characterization of Collaborative Resolution in Recursive DNS Resolvers",
+                    "authors": "Rami Al-Dalky, Kyle Schomp",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "递归DNS解析器中协作解析的特征"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_12",
+                    "title": "The Unintended Consequences of Email Spam Prevention",
+                    "authors": "Sarah Scheffler, Sean Smith, Yossi Gilad, Sharon Goldberg",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "防范垃圾邮件的意外后果"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_13",
+                    "title": "In Log We Trust: Revealing Poor Security Practices with Certificate Transparency Logs and Internet Measurements",
+                    "authors": "Oliver Gasser, Benjamin Hof, Max Helm, Maciej Korczynski, Ralph Holz, Georg Carle",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在我们信任的日志中:用证书透明度日志和互联网测量揭示糟糕的安全实践"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_14",
+                    "title": "Server-Side Adoption of Certificate Transparency",
+                    "authors": "Carl Nykvist, Linus Sjöström, Josef Gustafsson, Niklas Carlsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "服务器端采用证书透明性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_15",
+                    "title": "Leveraging Inter-domain Stability for BGP Dynamics Analysis",
+                    "authors": "Thomas Green, Anthony Lambert, Cristel Pelsser, Dario Rossi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用域间稳定性进行BGP动态分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_16",
+                    "title": "The (Thin) Bridges of AS Connectivity: Measuring Dependency Using AS Hegemony",
+                    "authors": "Romain Fontugne, Anant Shah, Emile Aben",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1711.02805"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "AS连接的(薄)桥:使用AS霸权测量依赖性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_17",
+                    "title": "Revealing the Load-Balancing Behavior of YouTube Traffic on Interdomain Links",
+                    "authors": "Ricky K. P. Mok, Vaibhav Bajpai, Amogh Dhamdhere, kc claffy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "揭示YouTube流量在域间链接上的负载平衡行为"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_18",
+                    "title": "A Closer Look at IP-ID Behavior in the Wild",
+                    "authors": "Flavia Salutari, Danilo Cicalese, Dario J. Rossi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "近距离观察IP-ID在野外的行为"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_19",
+                    "title": "A First Look at QUIC in the Wild",
+                    "authors": "Jan Rüth, Ingmar Poese, Christoph Dietzel, Oliver Hohlfeld",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1801.05168"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "野生QUIC的初步观察"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76481-8_20",
+                    "title": "TCP CUBIC versus BBR on the Highway",
+                    "authors": "Feng Li, Jae Won Chung, Xiaoxiao Jiang, Mark Claypool",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "TCP立方对高速公路上的BBR"
+                }
+            ]
+        }
+    ]
+}

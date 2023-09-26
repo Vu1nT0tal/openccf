@@ -1,0 +1,2679 @@
+{
+    "2021": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ctrsa/ctrsa2021.html",
+            "conf_title": "CT-RSA 2021: Virtual Event",
+            "conf_url": "https://doi.org/10.1007/978-3-030-75539-3",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_1",
+                    "title": "Secure Fast Evaluation of Iterative Methods: With an Application to Secure PageRank",
+                    "authors": "Daniele Cozzo, Nigel P. Smart, Younes Talibi Alaoui",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/675010/2/RSA-Final-Version.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "迭代方法的安全快速评估:应用于安全PageRank"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_2",
+                    "title": "Compilation of Function Representations for Secure Computing Paradigms",
+                    "authors": "Karim Baghery, Cyprien Delpech de Saint Guilhem, Emmanuela Orsini, Nigel P. Smart, Titouan Tanguy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/675009/2/Final-CT-RSA-Version.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "安全计算范例的函数表示的编译"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_3",
+                    "title": "Oblivious TLS via Multi-party Computation",
+                    "authors": "Damiano Abram, Ivan Damgård, Peter Scholl, Sven Trieflinger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过多方计算的不经意TLS"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_4",
+                    "title": "Noisy Simon Period Finding",
+                    "authors": "Alexander May, Lars Schlieper, Jonathan Schwinger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1910.00802"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "噪声西蒙周期发现"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_5",
+                    "title": "A Bunch of Broken Schemes: A Simple yet Powerful Linear Approach to Analyzing Security of Attribute-Based Encryption",
+                    "authors": "Marloes Venema, Greg Alpár",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一堆破碎的方案:分析基于属性加密安全性的简单而强大的线性方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_6",
+                    "title": "Zero-Correlation Linear Cryptanalysis with Equal Treatment for Plaintexts and Tweakeys",
+                    "authors": "Chao Niu, Muzhou Li, Siwei Sun, Meiqin Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对明文和密钥一视同仁的零相关线性密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_7",
+                    "title": "SoK: Game-Based Security Models for Group Key Exchange",
+                    "authors": "Bertram Poettering, Paul Rösler, Jörg Schwenk, Douglas Stebila",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SoK:基于博弈的组密钥交换安全模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_8",
+                    "title": "EPID with Malicious Revocation",
+                    "authors": "Olivier Sanders, Jacques Traoré",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "恶意撤销EPID"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_9",
+                    "title": "Signed Diffie-Hellman Key Exchange with Tight Security",
+                    "authors": "Jiaxin Pan, Chen Qian, Magnus Ringerud",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有严格安全性的签名Diffie-Hellman密钥交换"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_10",
+                    "title": "Lattice-Based Proof of Shuffle and Applications to Electronic Voting",
+                    "authors": "Diego F. Aranha, Carsten Baum, Kristian Gjøsteen, Tjerand Silde, Thor Tunge",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/11250/3025919/1/main.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于格的洗牌证明及其在电子投票中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_11",
+                    "title": "More Efficient Shuffle Argument from Unique Factorization",
+                    "authors": "Toomas Krips, Helger Lipmaa",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从唯一因式分解看更有效的洗牌论点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_12",
+                    "title": "Cryptanalysis of a Dynamic Universal Accumulator over Bilinear Groups",
+                    "authors": "Alex Biryukov, Aleksei Udovenko, Giuseppe Vitto",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2020/598.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "双线性群上动态通用累加器的密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_13",
+                    "title": "FAN: A Lightweight Authenticated Cryptographic Algorithm",
+                    "authors": "Lin Jiao, Dengguo Feng, Yonglin Hao, Xinxin Gong, Shaoyu Du",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "FAN:一种轻量级认证密码算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_14",
+                    "title": "Related-Key Analysis of Generalized Feistel Networks with Expanding Round Functions",
+                    "authors": "Yuqing Zhao, Wenqi Yu, Chun Guo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有扩展圆函数的广义Feistel网络的相关键分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_15",
+                    "title": "The Key-Dependent Message Security of Key-Alternating Feistel Ciphers",
+                    "authors": "Pooya Farshim, Louiza Khati, Yannick Seurin, Damien Vergnaud",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "密钥交替Feistel密码的密钥相关消息安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_16",
+                    "title": "Mesh Messaging in Large-Scale Protests: Breaking Bridgefy",
+                    "authors": "Martin R. Albrecht, Jorge Blasco, Rikke Bjerg Jensen, Lenka Mareková",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "大规模抗议中的网状信息传递:打破桥梁效应"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_17",
+                    "title": "Inverse-Sybil Attacks in Automated Contact Tracing",
+                    "authors": "Benedikt Auerbach, Suvradip Chakraborty, Karen Klein, Guillermo Pascual-Perez, Krzysztof Pietrzak, Michael Walter, Michelle Yeo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "自动联系追踪中的逆向Sybil攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_18",
+                    "title": "On the Effectiveness of Time Travel to Inject COVID-19 Alerts",
+                    "authors": "Vincenzo Iovino, Serge Vaudenay, Martin Vuagnoux",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2020/1393.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于时间旅行注入新冠肺炎警报的有效性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_19",
+                    "title": "SoK: How (not) to Design and Implement Post-quantum Cryptography",
+                    "authors": "James Howe, Thomas Prest, Daniel Apon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SoK:如何(不)设计和实现后量子密码术"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_20",
+                    "title": "Dual Lattice Attacks for Closest Vector Problems (with Preprocessing)",
+                    "authors": "Thijs Laarhoven, Michael Walter",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "最近向量问题的对偶格攻击(带预处理)"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_21",
+                    "title": "On the Hardness of Module-LWE with Binary Secret",
+                    "authors": "Katharina Boudgoust, Corentin Jeudy, Adeline Roux-Langlois, Weiqiang Wen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-03264223/file/20210303_eprint_binMLWE.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有二元秘密的模LWE的硬度"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_22",
+                    "title": "Multi-party Revocation in Sovrin: Performance through Distributed Trust",
+                    "authors": "Lukas Helminger, Daniel Kales, Sebastian Ramacher, Roman Walch",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Sovrin中的多方撤销:通过分布式信任的性能"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_23",
+                    "title": "Balancing Privacy and Accountability in Blockchain Identity Management",
+                    "authors": "Ivan Damgård, Chaya Ganesh, Hamidreza Khoshakhlagh, Claudio Orlandi, Luisa Siniscalchi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在区块链身份管理中平衡隐私和责任"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_24",
+                    "title": "Non-interactive Half-Aggregation of EdDSA and Variants of Schnorr Signatures",
+                    "authors": "Konstantinos Chalkias, François Garillot, Yashvanth Kondi, Valeria Nikolaenko",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "EdDSA和Schnorr签名变体的非交互半聚合"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_25",
+                    "title": "A Framework to Optimize Implementations of Matrices",
+                    "authors": "Da Lin, Zejun Xiang, Xiangyong Zeng, Shasha Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一个优化矩阵实现的框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_26",
+                    "title": "Improvements to RSA Key Generation and CRT on Embedded Devices",
+                    "authors": "Mike Hamburg, Mike Tunstall, Qinglai Xiao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对嵌入式设备上RSA密钥生成和CRT的改进"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-75539-3_27",
+                    "title": "On the Cost of ASIC Hardware Crackers: A SHA-1 Case Study",
+                    "authors": "Anupam Chattopadhyay, Mustafa Khairallah, Gaëtan Leurent, Zakaria Najm, Thomas Peyrin, Vesselin Velichkov",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://www.pure.ed.ac.uk/ws/files/208131275/On_The_Cost_CHATTOPADHYAY_DOA18022021_AFV.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ASIC硬件破解者的成本:阿沙-1案例研究"
+                }
+            ]
+        }
+    ],
+    "2022": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ctrsa/ctrsa2022.html",
+            "conf_title": "CT-RSA 2022: Virtual Event",
+            "conf_url": "https://doi.org/10.1007/978-3-030-95312-6",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_1",
+                    "title": "Multicast Key Agreement, Revisited",
+                    "authors": "Alexander Bienstock, Yevgeniy Dodis, Yi Tang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多播密钥协商，重新审视"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_2",
+                    "title": "A Pairing-Free Signature Scheme from Correlation Intractable Hash Function and Strong Diffie-Hellman Assumption",
+                    "authors": "Benoît Chevallier-Mames",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于相关难解哈希函数和强Diffie-Hellman假设的无对签名方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_3",
+                    "title": "Faster Isogenies for Post-quantum Cryptography: SIKE",
+                    "authors": "Rami Elkhatib, Brian Koziel, Reza Azarderakhsh",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "后量子密码术的更快同源:SIKE"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_4",
+                    "title": "Fully Projective Radical Isogenies in Constant-Time",
+                    "authors": "Jesús-Javier Chi-Domínguez, Krijn Reijnders",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "常数时间内的全投射根同素"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_5",
+                    "title": "Private Liquidity Matching Using MPC",
+                    "authors": "Shahla Atapoor, Nigel P. Smart, Younes Talibi Alaoui",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/20.500.12942/689761/2/CT-RSA-Final.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用MPC的私人流动性匹配"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_6",
+                    "title": "Approximate Homomorphic Encryption with Reduced Approximation Error",
+                    "authors": "Andrey Kim, Antonis Papadimitriou, Yuriy Polyakov",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有减小的近似误差的近似同态加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_7",
+                    "title": "Attacks on Pseudo Random Number Generators Hiding a Linear Structure",
+                    "authors": "Florette Martinez",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对隐藏线性结构的伪随机数发生器的攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_8",
+                    "title": "Lattice-Based Fault Attacks on Deterministic Signature Schemes of ECDSA and EdDSA",
+                    "authors": "Weiqiong Cao, Hongsong Shi, Hua Chen, Jiazhe Chen, Limin Fan, Wenling Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对ECDSA和EdDSA的确定性签名方案的格基故障攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_9",
+                    "title": "More Accurate Geometric Analysis on the Impact of Successful Decryptions for IND-CCA Secure Ring/Mod-LWE/LWR Based Schemes",
+                    "authors": "Han Wu, Guangwu Xu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对基于IND-CCA安全环/Mod-LWE/LWR的方案的成功解密的影响的更精确的几何分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_10",
+                    "title": "Integral Attacks on Pyjamask-96 and Round-Reduced Pyjamask-128",
+                    "authors": "Jiamin Cui, Kai Hu, Qingju Wang, Meiqin Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://orbilu.uni.lu/bitstream/10993/49482/1/main.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对Pyjamask-96和Round-Reduced Pyjamask-128的整体攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_11",
+                    "title": "Related-Tweakey Impossible Differential Attack on Reduced-Round SKINNY-AEAD M1/M3",
+                    "authors": "Yanhong Fan, Muzhou Li, Chao Niu, Zhenyu Lu, Meiqin Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对瘦骨伶仃的M1/M3进行不可能的差分攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_12",
+                    "title": "Side-Channeling the Kalyna Key Expansion",
+                    "authors": "Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Zhiyuan Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "侧通道Kalyna密钥扩展"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_13",
+                    "title": "Fake It Till You Make It: Data Augmentation Using Generative Adversarial Networks for All the Crypto You Need on Small Devices",
+                    "authors": "Naila Mukhtar, Lejla Batina, Stjepan Picek, Yinan Kong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "伪造它，直到你成功:使用生成性对抗网络的数据增强，用于小型设备上所有你需要的加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_14",
+                    "title": "A New Adaptive Attack on SIDH",
+                    "authors": "Tako Boris Fouotsa, Christophe Petit",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://dipot.ulb.ac.be/dspace/bitstream/2013/341503/3/2021-1322.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种新的对SIDH的适应性攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_15",
+                    "title": "On Fingerprinting Attacks and Length-Hiding Encryption",
+                    "authors": "Kai Gellert, Tibor Jager, Lin Lyu, Tom Neuschulten",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "指纹攻击和长度隐藏加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_16",
+                    "title": "CCA Secure A Posteriori Openable Encryption in the Standard Model",
+                    "authors": "Xavier Bultel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "标准模型下的CCA安全后验可开加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_17",
+                    "title": "Dynamic Universal Accumulator with Batch Update over Bilinear Groups",
+                    "authors": "Giuseppe Vitto, Alex Biryukov",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2020/777.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "双线性群上批量更新的动态通用累加器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_18",
+                    "title": "Adaptively Secure Laconic Function Evaluation for NC1",
+                    "authors": "Razvan Rosie",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "NC1的自适应安全简洁函数求值"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_19",
+                    "title": "FASTA - A Stream Cipher for Fast FHE Evaluation",
+                    "authors": "Carlos Cid, John Petter Indrøy, Håvard Raddum",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "FASTA——一种用于快速FHE评估的流密码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_20",
+                    "title": "New Attacks from Old Distinguishers Improved Attacks on Serpent",
+                    "authors": "Marek Broll, Federico Canale, Nicolas David, Antonio Flórez-Gutiérrez, Gregor Leander, María Naya-Plasencia, Yosuke Todo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03947766/file/Improved_Differential_Linear_Attacks_on_Reduced_Round_Serpent.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "旧区分者的新攻击增强了毒蛇的攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_21",
+                    "title": "Pholkos - Efficient Large-State Tweakable Block Ciphers from the AES Round Function",
+                    "authors": "Jannis Bossert, Eik List, Stefan Lucks, Sebastian Schmitz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于AES Round函数的Pholkos高效大状态可调分组密码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_22",
+                    "title": "Robust Subgroup Multi-signatures for Consensus",
+                    "authors": "David Galindo, Jia Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面向共识的鲁棒子群多重签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_23",
+                    "title": "Subversion-Resilient Enhanced Privacy ID",
+                    "authors": "Antonio Faonio, Dario Fiore, Luca Nizzardo, Claudio Soriente",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://zenodo.org/record/7867141/files/978-3-030-95312-6_23.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "抗颠覆增强型隐私ID"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-95312-6_24",
+                    "title": "PriBank: Confidential Blockchain Scaling Using Short Commit-and-Proof NIZK Argument",
+                    "authors": "Kristian Gjøsteen, Mayank Raikwar, Shuang Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "PriBank:使用简短提交和证明的NIZK参数的机密区块链缩放"
+                }
+            ]
+        }
+    ],
+    "2023": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ctrsa/ctrsa2023.html",
+            "conf_title": "CT-RSA 2023: San Francisco, CA, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-031-30872-7",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_1",
+                    "title": "A Vulnerability in Implementations of SHA-3, SHAKE, EdDSA, and Other NIST-Approved Algorithms",
+                    "authors": "Nicky Mouha, Christopher Celi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SHA-3、SHAKE、EdDSA和其他NIST批准的算法实现中的漏洞"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_2",
+                    "title": "Optimisations and Tradeoffs for HElib",
+                    "authors": "Anamaria Costache, Lea Nürnberger, Rachel Player",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "helib的优化和权衡"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_3",
+                    "title": "Concrete Quantum Cryptanalysis of Binary Elliptic Curves via Addition Chain",
+                    "authors": "Ren Taguchi, Atsushi Takayasu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于加法链的二元椭圆曲线具体量子密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_4",
+                    "title": "Classical and Quantum Security of Elliptic Curve VRF, via Relative Indifferentiability",
+                    "authors": "Chris Peikert, Jiayu Xu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于相对不可微性的椭圆曲线VRF的经典和量子安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_5",
+                    "title": "On-Line/Off-Line DCR-Based Homomorphic Encryption and Applications",
+                    "authors": "Marc Joye",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于在线/离线DCR的同态加密及其应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_6",
+                    "title": "A Practical Compiler for Attribute-Based Encryption: New Decentralized Constructions and More",
+                    "authors": "Marloes Venema",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于属性的加密的实用编译器:新的分散结构及更多"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_7",
+                    "title": "PAPR: Publicly Auditable Privacy Revocation for Anonymous Credentials",
+                    "authors": "Joakim Brorsson, Bernardo David, Lorenzo Gentile, Elena Pagnin, Paul Stankovski Wagner",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2023/137.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "PAPR:匿名凭证的可公开审计的隐私撤销"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_8",
+                    "title": "Unlinkable Policy-Based Sanitizable Signatures",
+                    "authors": "Ismail Afia, Riham AlTawy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "不可链接的基于策略的可清理签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_9",
+                    "title": "Improved Graph-Based Model for Recovering Superpoly on Trivium",
+                    "authors": "Junjie Cheng, Kexin Qiao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种改进的基于图的Trivium上重叠恢复模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_10",
+                    "title": "Fully Automated Differential-Linear Attacks Against ARX Ciphers",
+                    "authors": "Emanuele Bellini, David Gérault, Juan Grados, Rusydi H. Makarim, Thomas Peyrin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对ARX密码的全自动差分线性攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_11",
+                    "title": "An Efficient Strategy to Construct a Better Differential on Multiple-Branch-Based Designs: Application to Orthros",
+                    "authors": "Kazuma Taka, Tatsuya Ishikawa, Kosei Sakamoto, Takanori Isobe",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在基于多分支的设计上构造更好的差分的有效策略:在Orthros中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_12",
+                    "title": "Rotational-XOR Differential Rectangle Cryptanalysis on Simon-Like Ciphers",
+                    "authors": "Siwei Chen, Mingming Zhu, Zejun Xiang, Runqing Xu, Xiangyong Zeng, Shasha Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Simon类密码的旋转异或差分矩形密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_13",
+                    "title": "Multiparty Noninteractive Key Exchange from Ring Key-Homomorphic Weak PRFs",
+                    "authors": "Navid Alamati, Hart Montgomery, Sikhar Patranabis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于环密钥-同态弱PRFs的多方非交互式密钥交换"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_14",
+                    "title": "Putting the Online Phase on a Diet: Covert Security from Short MACs",
+                    "authors": "Sebastian Faust, Carmit Hazay, David Kretzler, Benjamin Schlosser",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "让在线阶段节食:来自矮MAC的隐蔽安全"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_15",
+                    "title": "One Round Threshold ECDSA Without Roll Call",
+                    "authors": "Alexandre Bouez, Kalpana Singh",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "无点名的单轮门限ECDSA"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_16",
+                    "title": "Merkle Tree Ladder Mode: Reducing the Size Impact of NIST PQC Signature Algorithms in Practice",
+                    "authors": "Andrew Fregly, Joseph Harvey, Burton S. Kaliski Jr., Swapneel Sheth",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Merkle树阶梯模式:在实践中减少NIST PQC签名算法的大小影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_17",
+                    "title": "All Shall FA-LLL: Breaking CT-RSA 2022 and CHES 2022 Infective Countermeasures with Lattice-Based Fault Attacks",
+                    "authors": "Guillaume Barbu, Christophe Giraud",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "全应法-LLL:用基于格的故障攻击破解CT-RSA 2022和CHES 2022感染对策"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_18",
+                    "title": "A Flexible Shared Hardware Accelerator for NIST-Recommended Algorithms CRYSTALS-Kyber and CRYSTALS-Dilithium with SCA Protection",
+                    "authors": "Luke Beckwith, Abubakr Abdulgadir, Reza Azarderakhsh",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "适用于NIST推荐算法CRYSTALS-Kyber和CRYSTALS-Dilithium的灵活共享硬件加速器，带SCA保护"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_19",
+                    "title": "NNBits: Bit Profiling with a Deep Learning Ensemble Based Distinguisher",
+                    "authors": "Anna Hambitzer, David Gérault, Yun Ju Huang, Najwa Aaraj, Emanuele Bellini",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "NNBits:使用基于深度学习集成的区分器进行位剖析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_20",
+                    "title": "Improved Heuristics for Low-Latency Implementations of Linear Layers",
+                    "authors": "Qun Liu, Zheng Zhao, Meiqin Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "线性层低延迟实现的改进启发式算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_21",
+                    "title": "Authenticated Encryption for Very Short Inputs",
+                    "authors": "Alexandre Adomnicai, Kazuhiko Minematsu, Junji Shikata",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "针对极短输入的认证加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_22",
+                    "title": "Keyed Sum of Permutations: A Simpler RP-Based PRF",
+                    "authors": "Ferdinand Sibleyras, Yosuke Todo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "键控排列和:一种更简单的基于RP的PRF"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_23",
+                    "title": "Flexible Password-Based Encryption: Securing Cloud Storage and Provably Resisting Partitioning-Oracle Attacks",
+                    "authors": "Mihir Bellare, Laura Shea",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2023/197.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "灵活的基于密码的加密:保护云存储并可证明抵抗分区-Oracle攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_24",
+                    "title": "Targeted Invertible Pseudorandom Functions and Deterministic Format-Transforming Encryption",
+                    "authors": "Sarah Miracle, Scott Yilek",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "目标可逆伪随机函数和确定性格式转换加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_25",
+                    "title": "Multi-user CDH Problems and the Concrete Security of NAXOS and HMQV",
+                    "authors": "Eike Kiltz, Jiaxin Pan, Doreen Riepel, Magnus Ringerud",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多用户CDH问题以及NAXOS和HMQV的具体安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-30872-7_26",
+                    "title": "Wireless-Channel Key Exchange",
+                    "authors": "Afonso Arriaga, Petra Sala, Marjan Skrobot",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "无线信道密钥交换"
+                }
+            ]
+        }
+    ],
+    "2020": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ctrsa/ctrsa2020.html",
+            "conf_title": "CT-RSA 2020: San Francisco, CA, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-030-40186-3",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_1",
+                    "title": "Generic Attack on Iterated Tweakable FX Constructions",
+                    "authors": "Ferdinand Sibleyras",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02424953/file/fxrcrypt.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对迭代可调FX构造的一般攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_2",
+                    "title": "Universal Forgery Attack Against GCM-RUP",
+                    "authors": "Yanbin Li, Gaëtan Leurent, Meiqin Wang, Wei Wang, Guoyan Zhang, Yu Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02424899/file/2019-1359.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对GCM-RUP的通用伪造攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_3",
+                    "title": "My Gadget Just Cares for Me - How NINA Can Prove Security Against Combined Attacks",
+                    "authors": "Siemen Dhooghe, Svetla Nikova",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/654838/2/article-3129.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "我的小工具只是关心我-尼娜如何证明对组合攻击的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_4",
+                    "title": "Modeling Memory Faults in Signature and Authenticated Encryption Schemes",
+                    "authors": "Marc Fischlin, Felix Günther",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://www.research-collection.ethz.ch/bitstream/20.500.11850/385176/3/main.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "签名和认证加密方案中的记忆错误建模"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_5",
+                    "title": "Cryptanalysis of the Multivariate Encryption Scheme EFLASH",
+                    "authors": "Morten Øygarden, Patrick Felke, Håvard Raddum, Carlos Cid",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多元加密方案EFLASH的密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_6",
+                    "title": "FPL: White-Box Secure Block Cipher Using Parallel Table Look-Ups",
+                    "authors": "Jihoon Kwon, ByeongHak Lee, Jooyoung Lee, Dukjae Moon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "FPL:使用并行查表的白盒安全分组密码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_7",
+                    "title": "Extending NIST's CAVP Testing of Cryptographic Hash Function Implementations",
+                    "authors": "Nicky Mouha, Christopher Celi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "加密哈希函数实现的扩展NIST CAVP测试"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_8",
+                    "title": "A Fast Characterization Method for Semi-invasive Fault Injection Attacks",
+                    "authors": "Lichao Wu, Gerard Ribera, Noemie Beringuier-Boher, Stjepan Picek",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://repository.tudelft.nl/islandora/object/uuid%3Ac43e5fee-63dc-4d2b-a44e-170356601fea/datastream/OBJ/download"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种针对半入侵故障注入攻击的快速表征方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_9",
+                    "title": "Tightly Secure Two-Pass Authenticated Key Exchange Protocol in the CK Model",
+                    "authors": "Yuting Xiao, Rui Zhang, Hui Ma",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "CK模型下严格安全的两次认证密钥交换协议"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_10",
+                    "title": "Symmetric-Key Authenticated Key Exchange (SAKE) with Perfect Forward Secrecy",
+                    "authors": "Gildas Avoine, Sébastien Canard, Loïc Ferreira",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有完美前向安全性的对称密钥认证密钥交换(SAKE)"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_11",
+                    "title": "TMPS: Ticket-Mediated Password Strengthening",
+                    "authors": "John Kelsey, Dana Dachman-Soled, Sweta Mishra, Meltem Sönmez Turan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "TMPS:票据中介的密码强化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_12",
+                    "title": "Overdrive2k: Efficient Secure MPC over $\\mathbb {Z}_{2^k}$ from Somewhat Homomorphic Encryption",
+                    "authors": "Emmanuela Orsini, Nigel P. Smart, Frederik Vercauteren",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Overdrive2k:基于同态加密的＄\\ mathbb {z}_{2^k}$上的高效安全MPC"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_13",
+                    "title": "SoK: A Consensus Taxonomy in the Blockchain Era",
+                    "authors": "Juan A. Garay, Aggelos Kiayias",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SoK:区块链时代的共识分类法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_14",
+                    "title": "Consensus from Signatures of Work",
+                    "authors": "Juan A. Garay, Aggelos Kiayias, Giorgos Panagiotakos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "来自工作签名的共识"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_15",
+                    "title": "Faster Homomorphic Encryption is not Enough: Improved Heuristic for Multiplicative Depth Minimization of Boolean Circuits",
+                    "authors": "Pascal Aubry, Sergiu Carpov, Renaud Sirdey",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "更快的同态加密是不够的:布尔电路乘法深度最小化的改进启发式算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_16",
+                    "title": "Better Bootstrapping for Approximate Homomorphic Encryption",
+                    "authors": "Kyoohyung Han, Dohyeong Ki",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "近似同态加密的更好自举"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_17",
+                    "title": "Improved Secure Integer Comparison via Homomorphic Encryption",
+                    "authors": "Florian Bourse, Olivier Sanders, Jacques Traoré",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过同态加密改进的安全整数比较"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_18",
+                    "title": "Efficient FPGA Implementations of LowMC and Picnic",
+                    "authors": "Daniel Kales, Sebastian Ramacher, Christian Rechberger, Roman Walch, Mario Werner",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "lowmc和picnic的高效fpga实现"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_19",
+                    "title": "Traceable Ring Signatures with Post-quantum Security",
+                    "authors": "Hanwen Feng, Jianwei Liu, Qianhong Wu, Yanan Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有后量子安全性的可追踪环签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_20",
+                    "title": "Post-quantum Provably-Secure Authentication and MAC from Mersenne Primes",
+                    "authors": "Houda Ferradi, Keita Xagawa",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于梅森素数的后量子可证安全认证和MAC"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_21",
+                    "title": "Another Look at Some Isogeny Hardness Assumptions",
+                    "authors": "Simon-Philipp Merz, Romy Minko, Christophe Petit",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://pure-oai.bham.ac.uk/ws/files/84196746/Another_look.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从另一个角度看一些同源硬度假设"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_22",
+                    "title": "How to Construct CSIDH on Edwards Curves",
+                    "authors": "Tomoki Moriya, Hiroshi Onuki, Tsuyoshi Takagi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "如何在Edwards曲线上构造CSIDH"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_23",
+                    "title": "Policy-Based Sanitizable Signatures",
+                    "authors": "Kai Samelin, Daniel Slamanig",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于策略的可清理签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_24",
+                    "title": "Traceable Inner Product Functional Encryption",
+                    "authors": "Xuan Thanh Do, Duong Hieu Phan, David Pointcheval",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-02894483/file/2019-1358.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "可追踪内积函数加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_25",
+                    "title": "One-More Assumptions Do Not Help Fiat-Shamir-type Signature Schemes in NPROM",
+                    "authors": "Masayuki Fukumitsu, Shingo Hasegawa",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多一个假设无助于NPROM中的Fiat-Shamir型签名方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_26",
+                    "title": "Cut-and-Choose for Garbled RAM",
+                    "authors": "Peihan Miao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对乱码内存进行剪切和选择"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_27",
+                    "title": "Universally Composable Accumulators",
+                    "authors": "Foteini Baldimtsi, Ran Canetti, Sophia Yakoubov",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通用可组合累加器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-40186-3_28",
+                    "title": "A Non-interactive Shuffle Argument with Low Trust Assumptions",
+                    "authors": "Antonis Aggelakis, Prastudy Fauzi, Georgios Korfiatis, Panos Louridas, Foteinos Mergoupis-Anagnou, Janno Siim, Michal Zajac",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "低信任度假设下的非互动推诿论证"
+                }
+            ]
+        }
+    ],
+    "2019": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ctrsa/ctrsa2019.html",
+            "conf_title": "CT-RSA 2019: San Francisco, CA, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-030-12612-4",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_1",
+                    "title": "Structure-Preserving Certificateless Encryption and Its Application",
+                    "authors": "Tao Zhang, Huangting Wu, Sherman S. M. Chow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "保持结构的无证书加密及其应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_2",
+                    "title": "Public Key Encryption Resilient to Post-challenge Leakage and Tampering Attacks",
+                    "authors": "Suvradip Chakraborty, C. Pandu Rangan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对质询后泄漏和篡改攻击具有弹性的公钥加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_3",
+                    "title": "Downgradable Identity-Based Encryption and Applications",
+                    "authors": "Olivier Blazy, Paul Germouty, Duong Hieu Phan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "可降级的基于身份的加密及其应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_4",
+                    "title": "Large Universe Subset Predicate Encryption Based on Static Assumption (Without Random Oracle)",
+                    "authors": "Sanjit Chatterjee, Sayantan Mukherjee",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于静态假设的大宇宙子集谓词加密(无随机预言)"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_5",
+                    "title": "An Improved RNS Variant of the BFV Homomorphic Encryption Scheme",
+                    "authors": "Shai Halevi, Yuriy Polyakov, Victor Shoup",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "BFV同态加密方案的改进RNS变体"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_6",
+                    "title": "New Techniques for Multi-value Input Homomorphic Evaluation and Applications",
+                    "authors": "Sergiu Carpov, Malika Izabachène, Victor Mollimard",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "多值输入同态评估新技术及其应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_7",
+                    "title": "Efficient Function-Hiding Functional Encryption: From Inner-Products to Orthogonality",
+                    "authors": "Manuel Barbosa, Dario Catalano, Azam Soleimanian, Bogdan Warinschi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://zenodo.org/record/3405910/files/201904-%20Efficient%20Function-Hiding%20Functional%20Encryption-%20From%20Inner-Products%20to%20Orthogonality.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "高效的函数隐藏函数加密:从内积到正交性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_8",
+                    "title": "Robust Encryption, Extended",
+                    "authors": "Rémi Géraud, David Naccache, Razvan Rosie",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://zenodo.org/record/2594529/files/2019-238.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "强大的加密，扩展"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_9",
+                    "title": "Tight Reductions for Diffie-Hellman Variants in the Algebraic Group Model",
+                    "authors": "Taiga Mizuide, Atsushi Takayasu, Tsuyoshi Takagi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "代数群模型中Diffie-Hellman变量的紧约化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_10",
+                    "title": "Doubly Half-Injective PRGs for Incompressible White-Box Cryptography",
+                    "authors": "Estuardo Alpirez Bock, Alessandro Amadori, Joppe W. Bos, Chris Brzuska, Wil Michiels",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "不可压缩白盒密码的双半内射PRGs"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_11",
+                    "title": "Error Detection in Monotone Span Programs with Application to Communication-Efficient Multi-party Computation",
+                    "authors": "Nigel P. Smart, Tim Wood",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/637522/2/Final-RSA.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "单调生成程序中的错误检测及其在有效通信多方计算中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_12",
+                    "title": "Lossy Trapdoor Permutations with Improved Lossiness",
+                    "authors": "Benedikt Auerbach, Eike Kiltz, Bertram Poettering, Stefan Schoenen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有改进损耗的有损耗陷门排列"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_13",
+                    "title": "Post-quantum EPID Signatures from Symmetric Primitives",
+                    "authors": "Dan Boneh, Saba Eskandarian, Ben Fisch",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对称基元的后量子EPID签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_14",
+                    "title": "Assessment of the Key-Reuse Resilience of NewHope",
+                    "authors": "Aurélie Bauer, Henri Gilbert, Guénaël Renault, Mélissa Rossi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-02139910/file/keyreuseresilience.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "新希望公司密钥重用弹性评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_15",
+                    "title": "Universal Forgery and Multiple Forgeries of MergeMAC and Generalized Constructions",
+                    "authors": "Tetsu Iwata, Virginie Lallemand, Gregor Leander, Yu Sasaki",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "MergeMAC和广义构造的泛伪造和多重伪造"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_16",
+                    "title": "Linking Stam's Bounds with Generalized Truncation",
+                    "authors": "Bart Mennink",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用广义截断联系Stam的界"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_17",
+                    "title": "Poly-Logarithmic Side Channel Rank Estimation via Exponential Sampling",
+                    "authors": "Liron David, Avishai Wool",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于指数采样的多对数边信道秩估计"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_18",
+                    "title": "Efficient Fully-Leakage Resilient One-More Signature Schemes",
+                    "authors": "Antonio Faonio",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "高效的完全泄漏弹性一对多签名方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_19",
+                    "title": "MILP-Based Differential Attack on Round-Reduced GIFT",
+                    "authors": "Baoyu Zhu, Xiaoyang Dong, Hongbo Yu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于MILP的降轮礼物差分攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_20",
+                    "title": "Quantum Chosen-Ciphertext Attacks Against Feistel Ciphers",
+                    "authors": "Gembu Ito, Akinori Hosoyamada, Ryutaroh Matsumoto, Yu Sasaki, Tetsu Iwata",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "针对Feistel密码的量子选择密文攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_21",
+                    "title": "Automatic Search for a Variant of Division Property Using Three Subsets",
+                    "authors": "Kai Hu, Meiqin Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用三个子集自动搜索除法性质的变体"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_22",
+                    "title": "Constructing TI-Friendly Substitution Boxes Using Shift-Invariant Permutations",
+                    "authors": "Si Gao, Arnab Roy, Elisabeth Oswald",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://research-information.bris.ac.uk/ws/files/203508627/Full_text_PDF_accepted_author_manuscript_.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用移位不变置换构造TI友好的替换盒"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_23",
+                    "title": "Fast Secure Comparison for Medium-Sized Integers and Its Application in Binarized Neural Networks",
+                    "authors": "Mark Abspoel, Niek J. Bouman, Berry Schoenmakers, Niels de Vreede",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://ir.cwi.nl/pub/28602/28602.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "中等整数的快速安全比较及其在二值神经网络中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_24",
+                    "title": "EPIC: Efficient Private Image Classification (or: Learning from the Masters)",
+                    "authors": "Eleftheria Makri, Dragos Rotaru, Nigel P. Smart, Frederik Vercauteren",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/637523/2/EPIC.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "EPIC:高效的私人图像分类(或者:向大师们学习)"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_25",
+                    "title": "Context Hiding Multi-key Linearly Homomorphic Authenticators",
+                    "authors": "Lucas Schabhüser, Denis Butin, Johannes Buchmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "上下文隐藏多密钥线性同态认证器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_26",
+                    "title": "Revisiting the Secret Hiding Assumption Used in Verifiable (Outsourced) Computation",
+                    "authors": "Liang Zhao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "重新审视可验证(外包)计算中使用的秘密隐藏假设"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_27",
+                    "title": "Delegatable Anonymous Credentials from Mercurial Signatures",
+                    "authors": "Elizabeth C. Crites, Anna Lysyanskaya",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "来自Mercurial签名的可委派匿名凭证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-12612-4_28",
+                    "title": "Accountable Tracing Signatures from Lattices",
+                    "authors": "San Ling, Khoa Nguyen, Huaxiong Wang, Yanhong Xu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1901.00240"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "格中的可问责追踪签名"
+                }
+            ]
+        }
+    ],
+    "2018": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ctrsa/ctrsa2018.html",
+            "conf_title": "CT-RSA 2018: San Francisco, CA, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-319-76953-0",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_1",
+                    "title": "Breaking Ed25519 in WolfSSL",
+                    "authors": "Niels Samwel, Lejla Batina, Guido Bertoni, Joan Daemen, Ruggero Susella",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在WolfSSL中破坏Ed25519"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_2",
+                    "title": "MemJam: A False Dependency Attack Against Constant-Time Crypto Implementations in SGX",
+                    "authors": "Ahmad Moghimi, Thomas Eisenbarth, Berk Sunar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1711.08002"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "MemJam:针对SGX常数时间加密实现的假依赖攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_3",
+                    "title": "Why Johnny the Developer Can't Work with Public Key Certificates - An Experimental Study of OpenSSL Usability",
+                    "authors": "Martin Ukrop, Vashek Matyas",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "为什么开发者Johnny不能使用公钥证书OpenSSL可用性的实验研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_4",
+                    "title": "Improved Factorization of N=p^rq^s",
+                    "authors": "Jean-Sébastien Coron, Rina Zeitoun",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "N=p^rq^s的改进因式分解"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_5",
+                    "title": "Cryptanalysis of Compact-LWE",
+                    "authors": "Jonathan Bootle, Mehdi Tibouchi, Keita Xagawa",
+                    "abstract": "In the emerging Internet of Things (IoT), lightweight public key cryptography plays an essential role in security and privacy protection. With the approach of quantum computing era, it is important to design and evaluate lightweight quantum-resistant cryptographic algorithms applicable to IoT. LWE-based cryptography is a widely used and well-studied family of postquantum cryptographic constructions whose hardness is based on worst-case lattice problems. To make LWE friendly to resource-constrained IoT devices, a variant of LWE, named Compact-LWE, was proposed and used to design lightweight cryptographic schemes. In this paper, we study the so-called Compact-LWE problem and clarify that under certain parameter settings it can be solved in polynomial time. As a consequence, our result leads to a practical attack against an instantiated scheme based on Compact-LWE proposed by Liu et al. in 2017.",
+                    "files": {
+                        "openAccessPdf": "http://downloads.hindawi.com/journals/scn/2018/4957045.pdf"
+                    },
+                    "abstract_zh": "在新兴的物联网中，轻量级公钥密码在安全和隐私保护方面起着至关重要的作用。随着量子计算时代的到来，设计和评估适用于物联网的轻量级抗量子密码算法具有重要意义。基于LWE的密码学是一个被广泛使用和研究的后量子密码构造家族，其硬度基于最坏情况的晶格问题。为了使LWE对资源受限的物联网设备友好，LWE的一个变种，名为紧凑LWE，被提出并用于设计轻量级密码方案。本文研究了所谓的紧LWE问题，阐明了在一定的参数设置下，它可以在多项式时间内求解。因此，我们的结果导致对刘等人在2017年提出的基于紧致的实例化方案的实际攻击。",
+                    "title_zh": "紧致LWE的密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_6",
+                    "title": "Two-Message Key Exchange with Strong Security from Ideal Lattices",
+                    "authors": "Zheng Yang, Yu Chen, Song Luo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "理想格上强安全性的两消息密钥交换"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_7",
+                    "title": "High-Precision Arithmetic in Homomorphic Encryption",
+                    "authors": "Hao Chen, Kim Laine, Rachel Player, Yuhou Xia",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "同态加密中的高精度算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_8",
+                    "title": "Threshold Properties of Prime Power Subgroups with Application to Secure Integer Comparisons",
+                    "authors": "Rhys Carlton, Aleksander Essex, Krzysztof Kapulkin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "素数幂子群的门限性质及其在安全整数比较中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_9",
+                    "title": "Practical Revocation and Key Rotation",
+                    "authors": "Steven A. Myers, Adam Shull",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "实际撤销和密钥轮换"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_10",
+                    "title": "Asynchronous Provably-Secure Hidden Services",
+                    "authors": "Philippe Camacho, Fernando Krell",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "异步可证明安全的隐藏服务"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_11",
+                    "title": "Cryptanalysis Against Symmetric-Key Schemes with Online Classical Queries and Offline Quantum Computations",
+                    "authors": "Akinori Hosoyamada, Yu Sasaki",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于在线经典查询和离线量子计算的对称密钥方案的安全性分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_12",
+                    "title": "Improving Stateless Hash-Based Signatures",
+                    "authors": "Jean-Philippe Aumasson, Guillaume Endignoux",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "改进无状态的基于哈希的签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_13",
+                    "title": "MixColumns Properties and Attacks on (Round-Reduced) AES with a Single Secret S-Box",
+                    "authors": "Lorenzo Grassi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有单个秘密S-Box的混合列性质和对(轮降)AES的攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_14",
+                    "title": "Count-then-Permute: A Precision-Free Alternative to Inversion Sampling",
+                    "authors": "Kazuhiko Minematsu, Kentarou Sasaki, Yuki Tanaka",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "先计数后置换:反转采样的无精度替代方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_15",
+                    "title": "Zero-Sum Partitions of PHOTON Permutations",
+                    "authors": "Qingju Wang, Lorenzo Grassi, Christian Rechberger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://backend.orbit.dtu.dk/ws/files/192883615/division_CTRSA.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "光子排列的零和分割"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_16",
+                    "title": "Improved Security Bound of LightMAC_Plus and Its Single-Key Variant",
+                    "authors": "Yusuke Naito",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "改进的LightMAC_Plus及其单密钥变体的安全界限"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_17",
+                    "title": "Reassessing Security of Randomizable Signatures",
+                    "authors": "David Pointcheval, Olivier Sanders",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "重新评估随机签名的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_18",
+                    "title": "Differential Attacks on Deterministic Signatures",
+                    "authors": "Christopher Ambrose, Joppe W. Bos, Björn Fay, Marc Joye, Manfred Lochter, Bruce Murray",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对确定性签名的差分攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_19",
+                    "title": "Composable and Robust Outsourced Storage",
+                    "authors": "Christian Badertscher, Ueli Maurer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "可组合且强大的外包存储"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_20",
+                    "title": "Secure Deduplication of Encrypted Data: Refined Model and New Constructions",
+                    "authors": "Jian Liu, Li Duan, Yong Li, N. Asokan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://research.aalto.fi/files/31379816/bare_conf.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "加密数据的安全去重:改进模型和新构造"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_21",
+                    "title": "Two Sides of the Same Coin: Counting and Enumerating Keys Post Side-Channel Attacks Revisited",
+                    "authors": "Daniel P. Martin, Luke Mather, Elisabeth Oswald",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一枚硬币的两面:计数和枚举密钥后，重新审视旁道攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_22",
+                    "title": "High-Resolution EM Attacks Against Leakage-Resilient PRFs Explained - And an Improved Construction",
+                    "authors": "Florian Unterstein, Johann Heyszl, Fabrizio De Santis, Robert Specht, Georg Sigl",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "针对泄漏的高分辨率电磁攻击-弹性PRFs解释-和改进的结构"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_23",
+                    "title": "Revocable Identity-Based Encryption from Codes with Rank Metric",
+                    "authors": "Donghoon Chang, Amit Kumar Chauhan, Sandeep Kumar, Somitra Kumar Sanadhya",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于秩度量码的可撤销身份加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_24",
+                    "title": "An Exposure Model for Supersingular Isogeny Diffie-Hellman Key Exchange",
+                    "authors": "Brian Koziel, Reza Azarderakhsh, David Jao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "超奇异同源Diffie-Hellman密钥交换的暴露模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_25",
+                    "title": "Practical, Anonymous, and Publicly Linkable Universally-Composable Reputation Systems",
+                    "authors": "Johannes Blömer, Fabian Eidens, Jakob Juhnke",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "实用的、匿名的、可公开链接的、可通用组合的声誉系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-76953-0_26",
+                    "title": "Regularly Lossy Functions and Applications",
+                    "authors": "Yu Chen, Baodong Qin, Haiyang Xue",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "规则损耗函数及其应用"
+                }
+            ]
+        }
+    ],
+    "2015": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ctrsa/ctrsa2015.html",
+            "conf_title": "CT-RSA 2015: San Francisco, CA, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-319-16715-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_1",
+                    "title": "Just a Little Bit More",
+                    "authors": "Joop van de Pol, Nigel P. Smart, Yuval Yarom",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2014/434.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "再多一点点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_2",
+                    "title": "Cache Storage Attacks",
+                    "authors": "Billy Bob Brumley",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "缓存攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_3",
+                    "title": "Analyzing Permutations for AES-like Ciphers: Understanding ShiftRows",
+                    "authors": "Christof Beierle, Philipp Jovanovic, Martin M. Lauridsen, Gregor Leander, Christian Rechberger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/212.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分析类似AES的密码排列:理解移位行"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_4",
+                    "title": "Improved Attacks on Reduced-Round Camellia-128/192/256",
+                    "authors": "Xiaoyang Dong, Leibo Li, Keting Jia, Xiaoyun Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/896.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "强化了对小圆山茶花的攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_5",
+                    "title": "Duality in ABE: Converting Attribute Based Encryption for Dual Predicate and Dual Policy via Computational Encodings",
+                    "authors": "Nuttapong Attrapadung, Shota Yamada",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/157.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ABE中的对偶:通过计算编码转换基于属性的双重谓词和双重策略加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_6",
+                    "title": "Revocable Hierarchical Identity-Based Encryption: History-Free Update, Security Against Insiders, and Short Ciphertexts",
+                    "authors": "Jae Hong Seo, Keita Emura",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "可撤销的基于身份的分层加密:无历史更新、内部安全和短密文"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_7",
+                    "title": "Revisiting Cryptographic Accumulators, Additional Properties and Relations to Other Primitives",
+                    "authors": "David Derler, Christian Hanser, Daniel Slamanig",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/087.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "重新审视加密累加器、附加属性以及与其他原语的关系"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_8",
+                    "title": "Non-Interactive Zero-Knowledge Proofs of Non-Membership",
+                    "authors": "Olivier Blazy, Céline Chevalier, Damien Vergnaud",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/072.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "非成员的非交互式零知识证明"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_9",
+                    "title": "Implementing GCM on ARMv8",
+                    "authors": "Conrado Porto Lopes Gouvêa, Julio César López-Hernández",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在ARMv8上实施GCM"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_10",
+                    "title": "Higher-Order Masking in Practice: A Vector Implementation of Masked AES for ARM NEON",
+                    "authors": "Junwei Wang, Praveen Kumar Vadnala, Johann Großschädl, Qiuliang Xu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "实践中的高阶屏蔽:ARM NEON屏蔽AES的矢量实现"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_11",
+                    "title": "Completeness of Single-Bit Projection-KDM Security for Public Key Encryption",
+                    "authors": "Fuyuki Kitagawa, Takahiro Matsuda, Goichiro Hanaoka, Keisuke Tanaka",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "单比特投影的完备性——公钥加密的KDM安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_12",
+                    "title": "Format Oracles on OpenPGP",
+                    "authors": "Florian Maury, Jean-René Reinhard, Olivier Levillain, Henri Gilbert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.science/hal-01154822/document"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在OpenPGP上格式化预言机"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_13",
+                    "title": "Finding Shortest Lattice Vectors in the Presence of Gaps",
+                    "authors": "Wei Wei, Mingjie Liu, Xiaoyun Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在存在间隙的情况下寻找最短的点阵向量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_14",
+                    "title": "A Simple and Improved Algorithm for Integer Factorization with Implicit Hints",
+                    "authors": "Koji Nuida, Naoto Itakura, Kaoru Kurosawa",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2014/839.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种简单改进的隐式整数因式分解算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_15",
+                    "title": "Hash Functions from Defective Ideal Ciphers",
+                    "authors": "Jonathan Katz, Stefan Lucks, Aishwarya Thiruvengadam",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "缺陷理想密码的散列函数"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_16",
+                    "title": "Using an Error-Correction Code for Fast, Beyond-Birthday-Bound Authentication",
+                    "authors": "Yusi Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用纠错码进行快速、超越生日限制的身份验证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_17",
+                    "title": "Efficient Leakage Resilient Circuit Compilers",
+                    "authors": "Marcin Andrychowicz, Ivan Damgård, Stefan Dziembowski, Sebastian Faust, Antigoni Polychroniadou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "高效泄漏弹性电路编译器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_18",
+                    "title": "Optimally Efficient Multi-Party Fair Exchange and Fair Secure Multi-Party Computation",
+                    "authors": "Handan Kilinç, Alptekin Küpçü",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/064.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "最优有效多方公平交换和公平安全多方计算"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_19",
+                    "title": "How to Incorporate Associated Data in Sponge-Based Authenticated Encryption",
+                    "authors": "Yu Sasaki, Kan Yasuda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "如何在基于海绵的认证加密中加入关联数据"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_20",
+                    "title": "Cryptanalysis of Ascon",
+                    "authors": "Christoph Dobraunig, Maria Eichlseder, Florian Mendel, Martin Schläffer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Ascon的密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_21",
+                    "title": "Stronger Security Notions for Decentralized Traceable Attribute-Based Signatures and More Efficient Constructions",
+                    "authors": "Essam Ghadafi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2014/278.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于分散的可追踪的基于属性的签名的更强的安全概念和更有效的构造"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_22",
+                    "title": "Re-Encryption Verifiability: How to Detect Malicious Activities of a Proxy in Proxy Re-Encryption",
+                    "authors": "Satsuya Ohata, Yutaka Kawai, Takahiro Matsuda, Goichiro Hanaoka, Kanta Matsuura",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "重加密可验证性:如何检测代理重加密中代理的恶意行为"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_23",
+                    "title": "Exploiting Collisions in Addition Chain-Based Exponentiation Algorithms Using a Single Trace",
+                    "authors": "Neil Hanley, HeeSeok Kim, Michael Tunstall",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2012/485.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在使用单个轨迹的基于加法链的取幂算法中利用冲突"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_24",
+                    "title": "Cold Boot Attacks in the Discrete Logarithm Setting",
+                    "authors": "Bertram Poettering, Dale L. Sibborn",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/057.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "离散对数设置中的冷启动攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_25",
+                    "title": "Communication Optimal Tardos-Based Asymmetric Fingerprinting",
+                    "authors": "Aggelos Kiayias, Nikos Leonardos, Helger Lipmaa, Kateryna Pavlyk, Qiang Tang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于通信最优Tardos的非对称指纹"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-16715-2_26",
+                    "title": "Linearly Homomorphic Encryption from $$\\mathsf {DDH}$$",
+                    "authors": "Guilhem Castagnos, Fabien Laguillaumie",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-01213284/file/CTRSA15_ddhhomo_extended.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "来自$$\\mathsf {DDH}$$的线性同态加密"
+                }
+            ]
+        }
+    ],
+    "2017": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ctrsa/ctrsa2017.html",
+            "conf_title": "CT-RSA 2017: San Francisco, CA, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-319-52153-4",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_1",
+                    "title": "Choosing Parameters for NTRUEncrypt",
+                    "authors": "Jeffrey Hoffstein, Jill Pipher, John M. Schanck, Joseph H. Silverman, William Whyte, Zhenfei Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/708.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "为NTRUEncrypt选择参数"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_2",
+                    "title": "Encoding-Free ElGamal-Type Encryption Schemes on Elliptic Curves",
+                    "authors": "Marc Joye, Benoît Libert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01621014/file/JL17elgecc.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "椭圆曲线上无编码的ElGamal型加密方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_3",
+                    "title": "Gauss Sieve Algorithm on GPUs",
+                    "authors": "Shang-Yi Yang, Po-Chun Kuo, Bo-Yin Yang, Chen-Mou Cheng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "GPU上的高斯筛算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_4",
+                    "title": "A Tool Kit for Partial Key Exposure Attacks on RSA",
+                    "authors": "Atsushi Takayasu, Noboru Kunihiro",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "针对RSA的部分密钥泄露攻击的工具包"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_5",
+                    "title": "Feeding Two Cats with One Bowl: On Designing a Fault and Side-Channel Resistant Software Encoding Scheme",
+                    "authors": "Jakub Breier, Xiaolu Hou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一碗喂两只猫:设计一种抗错误和旁路的软件编码方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_6",
+                    "title": "An Efficient Side-Channel Protected AES Implementation with Arbitrary Protection Order",
+                    "authors": "Hannes Groß, Stefan Mangard, Thomas Korak",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://openlib.tugraz.at/download.php?id=5887dd9fc441a&location=browse"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有任意保护顺序的高效边信道保护AES实现"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_7",
+                    "title": "Time-Memory Trade-Offs for Side-Channel Resistant Implementations of Block Ciphers",
+                    "authors": "Praveen Kumar Vadnala",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分组密码抗侧信道实现的时间-存储权衡"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_8",
+                    "title": "Hiding Higher-Order Side-Channel Leakage - Randomizing Cryptographic Implementations in Reconfigurable Hardware",
+                    "authors": "Pascal Sasdrich, Amir Moradi, Tim Güneysu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "隐藏高阶侧信道泄漏——可重构硬件中的随机化密码实现"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_9",
+                    "title": "Surnaming Schemes, Fast Verification, and Applications to SGX Technology",
+                    "authors": "Dan Boneh, Shay Gueron",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "姓氏方案、快速验证和SGX技术的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_10",
+                    "title": "On the Entropy of Oscillator-Based True Random Number Generators",
+                    "authors": "Yuan Ma, Jingqiang Lin, Jiwu Jing",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于振荡器的真随机数发生器的熵"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_11",
+                    "title": "Provably Secure Password Authenticated Key Exchange Based on RLWE for the Post-Quantum World",
+                    "authors": "Jintai Ding, Saed Alsayigh, Jean Lancrenon, Saraswathy RV, Michael Snook",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "后量子世界基于RLWE的可证安全口令认证密钥交换"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_12",
+                    "title": "Impossible-Differential and Boomerang Cryptanalysis of Round-Reduced Kiasu-BC",
+                    "authors": "Christoph Dobraunig, Eik List",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "圆整化Kiasu-BC的不可能差分和回旋镖分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_13",
+                    "title": "Weak Keys for AEZ, and the External Key Padding Attack",
+                    "authors": "Bart Mennink",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "AEZ的弱密钥和外部密钥填充攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_14",
+                    "title": "Full Disk Encryption: Bridging Theory and Practice",
+                    "authors": "Louiza Khati, Nicky Mouha, Damien Vergnaud",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01403418/file/fde.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "全磁盘加密:桥接理论与实践"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_15",
+                    "title": "Revisiting Full-PRF-Secure PMAC and Using It for Beyond-Birthday Authenticated Encryption",
+                    "authors": "Eik List, Mridul Nandi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "重温完全PRF安全的PMAC及其在生日后认证加密中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_16",
+                    "title": "Publish or Perish: A Backward-Compatible Defense Against Selfish Mining in Bitcoin",
+                    "authors": "Ren Zhang, Bart Preneel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "发布或灭亡:对比特币自私挖掘的向后兼容防御"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_17",
+                    "title": "WEM: A New Family of White-Box Block Ciphers Based on the Even-Mansour Construction",
+                    "authors": "Jihoon Cho, Kyu Young Choi, Itai Dinur, Orr Dunkelman, Nathan Keller, Dukjae Moon, Aviya Veidberg",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "WEM:基于Even-Mansour构造的一类新的白盒分组密码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_18",
+                    "title": "A Bounded-Space Near-Optimal Key Enumeration Algorithm for Multi-subkey Side-Channel Attacks",
+                    "authors": "Liron David, Avishai Wool",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种针对多子密钥旁道攻击的有界空间近似最优密钥枚举算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_19",
+                    "title": "Improved Key Recovery Algorithms from Noisy RSA Secret Keys with Analog Noise",
+                    "authors": "Noboru Kunihiro, Yuki Takahashi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "模拟噪声下改进的RSA密钥恢复算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_20",
+                    "title": "Ridge-Based Profiled Differential Power Analysis",
+                    "authors": "Weijia Wang, Yu Yu, François-Xavier Standaert, Dawu Gu, Sen Xu, Chi Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于脊的剖面差分功耗分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_21",
+                    "title": "My Traces Learn What You Did in the Dark: Recovering Secret Signals Without Key Guesses",
+                    "authors": "Si Gao, Hua Chen, Wenling Wu, Limin Fan, Weiqiong Cao, Xiangliang Ma",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "我的痕迹了解你在黑暗中做了什么:恢复秘密信号，无需关键猜测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_22",
+                    "title": "Actively Secure 1-out-of-N OT Extension with Application to Private Set Intersection",
+                    "authors": "Michele Orrù, Emmanuela Orsini, Peter Scholl",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/eprint-bin/getfile.pl?entry=2016/933&version=20161121:145344&file=933.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "应用于私有集合交集的主动保护1/N not扩展"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_23",
+                    "title": "Low-Leakage Secure Search for Boolean Expressions",
+                    "authors": "Fernando Krell, Gabriela F. Ciocarlie, Ashish Gehani, Mariana Raykova",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "布尔表达式的低泄漏安全搜索"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_24",
+                    "title": "Constructions Secure Against Receiver Selective Opening and Chosen Ciphertext Attacks",
+                    "authors": "Dingding Jia, Xianhui Lu, Bao Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "抵抗接收者选择性开启和选择密文攻击的构造"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-52153-4_25",
+                    "title": "New Revocable IBE in Prime-Order Groups: Adaptively Secure, Decryption Key Exposure Resistant, and with Short Public Parameters",
+                    "authors": "Yohei Watanabe, Keita Emura, Jae Hong Seo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "素数阶群中新的可撤销IBE:自适应安全、抗解密密钥泄露和短公共参数"
+                }
+            ]
+        }
+    ],
+    "2016": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/ctrsa/ctrsa2016.html",
+            "conf_title": "CT-RSA 2016: San Francisco, CA, USA",
+            "conf_url": "https://doi.org/10.1007/978-3-319-29485-8",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_1",
+                    "title": "Mitigating Server Breaches in Password-Based Authentication: Secure and Efficient Solutions",
+                    "authors": "Olivier Blazy, Céline Chevalier, Damien Vergnaud",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/1144.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "减少基于密码的身份验证中的服务器漏洞:安全高效的解决方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_2",
+                    "title": "Strongly Leakage-Resilient Authenticated Key Exchange",
+                    "authors": "Rongmao Chen, Yi Mu, Guomin Yang, Willy Susilo, Fuchun Guo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "强抗泄漏认证密钥交换"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_3",
+                    "title": "INT-RUP Analysis of Block-cipher Based Authenticated Encryption Schemes",
+                    "authors": "Avik Chakraborti, Nilanjan Datta, Mridul Nandi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于分组密码的认证加密方案的RUP分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_4",
+                    "title": "From Stateless to Stateful: Generic Authentication and Authenticated Encryption Constructions with Application to TLS",
+                    "authors": "Colin Boyd, Britta Hale, Stig Frode Mjølsnes, Douglas Stebila",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/11250/2483752/1/AuthNotions_master.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从无状态到有状态:通用认证和认证加密结构及其在TLS中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_5",
+                    "title": "Dynamic Symmetric Searchable Encryption from Constrained Functional Encryption",
+                    "authors": "Sebastian Gajek",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "来自约束函数加密的动态对称可搜索加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_6",
+                    "title": "Private Large-Scale Databases with Distributed Searchable Symmetric Encryption",
+                    "authors": "Yuval Ishai, Eyal Kushilevitz, Steve Lu, Rafail Ostrovsky",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/1190.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有分布式可搜索对称加密的私有大规模数据库"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_7",
+                    "title": "Short Randomizable Signatures",
+                    "authors": "David Pointcheval, Olivier Sanders",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01377997/file/525.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "简短的随机签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_8",
+                    "title": "Non-Interactive Plaintext (In-)Equality Proofs and Group Signatures with Verifiable Controllable Linkability",
+                    "authors": "Olivier Blazy, David Derler, Daniel Slamanig, Raphael Spreitzer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-01292705/file/082.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "可验证可控链接的非交互式明文(不等式)证明和群签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_9",
+                    "title": "Hybrid Publicly Verifiable Computation",
+                    "authors": "James Alderman, Christian Janson, Carlos Cid, Jason Crampton",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/320.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "混合公开可验证计算"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_10",
+                    "title": "Efficient Concurrent Covert Computation of String Equality and Set Intersection",
+                    "authors": "Chongwon Cho, Dana Dachman-Soled, Stanislaw Jarecki",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "字符串等式和集合交集的高效并发隐蔽计算"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_11",
+                    "title": "Secure Audit Logs with Verifiable Excerpts",
+                    "authors": "Gunnar Hartung",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用可验证的摘录保护审计日志"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_12",
+                    "title": "Efficient Culpably Sound NIZK Shuffle Argument Without Random Oracles",
+                    "authors": "Prastudy Fauzi, Helger Lipmaa",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/1112.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "没有随机神谕的高效可靠的NIZK洗牌论点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_13",
+                    "title": "ECDH Key-Extraction via Low-Bandwidth Electromagnetic Attacks on PCs",
+                    "authors": "Daniel Genkin, Lev Pachmanov, Itamar Pipman, Eran Tromer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过对pc机的低带宽电磁攻击提取ECDH密钥"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_14",
+                    "title": "Side-Channel Analysis of Weierstrass and Koblitz Curve ECDSA on Android Smartphones",
+                    "authors": "Pierre Belgarric, Pierre-Alain Fouque, Gilles Macario-Rat, Mehdi Tibouchi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Android智能手机上Weierstrass和Koblitz曲线ECDSA的侧信道分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_15",
+                    "title": "Enhancing Side-Channel Analysis of Binary-Field Multiplication with Bit Reliability",
+                    "authors": "Peter Pessl, Stefan Mangard",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用位可靠性增强二进制域乘法的旁道分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_16",
+                    "title": "Towards a Unified Security Model for Physically Unclonable Functions",
+                    "authors": "Frederik Armknecht, Daisuke Moriyama, Ahmad-Reza Sadeghi, Moti Yung",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2016/033.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面向物理上不可克隆的功能的统一安全模型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_17",
+                    "title": "Cryptanalysis of the Structure-Preserving Signature Scheme on Equivalence Classes from Asiacrypt 2014",
+                    "authors": "Yanbin Pan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Asiacrypt 2014等价类上结构保持签名方案的密码学分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_18",
+                    "title": "Short Structure-Preserving Signatures",
+                    "authors": "Essam Ghadafi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://uwe-repository.worktribe.com/preview/914276/961.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "保持结构的短签名"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_19",
+                    "title": "Which Ring Based Somewhat Homomorphic Encryption Scheme is Best?",
+                    "authors": "Ana Costache, Nigel P. Smart",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2015/889.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "哪个基于环的同态加密方案是最好的？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_20",
+                    "title": "NFLlib: NTT-Based Fast Lattice Library",
+                    "authors": "Carlos Aguilar Melchor, Joris Barrier, Serge Guelton, Adrien Guinet, Marc-Olivier Killijian, Tancrède Lepoint",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-01242273/file/main.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "NFLlib:基于NTT的快速点阵库"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_21",
+                    "title": "Optimization of Rainbow Tables for Practically Cracking GSM A5/1 Based on Validated Success Rate Modeling",
+                    "authors": "Zhen Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于验证成功率模型的GSM A5/1实际破解彩虹表优化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_22",
+                    "title": "New Observations on Piccolo Block Cipher",
+                    "authors": "Yanfeng Wang, Wenling Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Piccolo分组密码的新观察"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_23",
+                    "title": "Replacing SHA-2 with SHA-3 Enhances Generic Security of HMAC",
+                    "authors": "Yusuke Naito, Lei Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用SHA-3替换SHA-2增强了HMAC的一般安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_24",
+                    "title": "Constrained PRFs for Unbounded Inputs",
+                    "authors": "Hamza Abusalah, Georg Fuchsbauer, Krzysztof Pietrzak",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2014/840.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "无界输入的约束PRFs"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_25",
+                    "title": "Construction of Fully CCA-Secure Predicate Encryptions from Pair Encoding Schemes",
+                    "authors": "Johannes Blömer, Gennadij Liske",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从成对编码方案构造完全CCA安全的谓词加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-29485-8_26",
+                    "title": "Factoring N=p^rq^s for Large r and s",
+                    "authors": "Jean-Sébastien Coron, Jean-Charles Faugère, Guénaël Renault, Rina Zeitoun",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "大r和s的N=p^rq^s因子分解"
+                }
+            ]
+        }
+    ]
+}

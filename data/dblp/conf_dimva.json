@@ -1,0 +1,1766 @@
+{
+    "2020": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2020.html",
+            "conf_title": "DIMVA 2020: Lisbon, Portugal",
+            "conf_url": "https://doi.org/10.1007/978-3-030-52683-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_1",
+                    "title": "Automated CPE Labeling of CVE Summaries with Machine Learning",
+                    "authors": "Emil Wåreus, Martin Hell",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_1.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过机器学习的CVE摘要的自动CPE标签"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_2",
+                    "title": "Backstabber's Knife Collection: A Review of Open Source Software Supply Chain Attacks",
+                    "authors": "Marc Ohm, Henrik Plate, Arnold Sykosch, Michael Meier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_2.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Backstabber的刀收藏：开源软件供应链攻击的评论"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_3",
+                    "title": "Putting Attacks in Context: A Building Automation Testbed for Impact Assessment from the Victim's Perspective",
+                    "authors": "Herson Esquivel-Vargas, Marco Caselli, Geert Jan Laanstra, Andreas Peter",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_3.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "将攻击置于上下文中：从受害者的角度来看，建筑物自动化测试对影响评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_4",
+                    "title": "Fast and Furious: Outrunning Windows Kernel Notification Routines from User-Mode",
+                    "authors": "Pierre Ciholas, Jose Miguel Such, Angelos K. Marnerides, Benjamin Green, Jiajie Zhang, Utz Roedig",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_4.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "速度和激情：用户模式中的Windows内核通知程序超出"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_5",
+                    "title": "HAEPG: An Automatic Multi-hop Exploitation Generation Framework",
+                    "authors": "Zixuan Zhao, Yan Wang, Xiaorui Gong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_5.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Haepg：自动多跳剥削生成框架"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_6",
+                    "title": "Understanding Android VoIP Security: A System-Level Vulnerability Assessment",
+                    "authors": "En He, Daoyuan Wu, Robert H. Deng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_6.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "了解Android VoIP安全：系统级漏洞评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_7",
+                    "title": "Web Runner 2049: Evaluating Third-Party Anti-bot Services",
+                    "authors": "Babak Amin Azad, Oleksii Starov, Pierre Laperdrix, Nick Nikiforakis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_7.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Web Runner 2049：评估第三方反机器人服务"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_8",
+                    "title": "Short Paper - Taming the Shape Shifter: Detecting Anti-fingerprinting Browsers",
+                    "authors": "Babak Amin Azad, Oleksii Starov, Pierre Laperdrix, Nick Nikiforakis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_8.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "短纸 - 驯服形状变速杆：检测抗指纹浏览器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_9",
+                    "title": "It Never Rains but It Pours: Analyzing and Detecting Fake Removal Information Advertisement Sites",
+                    "authors": "Takashi Koide, Daiki Chiba, Mitsuaki Akiyama, Katsunari Yoshioka, Tsutomu Matsumoto",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_9.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "它永远不会下雨，但倾泻：分析和检测假删除信息广告网站"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_10",
+                    "title": "On the Security of Application Installers and Online Software Repositories",
+                    "authors": "Marcus Botacin, Giovanni Bertão, Paulo L. de Geus, André Grégio, Christopher Kruegel, Giovanni Vigna",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_10.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于应用程序安装程序和在线软件存储库的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_11",
+                    "title": "Distributed Heterogeneous N-Variant Execution",
+                    "authors": "Alexios Voulimeneas, Dokyung Song, Fabian Parzefall, Yeoul Na, Per Larsen, Michael Franz, Stijn Volckaert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_11.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分布式异构n变量执行"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_12",
+                    "title": "Sec2graph: Network Attack Detection Based on Novelty Detection on Graph Structured Data",
+                    "authors": "Laetitia Leichtnam, Eric Totel, Nicolas Prigent, Ludovic Mé",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_12.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SEC2Graph：基于图形结构化数据的新颖性检测网络攻击检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-52683-2_13",
+                    "title": "Efficient Context-Sensitive CFI Enforcement Through a Hardware Monitor",
+                    "authors": "Sadullah Canakci, Leila Delshadtehrani, Boyou Zhou, Ajay Joshi, Manuel Egele",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-52683-2_13.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过硬件监视器有效的有效上下文敏感的CFI执行"
+                }
+            ]
+        }
+    ],
+    "2022": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2022.html",
+            "conf_title": "DIMVA 2022: Cagliari, Italy",
+            "conf_url": "https://doi.org/10.1007/978-3-031-09484-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_1",
+                    "title": "Hybrid Pruning: Towards Precise Pointer and Taint Analysis",
+                    "authors": "Dipanjan Das, Priyanka Bose, Aravind Machiry, Sebastiano Mariani, Yan Shoshitaishvili, Giovanni Vigna, Christopher Kruegel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "混合修剪：迈向精确的指针和污点分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_2",
+                    "title": "Establishing the Contaminating Effect of Metadata Feature Inclusion in Machine-Learned Network Intrusion Detection Models",
+                    "authors": "Laurens D'hooge, Miel Verkerken, Bruno Volckaert, Tim Wauters, Filip De Turck",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "建立元数据特征包含在机器学习网络入侵检测模型中的污染作用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_3",
+                    "title": "Extended Abstract: Effective Call Graph Fingerprinting for the Analysis and Classification of Windows Malware",
+                    "authors": "Francesco Meloni, Alessandro Sanna, Davide Maiorca, Giorgio Giacinto",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "扩展摘要：有效的呼叫图形指纹识别用于Windows恶意软件的分析和分类"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_4",
+                    "title": "COBRA-GCN: Contrastive Learning to Optimize Binary Representation Analysis with Graph Convolutional Networks",
+                    "authors": "Michael Wang, Alex Interrante-Grant, Ryan Whelan, Tim Leek",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Cobra-GCN：通过图形卷积网络优化二进制表示分析的对比度学习"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_5",
+                    "title": "Prioritizing Antivirus Alerts on Internal Enterprise Machines",
+                    "authors": "Shay Sakazi, Yuval Elovici, Asaf Shabtai",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "优先在内部企业机器上进行防病毒警报"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_6",
+                    "title": "VANDALIR: Vulnerability Analyses Based on Datalog and LLVM-IR",
+                    "authors": "Joschua Schilling, Tilo Müller",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Vandalir：基于Datalog和LLVM-IR的漏洞分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_7",
+                    "title": "Branch Different - Spectre Attacks on Apple Silicon",
+                    "authors": "Lorenz Hetterich, Michael Schwarz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分支机构不同 - 对苹果硅的幽灵攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_8",
+                    "title": "MPKAlloc: Efficient Heap Meta-data Integrity Through Hardware Memory Protection Keys",
+                    "authors": "William Blair, William K. Robertson, Manuel Egele",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "MPKALLOC：通过硬件存储器保护密钥有效的堆元数据完整性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_9",
+                    "title": "A Human in Every APE: Delineating and Evaluating the Human Analysis Systems of Anti-Phishing Entities",
+                    "authors": "Bhupendra Acharya, Phani Vadrevu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "每个猿人的人：划定和评估反向播种实体的人类分析系统"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_10",
+                    "title": "Amplification Chamber: Dissecting the Attack Infrastructure of Memcached DRDoS Attacks",
+                    "authors": "Mizuki Kondo, Rui Tanabe, Natsuo Shintani, Daisuke Makita, Katsunari Yoshioka, Tsutomu Matsumoto",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "放大室：剖析模因DRDOS攻击的攻击基础设施"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-09484-2_11",
+                    "title": "Consistency is All I Ask: Attacks and Countermeasures on the Network Context of Distributed Honeypots",
+                    "authors": "Songsong Liu, Pengbin Feng, Jiahao Cao, Xu He, Tommy Chin, Kun Sun, Qi Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一致性就是我要问的：攻击和对策在分布式蜜饯的网络上下文上"
+                }
+            ]
+        }
+    ],
+    "2021": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2021.html",
+            "conf_title": "DIMVA 2021: Virtual Event",
+            "conf_url": "https://doi.org/10.1007/978-3-030-80825-9",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_1",
+                    "title": "You've Got (a Reset) Mail: A Security Analysis of Email-Based Password Reset Procedures",
+                    "authors": "Tommaso Innocenti, Seyed Ali Mirheidari, Amin Kharraz, Bruno Crispo, Engin Kirda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "您有（重置）邮件：基于电子邮件的密码重置过程的安全分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_2",
+                    "title": "The Full Gamut of an Attack: An Empirical Analysis of OAuth CSRF in the Wild",
+                    "authors": "Michele Benolli, Seyed Ali Mirheidari, Elham Arshad, Bruno Crispo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "攻击的全部范围：野外Oauth CSRF的经验分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_3",
+                    "title": "Detecting and Measuring In-The-Wild DRDoS Attacks at IXPs",
+                    "authors": "Karthika Subramani, Roberto Perdisci, Maria Konte",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "检测和测量IXPS的野外DRDOS攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_4",
+                    "title": "Digging Deeper: An Analysis of Domain Impersonation in the Lower DNS Hierarchy",
+                    "authors": "Florian Quinkert, Dennis Tatang, Thorsten Holz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "深入挖掘：对较低DNS层次结构中的域模拟的分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_5",
+                    "title": "Help, My Signal has Bad Device! - Breaking the Signal Messenger's Post-Compromise Security Through a Malicious Device",
+                    "authors": "Jan Wichelmann, Sebastian Berndt, Claudius Pott, Thomas Eisenbarth",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "帮助，我的信号的设备不好！  - 通过恶意设备打破信号使者的后磁后安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_6",
+                    "title": "Refined Grey-Box Fuzzing with Sivo",
+                    "authors": "Ivica Nikolic, Radu Mantu, Shiqi Shen, Prateek Saxena",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/bfm:978-3-030-80825-9/1?pdf=chapter%20toc"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "精制的灰色盒子与sivo"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_7",
+                    "title": "SCRUTINIZER: Detecting Code Reuse in Malware via Decompilation and Machine Learning",
+                    "authors": "Omid Mirzaei, Roman Vasilenko, Engin Kirda, Long Lu, Amin Kharraz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "审查器：通过解说和机器学习检测恶意软件中的代码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_8",
+                    "title": "Specularizer : Detecting Speculative Execution Attacks via Performance Tracing",
+                    "authors": "Wubing Wang, Guoxing Chen, Yueqiang Cheng, Yinqian Zhang, Zhiqiang Lin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-030-80825-9_8.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Specularizer：通过性能跟踪检测投机执行攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_9",
+                    "title": "Aion Attacks: Manipulating Software Timers in Trusted Execution Environment",
+                    "authors": "Wei Huang, Shengjie Xu, Yueqiang Cheng, David Lie",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "AION攻击：在受信任的执行环境中操纵软件计时器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_10",
+                    "title": "Third-Eye: Practical and Context-Aware Inference of Causal Relationship Violations in Commodity Kernels",
+                    "authors": "Chuhong Yuan, Dong Du, Haibo Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "第三眼：商品内核中因果关系违反因果关系的实用和背景意识"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_11",
+                    "title": "Find My Sloths: Automated Comparative Analysis of How Real Enterprise Computers Keep Up with the Software Update Races",
+                    "authors": "Omid Setayeshfar, Junghwan John Rhee, Chung Hwan Kim, Kyu Hyung Lee",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "查找我的懒惰：对真实企业计算机如何跟上软件更新竞赛的自动比较分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_12",
+                    "title": "FP-Redemption: Studying Browser Fingerprinting Adoption for the Sake of Web Security",
+                    "authors": "Antonin Durey, Pierre Laperdrix, Walter Rudametkin, Romain Rouvoy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-03212726/file/main.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "fp-redemption：为了网络安全，研究浏览器指纹采用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_13",
+                    "title": "Introspect Virtual Machines Like It Is the Linux Kernel!",
+                    "authors": "Ahmed Abdelraoof, Benjamin Taubmann, Thomas Dangl, Hans P. Reiser",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "内省的虚拟机就像Linux内核一样！"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_14",
+                    "title": "Calibration Done Right: Noiseless Flush+Flush Attacks",
+                    "authors": "Guillaume Didier, Clémentine Maurice",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-03267431/file/dimva21_didier.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "正确完成的校准：无声的冲洗+冲洗攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_15",
+                    "title": "Zero Footprint Opaque Predicates: Synthesizing Opaque Predicates from Naturally Occurring Invariants",
+                    "authors": "Yu-Jye Tung, Ian G. Harris",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "零足迹不透明谓词：从天然发生的不变的综合不透明谓词"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_16",
+                    "title": "PetaDroid: Adaptive Android Malware Detection Using Deep Learning",
+                    "authors": "ElMouatez Billah Karbab, Mourad Debbabi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Petadroid：使用深度学习的自适应Android恶意软件检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_17",
+                    "title": "Spotlight on Phishing: A Longitudinal Study on Phishing Awareness Trainings",
+                    "authors": "Florian Quinkert, Martin Degeling, Thorsten Holz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络钓鱼的聚光灯：关于网络钓鱼意识培训的纵向研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_18",
+                    "title": "Extended Abstract: A First Large-Scale Analysis on Usage of MTA-STS",
+                    "authors": "Dennis Tatang, Robin Flume, Thorsten Holz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "扩展摘要：关于MTA-STS使用的第一个大规模分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-80825-9_19",
+                    "title": "Centy: Scalable Server-Side Web Integrity Verification System Based on Fuzzy Hashes",
+                    "authors": "Lizzy Tengana, Jesus Solano, Alejandra Castelblanco, Esteban Rivera, Christian Lopez, Martín Ochoa",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Centy：基于模糊哈希的可扩展服务器端Web完整性验证系统"
+                }
+            ]
+        }
+    ],
+    "2019": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2019.html",
+            "conf_title": "DIMVA 2019: Gothenburg, Sweden",
+            "conf_url": "https://doi.org/10.1007/978-3-030-22038-9",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_1",
+                    "title": "Wild Extensions: Discovering and Analyzing Unlisted Chrome Extensions",
+                    "authors": "Aidan Beggs, Alexandros Kapravelos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "野生扩展：发现和分析未列出的镀铬扩展"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_2",
+                    "title": "New Kid on the Web: A Study on the Prevalence of WebAssembly in the Wild",
+                    "authors": "Marius Musch, Christian Wressnegger, Martin Johns, Konrad Rieck",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络上的新孩子：关于野外WebAssembly流行率的研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_3",
+                    "title": "Morellian Analysis for Browsers: Making Web Authentication Stronger with Canvas Fingerprinting",
+                    "authors": "Pierre Laperdrix, Gildas Avoine, Benoit Baudry, Nick Nikiforakis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-02881632/file/canvasauthentication_dimva2019.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "浏览器的Morellian分析：通过帆布指纹使网络身份验证更强"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_4",
+                    "title": "On the Perils of Leaking Referrers in Online Collaboration Services",
+                    "authors": "Beliz Kaleli, Manuel Egele, Gianluca Stringhini",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于在线协作服务中泄漏推荐人的危险"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_5",
+                    "title": "Detecting, Fingerprinting and Tracking Reconnaissance Campaigns Targeting Industrial Control Systems",
+                    "authors": "Olivier Cabana, Amr M. Youssef, Mourad Debbabi, Bernard Lebel, Marthe Kassouf, Basile L. Agba",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "针对工业控制系统的检测，指纹和跟踪侦察活动"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_6",
+                    "title": "Overshadow PLC to Detect Remote Control-Logic Injection Attacks",
+                    "authors": "Hyunguk Yoo, Sushma Kalle, Jared Smith, Irfan Ahmed",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "掩盖PLC检测遥控器注射攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_7",
+                    "title": "A Security Evaluation of Industrial Radio Remote Controllers",
+                    "authors": "Federico Maggi, Marco Balduzzi, Jonathan Andersson, Philippe Lin, Stephen Hilt, Akira Urano, Rainer Vosseler",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "工业无线电遥控器的安全评估"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_8",
+                    "title": "Understanding the Security of Traffic Signal Infrastructure",
+                    "authors": "Zhenyu Ning, Fengwei Zhang, Stephen M. Remias",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "了解流量信号基础架构的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_9",
+                    "title": "Practical Enclave Malware with Intel SGX",
+                    "authors": "Michael Schwarz, Samuel Weiser, Daniel Gruss",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1902.03256"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用英特尔SGX的实用飞地恶意软件"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_10",
+                    "title": "How Does Malware Use RDTSC? A Study on Operations Executed by Malware with CPU Cycle Measurement",
+                    "authors": "Yoshihiro Oyama",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "恶意软件如何使用RDTSC？ 针对CPU周期测量的恶意软件执行操作的研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_11",
+                    "title": "On Deception-Based Protection Against Cryptographic Ransomware",
+                    "authors": "Ziya Alper Genç, Gabriele Lenzini, Daniele Sgandurra",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://orbilu.uni.lu/bitstream/10993/40579/1/dimva2019_GLS.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于基于欺骗的保护对密码勒索软件的保护"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_12",
+                    "title": "PowerDrive: Accurate De-obfuscation and Analysis of PowerShell Malware",
+                    "authors": "Denis Ugarte, Davide Maiorca, Fabrizio Cara, Giorgio Giacinto",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1904.10270"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "PowerDrive：PowerShell恶意软件的准确脱束和分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_13",
+                    "title": "Memory Categorization: Separating Attacker-Controlled Data",
+                    "authors": "Matthias Neugschwandtner, Alessandro Sorniotti, Anil Kurmus",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "内存分类：分开攻击者控制的数据"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_14",
+                    "title": "TypeMiner: Recovering Types in Binary Programs Using Machine Learning",
+                    "authors": "Alwin Maier, Hugo Gascon, Christian Wressnegger, Konrad Rieck",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "打字机：使用机器学习恢复二进制程序中的类型"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_15",
+                    "title": "SAFE: Self-Attentive Function Embeddings for Binary Similarity",
+                    "authors": "Luca Massarelli, Giuseppe Antonio Di Luna, Fabio Petroni, Roberto Baldoni, Leonardo Querzoni",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1811.05296"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "安全：二进制相似性的自我训练功能嵌入"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_16",
+                    "title": "Triggerflow: Regression Testing by Advanced Execution Path Inspection",
+                    "authors": "Iaroslav Gridin, Cesar Pereida García, Nicola Tuveri, Billy Bob Brumley",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "TriggerFlow：通过高级执行路径检查回归测试"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_17",
+                    "title": "Large-Scale Analysis of Infrastructure-Leaking DNS Servers",
+                    "authors": "Dennis Tatang, Carl Richard Theodor Schneider, Thorsten Holz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基础架构渗透DNS服务器的大规模分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_18",
+                    "title": "Security in Plain TXT - Observing the Use of DNS TXT Records in the Wild",
+                    "authors": "Adam Portier, Henry Carter, Charles Lever",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "平原TXT中的安全性 - 观察野外DNS TXT记录的使用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_19",
+                    "title": "No Need to Marry to Change Your Name! Attacking Profinet IO Automation Networks Using DCP",
+                    "authors": "Stefan Mehner, Hartmut König",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "无需结婚即可更改您的名字！ 使用DCP攻击Profinet IO自动化网络"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_20",
+                    "title": "DPX: Data-Plane eXtensions for SDN Security Service Instantiation",
+                    "authors": "Taejune Park, Yeonkeun Kim, Vinod Yegneswaran, Phillip A. Porras, Zhaoyan Xu, KyoungSoo Park, Seungwon Shin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DPX：SDN安全服务实例化的数据平面扩展"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_21",
+                    "title": "Practical Password Hardening Based on TLS",
+                    "authors": "Constantinos Diomedous, Elias Athanasopoulos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于TLS的实用密码硬化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_22",
+                    "title": "Role Inference + Anomaly Detection = Situational Awareness in BACnet Networks",
+                    "authors": "Davide Fauri, Michail Kapsalakis, Daniel Ricardo dos Santos, Elisa Costante, Jerry den Hartog, Sandro Etalle",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "角色推理 +异常检测= BACNET网络中的情境意识"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-030-22038-9_23",
+                    "title": "BinTrimmer: Towards Static Binary Debloating Through Abstract Interpretation",
+                    "authors": "Nilo Redini, Ruoyu Wang, Aravind Machiry, Yan Shoshitaishvili, Giovanni Vigna, Christopher Kruegel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "bintrimmer：通过抽象解释迈向静态二进制去隔离"
+                }
+            ]
+        }
+    ],
+    "2018": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2018.html",
+            "conf_title": "DIMVA 2018: Saclay, France",
+            "conf_url": "https://doi.org/10.1007/978-3-319-93411-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_1",
+                    "title": "Malrec: Compact Full-Trace Malware Recording for Retrospective Deep Analysis",
+                    "authors": "Giorgio Severi, Tim Leek, Brendan Dolan-Gavitt",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "MALREC：紧凑的全痕迹恶意软件记录，用于回顾性深入分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_2",
+                    "title": "MemScrimper: Time- and Space-Efficient Storage of Malware Sandbox Memory Dumps",
+                    "authors": "Michael Brengel, Christian Rossow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-93411-2_2.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "memscrimper：恶意软件沙箱内存转储的时间和空间效率存储"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_3",
+                    "title": "Spearphishing Malware: Do We Really Know the Unknown?",
+                    "authors": "Yanko Baychev, Leyla Bilge",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Spearpheshing恶意软件：我们真的知道未知吗？"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_4",
+                    "title": "Honey, I Shrunk Your App Security: The State of Android App Hardening",
+                    "authors": "Vincent Haupert, Dominik Christian Maier, Nicolas Schneider, Julian Kirsch, Tilo Müller",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "亲爱的，我缩小了您的应用程序安全：Android应用的状态硬化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_5",
+                    "title": "GuardION: Practical Mitigation of DMA-Based Rowhammer Attacks on ARM",
+                    "authors": "Victor van der Veen, Martina Lindorfer, Yanick Fratantonio, Harikrishnan Padmanabha Pillai, Giovanni Vigna, Christopher Kruegel, Herbert Bos, Kaveh Razavi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://research.vu.nl/ws/files/75478203/Veen2018_Chapter_GuardIONPracticalMitigationOfD.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "护卫：基于DMA的Rowhammer攻击的实际缓解手臂攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_6",
+                    "title": "BINARM: Scalable and Efficient Detection of Vulnerabilities in Firmware Images of Intelligent Electronic Devices",
+                    "authors": "Paria Shirani, Leo Collard, Basile L. Agba, Bernard Lebel, Mourad Debbabi, Lingyu Wang, Aiman Hanna",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Binarm：智能电子设备的固件图像中漏洞的可扩展性检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_7",
+                    "title": "Update State Tampering: A Novel Adversary Post-compromise Technique on Cyber Threats",
+                    "authors": "Sung-Jin Kim, Byung-Joon Kim, Hyoung-Chun Kim, Dong Hoon Lee",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "更新状态篡改：一种关于网络威胁的新型对手后弹力技术"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_8",
+                    "title": "Evasive Malware via Identifier Implanting",
+                    "authors": "Rui Tanabe, Wataru Ueno, Kou Ishii, Katsunari Yoshioka, Tsutomu Matsumoto, Takahiro Kasama, Daisuke Inoue, Christian Rossow",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-93411-2_8.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过识别剂植入的回避恶意软件"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_9",
+                    "title": "On the Weaknesses of Function Table Randomization",
+                    "authors": "Moritz Contag, Robert Gawlik, Andre Pawlowski, Thorsten Holz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于功能表随机化的弱点"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_10",
+                    "title": "FraudBuster: Temporal Analysis and Detection of Advanced Financial Frauds",
+                    "authors": "Michele Carminati, Alessandro Baggio, Federico Maggi, Umberto Spagnolini, Stefano Zanero",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://re.public.polimi.it/bitstream/11311/1057195/4/paper.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Fraudbuster：时间分析和检测高级财务欺诈"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_11",
+                    "title": "No Random, No Ransom: A Key to Stop Cryptographic Ransomware",
+                    "authors": "Ziya Alper Genç, Gabriele Lenzini, Peter Y. A. Ryan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://orbilu.uni.lu/bitstream/10993/35679/1/dimva2018_GLR.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "没有随机，没有赎金：停止加密勒索软件的关键"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_12",
+                    "title": "Hidden in Plain Sight: Filesystem View Separation for Data Integrity and Deception",
+                    "authors": "Teryl Taylor, Frederico Araujo, Anne Kohlbrenner, Marc Ph. Stoecklin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "隐藏在平坦的视线中：文件系统查看数据完整性和欺骗"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_13",
+                    "title": "Knockin' on Trackers' Door: Large-Scale Automatic Analysis of Web Tracking",
+                    "authors": "Iskander Sánchez-Rola, Igor Santos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "敲门件“跟踪器”门：网络跟踪的大规模自动分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_14",
+                    "title": "JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript",
+                    "authors": "Aurore Fass, Robert P. Krawczyk, Michael Backes, Ben Stock",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "JAST：恶意（混淆）JavaScript的完全句法检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_15",
+                    "title": "Bytecode Corruption Attacks Are Real - And How to Defend Against Them",
+                    "authors": "Taemin Park, Julian Lettner, Yeoul Na, Stijn Volckaert, Michael Franz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "字节码腐败攻击是真实的 - 以及如何防御它们"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_16",
+                    "title": "ELISA: ELiciting ISA of Raw Binaries for Fine-Grained Code and Data Separation",
+                    "authors": "Pietro De Nicolao, Marcello Pogliani, Mario Polino, Michele Carminati, Davide Quarta, Stefano Zanero",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://re.public.polimi.it/bitstream/11311/1053282/4/elisa-paper.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ELISA：诱导原始二进制文件的ISA，用于细粒度的代码和数据分离"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_17",
+                    "title": "Symbolic Deobfuscation: From Virtualized Code Back to the Original",
+                    "authors": "Jonathan Salwan, Sébastien Bardin, Marie-Laure Potet",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "象征性去量：从虚拟化代码回到原始代码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-93411-2_18",
+                    "title": "Extended Abstract: Toward Systematically Exploring Antivirus Engines",
+                    "authors": "Davide Quarta, Federico Salvioni, Andrea Continella, Stefano Zanero",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "扩展摘要：系统地探索防病毒引擎"
+                }
+            ]
+        }
+    ],
+    "2016": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2016.html",
+            "conf_title": "DIMVA 2016: San Sebastián, Spain",
+            "conf_url": "https://doi.org/10.1007/978-3-319-40667-1",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_1",
+                    "title": "Subverting Operating System Properties Through Evolutionary DKOM Attacks",
+                    "authors": "Mariano Graziano, Lorenzo Flore, Andrea Lanzi, Davide Balzarotti",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过进化DKOM攻击来颠覆操作系统属性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_2",
+                    "title": "DeepFuzz: Triggering Vulnerabilities Deeply Hidden in Binaries - (Extended Abstract)",
+                    "authors": "Konstantin Böttinger, Claudia Eckert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DeepFuzz：触发漏洞深深地隐藏在二进制文件中 - （扩展摘要）"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_3",
+                    "title": "AutoRand: Automatic Keyword Randomization to Prevent Injection Attacks",
+                    "authors": "Jeff H. Perkins, Jordan Eikenberry, Alessandro Coglio, Daniel Willenson, Stelios Sidiroglou-Douskos, Martin C. Rinard",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Autorand：自动关键字随机化以防止注射攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_4",
+                    "title": "AVRAND: A Software-Based Defense Against Code Reuse Attacks for AVR Embedded Devices",
+                    "authors": "Sergio Pastrana, Juan E. Tapiador, Guillermo Suarez-Tangil, Pedro Peris-López",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://kclpure.kcl.ac.uk/portal/files/96769599/2016dimva.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Avrand：针对AVR嵌入式设备的代码重用攻击的基于软件的防御"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_5",
+                    "title": "Towards Vulnerability Discovery Using Staged Program Analysis",
+                    "authors": "Bhargava Shastry, Fabian Yamaguchi, Konrad Rieck, Jean-Pierre Seifert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1508.04627"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用分期计划分析发现脆弱性发现"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_6",
+                    "title": "Comprehensive Analysis and Detection of Flash-Based Malware",
+                    "authors": "Christian Wressnegger, Fabian Yamaguchi, Daniel Arp, Konrad Rieck",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "综合分析和检测基于闪存的恶意软件"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_7",
+                    "title": "Reviewer Integration and Performance Measurement for Malware Detection",
+                    "authors": "Brad Miller, Alex Kantchelian, Michael Carl Tschantz, Sadia Afroz, Rekha Bachwani, Riyaz Faizullabhoy, Ling Huang, Vaishaal Shankar, Tony Wu, George Yiu, Anthony D. Joseph, J. D. Tygar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1510.07338"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "审阅者的集成和恶意软件检测的绩效测量"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_8",
+                    "title": "On the Lack of Consensus in Anti-Virus Decisions: Metrics and Insights on Building Ground Truths of Android Malware",
+                    "authors": "Médéric Hurier, Kevin Allix, Tegawendé F. Bissyandé, Jacques Klein, Yves Le Traon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://orbilu.uni.lu/bitstream/10993/27845/1/PAPER.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于反病毒决策中缺乏共识：关于建立Android恶意软件地面真理的指标和见解"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_9",
+                    "title": "Probfuscation: An Obfuscation Approach Using Probabilistic Control Flows",
+                    "authors": "Andre Pawlowski, Moritz Contag, Thorsten Holz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "提取：使用概率控制流的混淆方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_10",
+                    "title": "RAMBO: Run-Time Packer Analysis with Multiple Branch Observation",
+                    "authors": "Xabier Ugarte-Pedrero, Davide Balzarotti, Igor Santos, Pablo García Bringas",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RAMBO：带有多个分支观察的运行时包装器分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_11",
+                    "title": "Detecting Hardware-Assisted Virtualization",
+                    "authors": "Michael Brengel, Michael Backes, Christian Rossow",
+                    "abstract": "Recent years have witnessed the proliferation of the deployment of virtualization techniques. Virtualization is designed to be transparent, that is, unprivileged users should not be able to detect whether a system is virtualized. Such detection can result in serious security threats such as evading virtual machine (VM)-based malware dynamic analysis and exploiting vulnerabilities for cross-VM attacks. The traditional software-based virtualization leaves numerous artifacts/fingerprints, which can be exploited without much effort to detect the virtualization. In contrast, current mainstream hardware-assisted virtualization significantly enhances the virtualization transparency, making itself more transparent and difficult to be detected. Nonetheless, we showcase three new identified low-level inconspicuous features, which can be leveraged by an unprivileged adversary to effectively and stealthily detect the hardware-assisted virtualization. All three features come from the chipset fingerprints, rather than the traces of software-based virtualization implementations (e.g., Xen or KVM). The identified features include i) Translation-Lookaside Buffer (TLB) stores an extra layer of address translations; ii) Last-Level Cache (LLC) caches one more layer of page-table entries; and iii) Level-1 Data (L1D) Cache is unstable. Based on the above features, we develop three corresponding virtualization detection techniques, which are then comprehensively evaluated on three native environments and three popular cloud providers: i) Amazon Elastic Compute Cloud, ii) Google Compute Engine and iii) Microsoft Azure. Experimental results validate that these three adversarial detection techniques are effective (with no false positive) and stealthy (without triggering suspicious system events, e.g., VM-exit) in detecting the above commodity virtualized environments.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "近年来，虚拟化技术的部署激增。虚拟化被设计为透明的，也就是说，非特权用户不应该能够检测到系统是否被虚拟化。这种检测可能导致严重的安全威胁，例如规避基于虚拟机(VM)的恶意软件动态分析和利用漏洞进行跨VM攻击。传统的基于软件的虚拟化留下了大量的工件/指纹，无需太多努力就可以检测到虚拟化。相比之下，当前主流的硬件辅助虚拟化显著增强了虚拟化的透明性，使其自身更加透明，难以被检测到。尽管如此，我们还是展示了三个新发现的不显眼的低级功能，无特权的对手可以利用这些功能来有效而秘密地检测硬件辅助虚拟化。所有这三个特性都来自芯片组指纹，而不是基于软件的虚拟化实施(例如Xen或KVM)的痕迹。确定的特征包括I)翻译后备缓冲器(TLB)存储额外的地址翻译层；ii)末级高速缓存(LLC)高速缓存多一层页表条目；以及iii)一级数据(L1D)高速缓存不稳定。基于上述特征，我们开发了三种相应的虚拟化检测技术，然后在三个原生环境和三个流行的云提供商上进行综合评估:I)亚马逊弹性计算云，ii)谷歌计算引擎和iii)微软Azure。实验结果验证了这三种对抗性检测技术在检测上述商用虚拟化环境时是有效的(没有误报)和隐蔽的(没有触发可疑的系统事件，例如VM-exit)。",
+                    "title_zh": "检测硬件辅助虚拟化"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_12",
+                    "title": "Financial Lower Bounds of Online Advertising Abuse - A Four Year Case Study of the TDSS/TDL4 Botnet",
+                    "authors": "Yizheng Chen, Panagiotis Kintis, Manos Antonakakis, Yacin Nadji, David Dagon, Wenke Lee, Michael Farrell",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在线广告滥用的财务下限 -  TDSS/TDL4僵尸网络的四年案例研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_13",
+                    "title": "Google Dorks: Analysis, Creation, and New Defenses",
+                    "authors": "Flavio Toffalini, Maurizio Abbà, Damiano Carra, Davide Balzarotti",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Google Dorks：分析，创建和新防御"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_14",
+                    "title": "Flush+Flush: A Fast and Stealthy Cache Attack",
+                    "authors": "Daniel Gruss, Clémentine Maurice, Klaus Wagner, Stefan Mangard",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1511.04594"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "冲洗+冲洗：快速而隐形的缓存攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_15",
+                    "title": "Rowhammer.js: A Remote Software-Induced Fault Attack in JavaScript",
+                    "authors": "Daniel Gruss, Clémentine Maurice, Stefan Mangard",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1507.06955"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "rowhammer.js：在JavaScript中远程软件诱导的故障攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_16",
+                    "title": "Detile: Fine-Grained Information Leak Detection in Script Engines",
+                    "authors": "Robert Gawlik, Philipp Koppe, Benjamin Kollenda, Andre Pawlowski, Behrad Garmany, Thorsten Holz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/2007.03550"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "变态：脚本引擎中的细粒度信息泄漏检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_17",
+                    "title": "Understanding the Privacy Implications of ECS - (Extended Abstract)",
+                    "authors": "Panagiotis Kintis, Yacin Nadji, David Dagon, Michael Farrell, Manos Antonakakis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "了解ECS的隐私影响 - （扩展摘要）"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_18",
+                    "title": "Analysing the Security of Google's Implementation of OpenID Connect",
+                    "authors": "Wanpeng Li, Chris J. Mitchell",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1508.01707"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分析Google实施OpenID Connect的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_19",
+                    "title": "Leveraging Sensor Fingerprinting for Mobile Device Authentication",
+                    "authors": "Thomas Hupperich, Henry Hosseini, Thorsten Holz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用移动设备身份验证的传感器指纹识别"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_20",
+                    "title": "MtNet: A Multi-Task Neural Network for Dynamic Malware Classification",
+                    "authors": "Wenyi Huang, Jack W. Stokes",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "MTNET：用于动态恶意软件分类的多任务神经网络"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-40667-1_21",
+                    "title": "Adaptive Semantics-Aware Malware Classification",
+                    "authors": "Bojan Kolosnjaji, Apostolis Zarras, Tamas K. Lengyel, George D. Webster, Claudia Eckert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "自适应语义 - 意识到的恶意软件分类"
+                }
+            ]
+        }
+    ],
+    "2015": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2015.html",
+            "conf_title": "DIMVA 2015: Milan, Italy",
+            "conf_url": "https://doi.org/10.1007/978-3-319-20550-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_1",
+                    "title": "Cutting the Gordian Knot: A Look Under the Hood of Ransomware Attacks",
+                    "authors": "Amin Kharraz, William K. Robertson, Davide Balzarotti, Leyla Bilge, Engin Kirda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://www.ccs.neu.edu/home/mkharraz/publications/ransomware-DIMVA.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "切开戈尔迪的结：在勒索软件攻击的引擎盖下看"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_2",
+                    "title": "\"Nice Boots!\" - A Large-Scale Analysis of Bootkits and New Ways to Stop Them",
+                    "authors": "Bernhard Grill, Andrei Bacs, Christian Platzer, Herbert Bos",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "“好靴子！”  - 对靴子的大规模分析和阻止它们的新方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_3",
+                    "title": "C5: Cross-Cores Cache Covert Channel",
+                    "authors": "Clémentine Maurice, Christoph Neumann, Olivier Heen, Aurélien Francillon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "C5：跨核缓存秘密通道"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_4",
+                    "title": "Intrusion Detection for Airborne Communication Using PHY-Layer Information",
+                    "authors": "Martin Strohmeier, Vincent Lenders, Ivan Martinovic",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://ora.ox.ac.uk/objects/uuid:938dc003-5cbb-499a-9d02-21163fb9a31c/files/m26f803b59386b4f09e083fc1b7f64473"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用PHY层信息进行空中通信的入侵检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_5",
+                    "title": "That Ain't You: Blocking Spearphishing Through Behavioral Modelling",
+                    "authors": "Gianluca Stringhini, Olivier Thonnard",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://discovery.ucl.ac.uk/1470379/1/paper.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "那不是你：通过行为建模阻止矛盾的钓鱼"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_6",
+                    "title": "Robust and Effective Malware Detection Through Quantitative Data Flow Graph Metrics",
+                    "authors": "Tobias Wüchner, Martín Ochoa, Alexander Pretschner",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1502.01609"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过定量数据流量图指标可靠且有效的恶意软件检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_7",
+                    "title": "Jackdaw: Towards Automatic Reverse Engineering of Large Datasets of Binaries",
+                    "authors": "Mario Polino, Andrea Scorti, Federico Maggi, Stefano Zanero",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://re.public.polimi.it/bitstream/11311/960930/2/jackdaw.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "杰克多：迈向大型二进制数据集的自动逆向工程"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_8",
+                    "title": "Fine-Grained Control-Flow Integrity Through Binary Hardening",
+                    "authors": "Mathias Payer, Antonio Barresi, Thomas R. Gross",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过二进制硬化的细粒度控制流的完整性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_9",
+                    "title": "Powerslave: Analyzing the Energy Consumption of Mobile Antivirus Software",
+                    "authors": "Iasonas Polakis, Michalis Diamantaris, Thanasis Petsas, Federico Maggi, Sotiris Ioannidis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://www.cs.columbia.edu/%7Epolakis/papers/polakis_dimva2015.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "PowerSlave：分析移动防病毒软件的能耗"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_10",
+                    "title": "The Role of Cloud Services in Malicious Software: Trends and Insights",
+                    "authors": "Xiao Han, Nizar Kheir, Davide Balzarotti",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://s3.eurecom.fr/docs/dimva15_xiao.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "云服务在恶意软件中的作用：趋势和见解"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_11",
+                    "title": "Capturing DDoS Attack Dynamics Behind the Scenes",
+                    "authors": "An Wang, Aziz Mohaisen, Wentao Chang, Songqing Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "捕获DDOS攻击动力在幕后"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_12",
+                    "title": "Quit Playing Games with My Heart: Understanding Online Dating Scams",
+                    "authors": "JingMin Huang, Gianluca Stringhini, Peng Yong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://discovery.ucl.ac.uk/1470378/1/dating-dimva2015.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "退出我的内心玩游戏：了解在线约会骗局"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_13",
+                    "title": "More Guidelines Than Rules: CSRF Vulnerabilities from Noncompliant OAuth 2.0 Implementations",
+                    "authors": "Ethan Shernan, Henry Carter, Dave Tian, Patrick Traynor, Kevin R. B. Butler",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "与规则相比，更多的准则：不合规OAuth 2.0实现的CSRF漏洞"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_14",
+                    "title": "May I? - Content Security Policy Endorsement for Browser Extensions",
+                    "authors": "Daniel Hausknecht, Jonas Magazinius, Andrei Sabelfeld",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://www.cse.chalmers.se/%7Eandrei/dimva15.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "我可以？  - 浏览器扩展程序的内容安全策略认可"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_15",
+                    "title": "On the Security and Engineering Implications of Finer-Grained Access Controls for Android Developers and Users",
+                    "authors": "Yanick Fratantonio, Antonio Bianchi, William K. Robertson, Manuel Egele, Christopher Kruegel, Engin Kirda, Giovanni Vigna",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://cs.ucsb.edu/%7Evigna/publications/2015_DIMVA_AndroidAccess.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于Android开发人员和用户的细粒度访问控件的安全性和工程含义"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_16",
+                    "title": "Identifying Intrusion Infections via Probabilistic Inference on Bayesian Network",
+                    "authors": "Yuan Yang, Zhongmin Cai, Weixuan Mao, Zhihai Yang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过对贝叶斯网络的概率推断识别入侵感染"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-20550-2_17",
+                    "title": "Controlled Data Sharing for Collaborative Predictive Blacklisting",
+                    "authors": "Julien Freudiger, Emiliano De Cristofaro, Alejandro E. Brito",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1502.05337"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "控制的数据共享用于协作预测黑名单"
+                }
+            ]
+        }
+    ],
+    "2017": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2017.html",
+            "conf_title": "DIMVA 2017: Bonn, Germany",
+            "conf_url": "https://doi.org/10.1007/978-3-319-60876-1",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_1",
+                    "title": "Malware Guard Extension: Using SGX to Conceal Cache Attacks",
+                    "authors": "Michael Schwarz, Samuel Weiser, Daniel Gruss, Clémentine Maurice, Stefan Mangard",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1702.08719"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "恶意软件守卫扩展：使用SGX隐藏缓存攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_2",
+                    "title": "On the Trade-Offs in Oblivious Execution Techniques",
+                    "authors": "Shruti Tople, Prateek Saxena",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于遗忘执行技术的权衡"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_3",
+                    "title": "MemPatrol: Reliable Sideline Integrity Monitoring for High-Performance Systems",
+                    "authors": "Myoung Jin Nam, Wonhong Nam, Jin-Young Choi, Periklis Akritidis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "备忘录：高性能系统可靠的边线完整性监视"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_4",
+                    "title": "Measuring and Defeating Anti-Instrumentation-Equipped Malware",
+                    "authors": "Mario Polino, Andrea Continella, Sebastiano Mariani, Stefano D'Alessio, Lorenzo Fontana, Fabio Gritti, Stefano Zanero",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://re.public.polimi.it/bitstream/11311/1030092/2/polino-arancino-2017.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "测量和击败配备反诉讼的恶意软件"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_5",
+                    "title": "DynODet: Detecting Dynamic Obfuscation in Malware",
+                    "authors": "Danny Kim, Amir Majlesi-Kupaei, Julien Roy, Kapil Anand, Khaled ElWazeer, Daniel Buettner, Rajeev Barua",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Dynodet：在恶意软件中检测动态混淆"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_6",
+                    "title": "Finding the Needle: A Study of the PE32 Rich Header and Respective Malware Triage",
+                    "authors": "George D. Webster, Bojan Kolosnjaji, Christian von Pentz, Julian Kirsch, Zachary D. Hanif, Apostolis Zarras, Claudia Eckert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "找到针头：对PE32富标头和各自的恶意软件分类的研究"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_7",
+                    "title": "Last Line of Defense: A Novel IDS Approach Against Advanced Threats in Industrial Control Systems",
+                    "authors": "Mark Luchs, Christian Doerr",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "最后的防线：一种针对工业控制系统中高级威胁的新颖ID方法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_8",
+                    "title": "LED-it-GO: Leaking (A Lot of) Data from Air-Gapped Computers via the (Small) Hard Drive LED",
+                    "authors": "Mordechai Guri, Boris Zadov, Yuval Elovici",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://arxiv.org/pdf/1702.06715"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "LED-IT-GO：通过（小）硬盘驱动器LED泄漏（大量）来自空气计算机的数据"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_9",
+                    "title": "A Stealth, Selective, Link-Layer Denial-of-Service Attack Against Automotive Networks",
+                    "authors": "Andrea Palanca, Eric Evenchick, Federico Maggi, Stefano Zanero",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://re.public.polimi.it/bitstream/11311/1030098/2/dimva17_paper7_final.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对汽车网络的隐形，选择性，链接拒绝服务攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_10",
+                    "title": "Quincy: Detecting Host-Based Code Injection Attacks in Memory Dumps",
+                    "authors": "Thomas Barabosch, Niklas Bergmann, Adrian Dombeck, Elmar Padilla",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Quincy：在内存转储中检测基于主机的代码注入攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_11",
+                    "title": "SPEAKER: Split-Phase Execution of Application Containers",
+                    "authors": "Lingguang Lei, Jianhua Sun, Kun Sun, Chris Shenefiel, Rui Ma, Yuewu Wang, Qi Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "扬声器：应用程序容器的分阶段执行"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_12",
+                    "title": "Deep Ground Truth Analysis of Current Android Malware",
+                    "authors": "Fengguo Wei, Yuping Li, Sankardas Roy, Xinming Ou, Wu Zhou",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "目前的Android恶意软件的深层真相分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_13",
+                    "title": "HumIDIFy: A Tool for Hidden Functionality Detection in Firmware",
+                    "authors": "Sam L. Thomas, Flavio D. Garcia, Tom Chothia",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://pure-oai.bham.ac.uk/ws/files/40674355/humidify_final.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "加湿：固件中隐藏功能检测的工具"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_14",
+                    "title": "BinShape: Scalable and Robust Binary Library Function Identification Using Function Shape",
+                    "authors": "Paria Shirani, Lingyu Wang, Mourad Debbabi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Binshape：使用功能形状的可扩展且可靠的二进制库函数识别"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_15",
+                    "title": "SCVD: A New Semantics-Based Approach for Cloned Vulnerable Code Detection",
+                    "authors": "Deqing Zou, Hanchao Qi, Zhen Li, Song Wu, Hai Jin, Guozhong Sun, Sujuan Wang, Yuyi Zhong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "SCVD：一种基于语义的新方法，用于克隆脆弱的代码检测"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_16",
+                    "title": "On the Privacy Impacts of Publicly Leaked Password Databases",
+                    "authors": "Olivier Heen, Christoph Neumann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于公开泄露密码数据库的隐私影响"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_17",
+                    "title": "Unsupervised Detection of APT C&C Channels using Web Request Graphs",
+                    "authors": "Pavlos Lamprakis, Ruggiero Dargenio, David Gugelmann, Vincent Lenders, Markus Happe, Laurent Vanbever",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用Web请求图无监督检测APT C＆C频道"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-319-60876-1_18",
+                    "title": "Measuring Network Reputation in the Ad-Bidding Process",
+                    "authors": "Yizheng Chen, Yacin Nadji, Rosa Romero Gómez, Manos Antonakakis, David Dagon",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "测量在订购过程中的网络声誉"
+                }
+            ]
+        }
+    ],
+    "2023": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2023.html",
+            "conf_title": "20th DIMVA 2023:\nHamburg, Germany",
+            "conf_url": "https://doi.org/10.1007/978-3-031-35504-2",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_1",
+                    "title": "MAMBO-V: Dynamic Side-Channel Leakage Analysis on RISC-V",
+                    "authors": "Jan Wichelmann, Christopher Peredy, Florian Sieck, Anna Pätschke, Thomas Eisenbarth",
+                    "abstract": "RISC-V is an emerging technology, with applications ranging from embedded devices to high-performance servers. Therefore, more and more security-critical workloads will be conducted with code that is compiled for RISC-V. Well-known microarchitectural side-channel attacks against established platforms like x86 apply to RISC-V CPUs as well. As RISC-V does not mandate any hardware-based side-channel countermeasures, a piece of code compiled for a generic RISC-V CPU in a cloud server cannot make safe assumptions about the microarchitecture on which it is running. Existing tools for aiding software-level precautions by checking side-channel vulnerabilities on source code or x86 binaries are not compatible with RISC-V machine code. In this work, we study the requirements and goals of architecture-specific leakage analysis for RISC-V and illustrate how to achieve these goals with the help of fast and precise dynamic binary analysis. We implement all necessary building blocks for finding side-channel leakages on RISC-V, while relying on existing mature solutions when possible. Our leakage analysis builds upon the modular side-channel analysis framework Microwalk, that examines execution traces for leakage through secret-dependent memory accesses or branches. To provide suitable traces, we port the ARM dynamic binary instrumentation tool MAMBO to RISC-V. Our port named MAMBO-V can instrument arbitrary binaries which use the 64-bit general purpose instruction set. We evaluate our toolchain on several cryptographic libraries with RISC-V support and identify multiple exploitable leakages.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "MAMBO-V:RISC-V上的动态侧通道泄漏分析",
+                    "abstract_zh": "RISC-V是一项新兴技术，应用范围从嵌入式设备到高性能服务器。因此，越来越多的安全关键型工作负载将通过针对RISC-V编译的代码来执行。众所周知，针对x86等成熟平台的微体系结构旁路攻击也适用于RISC-V CPU。由于RISC-V不要求任何基于硬件的侧信道对策，所以为云服务器中的通用RISC-V CPU编译的一段代码无法对其运行的微体系结构做出安全的假设。通过检查源代码或x86二进制文件上的旁路漏洞来帮助软件级预防的现有工具与RISC-V机器码不兼容。在这篇文章中，我们研究了RISC-V的特定架构泄漏分析的需求和目标，并说明了如何借助快速精确的动态二进制分析来实现这些目标。我们在RISC-V上实现了所有必要的构建模块来查找侧通道泄漏，同时尽可能依赖现有的成熟解决方案。我们的泄漏分析建立在模块化侧通道分析框架Microwalk的基础上，该框架通过秘密相关的内存访问或分支来检查泄漏的执行跟踪。为了提供合适的跟踪，我们将ARM动态二进制插装工具MAMBO移植到RISC-V。我们名为MAMBO-V的端口可以插装使用64位通用指令集的任意二进制文件。我们在几个支持RISC-V的加密库上评估了我们的工具链，并发现了多个可利用的漏洞。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_2",
+                    "title": "The Finger in the Power: How to Fingerprint PCs by Monitoring Their Power Consumption",
+                    "authors": "Marina Botvinnik, Tomer Laor, Thomas Rokicki, Clémentine Maurice, Yossi Oren",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "电源中的手指:如何通过监控功耗来识别电脑",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_3",
+                    "title": "PwrLeak: Exploiting Power Reporting Interface for Side-Channel Attacks on AMD SEV",
+                    "authors": "Wubing Wang, Mengyuan Li, Yinqian Zhang, Zhiqiang Lin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "PwrLeak:利用电源报告接口对AMD SEV进行旁道攻击",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_4",
+                    "title": "Madvex: Instrumentation-Based Adversarial Attacks on Machine Learning Malware Detection",
+                    "authors": "Nils Loose, Felix Mächtle, Claudius Pott, Volodymyr Bezsmertnyi, Thomas Eisenbarth",
+                    "abstract": "WebAssembly (Wasm) is a low-level binary format for web applications, which has found widespread adoption due to its improved performance and compatibility with existing software. However, the popularity of Wasm has also led to its exploitation for malicious purposes, such as cryptojacking, where malicious actors use a victim's computing resources to mine cryptocurrencies without their consent. To counteract this threat, machine learning-based detection methods aiming to identify cryptojacking activities within Wasm code have emerged. It is well-known that neural networks are susceptible to adversarial attacks, where inputs to a classifier are perturbed with minimal changes that result in a crass misclassification. While applying changes in image classification is easy, manipulating binaries in an automated fashion to evade malware classification without changing functionality is non-trivial. In this work, we propose a new approach to include adversarial examples in the code section of binaries via instrumentation. The introduced gadgets allow for the inclusion of arbitrary bytes, enabling efficient adversarial attacks that reliably bypass state-of-the-art machine learning classifiers such as the CNN-based Minos recently proposed at NDSS 2021. We analyze the cost and reliability of instrumentation-based adversarial example generation and show that the approach works reliably at minimal size and performance overheads.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "Madvex:对机器学习恶意软件检测的基于仪器的对抗性攻击",
+                    "abstract_zh": "WebAssembly (Wasm)是一种用于web应用程序的低级二进制格式，由于其改进的性能和与现有软件的兼容性，已经被广泛采用。然而，Wasm的流行也导致了其被恶意利用，如加密劫持，恶意行为者在未经受害者同意的情况下使用受害者的计算资源来挖掘加密货币。为了应对这种威胁，出现了旨在识别Wasm代码中的密码劫持活动的基于机器学习的检测方法。众所周知，神经网络容易受到敌对攻击，其中分类器的输入受到最小变化的干扰，导致严重的错误分类。虽然在图像分类中应用更改很容易，但在不改变功能的情况下以自动化方式操纵二进制文件来规避恶意软件分类却并非易事。在这项工作中，我们提出了一种新的方法，通过插装在二进制代码部分包含对立的例子。引入的小工具允许包含任意字节，实现高效的对抗性攻击，可靠地绕过最先进的机器学习分类器，如CNN最近在NDSS 2021上提出的弥诺斯。我们分析了基于插装的对抗性示例生成的成本和可靠性，并表明该方法在最小的规模和性能开销下可靠地工作。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_5",
+                    "title": "Honey, I Chunked the Passwords: Generating Semantic Honeywords Resistant to Targeted Attacks Using Pre-trained Language Models",
+                    "authors": "Fangyi Yu, Miguel Vargas Martin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "亲爱的，我把密码分了块:使用预先训练好的语言模型生成抵抗目标攻击的语义蜜语",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_6",
+                    "title": "White-Box Concealment Attacks Against Anomaly Detectors for Cyber-Physical Systems",
+                    "authors": "Alessandro Erba, Nils Ole Tippenhauer",
+                    "abstract": "Recently, reconstruction-based anomaly detection was proposed as an effective technique to detect attacks in dynamic industrial control networks. Unlike classical network anomaly detectors that observe the network traffic, reconstruction-based detectors operate on the measured sensor data, leveraging physical process models learned a priori. In this work, we investigate different approaches to evade prior-work reconstruction-based anomaly detectors by manipulating sensor data so that the attack is concealed. We find that replay attacks (commonly assumed to be very strong) show bad performance (i.e., increasing the number of alarms) if the attacker is constrained to manipulate less than 95% of all features in the system, as hidden correlations between the features are not replicated well. To address this, we propose two novel attacks that manipulate a subset of the sensor readings, leveraging learned physical constraints of the system. Our attacks feature two different attacker models: A white box attacker, which uses an optimization approach with a detection oracle, and a black box attacker, which uses an autoencoder to translate anomalous data into normal data. We evaluate our implementation on two different datasets from the water distribution domain, showing that the detector’s Recall drops from 0.68 to 0.12 by manipulating 4 sensors out of 82 in WADI dataset. In addition, we show that our black box attacks are transferable to different detectors: They work against autoencoder-, LSTM-, and CNN-based detectors. Finally, we implement and demonstrate our attacks on a real industrial testbed to demonstrate their feasibility in real-time.",
+                    "files": {
+                        "openAccessPdf": "https://repository.tudelft.nl/islandora/object/uuid%3A7e872bc3-1ee6-4330-821f-d22bfd2e9b6b/datastream/OBJ/download"
+                    },
+                    "title_zh": "针对信息物理系统异常检测器的白盒隐藏攻击",
+                    "abstract_zh": "最近，基于重构的异常检测被认为是检测动态工业控制网络中攻击的有效技术。与观察网络流量的经典网络异常检测器不同，基于重构的检测器对测量的传感器数据进行操作，利用先验学习的物理过程模型。在这项工作中，我们研究了不同的方法，通过操纵传感器数据来规避基于前期工作重建的异常检测器，从而隐藏攻击。我们发现，如果攻击者被限制操作系统中少于95%的所有特征，重放攻击(通常被假设为非常强)表现不佳(即，增加警报数量)，因为特征之间的隐藏相关性没有被很好地复制。为了解决这个问题，我们提出了两种新的攻击，它们利用系统的已知物理约束来操纵传感器读数的子集。我们的攻击有两种不同的攻击者模型:白盒攻击者，它使用带有检测oracle的优化方法，以及黑盒攻击者，它使用自动编码器将异常数据转换为正常数据。我们在来自水分布领域的两个不同数据集上评估了我们的实现，显示通过操纵WADI数据集中82个传感器中的4个，检测器的召回率从0.68下降到0.12。此外，我们表明，我们的黑盒攻击可转移到不同的检测器:他们对自动编码器，LSTM和CNN为基础的检测器工作。最后，我们在一个真实的工业测试平台上实现并演示了我们的攻击，以实时演示它们的可行性。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_7",
+                    "title": "A Security Analysis of CNC Machines in Industry 4.0",
+                    "authors": "Marco Balduzzi, Francesco Sortino, Fabio Castello, Leandro Pierguidi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "工业4.0中数控机床的安全性分析",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_8",
+                    "title": "A Deep Dive into the VirusTotal File Feed",
+                    "authors": "Kevin van Liebergen, Juan Caballero, Platon Kotzias, Chris Gates",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "深入了解VirusTotal文件馈送",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_9",
+                    "title": "Attackers as Instructors: Using Container Isolation to Reduce Risk and Understand Vulnerabilities",
+                    "authors": "Yunsen Lei, Julian P. Lanson, Craig A. Shue, Timothy W. Wood",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "攻击者作为指导者:使用容器隔离来降低风险和了解漏洞",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_10",
+                    "title": "Extended Abstract: Towards Reliable and Scalable Linux Kernel CVE Attribution in Automated Static Firmware Analyses",
+                    "authors": "René Helmke, Johannes vom Dorp",
+                    "abstract": "—In vulnerability assessments, software component- based CVE attribution is a common method to identify possibly vulnerable systems at scale. However, such version-centric ap- proaches yield high false-positive rates for binary distributed Linux kernels in ﬁrmware images. Not ﬁltering included vul- nerable components is a reason for unreliable matching, as heterogeneous hardware properties, modularity, and numerous development streams result in a plethora of vendor-customized builds. To make a step towards increased result reliability while retaining scalability of the analysis method, we enrich version-based CVE matching with kernel-speciﬁc build data from binary images using automated static ﬁrmware analysis. We open source an attribution pipeline that gathers kernel conﬁguration and target architecture to dry build the present kernel version and ﬁlter CVEs based on affected ﬁle references in record descriptions. In a case study with 127 router ﬁrmware images, we show that in comparison to naive version matching, our approach identiﬁes 68% of all version CVE matches as false-positives and reliably removes them from the result set. For 12% of all matches it provides additional evidence of issue applicability. For 19.4%, our approach does not improve reliability because required ﬁle references in CVEs are missing.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "扩展摘要:在自动化静态固件分析中实现可靠和可扩展的Linux内核CVE属性",
+                    "abstract_zh": "—在漏洞评估中，基于软件组件的CVE属性是大规模识别可能存在漏洞的系统的常用方法。然而，这种以版本为中心的方法对于二进制分布式Linux内核在固件映像中会产生很高的误报率。不过滤包含的易受攻击组件是不可靠匹配的一个原因，因为异构硬件属性、模块化和众多开发流会导致过多的供应商定制版本。为了在提高结果可靠性的同时保持分析方法的可扩展性，我们使用自动化静态固件分析，通过来自二进制图像的内核特定构建数据，丰富了基于版本的CVE匹配。我们开源了一个属性管道，收集内核配置和目标架构，以干式构建当前内核版本，并根据记录描述中受影响的文件引用过滤cv。在对127个路由器固件映像的案例研究中，我们发现，与简单的版本匹配相比，我们的方法将所有版本CVE匹配中的68%识别为误报，并可靠地将其从结果集中删除。对于12%的匹配，它提供了问题适用性的额外证据。对于19.4%，我们的方法没有提高可靠性，因为CVE中所需的文件引用丢失了。"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_11",
+                    "title": "Divak: Non-invasive Characterization of Out-of-Bounds Write Vulnerabilities",
+                    "authors": "Linus Hafkemeyer, Jerre Starink, Andrea Continella",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "Divak:越界写入漏洞的非侵入性表征",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_12",
+                    "title": "CEFI: Command Execution Flow Integrity for Embedded Devices",
+                    "authors": "Anni Peng, Dongliang Fang, Wei Zhou, Erik van der Kouwe, Yin Li, Yuqing Zhang",
+                    "abstract": "(Each chapter concludes with a Chapter Summary.) Preface. Why Learn CGI. Why I Wrote This Book. Who Should Read This Book. What You Should Know to Read This Book. What's in This Book. About the cgi.tcl Library. Acknowledgments. 1. The Internet. A Brief History. Wide Area Networks. Ethernet. Ethernet Data Frames. Internetworking and the Internet. Internet Protocol Layers. The Internet Protocol (IP). Packet Switching. The Transmission Control Protocol (TCP). Fragmentation. The Three-Way Handshake. User Datagram Protocol (UDP). UNIX and the Internet. Internet Addresses. Address Space. CIDR Addresses. Ports. The Universal Resource Locator (URL). Defining the World Wide Web. The Client-Server Model. What Is a Web Server? Documenting the Development. The RFC Series. The Internet Standards Track. Anyone Can Join. Address Management. Who Uses the Web? 2. The Common Gateway Interface. What's in a Name? Analyzing Web Transactions. Static Web Transactions. Dynamic Web Transactions. The CGI Interface. The GET Method. The POST Method. Environment Variables. The HTTP Specification. A Stateless Protocol. The HTTP Request. The HTTP Response. Status Codes. 3. Getting Started. Obtaining and Installing Tcl. Understanding Your Web Server's Configuration. Installing the CD. Using the cgi.tcl Library. Modularity and the Tcl Package Facility. Naming Conventions. Namespaces. 4. Hello World. A Word about Tools. Example 1: The HTML Version. The CGI Approach. The Hello World Form. Obtaining the Form Data. Debugging CGI Programs. Command Line Execution. Set Up the Environment Variables. Displaying User Input. Using Embedded puts Commands. Trapping Errors with catch. Interactive Debugging. The Debug Command. Tcl Debuggers. 5. A Web-Based Directory Browser. Security Considerations. Obtaining the Client's IP Address. Restricting Access Using REMOTE_ADDR. Guarding the Back Door. Using QUERY_STRING for State Information. Building the Directory Screen. Enhancing the Browser. Hiding the Absolute Path. Adding the Icons. Providing the \"Up One Level\" Icon. 6. The Mortgage Calculator. The Formulas. Monthly Payment. Amortization Schedule. The mort.tcl Package. Package Structure. The mort::payment Procedure. The mort::schedule Procedure. Designing Web Pages. The Mortgage Calculator Screen. The Payment Calculator Screen. The Amortization Schedule. A Cleaner Display. 7. Counting Your Hits. The counter.tcl Package. The counter_get_count Procedure. The counter_display Procedure. More Tricks. The Hidden Field. 8. Server Side Includes. Understanding Server Side Includes. Configuring Your Web Server. Server Side Include Directives. SSI Examples. Inserting System Variables into Your Documents. Inserting Text into Your Documents. File Statistics. Executing External Programs. The Mortgage Calculator Revisited. Customizing the SSI Output. 9. Image Maps. Server Side Image Maps. Client Side Image Maps. A File for Every Shape. Building the Map. The Gemstone Conference Room. Processing the Request. 10. Putting Data Behind Your Forms. The Flat File Database. A Look at the Flat File. The Selection Screen. The Results Screen. The db.tcl Package. Using db.tcl in Standalone Applications. Including the db.tcl Package. Creating and Populating the Database. Reading Records from the Database. Deleting Records from the Database. Updating Records in the Database. db.tcl Command Summary. Using db.tcl in Client-Server Applications. The Database Server Program: dbserver.tcl. Authentication in the Client-Server Model. Real CGI. Off-Line Maintenance of Your Data. 11. Cookies Anyone? Cookies Anyone? The Cookie Controversy. How to Bake Cookies. The Cookie Viewer. Creating a Cookie. Creating Cookies with an Expiration Date. Where Are Persistent Cookies Kept? Manually Expiring Cookies. How Many Cookies Per Box? 12. The Bug Tracker. Authenticating Bug Tracker Users. User Accounts in the db.tcl Package. The bugt.cgi Program. The Login Screen. The Browser Window. Logging into the Database. Creating the Authentication Cookie. The HTML Template. Building the Browse List. Building the Filter. The View Entry Screen. Using Hidden Fields. The Edit Entry Screen. The New Entry Screen. 13. Building Gateways to Your Data. Database Overview. The Flat File Database. The Relational Model. The Entity Relationship Diagram. The OraTcl Package. Connecting to the Oracle Database. Oracle and Cursors. Using SQL under OraTcl. Building the Test Database. Retrieving Query Results with the orafetch Command. Examining the Database from the Tcl Shell. OraTcl Inside Your CGI Scripts. Getting the Company Profile. Obtaining the Drive List. Getting the Drive Statistics. 14. Expect in CGI Scripts. A Quick Tour of Expect. The send Command. Matching Input with Expect. The spawn Command. The Web Login Application. 15. The Tcl Browser Plug-In. What Is a Browser Plug-In? The Pros and Cons of Using the Browser Plug-In. Obtaining and Installing the Plug-In. Your First Tclet. Referencing Script Files with the SRC Attribute. The \"HELLO WORLD\" Form Application. Security Policies. Default Error Handling. Building Your Own Error Handling. Streams and the JavaScript Policy. The Mortgage Calculator Revisited. The Client-Server Approach. Screen Validation with the trace Command. The Monthly Payment Screen. Reusing the Tclet's Main Window. The Client-Side Application. 16. A Tcl Chat Room. Understanding Tcl Sockets. Creating the Server. Accepting Client Connections. Configuring the Client Connection. Establishing the Callback Procedure. Servicing the Client Connection. The Client. Putting Your Clients on the Web. Examining the Tclet. Appendix A: HTML Reference Guide. Basic HTML Page Layout. Most Commonly Used HTML Code. Headings. Lists. Dot Points (Unordered Lists). Enumerated Lists (Ordered Lists). Tables. Forms. Appendix B: Tcl Language Summary. Working with Variables. How Tcl Evaluates Commands. Comment Lines and Line Separators. Variable Substitution. Command Substitution. Backslash Substitution. Grouping with Quotes. Grouping with Braces. Return Values in Tcl. String Manipulation. Tcl Lists. Creating Lists: list, lappend, concat. Querying Lists: llength, lindex, lsearch. Manipulating Lists: linsert, lreplace, lsort. Tcl Arrays. Multidimensional Arrays. The Array Command. Getting Array Info: array exists, array names, array size. Searching Arrays. Converting Arrays to Lists: array get. Converting Lists to Arrays: array set. Pattern Matching. Control Flow Commands. Conditional Statements. Looping: for, foreach, while. File Access Commands. Opening and Closing Files: open, close. Command Pipelines. Connecting to Serial Devices. Interfacing to the File System. File I/O: puts, gets. Procedures. The return Command. Forcing Errors with the return Command. Catching Errors with the catch Command. Default Argument Values in Procedures. Passing Variable Number of Arguments to Procedures. Passing by Reference with the upvar Command. Network Communication. Querying Tcl Internals. Organizing Your Code. The source Command. The package Command. Namespaces. Appendix C: cgi.tcl Reference. Procedure Summary. Understanding the cgi.tcl Output. Library Call Reference. Appendix D: The Web Browser Plug-In. Overview. Obtaining and Installing the Plug-In. Plug-in Configuration Files. Making It Safe. The Safe Interpreter. The Plug-in Security Model. Plug-in Features. Browser Namespaces. The Network Feature. The Persist Feature. The Stream Feature. The Unsafe Feature. The URL Feature. Security Policies. Understanding the Configuration File Format. Examining the home Policy. Understanding the Risks. Integrity Risks. Privacy Risks. Loss of Reputation. Annoyance and Resource Attacks. The Plug-in Logging Facility. The Plug-in Console. Bibliography. RFCs. Books. Index.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "CEFI:嵌入式设备的命令执行流程完整性",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-031-35504-2_13",
+                    "title": "Untangle: Aiding Global Function Pointer Hijacking for Post-CET Binary Exploitation",
+                    "authors": "Alessandro Bertani, Marco Bonelli, Lorenzo Binosi, Michele Carminati, Stefano Zanero, Mario Polino",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "title_zh": "解开:帮助后CET二进制开发的全局函数指针劫持",
+                    "abstract_zh": ""
+                }
+            ]
+        }
+    ]
+}

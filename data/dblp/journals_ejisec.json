@@ -1,0 +1,1449 @@
+{
+    "2022": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/ejisec/ejisec2022.html",
+            "journals_title": "EURASIP Journal on Information Security, Volume 2022",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00125-2",
+                    "title": "Secure machine learning against adversarial samples at test time",
+                    "authors": "Jing Lin, Laurent L. Njilla, Kaiqi Xiong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-021-00125-2"
+                    },
+                    "title_zh": "测试时对抗对立样本的安全机器学习",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-022-00128-7",
+                    "title": "DIPPAS: a deep image prior PRNU anonymization scheme",
+                    "authors": "Francesco Picetti, Sara Mandelli, Paolo Bestagini, Vincenzo Lipari, Stefano Tubaro",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-022-00128-7"
+                    },
+                    "title_zh": "DIPPAS:一种深度图像先验PRNU匿名方案",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-022-00129-6",
+                    "title": "On the methodology of fingerprint template protection schemes conception : meditations on the reliability",
+                    "authors": "Ayoub Lahmidi, Chouaib Moujahdi, Khalid Minaoui, Mohammed Rziza",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-022-00129-6"
+                    },
+                    "title_zh": "指纹模板保护方案构思的方法论研究——对可靠性的思考",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-022-00130-z",
+                    "title": "Robust video steganography for social media sharing based on principal component analysis",
+                    "authors": "Pingan Fan, Hong Zhang, Xianfeng Zhao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-022-00130-z"
+                    },
+                    "title_zh": "基于主成分分析的社交媒体共享鲁棒视频隐写",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-022-00131-y",
+                    "title": "Presentation attack detection and biometric recognition in a challenge-response formalism",
+                    "authors": "Erwin Haasnoot, Luuk J. Spreeuwers, Raymond N. J. Veldhuis",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-022-00131-y"
+                    },
+                    "title_zh": "挑战-应答形式中的表示攻击检测和生物特征识别",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-022-00132-x",
+                    "title": "Behavior-based user authentication on mobile devices in various usage contexts",
+                    "authors": "Dmytro Progonov, Valentyna Cherniakova, Pavel V. Kolesnichenko, Andriy Oliynyk",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-022-00132-x"
+                    },
+                    "title_zh": "各种使用环境下移动设备上基于行为的用户认证",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-022-00133-w",
+                    "title": "\"Alexa, What's a Phishing Email?\": Training users to spot phishing emails using a voice assistant",
+                    "authors": "Filipo Sharevski, Peter Jachim",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-022-00133-w"
+                    },
+                    "title_zh": "“Alexa，什么是钓鱼邮件？”:培训用户使用语音助手识别钓鱼电子邮件",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-022-00134-9",
+                    "title": "Human-artificial intelligence approaches for secure analysis in CAPTCHA codes",
+                    "authors": "Nghia Dinh, Lidia Ogiela",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-022-00134-9"
+                    },
+                    "title_zh": "验证码安全分析的人工智能方法",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-022-00136-7",
+                    "title": "Improved scheme and evaluation method for progressive visual cryptography",
+                    "authors": "Binh Le Thanh Thai, Hidema Tanaka, Kohtaro Watanabe",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-022-00136-7"
+                    },
+                    "title_zh": "渐进视觉密码的改进方案和评估方法",
+                    "abstract_zh": ""
+                }
+            ]
+        }
+    ],
+    "2020": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/ejisec/ejisec2020.html",
+            "journals_title": "EURASIP Journal on Information Security, Volume 2020",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-0101-7",
+                    "title": "Combining PRNU and noiseprint for robust and efficient device source identification",
+                    "authors": "Davide Cozzolino, Francesco Marra, Diego Gragnaniello, Giovanni Poggi, Luisa Verdoliva",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-0101-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "结合PRNU和噪声印迹进行鲁棒高效的设备源识别"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-0100-8",
+                    "title": "Keystroke biometrics in the encrypted domain: a first study on search suggestion functions of web search engines",
+                    "authors": "Nicholas Whiskerd, Nicklas Körtge, Kris Jürgens, Kevin Lamshöft, Salatiel Ezennaya-Gomez, Claus Vielhauer, Jana Dittmann, Mario Hildebrandt",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "加密领域的击键生物特征识别:网络搜索引擎搜索建议功能初探"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-0102-6",
+                    "title": "Understanding visual lip-based biometric authentication for mobile devices",
+                    "authors": "Carrie Wright, Darryl Stewart",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-0102-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "理解用于移动设备的基于视觉唇的生物认证"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00103-0",
+                    "title": "Evaluation of stability of swipe gesture authentication across usage scenarios of mobile device",
+                    "authors": "Elakkiya Ellavarason, Richard M. Guest, Farzin Deravi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00103-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "跨移动设备使用场景的滑动手势认证的稳定性评估"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00105-y",
+                    "title": "Deep neural rejection against adversarial examples",
+                    "authors": "Angelo Sotgiu, Ambra Demontis, Marco Melis, Battista Biggio, Giorgio Fumera, Xiaoyi Feng, Fabio Roli",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00105-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对抗例子的深层神经排斥"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00109-8",
+                    "title": "Swapped face detection using deep learning and subjective assessment",
+                    "authors": "Xinyi Ding, Zohreh Raziei, Eric C. Larson, Eli V. Olinick, Paul Krueger, Michael Hahsler",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00109-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用深度学习和主观评估的交换人脸检测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00110-1",
+                    "title": "Low-cost data partitioning and encrypted backup scheme for defending against co-resident attacks",
+                    "authors": "Junfeng Tian, Zilong Wang, Zhen Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00110-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "抵御共存攻击的低成本数据分区和加密备份方案"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00111-0",
+                    "title": "IoT cyber risk: a holistic analysis of cyber risk assessment frameworks, risk vectors, and risk ranking process",
+                    "authors": "Kamalanathan Kandasamy, Sethuraman Srinivas, Krishnashree Achuthan, P. Venkat Rangan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00111-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "物联网网络风险:网络风险评估框架、风险载体和风险分级流程的整体分析"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00108-9",
+                    "title": "ELSA: efficient long-term secure storage of large datasets (full version) ∗",
+                    "authors": "Philipp Muth, Matthias Geihs, Tolga Arul, Johannes Buchmann, Stefan Katzenbeisser",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00108-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ELSA:大型数据集的高效长期安全存储(完整版)"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00106-x",
+                    "title": "Machine learning through cryptographic glasses: combating adversarial attacks by key-based diversified aggregation",
+                    "authors": "Olga Taran, Shideh Rezaeifar, Taras Holotyak, Slava Voloshynovskiy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00106-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过加密眼镜的机器学习:通过基于密钥的多样化聚合对抗对抗性攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00107-w",
+                    "title": "Reversible data hiding for binary images based on adaptive overlapping pattern",
+                    "authors": "Keming Dong, Hyoung Joong Kim, Xiaohan Yu, Xiaoqing Feng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00107-w"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于自适应重叠模式的二值图像可逆数据隐藏"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00104-z",
+                    "title": "Trembling triggers: exploring the sensitivity of backdoors in DNN-based face recognition",
+                    "authors": "Cecilia Pasquini, Rainer Böhme",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00104-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "颤抖的触发器:探索基于DNN的人脸识别中后门的敏感性"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00114-x",
+                    "title": "Scalable, efficient, and secure RFID with elliptic curve cryptosystem for Internet of Things in healthcare environment",
+                    "authors": "Davood Noori, Hassan Shakeri, Masood Niazi Torshiz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00114-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面向医疗环境物联网的可扩展、高效、安全的椭圆曲线RFID"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00113-y",
+                    "title": "A novel technique to prevent SQL injection and cross-site scripting attacks using Knuth-Morris-Pratt string match algorithm",
+                    "authors": "Oluwakemi Christiana Abikoye, Abdullahi Abubakar, Ahmad Dokoro Haruna, Noah Oluwatobi Akande, Anthonia Aderonke Kayode",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00113-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种利用Knuth-Morris-Pratt字符串匹配算法防止SQL注入和跨站脚本攻击的新技术"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00112-z",
+                    "title": "Smooth adversarial examples",
+                    "authors": "Hanwei Zhang, Yannis Avrithis, Teddy Furon, Laurent Amsaleg",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00112-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "流畅的对立例子"
+                }
+            ]
+        }
+    ],
+    "2023": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/ejisec/ejisec2023.html",
+            "journals_title": "EURASIP Journal on Information Security, Volume 2023",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s13635-022-00135-8",
+                    "title": "Image life trails based on contrast reduction models for face counter-spoofing",
+                    "authors": "Balaji Rao Katika, Kannan Karthik",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-022-00135-8"
+                    },
+                    "title_zh": "基于对比度降低模型的图像生命轨迹用于人脸反欺骗",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-023-00138-z",
+                    "title": "A multi-gateway authentication and key-agreement scheme on wireless sensor networks for IoT",
+                    "authors": "Jen-Ho Yang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-023-00138-z"
+                    },
+                    "title_zh": "物联网无线传感器网络多网关认证和密钥协商方案",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-023-00137-0",
+                    "title": "Gaussian class-conditional simplex loss for accurate, adversarially robust deep classifier training",
+                    "authors": "Arslan Ali, Andrea Migliorati, Tiziano Bianchi, Enrico Magli",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-023-00137-0"
+                    },
+                    "title_zh": "用于精确的、相对鲁棒的深度分类器训练的高斯类条件单纯形损失",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-023-00140-5",
+                    "title": "Mobile authentication of copy detection patterns",
+                    "authors": "Olga Taran, Joakim Tutt, Taras Holotyak, Roman Chaban, Slavi Bonev, Slava Voloshynovskiy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-023-00140-5"
+                    },
+                    "title_zh": "拷贝检测模式的移动认证",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-023-00139-y",
+                    "title": "Network intrusion detection based on multi-domain data and ensemble-bidirectional LSTM",
+                    "authors": "Xiaoning Wang, Jia Liu, Chunjiong Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-023-00139-y"
+                    },
+                    "title_zh": "基于多领域数据和集成双向LSTM的网络入侵检测",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-023-00141-4",
+                    "title": "Network traffic classification model based on attention mechanism and spatiotemporal features",
+                    "authors": "Feifei Hu, Situo Zhang, Xubin Lin, Liu Wu, Niandong Liao, Yanqi Song",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-023-00141-4"
+                    },
+                    "title_zh": "基于注意机制和时空特征的网络流量分类模型",
+                    "abstract_zh": ""
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-023-00142-3",
+                    "title": "User authentication and access control to blockchain-based forensic log data",
+                    "authors": "Md. Ezazul Islam, Md. Rafiqul Islam, Madhu Chetty, Suryani Lim, Mehmood Chadhar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-023-00142-3"
+                    },
+                    "title_zh": "基于区块链的取证日志数据的用户认证和访问控制",
+                    "abstract_zh": ""
+                }
+            ]
+        }
+    ],
+    "2021": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/ejisec/ejisec2021.html",
+            "journals_title": "EURASIP Journal on Information Security, Volume 2021",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s13635-020-00115-w",
+                    "title": "Use of SHDM in commutative watermarking encryption",
+                    "authors": "Roland Schmitz",
+                    "abstract": "SHDM stands for Sphere-Hardening Dither Modulation and is a watermarking algorithm based on quantizing the norm of a vector extracted from the cover work. We show how SHDM can be integrated into a fully commutative watermarking-encryption scheme and investigate implementations in the spatial, DCT, and DWT domain with respect to their fidelity, robustness, capacity, and security of encryption. The watermarking scheme, when applied in the DCT or DWT domain, proves to be very robust against JPEG/JPEG2000 compression. On the other hand, the spatial domain-based approach offers a large capacity. The increased robustness of the watermarking schemes, however, comes at the cost of rather weak encryption primitives, making the proposed CWE scheme suited for low to medium security applications with high robustness requirements.",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-020-00115-w"
+                    },
+                    "abstract_zh": "SHDM代表球面硬化抖动调制，是一种基于量化从封面作品中提取的向量的范数的水印算法。我们展示了如何将SHDM集成到一个完全可交换的水印加密方案中，并研究了空间域、DCT域和DWT域中关于加密的保真度、鲁棒性、容量和安全性的实现。当应用于DCT或DWT域时，水印方案被证明对JPEG/JPEG2000压缩非常鲁棒。另一方面，基于空间域的方法提供了大容量。然而，水印方案增加的鲁棒性是以相当弱的加密原语为代价的，这使得所提出的CWE方案适合于具有高鲁棒性要求的中低安全性应用。",
+                    "title_zh": "SHDM在交换水印加密中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00116-3",
+                    "title": "Synthetic speech detection through short-term and long-term prediction traces",
+                    "authors": "Clara Borrelli, Paolo Bestagini, Fabio Antonacci, Augusto Sarti, Stefano Tubaro",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-021-00116-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过短期和长期预测轨迹的合成语音检测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00118-1",
+                    "title": "Research on gray correlation analysis and situation prediction of network information security",
+                    "authors": "Chengqiong Ye, Wenyu Shi, Rui Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-021-00118-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络信息安全的灰色关联分析及态势预测研究"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00117-2",
+                    "title": "Media forensics on social media platforms: a survey",
+                    "authors": "Cecilia Pasquini, Irene Amerini, Giulia Boato",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-021-00117-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "社交媒体平台上的媒体取证:一项调查"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00119-0",
+                    "title": "Boosting CNN-based primary quantization matrix estimation of double JPEG images via a classification-like architecture",
+                    "authors": "Benedetta Tondi, Andrea Costanzo, Dequ Huang, Bin Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-021-00119-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过类分类结构增强基于CNN的双JPEG图像的初级量化矩阵估计"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00121-6",
+                    "title": "On the information leakage quantification of camera fingerprint estimates",
+                    "authors": "Samuel Fernández-Menduiña, Fernando Pérez-González",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-021-00121-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "相机指纹估计的信息泄漏量化研究"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00122-5",
+                    "title": "Proposing a reliable method of securing and verifying the credentials of graduates through blockchain",
+                    "authors": "T. Rama Reddy, P. V. G. D. Prasad Reddy, Rayudu Srinivas, Ch. V. Raghavendran, R. V. S. Lalitha, B. Annapurna",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-021-00122-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "提出一种可靠的方法，通过区块链获取和核实毕业生的证书"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00120-7",
+                    "title": "Estimating Previous Quantization Factors on Multiple JPEG Compressed Images",
+                    "authors": "Sebastiano Battiato, Oliver Giudice, Francesco Guarnera, Giovanni Puglisi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-021-00120-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "估计多个JPEG压缩图像上的先前量化因子"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00123-4",
+                    "title": "Potential advantages and limitations of using information fusion in media forensics - a discussion on the example of detecting face morphing attacks",
+                    "authors": "Christian Kraetzer, Andrey Makrushin, Jana Dittmann, Mario Hildebrandt",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-021-00123-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "信息融合在媒体取证中的潜在优势和局限性——以检测人脸变形攻击为例"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00124-3",
+                    "title": "Multitask adversarial attack with dispersion amplification",
+                    "authors": "Pavlo Haleta, Dmytro Likhomanov, Oleksandra Sokol",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-021-00124-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "扩散放大的多任务对抗性攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00126-1",
+                    "title": "Detection of illicit cryptomining using network metadata",
+                    "authors": "Michele Russo, Nedim Srndic, Pavel Laskov",
+                    "abstract": "Illicit cryptocurrency mining has become one of the prevalent methods for monetization of computer security incidents. In this attack, victims’ computing resources are abused to mine cryptocurrency for the benefit of attackers. The most popular illicitly mined digital coin is Monero as it provides strong anonymity and is efficiently mined on CPUs.Illicit mining crucially relies on communication between compromised systems and remote mining pools using the de facto standard protocol Stratum. While prior research primarily focused on endpoint-based detection of in-browser mining, in this paper, we address network-based detection of cryptomining malware in general. We propose XMR-Ray, a machine learning detector using novel features based on reconstructing the Stratum protocol from raw NetFlow records. Our detector is trained offline using only mining traffic and does not require privacy-sensitive normal network traffic, which facilitates its adoption and integration.In our experiments, XMR-Ray attained 98.94% detection rate at 0.05% false alarm rate, outperforming the closest competitor. Our evaluation furthermore demonstrates that it reliably detects previously unseen mining pools, is robust against common obfuscation techniques such as encryption and proxies, and is applicable to mining in the browser or by compiled binaries. Finally, by deploying our detector in a large university network, we show its effectiveness in protecting real-world systems.",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-021-00126-1"
+                    },
+                    "abstract_zh": "非法加密货币挖掘已经成为计算机安全事件货币化的流行方法之一。在这种攻击中，受害者的计算资源被滥用来为攻击者的利益挖掘加密货币。最受欢迎的非法开采的数字硬币是Monero，因为它提供了强大的匿名性，并在CPU上有效地开采。非法开采主要依赖于受损系统和远程矿池之间使用事实上的标准协议层进行通信。虽然以前的研究主要集中在基于端点的浏览器内挖掘检测，但在本文中，我们一般解决基于网络的密码挖掘恶意软件检测。我们提出了XMR-Ray，这是一个机器学习检测器，它使用基于从原始网络流记录中重建地层协议的新特征。我们的检测器仅使用挖掘流量进行离线训练，不需要隐私敏感的正常网络流量，这有利于其采用和集成。在我们的实验中，XMR-Ray在0.05%的误报率下获得了98.94%的检测率，优于最接近的竞争对手。我们的评估还表明，它能够可靠地检测以前未发现的挖掘池，对常见的混淆技术(如加密和代理)具有鲁棒性，并且适用于在浏览器中或通过编译的二进制文件进行挖掘。最后，通过在一个大型大学网络中部署我们的检测器，我们展示了它在保护现实世界系统中的有效性。",
+                    "title_zh": "利用网络元数据检测非法密码挖掘"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-021-00127-0",
+                    "title": "Feature partitioning for robust tree ensembles and their certification in adversarial scenarios",
+                    "authors": "Stefano Calzavara, Claudio Lucchese, Federico Marcuzzi, Salvatore Orlando",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-021-00127-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "鲁棒树集成的特征划分及其在对抗场景中的验证"
+                }
+            ]
+        }
+    ],
+    "2019": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/ejisec/ejisec2019.html",
+            "journals_title": "EURASIP Journal on Information Security, Volume 2019",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0084-4",
+                    "title": "Transfer learning for detecting unknown network attacks",
+                    "authors": "Juan Zhao, Sachin Shetty, Jan Wei Pan, Charles A. Kamhoua, Kevin A. Kwiat",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0084-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "检测未知网络攻击的迁移学习"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0085-3",
+                    "title": "Implementing a blockchain from scratch: why, how, and what we learned",
+                    "authors": "Fabian Knirsch, Andreas Unterweger, Dominik Engel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0085-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "从零开始实施区块链:为什么、如何以及我们学到了什么"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0086-2",
+                    "title": "Spark-based real-time proactive image tracking protection model",
+                    "authors": "Yahong Hu, Xia Sheng, Jiafa Mao, Kaihui Wang, Danhong Zhong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0086-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于Spark的实时主动图像跟踪保护模型"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0087-1",
+                    "title": "Machine learning-based dynamic analysis of Android apps with improved code coverage",
+                    "authors": "Suleiman Y. Yerima, Mohammed K. Alzaylaee, Sakir Sezer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0087-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于机器学习的Android应用动态分析，具有改进的代码覆盖率"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0090-6",
+                    "title": "A deep learning framework for predicting cyber attacks rates",
+                    "authors": "Xing Fang, Maochao Xu, Shouhuai Xu, Peng Zhao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0090-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "预测网络攻击率的深度学习框架"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0089-z",
+                    "title": "Accuracy enhancement of biometric recognition using iterative weights optimization algorithm",
+                    "authors": "Pallavi Deshpande, Prachi Mukherji, Anil S. Tavildar",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0089-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用迭代权重优化算法提高生物特征识别的准确性"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0093-3",
+                    "title": "Metadata filtering for user-friendly centralized biometric authentication",
+                    "authors": "Christian Gehrmann, Marcus Rodan, Niklas Jönsson",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0093-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于用户友好的集中式生物认证的元数据过滤"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0088-0",
+                    "title": "A new method of generating hard random lattices with short bases",
+                    "authors": "Chengli Zhang, Wenping Ma, Hefeng Chen, Feifei Zhao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0088-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种生成短基硬随机格的新方法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0092-4",
+                    "title": "Towards the application of recommender systems to secure coding",
+                    "authors": "Fitzroy Nembhard, Marco M. Carvalho, Thomas C. Eskridge",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0092-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "推荐系统在安全编码中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0094-2",
+                    "title": "Fine-grain watermarking for intellectual property protection",
+                    "authors": "Stefano Giovanni Rizzo, Flavio Bertini, Danilo Montesi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-019-0094-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于知识产权保护的细粒度水印"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0095-1",
+                    "title": "Crowdsourcing for click fraud detection",
+                    "authors": "Riwa Mouawi, Imad H. Elhajj, Ali Chehab, Ayman I. Kayssi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0095-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "点击欺诈检测的众包"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0096-0",
+                    "title": "Fingerprint template protection using minutia-pair spectral representations",
+                    "authors": "Taras Stanko, Bin Chen, Boris Skoric",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0096-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用细节点对谱表示的指纹模板保护"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0097-z",
+                    "title": "Situation prediction of large-scale Internet of Things network security",
+                    "authors": "Wenjun Yang, Jiaying Zhang, Chundong Wang, Xiu-liang Mo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0097-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "大规模物联网网络安全态势预测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0091-5",
+                    "title": "Managing confidentiality leaks through private algorithms on Software Guard eXtensions (SGX) enclaves",
+                    "authors": "Kubilay Ahmet Küçük, David Grawrock, Andrew C. Martin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0091-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过软件保护扩展(SGX)飞地上的私有算法管理机密性泄漏"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0099-x",
+                    "title": "Long-term integrity protection of genomic data",
+                    "authors": "Johannes Buchmann, Matthias Geihs, Kay Hamacher, Stefan Katzenbeisser, Sebastian Stammler",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0099-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基因组数据的长期完整性保护"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-019-0098-y",
+                    "title": "Multi-layer intrusion detection system with ExtraTrees feature selection, extreme learning machine ensemble, and softmax aggregation",
+                    "authors": "Jivitesh Sharma, Charul Giri, Ole-Christoffer Granmo, Morten Goodwin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-019-0098-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有树外特征选择、极限学习机集成和softmax聚合的多层入侵检测系统"
+                }
+            ]
+        }
+    ],
+    "2016": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/ejisec/ejisec2016.html",
+            "journals_title": "EURASIP Journal on Information Security, Volume 2016",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0028-6",
+                    "title": "Markov process-based retrieval for encrypted JPEG images",
+                    "authors": "Hang Cheng, Xinpeng Zhang, Jiang Yu, Fengyong Li",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-015-0028-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于马尔可夫过程的加密JPEG图像检索"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0027-7",
+                    "title": "Combating online fraud attacks in mobile-based advertising",
+                    "authors": "Geumhwan Cho, Junsung Cho, Youngbae Song, Donghyun Choi, Hyoungshick Kim",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-015-0027-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "打击移动广告中的在线欺诈攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0026-8",
+                    "title": "Asymptotics of fingerprinting and group testing: capacity-achieving log-likelihood decoders",
+                    "authors": "Thijs Laarhoven",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-015-0026-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "指纹和分组测试的渐近性:达到容量的对数似然解码器"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0029-5",
+                    "title": "A landmark calibration-based IP geolocation approach",
+                    "authors": "Jingning Chen, Fenlin Liu, Xiangyang Luo, Fan Zhao, Guang Zhu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-015-0029-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种基于地标标定的IP地理定位方法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0024-x",
+                    "title": "Secured ECG signal transmission for human emotional stress classification in wireless body area networks",
+                    "authors": "Hansong Xu, Kun Hua",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-015-0024-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "无线体域网中用于人体情绪压力分类的安全心电信号传输"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0030-7",
+                    "title": "HTTPS traffic analysis and client identification using passive SSL/TLS fingerprinting",
+                    "authors": "Martin Husák, Milan Cermák, Tomás Jirsík, Pavel Celeda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0030-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用被动SSL/TLS指纹进行HTTPS流量分析和客户识别"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0031-6",
+                    "title": "A new usage control protocol for data protection of cloud environment",
+                    "authors": "Kefeng Fan, Xiangzhen Yao, Xiaohe Fan, Yong Wang, Mingjie Chen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0031-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种新的云环境数据保护使用控制协议"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0032-5",
+                    "title": "Software control and intellectual property protection in cyber-physical systems",
+                    "authors": "Raphael C. S. Machado, Davidson R. Boccardo, Vinícius Gusmão Pereira de Sá, Jayme Luiz Szwarcfiter",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0032-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "信息物理系统中的软件控制和知识产权保护"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0034-3",
+                    "title": "A novel approach to protect against phishing attacks at client side using auto-updated white-list",
+                    "authors": "Ankit Kumar Jain, Brij B. Gupta",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0034-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种利用自动更新白名单防止客户端网络钓鱼攻击的新方法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0036-1",
+                    "title": "ASIC implementation of random number generators using SR latches and its evaluation",
+                    "authors": "Naoya Torii, Hirotaka Kokubo, Dai Yamamoto, Kouichi Itoh, Masahiko Takenaka, Tsutomu Matsumoto",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0036-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用SR锁存器的随机数发生器的ASIC实现及其评估"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0033-4",
+                    "title": "An efficient privacy-preserving comparison protocol in smart metering systems",
+                    "authors": "Majid Nateghizad, Zekeriya Erkin, Reginald L. Lagendijk",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0033-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "智能计量系统中一种高效的隐私保护比较协议"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0035-2",
+                    "title": "Generalized weighted tree similarity algorithms for taxonomy trees",
+                    "authors": "Pramodh Krishna D., Venu Gopal Rao K.",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "分类树的广义加权树相似度算法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0037-0",
+                    "title": "A secure cloud storage system combining time-based one-time password and automatic blocker protocol",
+                    "authors": "Sheren A. El-Booz, Gamal Attiya, Nawal A. El-Fishawy",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0037-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "结合基于时间的一次性密码和自动拦截协议的安全云存储系统"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0038-z",
+                    "title": "An adaptive approach for Linux memory analysis based on kernel code reconstruction",
+                    "authors": "Shuhui Zhang, Xiangxu Meng, Lianhai Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于内核代码重构的自适应Linux内存分析方法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0039-y",
+                    "title": "Experimental comparison of simulation tools for efficient cloud and mobile cloud computing applications",
+                    "authors": "Khadijah Bahwaireth, Lo'ai Tawalbeh, Elhadj Benkhelifa, Yaser Jararweh, Mohammad Tawalbeh",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0039-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "高效云和移动云计算应用模拟工具的实验比较"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0040-5",
+                    "title": "DB-SECaaS: a cloud-based protection system for document-oriented NoSQL databases",
+                    "authors": "Yumna Ghazi, Rahat Masood, Abid Rauf, Muhammad Awais Shibli, Osman Hassan",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0040-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "DB-SECaaS:一个基于云的面向文档的NoSQL数据库保护系统"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0041-4",
+                    "title": "A flexible framework for mobile device forensics based on cold boot attacks",
+                    "authors": "Manuel Huber, Benjamin Taubmann, Sascha Wessel, Hans P. Reiser, Georg Sigl",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0041-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于冷启动攻击的灵活移动设备取证框架"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0042-3",
+                    "title": "The role and security of firewalls in cyber-physical cloud computing",
+                    "authors": "Johanna Ullrich, Jordan Cropper, Peter Frühwirt, Edgar R. Weippl",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "防火墙在信息物理云计算中的作用和安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0043-2",
+                    "title": "Adaptive identity and access management - contextual data based policies",
+                    "authors": "Matthias Hummer, Michael Kunz, Michael Netter, Ludwig Fuchs, Günther Pernul",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0043-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "自适应身份和访问管理-基于上下文数据的策略"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0046-z",
+                    "title": "DST approach to enhance audio quality on lost audio packet steganography",
+                    "authors": "Qilin Qi, Dongming Peng, Hamid Sharif",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0046-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "提高丢失音频包隐写音频质量的DST方法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0044-1",
+                    "title": "Privacy-preserving load profile matching for tariff decisions in smart grids",
+                    "authors": "Andreas Unterweger, Fabian Knirsch, Günther Eibl, Dominik Engel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0044-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "智能电网中用于电价决策的隐私保护负荷曲线匹配"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0045-0",
+                    "title": "Hidost: a static machine-learning-based detector of malicious files",
+                    "authors": "Nedim Srndic, Pavel Laskov",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0045-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Hidost:一个基于静态机器学习的恶意文件检测器"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0047-y",
+                    "title": "Double JPEG compression forensics based on a convolutional neural network",
+                    "authors": "Qing Wang, Rong Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0047-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于卷积神经网络的双重JPEG压缩取证"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0050-3",
+                    "title": "Identification performance of evidential value estimation for ridge-based biometrics",
+                    "authors": "Johannes Kotzerke, Hao Hao, Stephen A. Davis, Robert Hayes, Luuk J. Spreeuwers, Raymond N. J. Veldhuis, Kathy J. Horadam",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0050-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于脊线的生物特征证据值估计的识别性能"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0048-x",
+                    "title": "Quality-based iris segmentation-level fusion",
+                    "authors": "Peter Wild, Heinz Hofbauer, James M. Ferryman, Andreas Uhl",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0048-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于质量的虹膜分割级融合"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0049-9",
+                    "title": "Unlinkable improved multi-biometric iris fuzzy vault",
+                    "authors": "Christian Rathgeb, Benjamin Tams, Johannes Wagner, Christoph Busch",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0049-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "不可链接的改进多生物特征虹膜模糊金库"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0051-2",
+                    "title": "Guest editorial special issues on security trends in mobile cloud computing, web, and social networking",
+                    "authors": "Brij B. Gupta, Shingo Yamaguchi, Pethuru Raj Chelliah",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于移动云计算、web和社交网络安全趋势的特邀编辑特刊"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0052-1",
+                    "title": "Fuzzing binaries with Lévy flight swarms",
+                    "authors": "Konstantin Böttinger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0052-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用大群飞行模糊双星"
+                }
+            ]
+        }
+    ],
+    "2017": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/ejisec/ejisec2017.html",
+            "journals_title": "EURASIP Journal on Information Security, Volume 2017",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s13635-016-0053-0",
+                    "title": "A novel quality assessment for visual secret sharing schemes",
+                    "authors": "Feng Jiang, Brian King",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-016-0053-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种新的可视秘密共享方案质量评估方法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0055-6",
+                    "title": "Polymorphic malware detection using sequence classification methods and ensembles",
+                    "authors": "Jake Drew, Michael Hahsler, Tyler Moore",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0055-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用序列分类方法和集成的多态恶意软件检测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0054-7",
+                    "title": "Improved privacy of dynamic group services",
+                    "authors": "Thijs Veugen, Jeroen Doumen, Zekeriya Erkin, Gaetano Pellegrino, Sicco Verwer, Jos H. Weber",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0054-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "动态群组服务的改进的私密性"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0057-4",
+                    "title": "Honeypots and honeynets: issues of privacy",
+                    "authors": "Pavol Sokol, Jakub Mísek, Martin Husák",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0057-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "蜜罐和蜜网:隐私问题"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0056-5",
+                    "title": "Anomaly detection through information sharing under different topologies",
+                    "authors": "Lazaros K. Gallos, Maciej Korczynski, Nina H. Fefferman",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0056-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "不同拓扑下通过信息共享的异常检测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0058-3",
+                    "title": "Multi-resolution privacy-enhancing technologies for smart metering",
+                    "authors": "Fabian Knirsch, Günther Eibl, Dominik Engel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0058-3"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用于智能计量的多分辨率隐私增强技术"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0059-2",
+                    "title": "An artificial immunity approach to malware detection in a mobile platform",
+                    "authors": "James Brown, Mohd Anwar, Gerry V. Dozier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0059-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "移动平台中恶意软件检测的人工免疫方法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0060-9",
+                    "title": "On the use of watermark-based schemes to detect cyber-physical attacks",
+                    "authors": "Jose Rubio-Hernan, Luca De Cicco, Joaquín García",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0060-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用基于水印的方案检测网络物理攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0062-7",
+                    "title": "Pattern matching of signature-based IDS using Myers algorithm under MapReduce framework",
+                    "authors": "Monther Aldwairi, Ansam M. Abu-Dalo, Moath H. A. Jarrah",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "MapReduce框架下基于Myers算法的基于签名的入侵检测系统模式匹配"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0061-8",
+                    "title": "Sensor Guardian: prevent privacy inference on Android sensors",
+                    "authors": "Xiaolong Bai, Jie Yin, Yu-Ping Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "传感器卫士:防止安卓传感器上的隐私推断"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0064-5",
+                    "title": "Hybrid focused crawling on the Surface and the Dark Web",
+                    "authors": "Christos Iliou, George Kalpakis, Theodora Tsikrika, Stefanos Vrochidis, Ioannis Kompatsiaris",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0064-5"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "混合集中在表面和暗网上爬行"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0063-6",
+                    "title": "Selection of Pareto-efficient response plans based on financial and operational assessments",
+                    "authors": "Alexander Motzek, Gustavo Gonzalez Granadillo, Hervé Debar, Joaquín García, Ralf Möller",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0063-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于财务和运营评估的帕累托有效响应计划的选择"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0065-4",
+                    "title": "A new approach for managing Android permissions: learning users' preferences",
+                    "authors": "Arnaud Oglaza, Romain Laborde, Pascale Zaraté, Abdelmalek Benzekri, François Barrère",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0065-4"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "管理Android权限的新方法:学习用户偏好"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0066-3",
+                    "title": "Byzantine set-union consensus using efficient set reconciliation",
+                    "authors": "Florian Dold, Christian Grothoff",
+                    "abstract": "AbstractApplications of secure multiparty computation such as certain electronic voting or auction protocols require Byzantine agreement on large sets of elements. Implementations proposed in the literature so far have relied on state machine replication and reach agreement on each individual set element in sequence.We introduce set-union consensus, a specialization of Byzantine consensus that reaches agreement over whole sets. This primitive admits an efficient and simple implementation by the composition of Eppstein’s set reconciliation protocol with Ben-Or’s ByzConsensus protocol.A free software implementation of this construction is available in GNUnet. Experimental results indicate that our approach results in an efficient protocol for very large sets, especially in the absence of Byzantine faults. We show the versatility of set-union consensus by using it to implement distributed key generation, ballot collection, and cooperative decryption for an electronic voting protocol implemented in GNUnet.\n This is a revised and extended version of a paper published under the same title at ARES 2016.",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "安全多方计算的应用，如某些电子投票或拍卖协议，需要对大量元素达成拜占庭协议。到目前为止，文献中提出的实现依赖于状态机复制，并按顺序对每个单独的集合元素达成一致。我们引入集合-联合共识，这是拜占庭共识的一种专门化，它在整个集合上达成一致。该原语通过将Eppstein的set调和协议与Ben-Or的ByzConsensus协议相结合，提供了一种高效而简单的实现方式。GNUnet提供了这种结构的免费软件实现。实验结果表明，我们的方法产生了一个非常大的集合有效的协议，特别是在没有拜占庭错误。我们展示了集合并共识的多功能性，用它来实现在GNUnet中实现的电子投票协议的分布式密钥生成、选票收集和合作解密。\n这是在ARES 2016上发表的同名论文的修订和扩展版本。",
+                    "title_zh": "使用有效集合协调的拜占庭集合联合一致性"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0067-2",
+                    "title": "VISION: a video and image dataset for source identification",
+                    "authors": "Dasara Shullani, Marco Fontani, Massimo Iuliani, Omar Al Shaya, Alessandro Piva",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0067-2"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "视觉:用于源识别的视频和图像数据集"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0068-1",
+                    "title": "Secure first-price sealed-bid auction scheme",
+                    "authors": "Zhen Guo, Yu Fu, Chunjie Cao",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0068-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "安全的第一价格密封投标拍卖方案"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0069-0",
+                    "title": "Research on transmission of technology of downward information security for wellbore trajectory control",
+                    "authors": "Lin DeShu, Feng Ding",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0069-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "井眼轨迹控制下行信息安全传输技术研究"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-017-0070-7",
+                    "title": "Research on fault diagnosis system of hall for workshop of meta-synthetic engineering based on information fusion",
+                    "authors": "Guang Yang, Shuofeng Yu, Shouwen Wen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-017-0070-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于信息融合的综合集成研讨厅故障诊断系统研究"
+                }
+            ]
+        }
+    ],
+    "2018": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/ejisec/ejisec2018.html",
+            "journals_title": "EURASIP Journal on Information Security, Volume 2018",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0071-1",
+                    "title": "A trusted measurement model based on dynamic policy and privacy protection in IaaS security domain",
+                    "authors": "Liangming Wang, Fagui Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0071-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "IaaS安全域中基于动态策略和隐私保护的可信度量模型"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0072-0",
+                    "title": "Towards constructive approach to end-to-end slice isolation in 5G networks",
+                    "authors": "Zbigniew Kotulski, Tomasz Wojciech Nowak, Mariusz Sepczuk, Marcin Alan Tunia, Rafal Artych, Krzysztof Bocianiak, Tomasz Osko, Jean-Philippe Wary",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0072-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "面向5G网络端到端切片隔离的建设性方法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0073-z",
+                    "title": "Security evaluation of Tree Parity Re-keying Machine implementations utilizing side-channel emissions",
+                    "authors": "Jonathan Martínez Padilla, Uwe Meyer-Baese, Simon Foo",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用侧信道发射的树奇偶重密钥机实现的安全性评估"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0074-y",
+                    "title": "Foundations and applications of artificial Intelligence for zero-day and multi-step attack detection",
+                    "authors": "Pierre Parrend, Julio Navarro, Fabio Guigou, Aline Deruyver, Pierre Collet",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0074-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "零日和多步攻击检测的人工智能基础和应用"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0076-9",
+                    "title": "POS-originated transaction traces as a source of contextual information for risk management systems in EFT transactions",
+                    "authors": "Albert Sitek, Zbigniew Kotulski",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0076-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "POS发起的交易跟踪作为EFT交易中风险管理系统的上下文信息来源"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0075-x",
+                    "title": "OMMA: open architecture for Operator-guided Monitoring of Multi-step Attacks",
+                    "authors": "Julio Navarro, Véronique Legrand, Aline Deruyver, Pierre Parrend",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0075-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "OMMA:用于操作员引导的多步攻击监控的开放架构"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0077-8",
+                    "title": "Secrecy outage of threshold-based cooperative relay network with and without direct links",
+                    "authors": "Khyati Chopra, Ranjan Bose, Anupam Joshi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0077-8"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "有无直接链路的门限协作中继网络的保密中断"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0078-7",
+                    "title": "Towards 5G cellular network forensics",
+                    "authors": "Filipo Sharevski",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0078-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "迈向5G蜂窝网络取证"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0079-6",
+                    "title": "Detection of spoofed and non-spoofed DDoS attacks and discriminating them from flash crowds",
+                    "authors": "Jaideep Gera, Bhanu Prakash Battula",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0079-6"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "检测欺骗和非欺骗DDoS攻击，并将它们与flash人群区分开来"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0080-0",
+                    "title": "Cybersecurity: trends, issues, and challenges",
+                    "authors": "Krzysztof Cabaj, Zbigniew Kotulski, Bogdan Ksiezopolski, Wojciech Mazurczyk",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0080-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "网络安全:趋势、问题和挑战"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0081-z",
+                    "title": "HADEC: Hadoop-based live DDoS detection framework",
+                    "authors": "Sufian Hameed, Usman Murad Ali",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0081-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "HADEC:基于Hadoop的实时DDoS检测框架"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0083-x",
+                    "title": "A generic integrity verification algorithm of version files for cloud deduplication data storage",
+                    "authors": "Guangwei Xu, Miaolin Lai, Jing Li, Li Sun, Xiujin Shi",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0083-x"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种云重复数据存储版本文件完整性验证通用算法"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-018-0082-y",
+                    "title": "Detecting data manipulation attacks on physiological sensor measurements in wearable medical systems",
+                    "authors": "Hang Cai, Krishna K. Venkatasubramanian",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-018-0082-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "检测可穿戴医疗系统中对生理传感器测量的数据操纵攻击"
+                }
+            ]
+        }
+    ],
+    "2015": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/journals/ejisec/ejisec2015.html",
+            "journals_title": "EURASIP Journal on Information Security, Volume 2015",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1186/s13635-014-0018-0",
+                    "title": "Laribus: privacy-preserving detection of fake SSL certificates with a social P2P notary network",
+                    "authors": "Karl-Peter Fuchs, Dominik Herrmann, Andrea Micheloni, Hannes Federrath",
+                    "abstract": "In this paper we present Laribus, a peer-to-peer network designed to detect local man-in-the-middle attacks against secure socket layer/transport layer security (SSL/TLS). With Laribus, clients can validate the authenticity of a certificate presented to them by retrieving it from different vantage points on the network. Unlike previous solutions, clients do not have to trust a central notary service nor do they have to rely on the cooperation of website owners. The Laribus network is based on a social network graph, which allows users to form notary groups that improve both privacy and availability. It integrates several well-known techniques, such as secret sharing, ring signatures, layered encryption, range queries, and a distributed hash table (DHT), to achieve privacy-aware queries, scalability, and decentralization. We present the design and core components of Laribus, discuss its security properties, and also provide results from a simulation-based feasibility study.",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-014-0018-0"
+                    },
+                    "abstract_zh": "在本文中，我们介绍了Laribus，这是一个对等网络，旨在检测针对安全套接字层/传输层安全性(SSL/TLS)的本地中间人攻击。有了Laribus，客户可以通过从网络上的不同有利位置检索证书来验证提交给他们的证书的真实性。与以前的解决方案不同，客户不必信任中央公证服务，也不必依赖网站所有者的合作。Laribus网络基于一个社交网络图，它允许用户组成公证小组，以提高隐私和可用性。它集成了几种众所周知的技术，如秘密共享、环签名、分层加密、范围查询和分布式哈希表(DHT ),以实现隐私感知查询、可伸缩性和去中心化。我们介绍了Laribus的设计和核心组件，讨论了它的安全属性，并提供了基于模拟的可行性研究的结果。",
+                    "title_zh": "Laribus:使用社交P2P公证网络的假SSL证书的隐私保护检测"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0019-7",
+                    "title": "Steganalysis of JSteg algorithm using hypothesis testing theory",
+                    "authors": "Tong Qiao, Florent Retraint, Rémi Cogranne, Cathel Zitzmann",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-015-0019-7"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于假设检验理论的JSteg算法隐写分析"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0020-1",
+                    "title": "Fingerprint-based crypto-biometric system for network security",
+                    "authors": "Subhas Barman, Debasis Samanta, Samiran Chattopadhyay",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-015-0020-1"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于指纹的网络安全生物加密系统"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0021-0",
+                    "title": "A survey on security attacks and countermeasures with primary user detection in cognitive radio networks",
+                    "authors": "José Marinho, Jorge Granjal, Edmundo Monteiro",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-015-0021-0"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "认知无线电网络中基于主用户检测的安全攻击及对策综述"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0022-z",
+                    "title": "Texture based features for robust palmprint recognition: a comparative study",
+                    "authors": "Ramachandra Raghavendra, Christoph Busch",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/counter/pdf/10.1186/s13635-015-0022-z"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于纹理的鲁棒掌纹识别特征的比较研究"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0023-y",
+                    "title": "Anticollusion solutions for asymmetric fingerprinting protocols based on client side embedding",
+                    "authors": "Tiziano Bianchi, Alessandro Piva, Dasara Shullani",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-015-0023-y"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于客户端嵌入的非对称指纹协议防污染解决方案"
+                },
+                {
+                    "url": "https://doi.org/10.1186/s13635-015-0025-9",
+                    "title": "Private function evaluation by local two-party computation",
+                    "authors": "Stefan Rass, Peter Schartner, Monika Brodbeck",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://jis-eurasipjournals.springeropen.com/track/pdf/10.1186/s13635-015-0025-9"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于局部双方计算的私有函数评估"
+                }
+            ]
+        }
+    ]
+}

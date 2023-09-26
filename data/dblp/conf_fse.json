@@ -1,0 +1,647 @@
+{
+    "2016": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/fse/fse2016.html",
+            "conf_title": "23. FSE 2016: Bochum, Germany",
+            "conf_url": "https://doi.org/10.1007/978-3-662-52993-5",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_1",
+                    "title": "New Bounds for Keyed Sponges with Extendable Output: Independence Between Capacity and Message Length",
+                    "authors": "Yusuke Naito, Kan Yasuda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有可扩展输出的键控海绵的新界限:容量和消息长度之间的独立性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_2",
+                    "title": "RIV for Robust Authenticated Encryption",
+                    "authors": "Farzaneh Abed, Christian Forler, Eik List, Stefan Lucks, Jakob Wenzel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "RIV用于健壮的认证加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_3",
+                    "title": "A MAC Mode for Lightweight Block Ciphers",
+                    "authors": "Atul Luykx, Bart Preneel, Elmar Tischhauser, Kan Yasuda",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/536709/2/article-2612.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "轻量级分组密码的MAC模式"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_4",
+                    "title": "Cryptanalysis of the Full Spritz Stream Cipher",
+                    "authors": "Subhadeep Banik, Takanori Isobe",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "全Spritz流密码的密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_5",
+                    "title": "Attacks Against Filter Generators Exploiting Monomial Mappings",
+                    "authors": "Anne Canteaut, Yann Rotella",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01401009/file/final-fse16.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用单项映射攻击过滤器生成器"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_6",
+                    "title": "Lightweight MDS Generalized Circulant Matrices",
+                    "authors": "Meicheng Liu, Siang Meng Sim",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "轻量级MDS广义循环矩阵"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_7",
+                    "title": "On the Construction of Lightweight Circulant Involutory MDS Matrices",
+                    "authors": "Yongqiang Li, Mingsheng Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "轻量循环对合MDS矩阵的构造"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_8",
+                    "title": "Optimizing S-Box Implementations for Several Criteria Using SAT Solvers",
+                    "authors": "Ko Stoffelen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用SAT求解器优化几个标准的S-Box实现"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_9",
+                    "title": "Verifiable Side-Channel Security of Cryptographic Implementations: Constant-Time MEE-CBC",
+                    "authors": "José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, François Dupressoir",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://repositorium.sdum.uminho.pt/bitstream/1822/51554/1/16FSE_published.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "密码实现的可验证边信道安全性:常数时间MEE-CBC"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_10",
+                    "title": "White-Box Cryptography in the Gray Box - - A Hardware Implementation and its Side Channels -",
+                    "authors": "Pascal Sasdrich, Amir Moradi, Tim Güneysu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "灰盒中的白盒加密- -一个硬件实现和它的边信道--"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_11",
+                    "title": "Detecting Flawed Masking Schemes with Leakage Detection Tests",
+                    "authors": "Oscar Reparaz",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/536710/2/article-2635.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用泄漏检测测试检测有缺陷的掩蔽方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_12",
+                    "title": "There Is Wisdom in Harnessing the Strengths of Your Enemy: Customized Encoding to Thwart Side-Channel Attacks",
+                    "authors": "Houssem Maghrebi, Victor Servant, Julien Bringer",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "利用敌人的优势是明智的:定制编码来挫败旁道攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_13",
+                    "title": "Automatic Search for Key-Bridging Technique: Applications to LBlock and TWINE",
+                    "authors": "Li Lin, Wenling Wu, Yafei Zheng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "自动搜索键桥接技术:在LBlock和TWINE中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_14",
+                    "title": "MILP-Based Automatic Search Algorithms for Differential and Linear Trails for Speck",
+                    "authors": "Kai Fu, Meiqin Wang, Yinghua Guo, Siwei Sun, Lei Hu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于MILP的Speck差分和线性轨迹自动搜索算法"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_15",
+                    "title": "Automatic Search for the Best Trails in ARX: Application to Block Cipher Speck",
+                    "authors": "Alex Biryukov, Vesselin Velichkov, Yann Le Corre",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprint.iacr.org/2016/409.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ARX最佳路径的自动搜索:在分组密码Speck中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_16",
+                    "title": "Stream Ciphers: A Practical Solution for Efficient Homomorphic-Ciphertext Compression",
+                    "authors": "Anne Canteaut, Sergiu Carpov, Caroline Fontaine, Tancrède Lepoint, María Naya-Plasencia, Pascal Paillier, Renaud Sirdey",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01650012/file/joc.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "流密码:高效同态密文压缩的实用解决方案"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_17",
+                    "title": "Efficient Design Strategies Based on the AES Round Function",
+                    "authors": "Jérémy Jean, Ivica Nikolic",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于AES循环函数的高效设计策略"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_18",
+                    "title": "Bit-Based Division Property and Application to Simon Family",
+                    "authors": "Yosuke Todo, Masakatu Morii",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于位的除法性质及其在Simon家族中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_19",
+                    "title": "Algebraic Insights into the Secret Feistel Network",
+                    "authors": "Léo Perrin, Aleksei Udovenko",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2016/398.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对秘密Feistel网络的代数洞察"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_20",
+                    "title": "Integrals Go Statistical: Cryptanalysis of Full Skipjack Variants",
+                    "authors": "Meiqin Wang, Tingting Cui, Huaifeng Chen, Ling Sun, Long Wen, Andrey Bogdanov",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "积分走向统计:完整Skipjack变体的密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_21",
+                    "title": "Note on Impossible Differential Attacks",
+                    "authors": "Patrick Derbez",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "关于不可能的差分攻击的注记"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_22",
+                    "title": "Improved Linear Hull Attack on Round-Reduced Simon with Dynamic Key-Guessing Techniques",
+                    "authors": "Huaifeng Chen, Xiaoyun Wang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/666.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "基于动态密钥猜测技术的改进线性外壳攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_23",
+                    "title": "Modeling Random Oracles Under Unpredictable Queries",
+                    "authors": "Pooya Farshim, Arno Mittelbach",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal-ens.archives-ouvertes.fr/hal-01470886/file/main.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "不可预测查询下的随机预言建模"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_24",
+                    "title": "Practical Order-Revealing Encryption with Limited Leakage",
+                    "authors": "Nathan Chenette, Kevin Lewi, Stephen A. Weis, David J. Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-52993-5_24.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有有限泄漏的实用顺序揭示加密"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_25",
+                    "title": "Strengthening the Known-Key Security Notion for Block Ciphers",
+                    "authors": "Benoît Cogliati, Yannick Seurin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "增强分组密码的已知密钥安全概念"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_26",
+                    "title": "Related-Key Almost Universal Hash Functions: Definitions, Constructions and Applications",
+                    "authors": "Peng Wang, Yuling Li, Liting Zhang, Kaiyan Zheng",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/766.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "相关键几乎通用哈希函数:定义、构造和应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_27",
+                    "title": "Key Recovery Attack Against 2.5-Round \\pi -Cipher",
+                    "authors": "Christina Boura, Avik Chakraborti, Gaëtan Leurent, Goutam Paul, Dhiman Saha, Hadi Soleimany, Valentin Suder",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://hal.inria.fr/hal-01404164/file/PiCipher_FSE16.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "针对2.5轮\\pi密码的密钥恢复攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_28",
+                    "title": "Cryptanalysis of Reduced NORX",
+                    "authors": "Nasour Bagheri, Tao Huang, Keting Jia, Florian Mendel, Yu Sasaki",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "约化NORX的密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-52993-5_29",
+                    "title": "Analysis of the Kupyna-256 Hash Function",
+                    "authors": "Christoph Dobraunig, Maria Eichlseder, Florian Mendel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/956.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Kupyna-256哈希函数的分析"
+                }
+            ]
+        }
+    ],
+    "2015": [
+        {
+            "dblp_url": "https://dblp.uni-trier.de/db/conf/fse/fse2015.html",
+            "conf_title": "22. FSE 2015: Istanbul, Turkey",
+            "conf_url": "https://doi.org/10.1007/978-3-662-48116-5",
+            "papers": [
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_1",
+                    "title": "Differential Analysis and Meet-in-the-Middle Attack Against Round-Reduced TWINE",
+                    "authors": "Alex Biryukov, Patrick Derbez, Léo Perrin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/240.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "针对圆缩麻线的差异分析和中间相遇攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_2",
+                    "title": "Improved Higher-Order Differential Attacks on MISTY1",
+                    "authors": "Achiya Bar-On",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "MISTY1上改进的高阶差分攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_3",
+                    "title": "Meet-in-the-Middle Technique for Truncated Differential and Its Applications to CLEFIA and Camellia",
+                    "authors": "Leibo Li, Keting Jia, Xiaoyun Wang, Xiaoyang Dong",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_3.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "截断微分的中间相遇技术及其在CLEFIA和Camellia中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_4",
+                    "title": "Protecting Against Multidimensional Linear and Truncated Differential Cryptanalysis by Decorrelation",
+                    "authors": "Céline Blondeau, Aslí Bay, Serge Vaudenay",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_4.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "通过去相关防止多维线性和截断差分密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_5",
+                    "title": "Analysis of Impossible, Integral and Zero-Correlation Attacks on Type-II Generalized Feistel Networks Using the Matrix Method",
+                    "authors": "Céline Blondeau, Marine Minier",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_5.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "用矩阵法分析对ⅱ型广义Feistel网络的不可能攻击、整数攻击和零相关攻击"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_6",
+                    "title": "Simpler and More Efficient Rank Estimation for Side-Channel Security Assessment",
+                    "authors": "Cezary Glowacz, Vincent Grosso, Romain Poussier, Joachim Schüth, François-Xavier Standaert",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_6.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "更简单有效的边信道安全评估秩估计"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_7",
+                    "title": "Conversion from Arithmetic to Boolean Masking with Logarithmic Complexity",
+                    "authors": "Jean-Sébastien Coron, Johann Großschädl, Mehdi Tibouchi, Praveen Kumar Vadnala",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_7.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "对数复杂度的算术到布尔掩蔽的转换"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_8",
+                    "title": "Comb to Pipeline: Fast Software Encryption Revisited",
+                    "authors": "Andrey Bogdanov, Martin M. Lauridsen, Elmar Tischhauser",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_8.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "梳理流水线:快速软件加密再探"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_9",
+                    "title": "Security of the AES with a Secret S-Box",
+                    "authors": "Tyge Tiessen, Lars R. Knudsen, Stefan Kölbl, Martin M. Lauridsen",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_9.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有秘密S-Box的AES的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_10",
+                    "title": "Meet-in-the-Middle Attacks and Structural Analysis of Round-Reduced PRINCE",
+                    "authors": "Patrick Derbez, Léo Perrin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "Round-Reduced PRINCE的中间相遇攻击及结构分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_11",
+                    "title": "Linear Distinguishers in the Key-less Setting: Application to PRESENT",
+                    "authors": "Martin M. Lauridsen, Christian Rechberger",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/908.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "无钥匙设置中的线性识别器:应用到现在"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_12",
+                    "title": "Differential-Linear Cryptanalysis of ICEPOLE",
+                    "authors": "Tao Huang, Ivan Tjuawinata, Hongjun Wu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "ICEPOLE的差分线性密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_13",
+                    "title": "Cryptanalysis of JAMBU",
+                    "authors": "Thomas Peyrin, Siang Meng Sim, Lei Wang, Guoyan Zhang",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "JAMBU的密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_14",
+                    "title": "Related-Key Forgeries for Prøst-OTR",
+                    "authors": "Christoph Dobraunig, Maria Eichlseder, Florian Mendel",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_14.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "PRST-OTR的相关密钥伪造"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_15",
+                    "title": "Practical Cryptanalysis of the Open Smart Grid Protocol",
+                    "authors": "Philipp Jovanovic, Samuel Neves",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_15.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "开放式智能电网协议的实用密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_16",
+                    "title": "Relaxing Full-Codebook Security: A Refined Analysis of Key-Length Extension Schemes",
+                    "authors": "Peter Gazi, Jooyoung Lee, Yannick Seurin, John P. Steinberger, Stefano Tessaro",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_16.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "放松全码本安全性:密钥长度扩展方案的精细分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_17",
+                    "title": "The Related-Key Security of Iterated Even-Mansour Ciphers",
+                    "authors": "Pooya Farshim, Gordon Procter",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_17.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "迭代偶数曼苏尔密码的相关密钥安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_18",
+                    "title": "Security of Keyed Sponge Constructions Using a Modular Proof Approach",
+                    "authors": "Elena Andreeva, Joan Daemen, Bart Mennink, Gilles Van Assche",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://lirias.kuleuven.be/bitstream/123456789/481648/2/article-2502.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "使用模块化证明方法的键控海绵结构的安全性"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_19",
+                    "title": "GCM Security Bounds Reconsidered",
+                    "authors": "Yuichi Niwa, Keisuke Ohashi, Kazuhiko Minematsu, Tetsu Iwata",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_19.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "GCM安全界限重新考虑"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_20",
+                    "title": "Boosting OMD for Almost Free Authentication of Associated Data",
+                    "authors": "Reza Reyhanitabar, Serge Vaudenay, Damian Vizár",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_20.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "提升OMD，实现几乎免费的关联数据认证"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_21",
+                    "title": "Optimally Secure Tweakable Blockciphers",
+                    "authors": "Bart Mennink",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_21.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "最优安全可调分组密码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_22",
+                    "title": "On Lightweight Stream Ciphers with Shorter Internal States",
+                    "authors": "Frederik Armknecht, Vasily Mikhalev",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_22.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "具有较短内部状态的轻量级流密码"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_23",
+                    "title": "Lightweight MDS Involution Matrices",
+                    "authors": "Siang Meng Sim, Khoongming Khoo, Frédérique E. Oggier, Thomas Peyrin",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "轻量级MDS对合矩阵"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_24",
+                    "title": "A New Classification of 4-bit Optimal S-boxes and Its Application to PRESENT, RECTANGLE and SPONGENT",
+                    "authors": "Wentao Zhang, Zhenzhen Bao, Vincent Rijmen, Meicheng Liu",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_24.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "一种新的4位最优S盒分类及其在当前、矩形和海绵盒中的应用"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_25",
+                    "title": "Rotational Cryptanalysis of ARX Revisited",
+                    "authors": "Dmitry Khovratovich, Ivica Nikolic, Josef Pieprzyk, Przemyslaw Sokolowski, Ron Steinfeld",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "https://eprints.qut.edu.au/101038/1/095.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "再论ARX的旋转密码分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_26",
+                    "title": "Internal Differential Boomerangs: Practical Analysis of the Round-Reduced Keccak- f f Permutation",
+                    "authors": "Jérémy Jean, Ivica Nikolic",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "内部差分回飞棒:舍入简化的Keccak- f f置换的实际分析"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_27",
+                    "title": "New Linear Correlations Related to State Information of RC4 PRGA Using IV in WPA",
+                    "authors": "Ryoma Ito, Atsuko Miyaji",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": ""
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "在WPA中使用IV与RC4 PRGA状态信息相关的新的线性相关"
+                },
+                {
+                    "url": "https://doi.org/10.1007/978-3-662-48116-5_28",
+                    "title": "A More Cautious Approach to Security Against Mass Surveillance",
+                    "authors": "Jean Paul Degabriele, Pooya Farshim, Bertram Poettering",
+                    "abstract": "",
+                    "files": {
+                        "openAccessPdf": "http://eprint.iacr.org/2015/748.pdf"
+                    },
+                    "abstract_zh": "",
+                    "title_zh": "针对大规模监控的更谨慎的安全措施"
+                }
+            ]
+        }
+    ]
+}

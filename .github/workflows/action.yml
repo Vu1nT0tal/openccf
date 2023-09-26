@@ -1,0 +1,54 @@
+# https://docs.github.com/cn/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Update papers
+
+# 国际标准时间2点（北京时间10点）
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: ./install.sh
+
+      - name: Push articles
+        env:
+          PROXY_KEY: ${{ secrets.PROXY_KEY }}
+          S2API_KEY: ${{ secrets.S2API_KEY }}
+          APP_SECRET: ${{ secrets.APP_SECRET }}
+          KEY_VEHICLE: ${{ secrets.KEY_VEHICLE }}
+          BITABLE_TOKEN: ${{ secrets.BITABLE_TOKEN }}
+        run: python3 openccf.py --year 2022:2024 --rule NIS:all:all:all
+
+      - name: Commit
+        run: |
+          git diff
+          git config --global user.email firmianay@gmail.com
+          git config --global user.name firmianay
+          git add data
+          git commit -m "Update `TZ=':Asia/Shanghai' date +' %Y-%m-%d %H:%m:%S'`" || true
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ github.token }}
+
+  del_runs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 7
