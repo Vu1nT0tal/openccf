@@ -22,11 +22,15 @@ jobs:
 
       - name: Push articles
         env:
-          PROXY_KEY: ${{ secrets.PROXY_KEY }}
+          OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
           S2API_KEY: ${{ secrets.S2API_KEY }}
-          APP_SECRET: ${{ secrets.APP_SECRET }}
-          KEY_VEHICLE: ${{ secrets.KEY_VEHICLE }}
-          BITABLE_TOKEN: ${{ secrets.BITABLE_TOKEN }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_BOT: ${{ secrets.FEISHU_BOT }}
+          FEISHU_BITABLE: ${{ secrets.FEISHU_BITABLE }}
+          WOLAI_APP_ID: ${{ secrets.WOLAI_APP_ID }}
+          WOLAI_APP_SECRET: ${{ secrets.WOLAI_APP_SECRET }}
+          WOLAI_DATABASE: ${{ secrets.WOLAI_DATABASE }}
         run: python3 openccf.py --year 2022:2024 --rule NIS:all:all:all --bot wolai
 
       - name: Commit
