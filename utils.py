@@ -27,6 +27,8 @@ dblp_path = data_path.joinpath('dblp')
 dblp_path.mkdir(exist_ok=True)
 paper_path = data_path.joinpath('paper')
 paper_path.mkdir(exist_ok=True)
+history_path = data_path.joinpath('history')
+history_path.mkdir(exist_ok=True)
 
 
 def progress():

@@ -27,7 +27,7 @@ jobs:
           APP_SECRET: ${{ secrets.APP_SECRET }}
           KEY_VEHICLE: ${{ secrets.KEY_VEHICLE }}
           BITABLE_TOKEN: ${{ secrets.BITABLE_TOKEN }}
-        run: python3 openccf.py --year 2022:2024 --rule NIS:all:all:all
+        run: python3 openccf.py --year 2022:2024 --rule NIS:all:all:all --bot wolai
 
       - name: Commit
         run: |

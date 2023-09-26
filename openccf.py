@@ -8,39 +8,48 @@ from datetime import datetime
 from concurrent.futures import ProcessPoolExecutor
 
 from utils import *
-from feishu import *
+from bots import *
 from crawler import *
 from crawler.libpaper import *
 
 
-def make_bitable_records(data) -> dict:
+def format_fields(data):
+    """构建一条数据"""
+    if title_zh := data['title_zh']:
+        title = f'{data["title"]}\n\n{title_zh}'
+    else:
+        title = data['title']
+
+    fields = {
+        '标题': title,
+        '年份': data['year'],
+        '刊物': data['dblp_url'].split('/')[-2],
+        '标签': data['keywords'],
+        '摘要': data['abstract_zh'] or data['abstract'],
+        '网址': {'text': data['url'], 'link': data['url']},
+    }
+    if pdf_url := data['files']['openAccessPdf']:
+        fields['文件'] = {'text': pdf_url, 'link': pdf_url}
+
+    return fields
+
+
+def make_bitable(data) -> dict:
     """将数据转换为多维表格格式"""
-    def format_fields(data):
-        if title_zh := data['title_zh']:
-            title = f'{data["title"]}\n\n{title_zh}'
-        else:
-            title = data['title']
-
-        fields = {
-            '标题': title,
-            '年份': data['year'],
-            '刊物': data['dblp_url'].split('/')[-2],
-            '标签': data['keywords'],
-            '摘要': data['abstract_zh'] or data['abstract'],
-            '网址': {'text': data['url'], 'link': data['url']},
-        }
-        if pdf_url := data['files']['openAccessPdf']:
-            fields['文件'] = {'text': pdf_url, 'link': pdf_url}
-
-        return fields
-
-    records = {'records': []}
+    result = {'records': []}
     for item in data:
-        records['records'].append({
+        result['records'].append({
             'fields': format_fields(item)
         })
+    return result
 
-    return records
+
+def make_database(data) -> dict:
+    """将数据转换为数据表格格式"""
+    result = {'rows': []}
+    for item in data:
+        result['rows'].append(format_fields(item))
+    return result
 
 
 def translate_all_empty():
@@ -112,6 +121,47 @@ def parse_year(year: str):
     return parts[0], parts[1]
 
 
+def init_bot(bot_name: str, conf: dict):
+    """初始化机器人"""
+    bot = None
+    oper = None
+    table = None
+
+    if bot_name == 'feishu':
+        bot_conf = conf['feishu']
+
+        # 群机器人
+        if bot_key := os.getenv(bot_conf['bot']['name']) or bot_conf['bot']['key']:
+            bot = feishuBot(bot_key)
+
+        # 飞书开放平台->开发者后台
+        app_id = os.getenv(bot_conf['app_id']['name']) or bot_conf['app_id']['key']
+        app_secret = os.getenv(bot_conf['app_secret']['name']) or bot_conf['app_secret']['key']
+        # 多维表格
+        table = (os.getenv(bot_conf['bitable']['name']) or bot_conf['bitable']['key'])
+
+        if app_id and app_secret and table:
+            oper = feishuOper(app_id, app_secret)
+
+    elif bot_name == 'wolai':
+        bot_conf = conf['wolai']
+
+        # 应用设置
+        app_id = os.getenv(bot_conf['app_id']['name']) or bot_conf['app_id']['key']
+        app_secret = os.getenv(bot_conf['app_secret']['name']) or bot_conf['app_secret']['key']
+        # 数据表格
+        table = os.getenv(bot_conf['database']['name']) or bot_conf['database']['key']
+
+        if app_id and app_secret:
+            oper = wolaiOper(app_id, app_secret)
+
+    else:
+        console.print('Wrong bot', style='bold red')
+        exit(1)
+
+    return bot, oper, table
+
+
 def parse_args():
     """参数解析"""
     start_year = datetime.now().year
@@ -120,6 +170,7 @@ def parse_args():
     parser.add_argument('--year', type=str, metavar='start:end', default=f'{start_year}:{end_year}', help='e.g. 2020:2015')
     parser.add_argument('--rule', type=str, metavar='field:type:rank:name', default='all:all:all:all', help='e.g. NIS:conf:A,B:all')
     parser.add_argument('--keywords', type=str, metavar='keywords', default='', help='e.g. keyword1,keyword2')
+    parser.add_argument('--bot', type=str, metavar='bot', default='feishu', help='e.g. feishu')
     return parser.parse_args()
 
 
@@ -130,23 +181,19 @@ if __name__ == '__main__':
     proxy_url = conf['proxy']
 
     # 设置API Key
-    secrets = conf['openai']['secrets']
+    secrets = conf['openai']['name']
     openai_key = os.getenv(secrets) or conf['openai']['key']
     os.environ[secrets] = openai_key
 
-    secrets = conf['s2api']['secrets']
+    secrets = conf['s2api']['name']
     s2api_key = os.getenv(secrets) or conf['s2api']['key']
     os.environ[secrets] = s2api_key
 
-    # 飞书机器人
-    feishu_conf = conf['keywords']
-    feishu_bot_key = os.getenv(feishu_conf['secrets']) or feishu_conf['key']
-    feishu_bot = feishuBot(feishu_bot_key)
-
+    # 设置关键词
     if args.keywords:
         keywords = args.keywords.split(',')
     else:
-        keywords = [j for i in feishu_conf['keywords'].values() for j in i if j.isascii()]
+        keywords = [j for i in conf['keywords']['vehicle'].values() for j in i if j.isascii()]
 
     year = args.year or conf['year']
     rule = args.rule or conf['rule']
@@ -207,51 +254,73 @@ if __name__ == '__main__':
     with open(vehicle_file, 'w') as f:
         json.dump(total_vehicle_data, f, indent=4, ensure_ascii=False)
 
-    # 发送新论文
+    console.print(f'Vehicle Papers: {len(total_vehicle_data)}', style='bold yellow')
+
+    # 初始化机器人
+    bot, oper, table = init_bot(args.bot, conf)
+    if not bot or not oper or not table:
+        console.print('init_bot failed', style='bold red')
+        exit(1)
+
     bot_data = []
-    bitable_data = []
-    bitable_data_temp = []
+    table_data = []
+    table_data_temp = []
 
-    bitable_history_file = data_path.joinpath('bitable_history.txt')
-    bitable_history_data = bitable_history_file.read_text().splitlines() if bitable_history_file.exists() else []
-    bot_history_file = data_path.joinpath('bot_history.txt')
-    bot_history_data = bot_history_file.read_text().splitlines() if bot_history_file.exists() else []
+    if args.bot == 'feishu':
+        bitable_history_file = history_path.joinpath('feishu_bitable.txt')
+        bitable_history_data = bitable_history_file.read_text().splitlines() if bitable_history_file.exists() else []
+        bot_history_file = history_path.joinpath('feishu_bot.txt')
+        bot_history_data = bot_history_file.read_text().splitlines() if bot_history_file.exists() else []
 
-    console.print('Sending bot...', style='bold yellow')
-    for data in total_vehicle_data:
-        title = data['title']
+        console.print('Sending bot...', style='bold yellow')
+        for data in total_vehicle_data:
+            title = data['title']
 
-        # 发送飞书消息
-        if title not in bot_history_data and feishu_bot.send(data):
-            bot_data.append(title)
+            # 发送机器人消息
+            if title not in bot_history_data and bot.send(data):
+                bot_data.append(title)
 
-        # 多维表格临时数据
-        if title not in bitable_history_data:
-            bitable_data_temp.append(data)
+            # 多维表格临时数据
+            if title not in bitable_history_data:
+                table_data_temp.append(data)
 
-    # 更新多维表格
-    console.print('Updating bitable...', style='bold yellow')
-    # 飞书开放平台->开发者后台
-    app_id = 'cli_a42a42b995f9d00e'
-    app_secret = os.getenv('APP_SECRET') or ''
-    # 多维表格应用
-    app_token, table_id = (os.getenv('BITABLE_TOKEN') or '').split(':')
-
-    feishu_oper = feishuOper(app_id, app_secret)
-    if feishu_oper.check_access_valid(feishuOper.TOKEN_TENANT):
-        split_list = [bitable_data_temp[i:i+100] for i in range(0, len(bitable_data_temp), 100)]
-        for split_data in split_list:
+        # 更新多维表格
+        console.print('Updating bitable...', style='bold yellow')
+        if oper.check_access_valid(feishuOper.TOKEN_TENANT):
             # 每组100条数据
-            data = make_bitable_records(split_data)
-            if feishu_oper.bitable_batch_create(app_token, table_id, data):
-                bitable_data += [i['title'] for i in split_data]
-    else:
-        console.print('权限验证失败', style='bold red')
+            split_list = [table_data_temp[i:i+100] for i in range(0, len(table_data_temp), 100)]
+            for split_data in split_list:
+                data = make_bitable(split_data)
+                if oper.bitable_batch_create(table, data):
+                    table_data += [i['title'] for i in split_data]
+        else:
+            console.print('权限验证失败', style='bold red')
 
-    with open(bot_history_file, 'w') as f:
-        f.write('\n'.join(bot_history_data + bot_data))
+        with open(bot_history_file, 'w') as f:
+            f.write('\n'.join(bot_history_data + bot_data))
 
-    with open(bitable_history_file, 'w') as f:
-        f.write('\n'.join(bitable_history_data + bitable_data))
+        with open(bitable_history_file, 'w') as f:
+            f.write('\n'.join(bitable_history_data + table_data))
 
-    console.print(f'Vehicle Papers: {len(total_vehicle_data)}\tSend Papers: {len(bot_data)}\tUpdate Papers: {len(bitable_data)}', style='bold yellow')
+    elif args.bot == 'wolai':
+        database_history_file = history_path.joinpath('wolai_database.txt')
+        database_history_data = database_history_file.read_text().splitlines() if database_history_file.exists() else []
+
+        # 更新数据表格
+        console.print('Updating database...', style='bold yellow')
+        table_data_temp = [
+            data
+            for data in total_vehicle_data
+            if data['title'] not in database_history_data
+        ]
+        # 每组20条数据
+        split_list = [table_data_temp[i:i+20] for i in range(0, len(table_data_temp), 20)]
+        for split_data in split_list:
+            data = make_database(split_data)
+            if oper.database_post(table, data):
+                table_data += [i['title'] for i in split_data]
+
+        with open(database_history_file, 'w') as f:
+            f.write('\n'.join(database_history_data + table_data))
+
+    console.print(f'Vehicle Papers: {len(total_vehicle_data)}\tSend Papers: {len(bot_data)}\tUpdate Papers: {len(table_data)}', style='bold yellow')

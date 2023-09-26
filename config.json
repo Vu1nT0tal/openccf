@@ -1,20 +1,51 @@
 {
     "proxy": "",
     "openai": {
-        "secrets": "OPENAI_KEY",
+        "name": "OPENAI_KEY",
         "key": ""
     },
     "s2api": {
-        "secrets": "S2API_KEY",
+        "name": "S2API_KEY",
         "key": ""
     },
     "year": "2018:2023",
     "rule": "NIS:all:all:all",
 
+    "feishu": {
+        "app_id": {
+            "name": "FEISHU_APP_ID",
+            "key": ""
+        },
+        "app_secret": {
+            "name": "FEISHU_APP_SECRET",
+            "key": ""
+        },
+        "bot": {
+            "name": "FEISHU_BOT",
+            "key": ""
+        },
+        "bitable": {
+            "name": "FEISHU_BITABLE",
+            "key": ""
+        }
+    },
+    "wolai": {
+        "app_id": {
+            "name": "WOLAI_APP_ID",
+            "key": ""
+        },
+        "app_secret": {
+            "name": "WOLAI_APP_SECRET",
+            "key": ""
+        },
+        "database": {
+            "name": "WOLAI_DATABASE",
+            "key": ""
+        }
+    },
+
     "keywords": {
-        "secrets": "KEY_VEHICLE",
-        "key": "",
-        "keywords": {
+        "vehicle": {
             "vendor": [
                 "Tesla", "特斯拉",
                 "Rivian", "里维安",

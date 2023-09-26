@@ -2,6 +2,8 @@
 
 采用[中国计算机学会（CCF）](https://www.ccf.org.cn/Academic_Evaluation/By_category/)推荐的国际学术会议和期刊目录，抓取的数据包括主刊/子刊，会议及相关的Workshop等。目前支持飞书推送。
 
+为了提高并发性能，可以去[Semantic Scholar](https://api.semanticscholar.org/api-docs/graph)申请API Key，并配置环境变量`S2API_KEY`。
+
 ```sh
 $ ./install.sh  # 安装
 
@@ -13,7 +15,7 @@ $ python3 openccf.py --help
  \___/| .__/ \___|_| |_|\____\____|_|    
       |_|                                
 
-usage: openccf.py [-h] [--year start:end] [--rule field:type:rank:name] [--keywords keywords]
+usage: openccf.py [-h] [--year start:end] [--rule field:type:rank:name] [--keywords keywords] [--bot bot]
 
 options:
   -h, --help            show this help message and exit
@@ -21,22 +23,57 @@ options:
   --rule field:type:rank:name
                         e.g. NIS:conf:A,B:all
   --keywords keywords   e.g. keyword1,keyword2
+  --bot bot             e.g. feishu
 ```
+
+## 飞书推送
 
 在飞书中新建应用，开通机器人和相应权限：
 - 查看、评论、编辑和管理多维表格
 - 获取与发送单聊、群组消息
 
-为了提高并发性能，可以去[Semantic Scholar](https://api.semanticscholar.org/api-docs/graph)申请API Key，并配置环境变量`S2API_KEY`。
+然后填写配置文件或者设置相应的环境变量：
 
-最后，在 `openccf.py` 中填入以下字段，或者配置相应的环境变量：
+```json
+    "feishu": {
+        "app_id": {
+            "name": "FEISHU_APP_ID",
+            "key": ""
+        },
+        "app_secret": {
+            "name": "FEISHU_APP_SECRET",
+            "key": ""
+        },
+        "bot": {
+            "name": "FEISHU_BOT",
+            "key": ""
+        },
+        "bitable": {
+            "name": "FEISHU_BITABLE",
+            "key": ""
+        }
+    },
+```
 
-```py
-# 飞书开放平台->开发者后台
-app_id = 'cli_xxxxxxxxxxxxx'
-app_secret = os.getenv('APP_SECRET') or ''
-# 多维表格应用
-app_token, table_id = (os.getenv('BITABLE_TOKEN') or '').split(':')
+## 我来推送
+
+在我来中新建应用，然后填写配置文件或者设置相应的环境变量：
+
+```json
+    "wolai": {
+        "app_id": {
+            "name": "WOLAI_APP_ID",
+            "key": ""
+        },
+        "app_secret": {
+            "name": "WOLAI_APP_SECRET",
+            "key": ""
+        },
+        "database": {
+            "name": "WOLAI_DATABASE",
+            "key": ""
+        }
+    },
 ```
 
 # TODO

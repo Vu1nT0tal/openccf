@@ -14,6 +14,7 @@ class feishuBot:
     https://open.feishu.cn/document/ukTMukTMukTM/ucTM5YjL3ETO24yNxkjN
     https://open.feishu.cn/tool/cardbuilder
     """
+    URL_API = 'https://open.feishu.cn/open-apis'
 
     def __init__(self, key) -> None:
         self.key = key
@@ -154,7 +155,7 @@ class feishuBot:
     def send(self, paper: dict):
         card = self.make_card(paper)
 
-        url = f'https://open.feishu.cn/open-apis/bot/v2/hook/{self.key}'
+        url = f'{self.URL_API}/bot/v2/hook/{self.key}'
         headers = {'Content-Type': 'application/json; charset=utf-8'}
         data = {'msg_type': 'interactive', 'card': card}
 
@@ -175,6 +176,7 @@ class feishuOper:
     TOKEN_TENANT = 'tenant'
     TOKEN_APP = 'app'
     TOKEN_USER = 'user'
+    URL_API = 'https://open.feishu.cn/open-apis'
 
     def __init__(self, app_id, app_secret, mail=None, pwd=None):
         # 可在飞书开放平台->开发者后台中获取
@@ -201,7 +203,7 @@ class feishuOper:
         # 缓存文件
         cache_path = Path(__file__).parent.absolute().joinpath('cache')
         cache_path.mkdir(exist_ok=True)
-        self.access_cache_file = cache_path.joinpath('access_cache.bin')
+        self.access_cache_file = cache_path.joinpath('feishu_access.bin')
         if self.access_cache_file.exists():
             self.load_access_cache()
 
@@ -282,7 +284,7 @@ class feishuOper:
         console.print('获取tenant_access_token ...', style='bold yellow')
 
         try:
-            url = 'https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal'
+            url = f'{self.URL_API}/auth/v3/tenant_access_token/internal'
             headers = {'Content-Type': 'application/json; charset=utf-8'}
             data = json.dumps({
                 'app_id': self.app_id,
@@ -294,7 +296,7 @@ class feishuOper:
             self.tenant_expire = time.time() + r['expire'] - 60
             return True
         except Exception:
-            console.print_exception(show_locals=True)
+            console.print_exception()
             return False
 
     def get_app_access(self) -> bool:
@@ -302,7 +304,7 @@ class feishuOper:
         console.print('获取app_access_token ...', style='bold yellow')
 
         try:
-            url = 'https://open.feishu.cn/open-apis/auth/v3/app_access_token/internal'
+            url = f'{self.URL_API}/auth/v3/app_access_token/internal'
             headers = {'Content-Type': 'application/json; charset=utf-8'}
             data = json.dumps({
                 'app_id': self.app_id,
@@ -314,7 +316,7 @@ class feishuOper:
             self.app_expire = time.time() + r['expire'] - 60
             return True
         except Exception:
-            console.print_exception(show_locals=True)
+            console.print_exception()
             return False
 
     def get_user_access(self, token='') -> bool:
@@ -331,7 +333,7 @@ class feishuOper:
             else:
                 return False
         except Exception:
-            console.print_exception(show_locals=True)
+            console.print_exception()
             return False
 
     def get_login_code(self) -> str:
@@ -340,7 +342,7 @@ class feishuOper:
         """
         console.print('获取预授权码 ...', style='bold yellow')
 
-        url = f'https://open.feishu.cn/open-apis/authen/v1/index?app_id={self.app_id}&redirect_uri='
+        url = f'{self.URL_API}/authen/v1/index?app_id={self.app_id}&redirect_uri='
         p = sync_playwright().start()
         browser = p.chromium.launch(headless=True)
         page = browser.new_page(locale='zh-CN')
@@ -365,7 +367,7 @@ class feishuOper:
         """有效期6900秒"""
         console.print('获取user_access_token ...', style='bold yellow')
 
-        url = 'https://open.feishu.cn/open-apis/authen/v1/access_token'
+        url = f'{self.URL_API}/authen/v1/access_token'
         data = json.dumps({
             'code': self.get_login_code(),
             'grant_type': 'authorization_code'
@@ -381,7 +383,7 @@ class feishuOper:
         """有效期30天"""
         console.print('刷新user_access_token ...', style='bold yellow')
 
-        url = 'https://open.feishu.cn/open-apis/authen/v1/refresh_access_token'
+        url = f'{self.URL_API}/authen/v1/refresh_access_token'
         data = json.dumps({
             'refresh_token': token,
             'grant_type': 'refresh_token'
@@ -393,9 +395,10 @@ class feishuOper:
 
         return requests.post(url, headers=headers, data=data).json()['data']
 
-    def bitable_batch_create(self, app_token: str, table_id: str, data: dict) -> bool:
+    def bitable_batch_create(self, table: str, data: dict) -> bool:
         """tenant_access_token 或 user_access_token"""
-        url = f'https://open.feishu.cn/open-apis/bitable/v1/apps/{app_token}/tables/{table_id}/records/batch_create'
+        app_token, table_id = table.split(':')
+        url = f'{self.URL_API}/bitable/v1/apps/{app_token}/tables/{table_id}/records/batch_create'
         headers = {
             'Content-Type': 'application/json; charset=utf-8',
             'Authorization': f'Bearer {self.tenant_access_token}',
