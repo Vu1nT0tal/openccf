@@ -24,7 +24,7 @@ class wolaiOper:
             'appSecret': self.app_secret
         }
         try:
-            return requests.post(url, json=data).json()['data']['token']
+            return requests.post(url, json=data).json()['data']['app_token']
         except Exception:
             console.print_exception()
             return False
@@ -32,9 +32,7 @@ class wolaiOper:
     def database_get(self, id: str) -> bool:
         """获取数据表格数据"""
         url = f'{self.URL_API}/databases/{id}'
-        headers = {
-            'Authorization': f'Bearer {self.token}'
-        }
+        headers = {'Authorization': self.token}
         try:
             return requests.get(url, headers=headers).json()['data']
         except Exception:
@@ -44,9 +42,7 @@ class wolaiOper:
     def database_post(self, id: str, data: dict) -> bool:
         """创建数据表格数据"""
         url = f'{self.URL_API}/databases/{id}/rows'
-        headers = {
-            'Authorization': f'Bearer {self.token}'
-        }
+        headers = {'Authorization': self.token}
         try:
             r = requests.post(url, headers=headers, json=data)
             if r.status_code == 200:

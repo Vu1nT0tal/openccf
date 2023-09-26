@@ -25,8 +25,18 @@
             "key": ""
         },
         "bitable": {
-            "name": "FEISHU_BITABLE",
-            "key": ""
+            "vehicle": {
+                "name": "FEISHU_BITABLE_VEHICLE",
+                "key": ""
+            },
+            "android": {
+                "name": "FEISHU_BITABLE_ANDROID",
+                "key": ""
+            },
+            "linux": {
+                "name": "FEISHU_BITABLE_LINUX",
+                "key": ""
+            }
         }
     },
     "wolai": {
@@ -39,8 +49,18 @@
             "key": ""
         },
         "database": {
-            "name": "WOLAI_DATABASE",
-            "key": ""
+            "vehicle": {
+                "name": "WOLAI_DATABASE_VEHICLE",
+                "key": ""
+            },
+            "android": {
+                "name": "WOLAI_DATABASE_ANDROID",
+                "key": ""
+            },
+            "linux": {
+                "name": "WOLAI_DATABASE_LINUX",
+                "key": ""
+            }
         }
     },
 
@@ -131,8 +151,6 @@
                 "sa8155p", "sa8155p_firmware",
                 "sa8295p", "sa8295p_firmware",
                 "QCA6696", "QCA6696_firmware",
-                "linux_kernel", "Linux Kernel", "内核",
-                "Android", "AOSP", "安卓",
                 "FreeRTOS", "RTOS",
                 "QNX"
             ],
@@ -153,6 +171,16 @@
                 "ECU", "ECUs", "MCU", "MCUs",
                 "AUTOSAR", "SecOC", "Diagnostic", "诊断",
                 "Secure Boot", "安全启动", "Fault Injection", "故障注入"
+            ]
+        },
+        "android": {
+            "product": [
+                "Android", "AOSP", "安卓"
+            ]
+        },
+        "linux": {
+            "product": [
+                "linux_kernel", "Linux Kernel", "内核"
             ]
         }
     }

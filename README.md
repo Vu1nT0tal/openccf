@@ -1,6 +1,13 @@
 # OpenCCF
 
-采用[中国计算机学会（CCF）](https://www.ccf.org.cn/Academic_Evaluation/By_category/)推荐的国际学术会议和期刊目录，抓取的数据包括主刊/子刊，会议及相关的Workshop等。目前支持飞书推送。
+采用[中国计算机学会（CCF）](https://www.ccf.org.cn/Academic_Evaluation/By_category/)推荐的国际学术会议和期刊目录，抓取的数据包括主刊/子刊，会议及相关的Workshop等。目前支持飞书、我来推送。
+
+数据库：
+- [汽车安全学术论文](https://www.wolai.com/chao96/fLquksafgYf7qR87vUiwbi)
+- [Android安全学术论文](https://www.wolai.com/chao96/7erDH54B8AyMf6zjzD1UN9)
+- [Linux Kernel安全学术论文](https://www.wolai.com/chao96/a8UKqApaapvmDfHqDdT5p9)
+
+## 使用方法
 
 为了提高并发性能，可以去[Semantic Scholar](https://api.semanticscholar.org/api-docs/graph)申请API Key，并配置环境变量`S2API_KEY`。
 
@@ -15,18 +22,19 @@ $ python3 openccf.py --help
  \___/| .__/ \___|_| |_|\____\____|_|    
       |_|                                
 
-usage: openccf.py [-h] [--year start:end] [--rule field:type:rank:name] [--keywords keywords] [--bot bot]
+usage: openccf.py [-h] [--year start:end] [--rule field:type:rank:name] [--category category] [--keywords keywords] [--bot bot]
 
 options:
   -h, --help            show this help message and exit
   --year start:end      e.g. 2020:2015
   --rule field:type:rank:name
                         e.g. NIS:conf:A,B:all
+  --category category   e.g. vehicle,android,linux
   --keywords keywords   e.g. keyword1,keyword2
   --bot bot             e.g. feishu
 ```
 
-## 飞书推送
+### 飞书推送
 
 在飞书中新建应用，开通机器人和相应权限：
 - 查看、评论、编辑和管理多维表格
@@ -55,7 +63,7 @@ options:
     },
 ```
 
-## 我来推送
+### 我来推送
 
 在我来中新建应用，然后填写配置文件或者设置相应的环境变量：
 
@@ -76,7 +84,7 @@ options:
     },
 ```
 
-# TODO
+## TODO
 
 1. ACM digital library的反爬机制可能导致IP被封。
   - IP代理：https://www.scraperapi.com/

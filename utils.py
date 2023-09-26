@@ -92,7 +92,7 @@ async def fetch(url: str, headers: dict = None, params: dict=None, proxy: bool=F
     return None
 
 
-def filter_keywords(paper: dict, keywords: list):
+def get_keywords(paper: dict, keywords: list):
     """过滤关键词"""
     key_set = set()
     for key in keywords:
@@ -106,8 +106,8 @@ def filter_keywords(paper: dict, keywords: list):
     return sorted(key_set)
 
 
-def filter_vehicle(data: dict, keywords: list):
-    """过滤汽车安全相关论文"""
+def filter_keywords(data: dict, keywords: list):
+    """通过关键词筛选相关论文"""
 
     results = []
     for year, year_data in data.items():
@@ -116,7 +116,7 @@ def filter_vehicle(data: dict, keywords: list):
             conf_title = item.get('journals_title') or item.get('conf_title') or ''
             conf_url = item.get('journals_url') or item.get('conf_url') or ''
             for paper in item['papers']:
-                if key := filter_keywords(paper, keywords):
+                if key := get_keywords(paper, keywords):
                     paper.update({
                         'year': year,
                         'dblp_url': dblp_url,
