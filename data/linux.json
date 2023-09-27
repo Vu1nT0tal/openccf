@@ -1,72 +1,108 @@
 [
     {
-        "url": "https://doi.org/10.1145/3485832.3488011",
-        "title": "VIA: Analyzing Device Interfaces of Protected Virtual Machines",
-        "authors": "Felicitas Hetzelt, Martin Radev, Robert Buhren, Mathias Morbitzer, Jean-Pierre Seifert",
-        "abstract": "Both AMD and Intel have presented technologies for confidential computing in cloud environments. The proposed solutions — AMD SEV (-ES, -SNP) and Intel TDX — protect VMs (VMs) against attacks from higher privileged layers through memory encryption and integrity protection. This model of computation draws a new trust boundary between virtual devices and the VM, which in so far lacks thorough examination. In this paper, we therefore present an analysis of the virtual device interface and discuss several attack vectors against a protected VM. Further, we develop and evaluate VIA, an automated analysis tool to detect cases of improper sanitization of input recieved via the virtual device interface. VIA improves upon existing approaches for the automated analysis of device interfaces in the following aspects: (i) support for virtualization relevant buses, (ii) efficient Direct Memory Access (DMA) support and (iii) performance. VIA builds upon the Linux Kernel Library and clang’s libfuzzer to fuzz the communication between the driver and the device via MMIO, PIO, and DMA. An evaluation of VIA shows that it performs 570 executions per second on average and improves performance compared to existing approaches by an average factor of 2706. Using VIA, we analyzed 22 drivers in Linux 5.10.0-rc6, thereby uncovering 50 bugs and initiating multiple patches to the virtual device driver interface of Linux. To prove our findings’ criticality under the threat model of AMD SEV and Intel TDX, we showcase three exemplary attacks based on the bugs found. The attacks enable a malicious hypervisor to corrupt the memory and gain code execution in protected VMs with SEV-ES and are theoretically applicable to SEV-SNP and TDX.",
+        "url": "https://doi.org/10.1109/TrustCom50675.2020.00049",
+        "title": "Program Slice based Vulnerable Code Clone Detection",
+        "authors": "Xiaonan Song, Aimin Yu, Haibo Yu, Shirun Liu, Xin Bai, Lijun Cai, Dan Meng",
+        "abstract": "Vulnerabilities in software will not only lead to security problems of the software itself, but also cause the spread of vulnerabilities through code clones. It is important to detect and locate vulnerabilities among the source code to facilitate the fix. Although many methods are proposed to detect code clones in source code, most of them fail to detect code clones that involve statement addition and deletion effectively or are not suitable for vulnerability detection. In this paper, we propose a method that can detect vulnerabilities caused by code clones. Program slices are used to filter statements that are not related to vulnerabilities and extract important vulnerable statements in function. Hash function and bitvector are applied to improve efficiency during the detection. The results are displayed in html, among which the vulnerable statements are highlighted to help subsequent patching work. Our method is evaluated on open source software (Openssl, Linux Kernel, FFmpeg and QEMU). The results of experiments show that our method detects 12.72% more vulnerable clones in acceptable time compared with Vuddy, proving the effectiveness of our method.",
         "files": {
-            "openAccessPdf": "http://arxiv.org/pdf/2109.10660"
+            "openAccessPdf": ""
         },
-        "abstract_zh": "AMD和英特尔都展示了在云环境中进行保密计算的技术。AMD SEV (-ES，-SNP)和英特尔TDX提出的解决方案通过内存加密和完整性保护来保护虚拟机(VM)免受来自更高特权层的攻击。这种计算模型在虚拟设备和虚拟机之间画出了一个新的信任边界，到目前为止还缺乏彻底的检查。因此，在本文中，我们对虚拟设备接口进行了分析，并讨论了针对受保护虚拟机的几种攻击手段。此外，我们还开发和评估了VIA，这是一款自动分析工具，用于检测通过虚拟设备接口接收的输入处理不当的情况。VIA在以下方面改进了现有的设备接口自动分析方法:(I)对虚拟化相关总线的支持，(ii)高效的直接存储器访问(DMA)支持，以及(iii)性能。VIA构建于Linux内核库和clang的libfuzzer之上，通过MMIO、PIO和DMA来模糊驱动程序和设备之间的通信。对VIA的评估表明，它平均每秒执行570次，与现有方法相比，性能平均提高了2706倍。使用VIA，我们分析了Linux 5.10.0-rc6中的22个驱动程序，从而发现了50个错误，并启动了对Linux的虚拟设备驱动程序接口的多个补丁。为了证明我们的发现在AMD SEV和英特尔TDX的威胁模型下的重要性，我们展示了基于所发现的漏洞的三个示例性攻击。这些攻击使恶意虚拟机管理程序能够破坏内存，并在带有服务的受保护虚拟机中执行代码，理论上适用于服务单端口和TDX。",
-        "title_zh": "通过：分析受保护虚拟机的设备界面",
+        "abstract_zh": "软件中的漏洞不仅会导致软件本身的安全问题，还会通过代码克隆造成漏洞的传播。检测和定位源代码中的漏洞以便于修复是很重要的。虽然很多方法被提出来检测源代码中的代码克隆，但是大多数方法都不能有效地检测包含语句添加和删除的代码克隆，或者不适合漏洞检测。在本文中，我们提出了一种可以检测由代码克隆引起的漏洞的方法。程序切片用于过滤与漏洞无关的语句，提取函数中重要的易受攻击语句。哈希函数和位向量的应用提高了检测的效率。结果显示在html中，其中易受攻击的语句被突出显示，以帮助后续的修补工作。我们的方法在开源软件(Openssl、Linux内核、FFmpeg和QEMU)上进行评估。实验结果表明，与Vuddy相比，我们的方法在可接受的时间内多检测了12.72%的脆弱克隆，证明了我们方法的有效性。",
+        "title_zh": "基于程序切片的易受攻击代码克隆检测",
+        "year": "2020",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/trustcom/trustcom2020.html",
+        "conf_title": "19th TrustCom 2020: Guangzhou, China",
+        "conf_url": "https://doi.org/10.1109/TrustCom50675.2020",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1109/TrustCom50675.2020.00180",
+        "title": "SecureESFS: Sharing Android External Storage Files in A Securer Way",
+        "authors": "Shan Liang, Yuewu Wang, Lingguang Lei, Jiwu Jing, Quan Zhou",
+        "abstract": "As an essential component on Android devices, External Storage is frequently used for sharing files between different apps. Therefore, compared to Internal Storage, the access control on the External Storage is usually very loose. However, a lot of sensitive files might be stored on the External Storage, which makes it an attractive target for the attackers. Since Android 10, a security mechanism named Scoped Storage has been introduced to protect the sensitive files on the External Storage. However, this mechanism is mainly used to protect the app-specific files, and can't support the sharing of sensitive files between trusted apps in a secure and flexible way. In this paper, we present a secure External Storage sensitive file sharing solution named SecureESFS. It first extends a Linux kernel security mechanism named ACL on the SDCardFS filesystem to protect the External Storage. With different ACL policy settings, the user can dynamically share sensitive files between trusted apps according to specific business needs. We also enforce the integrity protection on the ACL policies by checking the hash message authentication codes (HMAC) of these policies. Moreover, we design a transparent encryption mechanism in SecureESFS to protect the sensitive files on the External Storage, when the Android devices are physically accessed by the attackers, such as removing the SD card. For versions lower than Android 10, SecureESFS can provide independent protection and secure sharing for the sensitive files on the External Storage. For versions higher than Android 10, SecureESFS can achieve the secure sharing of sensitive files while Scoped Storage provides protection for the app-specific files. SecureESFS may also be used to enhance the security of the Scoped Storage mechanism. Experiments conducted on a prototype show that SecureESFS works well and incurs acceptable overhead.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "作为Android设备上的一个重要组件，外部存储经常用于在不同的应用程序之间共享文件。因此，与内部存储相比，外部存储的访问控制通常非常松散。然而，大量敏感文件可能存储在外部存储器上，这使得它成为攻击者的诱人目标。从Android 10开始，引入了名为Scoped Storage的安全机制来保护外部存储上的敏感文件。然而，这种机制主要用于保护特定于app的文件，不能以安全和灵活的方式支持可信app之间的敏感文件共享。在本文中，我们提出了一个名为SecureESFS的安全外部存储敏感文件共享解决方案。它首先在SDCardFS文件系统上扩展了一个名为ACL的Linux内核安全机制来保护外部存储。通过不同的ACL策略设置，用户可以根据特定的业务需求在受信任的应用程序之间动态共享敏感文件。我们还通过检查ACL策略的哈希消息认证码(HMAC)来加强这些策略的完整性保护。此外，我们在SecureESFS中设计了一个透明的加密机制，当攻击者物理访问Android设备时，例如移除SD卡，可以保护外部存储上的敏感文件。对于低于Android 10的版本，SecureESFS可以为外部存储上的敏感文件提供独立保护和安全共享。对于高于Android 10的版本，SecureESFS可以实现敏感文件的安全共享，而作用域存储则为应用程序特定的文件提供保护。SecureESFS还可用于增强作用域存储机制的安全性。在原型上进行的实验表明，SecureESFS运行良好，开销也可以接受。",
+        "title_zh": "SecureESFS:以更安全的方式共享Android外部存储文件",
+        "year": "2020",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/trustcom/trustcom2020.html",
+        "conf_title": "19th TrustCom 2020: Guangzhou, China",
+        "conf_url": "https://doi.org/10.1109/TrustCom50675.2020",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1109/TrustCom/BigDataSE.2019.00011",
+        "title": "Building Trust in Container Environment",
+        "authors": "Yunlong Guo, Aimin Yu, Xiaoli Gong, Lixin Zhao, Lijun Cai, Dan Meng",
+        "abstract": "Container technology is an emerging virtualization technology that is more efficient and lightweight than virtual machines. This technology is becoming increasingly popular. However, containers are vulnerable to attackers due to various security issues. It is necessary to build trust between users and their containers, as well as between a remote party and the container in the untrusted container environment. The existing trusted computing technologies build a trust chain from hardware to the running operating system. In this paper, we extend the trust chain to containers and build trust in the container environment. We first boot the computer to a trusted operating system. The trusted OS then verifies programs running on the OS to improve security. We design the well-formed signature list to help users to authorize container executables and modify the Linux kernel to verify executables running in containers. Therefore, the user is able to control what programs can run in his containers and trust the containers. Our approach generates a measurement list and creates a vTPM for each container. A remote party can request the measurement list based on our container state challenge protocol. As a result, a remote party is able to know the container state and decide whether to trust the container. We also implement the executables measurement and verification mechanism and evaluate the performance. The results show the container start delay is no more than 3% of the normal container start time and the overhead to measure and verify executables is no more than 1 us in most cases, which is reasonably efficient.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "容器技术是一种新兴的虚拟化技术，比虚拟机更高效、更轻量级。这项技术越来越受欢迎。然而，由于各种安全问题，容器容易受到攻击者的攻击。有必要在用户和他们的容器之间，以及在不可信容器环境中的远程方和容器之间建立信任。现有的可信计算技术建立了从硬件到运行的操作系统的信任链。在本文中，我们将信任链扩展到容器，并在容器环境中建立信任。我们首先将计算机引导至可信的操作系统。然后，可信操作系统验证操作系统上运行的程序，以提高安全性。我们设计了格式良好的签名列表来帮助用户授权容器可执行文件，并修改Linux内核来验证容器中运行的可执行文件。因此，用户能够控制哪些程序可以在他的容器中运行，并信任这些容器。我们的方法生成一个测量列表，并为每个容器创建一个vTPM。远程方可以基于我们的容器状态询问协议请求测量列表。结果，远程方能够知道容器状态并决定是否信任该容器。我们还实现了可执行文件的测量和验证机制，并对性能进行了评估。结果表明，容器启动延迟不超过正常容器启动时间的3%,测量和验证可执行文件的开销在大多数情况下不超过1 us，这是相当有效的。",
+        "title_zh": "在容器环境中建立信任",
+        "year": "2019",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/trustcom/trustcom2019.html",
+        "conf_title": "18th TrustCom / 13th BigDataSE 2019: Rotorua, New Zealand",
+        "conf_url": "https://ieeexplore.ieee.org/xpl/conhome/8883860/proceeding",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1109/TrustCom.2016.0241",
+        "title": "The Design and Implementation of a Lightweight Management Framework for Non-volatile Memory",
+        "authors": "Zheng Zhang, Dan Feng, Jianxi Chen, Ya Yu, Jing Zeng",
+        "abstract": "The disk is always the bottleneck of storage system for decades. The emergency of non-volatile memory, such as Phase Change Memory, Spin-Transfer Torque and Memristors provides an opportunity to improve the performance of storage system due to its comparable access speed like DRAM. However, existing storage systems are designed and optimized for disk, directly replacing disk with the non-volatile memory will make the software latency become the major bottleneck. In order to address the problem and to improve the performance of non-volatile memory based system, we design and implement a lightweight management framework for non-volatile memory. The framework is composed of a user-level library and a kernel-level file system for non-volatile memory, called NVMFS. Unlike current storage systems, the framework provides a relative short I/O path and a dedicated file system for non-volatile memory. The upper-level applications can load library dynamically in the framework to access NVMFS on non-volatile memory. We have implemented the prototype of the framework in Linux kernel and evaluated the performance of the framework through the standard benchmark.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "几十年来，磁盘一直是存储系统的瓶颈。相变存储器、自旋转移矩和忆阻器等非易失性存储器的出现，由于其可媲美DRAM的存取速度，为提高存储系统的性能提供了契机。然而，现有的存储系统是为磁盘设计和优化的，直接用非易失性存储器代替磁盘会使软件延迟成为主要瓶颈。为了解决这个问题并提高基于非易失性存储器的系统的性能，我们设计并实现了一个轻量级的非易失性存储器管理框架。该框架由一个用户级库和一个用于非易失性内存的内核级文件系统组成，称为NVMFS。与当前的存储系统不同，该框架为非易失性存储器提供了相对较短的I/O路径和专用文件系统。上层应用程序可以在框架中动态加载库，以访问非易失性存储器上的NVMFS。我们在Linux内核中实现了该框架的原型，并通过标准基准测试对该框架的性能进行了评估。",
+        "title_zh": "一种轻量级非易失性存储器管理框架的设计与实现",
+        "year": "2016",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/trustcom/trustcom2016.html",
+        "conf_title": "TrustCom/BigDataSE/ISPA 2016: Tianjin, China",
+        "conf_url": "https://ieeexplore.ieee.org/xpl/conhome/7845250/proceeding",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1007/978-3-030-80825-9_13",
+        "title": "Introspect Virtual Machines Like It Is the Linux Kernel!",
+        "authors": "Ahmed Abdelraoof, Benjamin Taubmann, Thomas Dangl, Hans P. Reiser",
+        "abstract": "",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "",
+        "title_zh": "内省的虚拟机就像Linux内核一样！",
         "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/acsac/acsac2021.html",
-        "conf_title": "ACSAC 2021: Virtual Event, USA",
-        "conf_url": "https://doi.org/10.1145/3485832",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2021.html",
+        "conf_title": "DIMVA 2021: Virtual Event",
+        "conf_url": "https://doi.org/10.1007/978-3-030-80825-9",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1145/3485832.3488019",
-        "title": "FlexFilt: Towards Flexible Instruction Filtering for Security",
-        "authors": "Leila Delshadtehrani, Sadullah Canakci, William Blair, Manuel Egele, Ajay Joshi",
-        "abstract": "As the complexity of software applications increases, there has been a growing demand for intra-process memory isolation. The commercially available intra-process memory isolation mechanisms in modern processors, e.g., Intel’s memory protection keys, trade-off between efficiency and security guarantees. Recently, researchers have tended to leverage the features with low security guarantees for intra-process memory isolation. Subsequently, they have relied on binary scanning and runtime binary rewriting to prevent the execution of unsafe instructions, which improves the security guarantees. Such intra-process memory isolation mechanisms are not the only security solutions that have to prevent the execution of unsafe instructions in untrusted parts of the code. In fact, we identify a similar requirement in a variety of other security solutions. Although binary scanning and runtime binary rewriting approaches can be leveraged to address this requirement, it is challenging to efficiently implement these approaches. In this paper, we propose an efficient and flexible hardware-assisted feature for runtime filtering of user-specified instructions. This flexible feature, called FlexFilt, assists with securing various isolation-based mechanisms. FlexFilt enables the software developer to create up to 16 instruction domains, where each instruction domain can be configured to filter the execution of user-specified instructions. In addition to filtering unprivileged instructions, FlexFilt is capable of filtering privileged instructions. To illustrate the effectiveness of FlexFilt compared to binary scanning approaches, we measure the overhead caused by scanning the JIT compiled code while browsing various webpages. We demonstrate the feasibility of FlexFilt by implementing our design on the RISC-V Rocket core, providing the Linux kernel support for it, and prototyping our full design on an FPGA.",
+        "url": "https://doi.org/10.1007/978-3-031-35504-2_10",
+        "title": "Extended Abstract: Towards Reliable and Scalable Linux Kernel CVE Attribution in Automated Static Firmware Analyses",
+        "authors": "René Helmke, Johannes vom Dorp",
+        "abstract": "—In vulnerability assessments, software component- based CVE attribution is a common method to identify possibly vulnerable systems at scale. However, such version-centric ap- proaches yield high false-positive rates for binary distributed Linux kernels in ﬁrmware images. Not ﬁltering included vul- nerable components is a reason for unreliable matching, as heterogeneous hardware properties, modularity, and numerous development streams result in a plethora of vendor-customized builds. To make a step towards increased result reliability while retaining scalability of the analysis method, we enrich version-based CVE matching with kernel-speciﬁc build data from binary images using automated static ﬁrmware analysis. We open source an attribution pipeline that gathers kernel conﬁguration and target architecture to dry build the present kernel version and ﬁlter CVEs based on affected ﬁle references in record descriptions. In a case study with 127 router ﬁrmware images, we show that in comparison to naive version matching, our approach identiﬁes 68% of all version CVE matches as false-positives and reliably removes them from the result set. For 12% of all matches it provides additional evidence of issue applicability. For 19.4%, our approach does not improve reliability because required ﬁle references in CVEs are missing.",
         "files": {
             "openAccessPdf": ""
         },
-        "abstract_zh": "随着软件应用程序复杂性的增加，对进程内内存隔离的需求也在不断增长。现代处理器中的商用进程内存储器隔离机制，例如Intel的存储器保护密钥，在效率和安全性保证之间进行权衡。最近，研究人员倾向于利用安全性保证较低的特性来实现进程内内存隔离。随后，他们依靠二进制扫描和运行时二进制重写来防止不安全指令的执行，这提高了安全性保证。这种进程内存储器隔离机制并不是防止在不可信代码部分执行不安全指令的唯一安全解决方案。事实上，我们在各种其他安全解决方案中发现了类似的需求。尽管可以利用二进制扫描和运行时二进制重写方法来满足这一需求，但是有效地实现这些方法是具有挑战性的。在这篇文章中，我们提出了一个有效和灵活的硬件辅助功能，用于运行时过滤用户指定的指令。这种称为FlexFilt的灵活特性有助于保护各种基于隔离的机制。FlexFilt使软件开发人员能够创建多达16个指令域，其中每个指令域都可以配置为过滤用户指定指令的执行。除了过滤非特权指令，FlexFilt还能够过滤特权指令。为了说明与二进制扫描方法相比FlexFilt的有效性，我们测量了在浏览各种网页时扫描JIT编译的代码所导致的开销。我们通过在RISC-V Rocket core上实现我们的设计，为其提供Linux内核支持，并在FPGA上原型化我们的完整设计，展示了FlexFilt的可行性。",
-        "title_zh": "弹性：促进灵活的说明过滤以进行安全性",
-        "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/acsac/acsac2021.html",
-        "conf_title": "ACSAC 2021: Virtual Event, USA",
-        "conf_url": "https://doi.org/10.1145/3485832",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1145/3564625.3564634",
-        "title": "Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms",
-        "authors": "Yutian Yang, Wenbo Shen, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren",
-        "abstract": "Linux kernel introduces the memory control group (memcg) to account and confine memory usage at the process-level. Due to its flexibility and efficiency, memcg has been widely adopted by container platforms and has become a fundamental technique. While being critical, memory accounting is prone to missing-account bugs due to the diverse memory accounting interfaces and the massive amount of allocation/free paths. To our knowledge, there is still no systematic analysis against the memory missing-account problem, with respect to its security impacts, detection, etc. In this paper, we present the first systematic study on the memory missing-account problem. We first perform an in-depth analysis of its exploitability and security impacts on container platforms. We then develop a tool named MANTA (short for Memory AccouNTing Analyzer), which combines both static and dynamic analysis techniques to detect and validate memory missing-account bugs automatically. Our analysis shows that all container runtimes, including runC and Kata container, are vulnerable to memory missing-account-based attacks. Moreover, memory missing-account can be exploited to attack the Docker, the CaaS, and the FaaS platforms, leading to memory exhaustion, which crashes individual node or even the whole cluster. Our tool reports 53 exploitable memory missing-account bugs, 37 of which were confirmed by kernel developers with the corresponding patches submitted, and two new CVEs are assigned. Through the in-depth analysis, automated detection, the reported bugs and the submitted patches, we believe our research improves the correctness and security of memory accounting for container platforms.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "Linux内核引入了内存控制组(memcg)来在进程级计算和限制内存使用。由于其灵活性和效率，memcg已经被容器平台广泛采用，并成为一种基本技术。虽然内存核算很重要，但由于内存核算接口的多样性和大量的分配/空闲路径，内存核算容易出现帐户缺失错误。据我们所知，目前还没有针对内存丢失帐户问题的系统分析，包括其安全影响、检测等。本文首次系统地研究了记忆缺失问题。我们首先对其可利用性和对容器平台的安全影响进行了深入分析。然后，我们开发了一个名为MANTA(内存核算分析器的缩写)的工具，它结合了静态和动态分析技术来自动检测和验证内存丢失帐户错误。我们的分析表明，所有容器运行时，包括runC和Kata容器，都容易受到基于内存缺失帐户的攻击。此外，可以利用内存缺失帐户来攻击Docker、CaaS和FaaS平台，导致内存耗尽，从而使单个节点甚至整个集群崩溃。我们的工具报告了53个可利用的内存缺失帐户错误，其中37个已由内核开发人员通过提交相应的补丁进行了确认，并分配了两个新的CVE。通过深入分析、自动检测、报告的错误和提交的补丁，我们相信我们的研究提高了容器平台内存核算的正确性和安全性。",
-        "title_zh": "使内存帐户负责：分析和检测容器平台的内存丢失符合错误",
-        "year": "2022",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/acsac/acsac2022.html",
-        "conf_title": "ACSAC 2022: Austin, TX, USA",
-        "conf_url": "https://doi.org/10.1145/3564625",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1145/2818000.2818046",
-        "title": "MobiPluto: File System Friendly Deniable Storage for Mobile Devices",
-        "authors": "Bing Chang, Zhan Wang, Bo Chen, Fengwei Zhang",
-        "abstract": "Mobile devices are prevalently used for processing personal private data and sometimes collecting evidence of social injustice or political oppression. The device owners may always feel reluctant to expose this type of data to undesired observers or inspectors. This usually can be achieved by encryption. However, the traditional encryption may not work when an adversary is able to coerce device owners into revealing their encrypted content. Plausibly Deniable Encryption (PDE) is thus designed to protect sensitive data against this type of powerful adversaries. In this paper, we present MobiPluto, a file system friendly PDE scheme for denying the existence of sensitive data stored on mobile devices. MobiPluto achieves deniability feature as nothing but a \"side-effect\" of combining thin provisioning, a well-established tool in Linux kernel, with encryption. This feature makes MobiPluto more plausible for users to have such software on their mobile devices. A salient difference between MobiPluto and the existing PDE schemes is that MobiPluto is \"file system friendly\", i.e., any block-based file systems can be deployed on top of it. Thus, it is possible to deploy MobiPluto on most mobile devices. We provide a proof-of-concept implementation for MobiPluto in an Android phone to assess its feasibility and performance.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "移动设备普遍用于处理个人隐私数据，有时还用于收集社会不公或政治压迫的证据。设备所有者可能总是不愿意将这种类型的数据暴露给不受欢迎的观察者或检查员。这通常可以通过加密来实现。然而，当对手能够强迫设备所有者透露他们的加密内容时，传统的加密可能不起作用。因此，似是而非的可否认加密(PDE)旨在保护敏感数据免受这类强大对手的攻击。在本文中，我们提出了MobiPluto，一个文件系统友好的PDE方案，用于否认存储在移动设备上的敏感数据的存在。MobiPluto实现可否认性特性不过是将精简配置(Linux内核中一个成熟的工具)与加密相结合的“副作用”。这个特性使得MobiPluto更有可能让用户在他们的移动设备上安装这样的软件。mobi luto和现有PDE方案之间的一个显著区别是mobi luto是“文件系统友好的”，即任何基于块的文件系统都可以部署在它上面。因此，在大多数移动设备上部署MobiPluto是可能的。我们提供了一个在Android手机中实现MobiPluto的概念验证，以评估其可行性和性能。",
-        "title_zh": "Mobipluto：文件系统友好的移动设备存储",
-        "year": "2015",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/acsac/acsac2015.html",
-        "conf_title": "31. ACSAC 2015: Los Angeles, CA, USA",
-        "conf_url": "http://dl.acm.org/citation.cfm?id=2818000",
+        "title_zh": "扩展摘要:在自动化静态固件分析中实现可靠和可扩展的Linux内核CVE属性",
+        "abstract_zh": "—在漏洞评估中，基于软件组件的CVE属性是大规模识别可能存在漏洞的系统的常用方法。然而，这种以版本为中心的方法对于二进制分布式Linux内核在固件映像中会产生很高的误报率。不过滤包含的易受攻击组件是不可靠匹配的一个原因，因为异构硬件属性、模块化和众多开发流会导致过多的供应商定制版本。为了在提高结果可靠性的同时保持分析方法的可扩展性，我们使用自动化静态固件分析，通过来自二进制图像的内核特定构建数据，丰富了基于版本的CVE匹配。我们开源了一个属性管道，收集内核配置和目标架构，以干式构建当前内核版本，并根据记录描述中受影响的文件引用过滤cv。在对127个路由器固件映像的案例研究中，我们发现，与简单的版本匹配相比，我们的方法将所有版本CVE匹配中的68%识别为误报，并可靠地将其从结果集中删除。对于12%的匹配，它提供了问题适用性的额外证据。对于19.4%，我们的方法没有提高可靠性，因为CVE中所需的文件引用丢失了。",
+        "year": "2023",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2023.html",
+        "conf_title": "20th DIMVA 2023:\nHamburg, Germany",
+        "conf_url": "https://doi.org/10.1007/978-3-031-35504-2",
         "keywords": [
             "Linux Kernel"
         ]
@@ -234,144 +270,108 @@
         ]
     },
     {
-        "url": "https://doi.org/10.1145/3381991.3395396",
-        "title": "Analysis of Access Control Enforcement in Android",
-        "authors": "William Enck",
-        "abstract": "Over the past decade, the Android operating system install-base has proliferated to billions of devices, rivaling Microsoft Windows as a top computing platform. One of the most attractive aspects of Android is its vast collection of applications, available from application stores such as Google's Play Store. Developers have been drawn to Android due to its semantically-rich runtime APIs, which simplify the creation of third-party applications. Many of these APIs provide access to security- and privacy-sensitive information and resources such as the device's geographic location, audio recorded from the device's microphone, and the ability to send and receive SMS messages. In providing these APIs to third-party applications, the Android OS has implicitly taken responsibility for their protection, increasing its access control burden. As a result, current versions of Android have thousands of manually placed access control checks throughout the platform. The goal of this talk is to motivate the need for and utility of semi-automated tools to analyze and validate the access control checks that occur within Android's system code. The challenges are two-fold. First, analysis of Android's middleware code is more challenging than that of third-party applications, which has been studied in-depth over the past decade [3-5]. The code spans hundreds of system services, which are implemented in a combination of Java, C++, and C. The system services also have heavy inter-dependencies with one another, frequently invoking entry points in each other using Android's Binder inter-process communication (IPC) framework within the Linux kernel. Second, identifying what is an access control check is nontrivial. While there are well-known checks based on user-authorized permissions and Linux-layer user and group identifiers, system services also use an array of different service-specific checks that must be captured and modeled to assess the correctness of access control enforcement. In this talk, we will discuss these challenges in the context of two case studies. We will begin by discussing ACMiner [6], a tool designed to assess the correctness of access control checks in Android's middleware using consistency analysis. For each Binder entry point in each system service, ACMiner statically analyzes the code to identify all potential access control checks. To do so, ACMiner uses the names of methods and variables and the values of constant strings used in conditional statements to infer the security-semantics of each check on the control-flow path to instructions that throw a SecurityException. ACMiner then uses association rule mining to identify not only which entry points have inconsistent access control checks, but also to suggest what checks should be added. In applying ACMiner to the Android Open Source Project (AOSP), we found the suggestions to be invaluable when determining whether or not an inconsistency was a vulnerability. Next, we discuss the Android Re-Delegation Finder (ARF) [7]. When designing ACMiner, we optimized our static program analysis by terminating the control-flow analysis of an entry point when the execution reaches another entry point in the same or different system service. Upon further study, we found that entry points frequently call one another, often changing the protection domain of execution when they do (e.g., by explicitly clearing the calling identity, or calling the entry point of a system service executing in a different process). As with most modern operating systems, Android uses deputies (i.e., system services) to safely perform privileged functionality on behalf of third-party applications. Deputies are inherently necessary for the protection of system resources. However, by losing the calling identity, entry points to Android's system services can become confused deputies. ARF builds on the access control policy extracted by ACMiner to identify potential confused deputy vulnerabilities. Neither ACMiner or ARF were designed to eliminate all false positives. In a code-base as vast as Android, it is unrealistic to expect every nuance can be captured programmatically. Instead, ACMiner and ARF were designed to be semi-automated. Our goal is to drastically reduce the amount of time it takes for a security analyst with domain expertise to identify and fix vulnerabilities. Over the course of our research, we have applied our tools to AOSP versions~7, 8, and 9, discovering many vulnerabilities, seven of which have been assigned CVEs by Google. Moving forward, we hope that our tools can be used not only to identify new vulnerabilities, but also to aid regression testing as new versions of Android are released. Both tools have been made open-source and are hosted on Github [1,2].",
+        "url": "https://doi.org/10.1007/978-3-030-95484-0_28",
+        "title": "Diminisher: A Linux Kernel Based Countermeasure for TAA Vulnerability",
+        "authors": "Ameer Hamza, Maria Mushtaq, Khurram Bhatti, David Novo, Florent Bruguier, Pascal Benoit",
+        "abstract": "",
         "files": {
-            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3381991.3395396"
+            "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-03372868/file/CPS4CIP_2021_paper_3.pdf"
         },
-        "abstract_zh": "在过去的十年里，Android操作系统的安装基础已经激增到数十亿台设备，作为顶级计算平台与微软Windows相抗衡。Android最吸引人的一个方面是其庞大的应用程序集合，可从应用程序商店(如谷歌的Play Store)获得。由于Android语义丰富的运行时API，简化了第三方应用程序的创建，开发人员已经被它所吸引。其中许多API提供对安全和隐私敏感信息和资源的访问，如设备的地理位置、从设备麦克风录制的音频以及发送和接收SMS消息的能力。在向第三方应用程序提供这些API时，Android操作系统隐含地承担了保护它们的责任，增加了其访问控制负担。因此，当前版本的Android在整个平台上有数以千计的手动访问控制检查。本次演讲的目标是激发半自动工具的需求和效用，以分析和验证Android系统代码中发生的访问控制检查。挑战是双重的。首先，分析Android的中间件代码比分析第三方应用程序更具挑战性，第三方应用程序在过去十年中已经得到了深入研究[3-5]。代码跨越了数百个系统服务，这些服务是用Java、C++和C的组合实现的。系统服务之间也有很强的相互依赖性，经常使用Android的Binder进程间通信(IPC)框架在Linux内核中调用彼此的入口点。第二，识别什么是访问控制检查是很重要的。虽然存在基于用户授权许可和Linux层用户和组标识符的众所周知的检查，但是系统服务还使用一系列不同的特定于服务的检查，必须对这些检查进行捕获和建模，以评估访问控制实施的正确性。在本次讲座中，我们将通过两个案例研究来讨论这些挑战。我们将从讨论ACMiner [6]开始，这是一个使用一致性分析评估Android中间件中访问控制检查正确性的工具。对于每个系统服务中的每个绑定器入口点，ACMiner静态地分析代码，以识别所有潜在的访问控制检查。为此，ACMiner使用方法和变量的名称以及条件语句中使用的常量字符串的值来推断抛出SecurityException的指令的控制流路径上每个检查的安全语义。然后，ACMiner使用关联规则挖掘不仅识别哪些入口点具有不一致的访问控制检查，还建议应该添加哪些检查。在将ACMiner应用于Android开源项目(AOSP)的过程中，我们发现在确定不一致性是否是一个漏洞时，这些建议是非常宝贵的。接下来，我们讨论Android再授权查找器(ARF) [7]。在设计ACMiner时，我们通过在执行到达相同或不同系统服务中的另一个入口点时终止入口点的控制流分析来优化我们的静态程序分析。通过进一步研究，我们发现入口点频繁地相互调用，当它们这样做时，经常改变执行的保护域(例如，通过显式地清除调用标识，或者调用在不同进程中执行的系统服务的入口点)。与大多数现代操作系统一样，Android使用代理(即系统服务)来代表第三方应用程序安全地执行特权功能。副手是保护系统资源的内在需要。然而，由于失去了呼叫身份，Android系统服务的入口点可能会成为困惑的代理。ARF建立在ACMiner提取的访问控制策略的基础上，以识别潜在的混淆代理漏洞。ACMiner和ARF都不是为消除所有假阳性而设计的。在像Android这样庞大的代码库中，期望通过编程来捕捉每一个细微差别是不现实的。相反，ACMiner和ARF被设计成半自动的。我们的目标是大幅减少具有领域专业知识的安全分析师识别和修复漏洞所需的时间。在我们的研究过程中，我们已经将我们的工具应用于AOSP版本7、8和9，发现了许多漏洞，其中七个被Google指定为CVE。展望未来，我们希望我们的工具不仅可以用于识别新的漏洞，还可以在新版本Android发布时帮助回归测试。这两个工具都是开源的，托管在Github上[1，2]。",
-        "title_zh": "Android中的访问控制实施分析",
-        "year": "2020",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/sacmat/sacmat2020.html",
-        "conf_title": "SACMAT 2020: Barcelona, Spain",
-        "conf_url": "https://doi.org/10.1145/3381991",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1108/ICS-02-2014-0013",
-        "title": "Logical acquisition and analysis of data from android mobile devices",
-        "authors": "Himanshu Srivastava, Shashikala Tapaswi",
-        "abstract": "Purpose – The purpose of this paper is to propose an approach that helps in acquisition of live data as well as data stored in the internal/external memory of android mobile device considering that the data on the device are not much altered during the extraction process. Also, the emphasis is laid on testing the validity of existing forensic tools against the data obtained manually and by using this approach. Smartphones have spurred the mobile computing technology, and Android is widely used as an Operating System in these devices. These days, users store most of their personal information like emails, images, contacts etc., on Phones/Tablets as their data would be readily accessible and thus convenient for them. Design/methodology/approach – Android Operating System is built on the Linux Kernel and scripts to extract data from Android Mobile Device with the use of Android Debugging Bridge have been written. The approach is more focused on the logical acquisition of data from devices rather than acquisi...",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "目的–考虑到设备上的数据在提取过程中不会发生太大变化，本文的目的是提出一种有助于获取实时数据以及存储在android移动设备内部/外部存储器中的数据的方法。此外，重点放在根据手动获取的数据和使用这种方法获取的数据测试现有取证工具的有效性。智能手机推动了移动计算技术的发展，Android作为操作系统被广泛应用于这些设备中。如今，用户存储大部分个人信息，如电子邮件、图像、联系人等。在手机/平板电脑上，因为他们的数据很容易访问，因此对他们来说很方便。设计/方法/途径——Android操作系统建立在Linux内核上，使用Android调试桥从Android移动设备提取数据的脚本已经编写完成。这种方法更侧重于从设备中逻辑地获取数据，而不是...",
-        "title_zh": "从android移动设备逻辑采集和分析数据",
-        "year": "2015",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/imcs/imcs23.html",
-        "conf_title": "Information and Computer Security, Volume 23",
-        "conf_url": "",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1109/EuroSPW54576.2021.00014",
-        "title": "FlushBlocker: Lightweight mitigating mechanism for CPU cache flush instruction based attacks",
-        "authors": "Shuhei Enomoto, Hiroki Kuzuno",
-        "abstract": "CPU cache flush instruction based attacks (cache instruction attacks) such as FLUSH+RELOAD can function in many environments. Meltdown and Spectre adopt FLUSH+RELOAD with cache instructions to access secret data. Additionally, Rowhammer employs cache instructions to modify data in physical memory. An adversary can read and write arbitrary data using these attacks. The deployment of corresponding hardware to combat these attacks is difficult for users, and existing software-based countermeasures incur high overheads, or cannot be applied to a variety of machines. In this study, we propose a novel mitigation mechanism for cache instruction attacks called FlushBlocker, which employs an effective approach that focuses on restricting cache flush instructions. We implemented FlushBlocker on the latest Linux kernel to conduct experiments. The experimental results indicate that FlushBlocker prevents existing cache instruction attacks and runtime overhead is negligible.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "基于CPU缓存刷新指令的攻击(缓存指令攻击)，如刷新+重新加载，可以在许多环境中起作用。Meltdown和Spectre采用带缓存指令的FLUSH+RELOAD来访问秘密数据。此外，Rowhammer使用缓存指令来修改物理内存中的数据。对手可以利用这些攻击读写任意数据。部署相应的硬件来对抗这些攻击对用户来说是困难的，并且现有的基于软件的对策招致高开销，或者不能应用于各种机器。在这项研究中，我们提出了一种新的缓存指令攻击缓解机制，称为FlushBlocker，它采用了一种有效的方法来限制缓存刷新指令。我们在最新的Linux内核上实现了FlushBlocker进行实验。实验结果表明，FlushBlocker可以防止现有的缓存指令攻击，并且运行时开销可以忽略不计。",
-        "title_zh": "FlushBlocker:针对基于CPU缓存刷新指令的攻击的轻量级缓解机制",
+        "abstract_zh": "",
+        "title_zh": "减小器：基于Linux内核的TAA漏洞的对策",
         "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/eurosp/eurosp2021w.html",
-        "conf_title": "EuroS&P 2021: Vienna, Austria - Workshops",
-        "conf_url": "https://doi.org/10.1109/EuroSPW54576.2021",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/esorics/cicps2021.html",
+        "conf_title": "CyberICPS/SECPRE/ADIoT/SPOSE/CPS4CIP/CDT&SECOMANE@ESORICS 2021: Darmstadt, Germany",
+        "conf_url": "https://doi.org/10.1007/978-3-030-95484-0",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1109/EuroSP.2018.00019",
-        "title": "Eraser: Your Data Won't Be Back",
-        "authors": "Kaan Onarlioglu, William K. Robertson, Engin Kirda",
-        "abstract": "Secure deletion of data from non-volatile storage is a well-recognized problem. While numerous solutions have been proposed, advances in storage technologies have stymied efforts to solve the problem. For instance, SSDs make use of techniques such as wear leveling that involve replication of data; this is in direct opposition to efforts to securely delete sensitive data from storage. We present a technique to provide secure deletion guarantees at file granularity, independent of the characteristics of the underlying storage medium. The approach builds on prior seminal work on cryptographic erasure, encrypting every file on an insecure medium with a unique key that can later be discarded to cryptographically render the data irrecoverable. To make the approach scalable and, therefore, usable on commodity systems, keys are organized in an efficient tree structure where a single master key is confined to a secure store. We describe an implementation of this scheme as a fileaware stackable block device, deployed as a standalone Linux kernel module that does not require modifications to the operating system. Our prototype demonstrates that secure deletion independent of the underlying storage medium can be achieved with comparable overhead to existing full disk encryption implementations.",
+        "url": "https://doi.org/10.1109/TDSC.2022.3165368",
+        "title": "Automatic Permission Check Analysis for Linux Kernel",
+        "authors": "Jinmeng Zhou, Tong Zhang, Wenbo Shen, Dongyoon Lee, Changhee Jung, Ahmed M. Azab, Ruowen Wang, Peng Ning, Kui Ren",
+        "abstract": "Permission checks play an essential role in operating system security by providing access control to privileged functionalities. However, it is challenging for kernel developers to scalably verify the soundness of existing checks due to the large codebase and complexity of the kernel. In fact, Linux kernel contains millions of lines of code with hundreds of permission checks, and even worse, its complexity is fast-growing. This paper presents PeX, a static Permission check error detector for LinuX, which takes as input a kernel source code and reports any missing, inconsistent, and redundant permission checks. PeX uses KIRIN (Kernel InteRface based Indirect call aNalysis), a novel, precise, and scalable indirect call analysis technique. Over the interprocedural control flow graph built by KIRIN, PeX automatically identifies permission checks and infers the mappings between permission checks and privileged functions. For each privileged function, PeX examines all possible paths to the function to check if necessary permission checks are correctly enforced. We evaluated PeX on the latest stable Linux kernel v4.18.5 for three types of permission checks: Discretionary Access Controls (DAC), Capabilities, and Linux Security Modules (LSM). PeX reported 45 new permission check errors, 17 of which have been confirmed by the kernel developers.",
         "files": {
             "openAccessPdf": ""
         },
-        "abstract_zh": "从非易失性存储器中安全删除数据是一个众所周知的问题。虽然已经提出了许多解决方案，但是存储技术的进步阻碍了解决该问题的努力。例如，固态硬盘利用了损耗均衡等涉及数据复制的技术；这与从存储中安全删除敏感数据的努力形成了鲜明对比。我们提出了一种在文件粒度上提供安全删除保证的技术，它与底层存储介质的特性无关。这种方法建立在先前关于加密擦除的开创性工作的基础上，用唯一的密钥对不安全介质上的每个文件进行加密，该密钥可以在以后被丢弃，从而以加密方式使数据不可恢复。为了使这种方法具有可伸缩性，从而可以在商用系统上使用，密钥被组织在一个有效的树结构中，其中一个主密钥被限制在一个安全的存储中。我们将此方案的实现描述为文件感知可堆叠块设备，作为独立的Linux内核模块部署，不需要对操作系统进行修改。我们的原型表明，独立于底层存储介质的安全删除可以以与现有的全磁盘加密实现相当的开销来实现。",
-        "title_zh": "橡皮擦:你的数据不会回来",
-        "year": "2018",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/eurosp/eurosp2018.html",
-        "conf_title": "EuroS&P 2018: London, UK",
-        "conf_url": "https://ieeexplore.ieee.org/xpl/conhome/8405665/proceeding",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1016/j.diin.2018.04.022",
-        "title": "Leveraging relocations in ELF-binaries for Linux kernel version identification",
-        "authors": "Manish Bhatt, Irfan Ahmed",
-        "abstract": "",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "",
-        "title_zh": "利用ELF二进制文件中的重定位进行Linux内核版本识别",
-        "year": "2018",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/di/di26.html",
-        "conf_title": "Digital Investigation, Volume 26 Supplement",
-        "conf_url": "",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1109/TIFS.2022.3226906",
-        "title": "From Release to Rebirth: Exploiting Thanos Objects in Linux Kernel",
-        "authors": "Danjun Liu, Pengfei Wang, Xu Zhou, Wei Xie, Gen Zhang, Zhenhao Luo, Tai Yue, Baosheng Wang",
-        "abstract": "Vulnerability fixing is time-consuming, hence, not all of the discovered vulnerabilities can be fixed timely. In reality, developers prioritize vulnerability fixing based on exploitability. Large numbers of vulnerabilities are delayed to patch or even ignored as they are regarded as “unexploitable” or underestimated owing to the difficulty in exploiting the weak primitives. However, exploits may have been in the wild. In this paper, to exploit the weak primitives that traditional approaches fail to exploit, we propose a versatile exploitation strategy that can transform weak exploit primitives into strong exploit primitives. Based on a special object in the kernel named Thanos object, our approach can exploit a UAF vulnerability that does not have function pointer dereference and an OOB write vulnerability that has limited write length and value. Our approach overcomes the shortage that traditional exploitation strategies heavily rely on the capability of the vulnerability. To facilitate using Thanos objects, we devise a tool named TAODE to automatically search for eligible Thanos objects from the kernel. Then, it evaluates the usability of the identified Thanos objects by the complexity of the constraints. Finally, it pairs vulnerabilities with eligible Thanos objects. We have evaluated our approach with real-world kernels. TAODE successfully identified numerous Thanos objects from Linux. Using the identified Thanos objects, we proved the feasibility of our approach with 20 real-world vulnerabilities, most of which traditional techniques failed to exploit. Through the experiments, we find that in addition to exploiting weak primitives, our approach can sometimes bypass the kernel SMAP mechanism (CVE-2016-10150, CVE-2016-0728), better utilize the leaked heap pointer address (CVE-2022-25636), and even theoretically break certain vulnerability patches (e.g., double-free).",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "漏洞修复非常耗时，因此，并非所有发现的漏洞都能及时修复。实际上，开发人员根据可利用性来确定漏洞修复的优先级。大量的漏洞被延迟修补甚至被忽略，因为它们被认为是“不可利用的”或者由于难以利用脆弱的原语而被低估。然而，漏洞可能是在野外发现的。在本文中，为了利用传统方法无法利用的弱原语，我们提出了一种通用的利用策略，可以将弱原语转化为强原语。基于内核中名为灭霸对象的特殊对象，我们的方法可以利用没有函数指针解引用的UAF漏洞和具有有限写长度和值的OOB写漏洞。该方法克服了传统利用策略严重依赖漏洞能力的不足。为了方便使用灭霸对象，我们设计了一个名为陶德的工具，从内核中自动搜索符合条件的灭霸对象。然后，通过约束的复杂性来评估所识别的灭霸对象的可用性。最后，它将漏洞与合格的灭霸对象配对。我们已经用真实世界的内核评估了我们的方法。陶德成功地从Linux中识别出许多灭霸对象。使用识别出的灭霸对象，我们用20个真实世界的漏洞证明了我们的方法的可行性，其中大多数是传统技术未能利用的。通过实验，我们发现，除了利用弱原语之外，我们的方法有时可以绕过内核SMAP机制(CVE-2016-10150，CVE-2016-0728)，更好地利用泄露的堆指针地址(CVE-2022-25636)，甚至在理论上打破某些漏洞补丁(例如，双自由)。",
-        "title_zh": "从发布到重生:利用Linux内核中的灭霸对象",
+        "abstract_zh": "通过提供对特权功能的访问控制，权限检查在操作系统安全中起着重要的作用。然而，由于庞大的代码库和内核的复杂性，对于内核开发人员来说，可扩展地验证现有检查的合理性是一个挑战。事实上，Linux内核包含了数百万行代码和数百次权限检查，更糟糕的是，它的复杂性正在快速增长。本文介绍了用于LinuX的静态权限检查错误检测器PeX，它将内核源代码作为输入，并报告任何缺失、不一致和冗余的权限检查。PeX使用KIRIN(基于内核接口的间接调用分析)，这是一种新颖、精确且可扩展的间接调用分析技术。通过KIRIN构建的过程间控制流图，PeX自动识别权限检查，并推断权限检查和特权函数之间的映射。对于每个特权函数，PeX会检查该函数的所有可能路径，以检查是否正确实施了必要的权限检查。我们在最新稳定的Linux内核v4.18.5上评估了PeX的三种权限检查类型:自主访问控制(DAC)、功能和Linux安全模块(LSM)。PeX报告了45个新的权限检查错误，其中17个已被内核开发人员确认。",
+        "title_zh": "Linux内核的自动许可检查分析",
         "year": "2023",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/tifs/tifs18.html",
-        "conf_title": "IEEE Transactions on Information Forensics and Security, Volume 18",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc20.html",
+        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 20",
         "conf_url": "",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1109/TIFS.2018.2883027",
-        "title": "Hardware-Assisted Transparent Tracing and Debugging on ARM",
-        "authors": "Zhenyu Ning, Fengwei Zhang",
-        "abstract": "The existing malware analysis platforms leave detectable fingerprints such as uncommon string properties in QEMU, signatures in Android Java virtual machine, and artifacts in Linux kernel profiles. Since these fingerprints provide the malware a chance to split its behavior depending on whether the analysis system is present or not, the existing analysis systems are not sufficient to analyze the sophisticated malware. In this paper, we propose NINJA, a transparent malware analysis framework on the ARM platform with low artifacts. NINJA leverages a hardware-assisted isolated execution environment TrustZone to transparently trace and debug a target application with the help of performance monitor unit and embedded trace macrocell. These hardware features help NINJA to achieve transparency while avoiding heavy performance overhead. NINJA does not modify system software and is OS-agnostic on the ARM platform. We implement a prototype of NINJA (i.e., tracing and debugging subsystems), and the experimental results show that NINJA is efficient and transparent for malware analysis. An improved fast system restoration mechanism is also designed to facilitate the continuous malware analysis.",
+        "url": "https://doi.org/10.1109/TDSC.2022.3193327",
+        "title": "Hawkeye: Eliminating Kernel Address Leakage in Normal Data Flows",
+        "authors": "Zeyu Mi, Zhi Guo, Fuqian Huang, Haibo Chen",
+        "abstract": "The confidentiality of the operating system kernel addresses is crucial to keeping the kernel secure from malicious users. To avoid leaking this position, researchers have proposed various techniques to defeat the exploits of abnormal data flows embedded in the kernel's memory safety loopholes, such as uninitialized memory read and buffer over-reads. However, this is far from complete. The kernel address can be leaked even in normal data flows without exploiting memory safety loopholes. We have designed a static analysis tool named Hawkeye to fill the gap. It searches for kernel address leakages in normal data flows that reveal the kernel address clues. Hawkeye precisely identifies the kernel addresses with minimum manual annotation and scales to analyze the whole kernel source code. It requires nearly ten times fewer memory resources and 40 times less inspection time than the state-of-the-art tool that analyzes kernel address leakage. Hawkeye unveils hundreds of leakages in various versioned kernels. It has even discovered 20 bugs in the mainline Linux kernel with the kernel pointer hashing mechanism already deployed and three bugs in FreeBSD. All the corresponding patches have been accepted by the developers.",
         "files": {
             "openAccessPdf": ""
         },
-        "abstract_zh": "现有的恶意软件分析平台会留下可检测的指纹，例如QEMU中不常见的字符串属性、Android Java虚拟机中的签名以及Linux内核配置文件中的工件。由于这些指纹为恶意软件提供了根据分析系统是否存在来分割其行为的机会，所以现有的分析系统不足以分析复杂的恶意软件。本文提出了NINJA，一个基于ARM平台的透明恶意软件分析框架，具有低伪像。NINJA利用硬件辅助的隔离执行环境TrustZone，在性能监控单元和嵌入式跟踪宏单元的帮助下，透明地跟踪和调试目标应用程序。这些硬件特性有助于NINJA实现透明性，同时避免沉重的性能开销。NINJA不修改系统软件，在ARM平台上与操作系统无关。我们实现了一个NINJA原型(即跟踪和调试子系统)，实验结果表明NINJA对于恶意软件分析是高效和透明的。还设计了一种改进的快速系统恢复机制，以便于持续的恶意软件分析。",
-        "title_zh": "ARM上硬件辅助的透明跟踪和调试",
-        "year": "2019",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/tifs/tifs14.html",
-        "conf_title": "IEEE Transactions on Information Forensics and Security, Volume 14",
+        "title_zh": "鹰眼:消除正常数据流中的内核地址泄漏",
+        "abstract_zh": "操作系统内核地址的机密性对于防止恶意用户攻击内核至关重要。为了避免泄露这一位置，研究人员提出了各种技术来击败嵌入在内核内存安全漏洞中的异常数据流的利用，如未初始化的内存读取和缓冲区过度读取。然而，这还远远没有完成。即使在没有利用内存安全漏洞的正常数据流中，内核地址也可能被泄漏。我们设计了一个名为鹰眼的静态分析工具来填补这一空白。它在正常数据流中搜索内核地址泄漏，从而揭示内核地址线索。Hawkeye通过最少的人工注释精确地识别内核地址，并扩展到分析整个内核源代码。与分析内核地址泄漏的最先进工具相比，它需要的内存资源少了近十分之一，检查时间少了40倍。鹰眼揭露了各种版本内核中的数百个漏洞。它甚至在已经部署了内核指针散列机制的主线Linux内核中发现了20个错误，在FreeBSD中发现了3个错误。所有相应的补丁都已被开发者接受。",
+        "year": "2023",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc20.html",
+        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 20",
         "conf_url": "",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1016/j.cose.2018.08.011",
-        "title": "Freeze and Crypt: Linux kernel support for main memory encryption",
-        "authors": "Manuel Huber, Julian Horsch, Junaid Ali, Sascha Wessel",
-        "abstract": "",
+        "url": "https://doi.org/10.1109/TDSC.2018.2879605",
+        "title": "A Study on the Security Implications of Information Leakages in Container Clouds",
+        "authors": "Xing Gao, Benjamin Steenkamer, Zhongshu Gu, Mehmet Kayaalp, Dimitrios Pendarakis, Haining Wang",
+        "abstract": "Container technology provides a lightweight operating system level virtual hosting environment. Its emergence profoundly changes the development and deployment paradigms of multi-tier distributed applications. However, due to the incomplete implementation of system resource isolation mechanisms in the Linux kernel, some security concerns still exist for multiple containers sharing an operating system kernel on a multi-tenancy container-based cloud service. In this paper, we first present the information leakage channels we discovered that are accessible within containers. Such channels expose a spectrum of system-wide host information to containers without proper resource partitioning. By exploiting such leaked host information, it becomes much easier for malicious adversaries (acting as tenants in a container cloud) to launch attacks that might impact the reliability of cloud services. We demonstrate that the information leakage channels could be exploited to infer private data, detect and verify co-residence, build covert channels, and launch more advanced cloud-based attacks. We discuss the root causes of the containers’ information leakage and propose a two-stage defense approach. As demonstrated in the evaluation, our defense is effective and incurs trivial performance overhead.",
         "files": {
             "openAccessPdf": ""
         },
-        "abstract_zh": "",
-        "title_zh": "冻结和加密:Linux内核对主内存加密的支持",
-        "year": "2019",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/compsec/compsec86.html",
-        "conf_title": "Computers & Security, Volume 86",
+        "abstract_zh": "容器技术提供了一个轻量级的操作系统级虚拟主机环境。它的出现深刻地改变了多层分布式应用程序的开发和部署模式。然而，由于Linux内核中系统资源隔离机制的不完全实现，在基于多租户容器的云服务上共享操作系统内核的多个容器仍然存在一些安全问题。在本文中，我们首先介绍了我们发现的可在容器中访问的信息泄漏通道。这种通道将一系列系统范围的主机信息暴露给容器，而没有适当的资源划分。通过利用这种泄露的主机信息，恶意对手(作为容器云中的租户)更容易发起可能影响云服务可靠性的攻击。我们证明，信息泄漏通道可以被用来推断私人数据，检测和验证共存，建立隐蔽通道，并发起更高级的基于云的攻击。我们讨论了容器信息泄漏的根本原因，并提出了两阶段防御方法。如评估所示，我们的防御是有效的，并且产生了微不足道的性能开销。",
+        "title_zh": "一项有关容器云中信息泄漏的安全含义的研究",
+        "year": "2021",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc18.html",
+        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 18",
+        "conf_url": "",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1109/TDSC.2019.2915829",
+        "title": "KALD: Detecting Direct Pointer Disclosure Vulnerabilities",
+        "authors": "Brian Belleville, Wenbo Shen, Stijn Volckaert, Ahmed M. Azab, Michael Franz",
+        "abstract": "Modern operating system kernels deploy Kernel Address Space Layout Randomization (KASLR) to mitigate control-flow hijacking attacks. KASLR randomizes the base addresses of the kernel's code and data segments. However, it randomizes both with a single offset and does not randomize the internal layout of either of these segments, so relative addresses remain known to adversaries. If the kernel discloses a single code or global data pointer, an adversary can therefore infer the entire layout of the kernel's code segment and bypass KASLR. In this paper, we present Kernel Address Leak Detector (KALD), a tool that finds direct disclosure vulnerabilities by statically analyzing the kernel source code. KALD can analyze the source code of modern operating system kernels and find previously unreported leaks. KALD compiles a list of functions that can leak information to user-space accessible locations, and it uses the results of a points-to analysis to determine whether individual invocations of such functions can disclose kernel pointers. We show that KALD successfully detects several direct disclosure vulnerabilities in the Linux kernel and that it is flexible enough to be useful in practice.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "现代操作系统内核部署内核地址空间布局随机化(KASLR)来减轻控制流劫持攻击。KASLR将内核代码和数据段的基址随机化。但是，它用单个偏移量随机化两者，并且不随机化这些段中任何一个的内部布局，因此相对地址仍然为对手所知。如果内核公开了单个代码或全局数据指针，对手就可以推断出内核代码段的整个布局并绕过KASLR。在本文中，我们介绍了内核地址泄漏检测器(KALD)，这是一种通过静态分析内核源代码来发现直接泄漏漏洞的工具。KALD可以分析现代操作系统内核的源代码，并发现以前未报告的漏洞。KALD编译了一个函数列表，这些函数会将信息泄漏到用户空间可访问的位置，它使用指向分析的结果来确定对这些函数的单独调用是否会泄漏内核指针。我们证明了KALD成功地检测到了Linux内核中的几个直接泄漏漏洞，并且它足够灵活，在实践中非常有用。",
+        "title_zh": "卡尔德：检测直接指针披露漏洞",
+        "year": "2021",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc18.html",
+        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 18",
+        "conf_url": "",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1109/TDSC.2019.2946816",
+        "title": "CATTmew: Defeating Software-Only Physical Kernel Isolation",
+        "authors": "Yueqiang Cheng, Zhi Zhang, Surya Nepal, Zhi Wang",
+        "abstract": "All the state-of-the-art rowhammer attacks can break the MMU-enforced inter-domain isolation because the physical memory owned by each domain is adjacent to each other. To mitigate these attacks, physical domain isolation, introduced by CATT [7] , physically separates each domain by dividing the physical memory into multiple partitions and keeping each partition occupied by only one domain. CATT implemented physical kernel isolation as the first generic and practical software-only defense to protect kernel from being rowhammered as kernel is one of the most appealing targets. In this paper, we develop a novel exploit that could effectively defeat the CATT implementation and gain both root and kernel privileges, indicating that the physical kernel isolation is not secure in practice. Our exploit can work without exhausting the page cache or the system memory, or relying on the information of the virtual-to-physical address mapping. The exploit is motivated by our key observation that the modern OSes have double-owned kernel buffers (e.g., video buffers and SCSI Generic buffers) owned concurrently by the kernel and user domains. The existence of such buffers invalidates the physical separation enforced by CATT and makes the rowhammer-based attack possible again. Existing conspicuous rowhammer attacks achieving the root/kernel privilege escalation exhaust the page cache or even the whole system memory. Instead, we propose a new technique, named Memory Ambush. It is able to place the hammerable double-owned kernel buffers physically adjacent to the target objects (e.g., page tables) with only a small amount of memory. As a result, our exploit is stealthier and has fewer memory footprints. We also replace the inefficient rowhammer algorithm that blindly picks up addresses to hammer with an efficient one. Our algorithm selects suitable addresses based on an existing timing channel [31] . We implement our exploit on the Linux kernel version 4.10.0. Our experiment results indicate that a successful attack could be done within 1 minute. The occupied memory is as low as 88 MB.",
+        "files": {
+            "openAccessPdf": "http://arxiv.org/pdf/1802.07060"
+        },
+        "abstract_zh": "所有最新的rowhammer攻击都可以打破MMU强制的域间隔离，因为每个域拥有的物理内存彼此相邻。为了减少这些攻击，由CATT [7]引入的物理域隔离通过将物理内存划分为多个分区并保持每个分区仅被一个域占用来物理地分隔每个域。CATT实现了物理内核隔离，作为第一个通用和实用的纯软件防御，以保护内核免受行攻击，因为内核是最有吸引力的目标之一。在本文中，我们开发了一个新的漏洞，可以有效地击败CATT实现，并获得root和内核权限，这表明物理内核隔离在实践中是不安全的。我们的利用可以在不耗尽页面缓存或系统内存的情况下工作，或者依赖于虚拟到物理地址映射的信息。这种利用的动机是我们的关键观察，即现代操作系统具有由内核和用户域同时拥有的双重内核缓冲区(例如，视频缓冲区和SCSI通用缓冲区)。这种缓冲区的存在使CATT实施的物理隔离失效，并使基于rowhammer的攻击再次成为可能。实现根/内核权限提升的现有明显的行锤攻击耗尽了页面缓存甚至整个系统内存。取而代之的是，我们提出了一种新的技术，叫做内存埋伏。它能够将可锤化的双重拥有的内核缓冲区放置在仅具有少量存储器的目标对象(例如，页表)附近。因此，我们的漏洞利用更加隐蔽，占用的内存也更少。我们还用高效的rowhammer算法替换了低效的row hammer算法，该算法盲目地选取地址进行锤击。我们的算法基于现有的定时通道选择合适的地址[31]。我们在Linux内核版本4.10.0上实现了我们的利用。我们的实验结果表明，一次成功的攻击可以在1分钟内完成。占用内存低至88 MB。",
+        "title_zh": "CATTMEW：击败仅软件的物理内核隔离",
+        "year": "2021",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc18.html",
+        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 18",
         "conf_url": "",
         "keywords": [
             "Linux Kernel"
@@ -738,72 +738,90 @@
         ]
     },
     {
-        "url": "https://doi.org/10.2478/popets-2020-0012",
-        "title": "SqORAM: Read-Optimized Sequential Write-Only Oblivious RAM",
-        "authors": "Anrin Chakraborti, Radu Sion",
-        "abstract": "Abstract Oblivious RAMs (ORAMs) allow a client to access data from an untrusted storage device without revealing the access patterns. Typically, the ORAM adversary can observe both read and write accesses. Write-only ORAMs target a more practical, multi-snapshot adversary only monitoring client writes – typical for plausible deniability and censorship-resilient systems. This allows write-only ORAMs to achieve significantly-better asymptotic performance. However, these apparent gains do not materialize in real deployments primarily due to the random data placement strategies used to break correlations between logical and physical names-paces, a required property for write access privacy. Random access performs poorly on both rotational disks and SSDs (often increasing wear significantly, and interfering with wear-leveling mechanisms). In this work, we introduce SqORAM, a new locality-preserving write-only ORAM that preserves write access privacy without requiring random data access. Data blocks close to each other in the logical domain land in close proximity on the physical media. Importantly, SqORAM maintains this data locality property over time, significantly increasing read throughput. A full Linux kernel-level implementation of SqORAM is 100x faster than non locality-preserving solutions for standard workloads and is 60-100% faster than the state-of-the-art for typical file system workloads.",
-        "files": {
-            "openAccessPdf": "http://arxiv.org/pdf/1707.01211"
-        },
-        "abstract_zh": "摘要不经意内存(ORAMs)允许客户端在不暴露访问模式的情况下从不受信任的存储设备访问数据。通常，ORAM对手可以观察到读写访问。只写ORAMs的目标是更实用的、仅针对对手的多快照监控客户端写入——典型的可信拒绝和审查弹性系统。这允许只写ORAMs实现显著更好的渐近性能。然而，这些明显的好处在实际部署中并没有实现，主要是因为随机数据放置策略用于打破逻辑和物理名称空间之间的相关性，这是写访问隐私的一个必需属性。随机存取在旋转磁盘和固态硬盘上的性能都很差(通常会显著增加磨损，并干扰磨损平衡机制)。在本文中，我们介绍了SqORAM，这是一种新的保持局部性的只写ORAM，它可以在不需要随机数据访问的情况下保持写访问隐私。逻辑域中彼此靠近的数据块在物理介质上的位置非常接近。重要的是，SqORAM会随着时间的推移保持这种数据局部性属性，从而显著提高读取吞吐量。对于标准工作负载，SqORAM的完整Linux内核级实现比非局部保留解决方案快100倍，对于典型文件系统工作负载，比最新技术快60-100%。",
-        "title_zh": "SqORAM:读优化的顺序只写不经意RAM",
-        "year": "2020",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/popets/popets2020.html",
-        "conf_title": "Proceedings on Privacy Enhancing Technologies, Volume 2020",
-        "conf_url": "",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.2478/popets-2020-0027",
-        "title": "Enhanced Performance and Privacy for TLS over TCP Fast Open",
-        "authors": "Erik Sy, Tobias Mueller, Christian Burkert, Hannes Federrath, Mathias Fischer",
-        "abstract": "Abstract Small TCP flows make up the majority of web flows. For them, the TCP three-way handshake induces significant delay overhead. The TCP Fast Open (TFO) protocol can significantly decrease this delay via zero round-trip time (0-RTT) handshakes for all TCP handshakes that follow a full initial handshake to the same host. However, this comes at the cost of privacy limitations and also has some performance limitations. In this paper, we investigate the TFP deployment on popular websites and browsers. We found that a client revisiting a web site for the first time fails to use an abbreviated TFO handshake in 40% of all cases due to web server load-balancing using multiple IP addresses. Our analysis further reveals significant privacy problems of the protocol design and implementation. Network-based attackers and online trackers can exploit TFO to track the online activities of users. As a countermeasure, we introduce a novel protocol called TCP Fast Open Privacy (FOP). TCP FOP prevents tracking by network attackers and impedes third-party tracking, while still allowing 0-RTT handshakes as in TFO. As a proof-of-concept, we have implemented the proposed protocol for the Linux kernel and a TLS library. Our measurements indicate that TCP FOP outperforms TLS over TFO when websites are served from multiple IP addresses.",
-        "files": {
-            "openAccessPdf": "http://arxiv.org/pdf/1905.03518"
-        },
-        "abstract_zh": "摘要小型TCP流构成了web流的大部分。对他们来说，TCP三次握手会导致显著的延迟开销。TCP快速开放(TFO)协议可以通过在与同一主机的完整初始握手之后的所有TCP握手的零往返时间(0-RTT)握手来显著减少这种延迟。然而，这是以隐私限制为代价的，并且也有一些性能限制。在本文中，我们调查了TFP在流行的网站和浏览器上的部署情况。我们发现，由于使用多个IP地址的web服务器负载平衡，第一次访问网站的客户端在40%的情况下无法使用简短的TFO握手。我们的分析进一步揭示了协议设计和实现中的重要隐私问题。基于网络的攻击者和在线跟踪器可以利用TFO来跟踪用户的在线活动。作为对策，我们引入了一种称为TCP快速开放隐私(FOP)的新协议。TCP FOP防止网络攻击者的跟踪，并阻止第三方跟踪，同时仍然允许0-RTT握手，就像在TFO一样。作为概念验证，我们已经为Linux内核和TLS库实现了提议的协议。我们的测量表明，当网站由多个IP地址提供服务时，TCP FOP优于TLS，优于TFO。",
-        "title_zh": "TCP上TLS的增强性能和隐私快速开放",
-        "year": "2020",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/popets/popets2020.html",
-        "conf_title": "Proceedings on Privacy Enhancing Technologies, Volume 2020",
-        "conf_url": "",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.2478/popets-2019-0071",
-        "title": "Detecting TCP/IP Connections via IPID Hash Collisions",
-        "authors": "Geoffrey Alexander, Antonio M. Espinoza, Jedidiah R. Crandall",
-        "abstract": "Abstract We present a novel attack for detecting the presence of an active TCP connection between a remote Linux server and an arbitrary client machine. The attack takes advantage of side-channels present in the Linux kernel’s handling of the values used to populate an IPv4 packet’s IPID field and applies to kernel versions of 4.0 and higher. We implement and test this attack and evaluate its real world effectiveness and performance when used on active connections to popular web servers. Our evaluation shows that the attack is capable of correctly detecting the IP-port 4-tuple representing an active TCP connection in 84% of our mock attacks. We also demonstrate how the attack can be used by the middle onion router in a Tor circuit to test whether a given client is connected to the guard entry node associated with a given circuit. In addition we discuss the potential issues an attacker would face when attempting to scale it to real world attacks, as well as possible mitigations against the attack. Our attack does not exhaust any global resource, and therefore challenges the notion that there is a direct one-to-one connection between shared, limited resources and non-trivial network side-channels. This means that simply enumerating global shared resources and considering the ways in which they can be exhausted will not suffice for certifying a kernel TCP/IP network stack to be free of privacy risk side-channels.",
+        "url": "https://doi.org/10.1145/3488932.3527293",
+        "title": "Enabling Attribute-Based Access Control in Linux Kernel",
+        "authors": "H. O. Sai Varshith, Shamik Sural, Jaideep Vaidya, Vijayalakshmi Atluri",
+        "abstract": "Linux has built-in security features based on discretionary access control that can be enhanced using the Linux Security Module (LSM) framework. However, so far there has been no reported work on strengthening Linux with Attribute-Based Access Control (ABAC), which is gaining in popularity in recent years due to its flexibility and dynamic nature. In this paper, a method for enabling ABAC for Linux file system objects using LSM is proposed. We report initial experimental results and also share our public repository links for integrating ABAC in any Linux installation.",
         "files": {
             "openAccessPdf": ""
         },
-        "abstract_zh": "摘要我们提出了一种新的攻击方法，用于检测远程Linux服务器和任意客户机之间的活动TCP连接的存在。该攻击利用了Linux内核在处理用于填充IPv4数据包的IPID字段的值时存在的旁路，适用于4.0及更高版本的内核。我们实现并测试了这种攻击，并评估了它在与流行的web服务器进行活动连接时的实际效果和性能。我们的评估表明，在84%的模拟攻击中，该攻击能够正确地检测到代表活动TCP连接的IP端口4元组。我们还演示了Tor电路中的中间洋葱路由器如何利用该攻击来测试给定客户端是否连接到与给定电路相关联的防护入口节点。此外，我们还讨论了攻击者在尝试将其扩展到现实世界攻击时可能面临的问题，以及针对攻击的可能缓解措施。我们的攻击没有耗尽任何全局资源，因此挑战了在共享的有限资源和非平凡的网络侧信道之间存在直接一对一连接的概念。这意味着简单地列举全局共享资源并考虑它们被耗尽的方式不足以证明内核TCP/IP网络栈没有隐私风险旁路。",
-        "title_zh": "通过IPID哈希冲突检测TCP/IP连接",
+        "abstract_zh": "Linux具有基于自主访问控制的内置安全特性，可以使用Linux安全模块(LSM)框架来增强这些特性。然而，到目前为止，还没有关于使用基于属性的访问控制(ABAC)来增强Linux的工作的报道，基于属性的访问控制由于其灵活性和动态性，近年来越来越受欢迎。提出了一种使用LSM为Linux文件系统对象启用ABAC的方法。我们报告了初步的实验结果，并分享了我们的公共库链接，用于在任何Linux安装中集成ABAC。",
+        "title_zh": "在Linux内核中启用基于属性的访问控制",
+        "year": "2022",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/asiaccs/asiaccs2022.html",
+        "conf_title": "17th AsiaCCS 2022: Nagasaki, Japan",
+        "conf_url": "https://doi.org/10.1145/3488932?",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1145/3433210.3453115",
+        "title": "Bran: Reduce Vulnerability Search Space in Large Open Source Repositories by Learning Bug Symptoms",
+        "authors": "Dongyu Meng, Michele Guerriero, Aravind Machiry, Hojjat Aghakhani, Priyanka Bose, Andrea Continella, Christopher Kruegel, Giovanni Vigna",
+        "abstract": "Software is continually increasing in size and complexity, and therefore, vulnerability discovery would benefit from techniques that identify potentially vulnerable regions within large code bases, as this allows for easing vulnerability detection by reducing the search space. Previous work has explored the use of conventional code-quality and complexity metrics in highlighting suspicious sections of (source) code. Recently, researchers also proposed to reduce the vulnerability search space by studying code properties with neural networks. However, previous work generally failed in leveraging the rich metadata that is available for long-running, large code repositories. In this paper, we present an approach, named Bran, to reduce the vulnerability search space by combining conventional code metrics with fine-grained repository metadata. Bran locates code sections that are more likely to contain vulnerabilities in large code bases, potentially improving the efficiency of both manual and automatic code audits. In our experiments on four large code bases, Bran successfully highlights potentially vulnerable functions, outperforming several baselines, including state-of-art vulnerability prediction tools. We also assess Bran's effectiveness in assisting automated testing tools. We use Bran to guide syzkaller, a known kernel fuzzer, in fuzzing a recent version of the Linux kernel. The guided fuzzer identifies 26 bugs (10 are zero-day flaws), including arbitrary writes and reads.",
+        "files": {
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3433210.3453115"
+        },
+        "abstract_zh": "软件的大小和复杂性不断增加，因此，漏洞发现将受益于识别大型代码库中潜在易受攻击区域的技术，因为这允许通过减少搜索空间来简化漏洞检测。先前的工作已经探索了使用传统的代码质量和复杂性度量来突出(源)代码的可疑部分。最近，研究人员还提出通过用神经网络研究代码属性来缩小漏洞搜索空间。然而，以前的工作通常无法利用可用于长期运行的大型代码库的丰富元数据。在本文中，我们提出了一种称为Bran的方法，通过结合传统的代码度量和细粒度的存储库元数据来减少漏洞搜索空间。Bran定位大型代码库中更有可能包含漏洞的代码部分，潜在地提高了手动和自动代码审计的效率。在我们对四个大型代码库的实验中，Bran成功地突出了潜在的易受攻击的函数，超过了几个基准，包括最先进的漏洞预测工具。我们还评估了Bran在辅助自动化测试工具方面的有效性。我们使用Bran来指导syzkaller(一个著名的内核模糊化器)模糊化一个最新版本的Linux内核。制导引信识别出26个漏洞(10个是零日漏洞)，包括任意读写。",
+        "title_zh": "麸皮：通过学习错误症状来减少大型开源存储库中的脆弱性搜索空间",
+        "year": "2021",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/asiaccs/asiaccs2021.html",
+        "conf_title": "16th AsiaCCS 2021: Virtual Event, Hong Kong",
+        "conf_url": "https://doi.org/10.1145/3433210",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1145/3579856.3590331",
+        "title": "Multi-Tag: A Hardware-Software Co-Design for Memory Safety based on Multi-Granular Memory Tagging",
+        "authors": "Martin Unterguggenberger, David Schrammel, Pascal Nasahl, Robert Schilling, Lukas Lamster, Stefan Mangard",
+        "abstract": "Memory safety vulnerabilities are a severe threat to modern computer systems allowing adversaries to leak or modify security-critical data. To protect systems from this attack vector, full memory safety is required. As software-based countermeasures tend to induce significant runtime overheads, which is not acceptable for production code, hardware assistance is needed. Tagged memory architectures, e.g., already offered by the ARM MTE and SPARC ADI extensions, assign meta-information to memory objects, thus allowing to implement memory safety policies. However, due to the high tag collision probability caused by the small tag sizes, the protection guarantees of these schemes are limited. This paper presents Multi-Tag, the first hardware-software co-design utilizing a multi-granular tagging structure that provides strong protection against spatial and temporal memory safety violations. By combining object-granular memory tags with page-granular tags stored in the page table entries, Multi-Tag overcomes the limitation of small tag sizes. Introducing page-granular tags significantly enhances the probabilistic protection capabilities of memory tagging without increasing the memory overhead or the system’s complexity. We develop a prototype implementation comprising a gem5 model of the tagged architecture, a Linux kernel extension, and an LLVM-based compiler toolchain. The simulated performance overhead for the SPEC CPU2017 and nbench-byte benchmarks highlights the practicability of our design.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "title_zh": "多标签:一种基于多粒度存储标签的软硬件协同设计",
+        "abstract_zh": "内存安全漏洞是对现代计算机系统的严重威胁，它允许对手泄漏或修改安全关键数据。为了保护系统免受这种攻击，需要完全的内存安全。由于基于软件的对策往往会导致显著的运行时开销，这对于生产代码来说是不可接受的，因此需要硬件辅助。例如，ARM MTE和SPARC ADI扩展已经提供的标记存储器架构将元信息分配给存储器对象，从而允许实施存储器安全策略。然而，由于小标签尺寸导致的高标签冲突概率，这些方案的保护保证是有限的。本文介绍了Multi-Tag，这是第一个利用多粒度标记结构的软硬件协同设计，可针对空间和时间内存安全违规提供强大的保护。通过将存储在页表条目中的对象粒度存储器标签与页粒度标签相结合，多标签克服了小标签尺寸的限制。引入页面粒度标记显著增强了存储器标记的概率保护能力，而不增加存储器开销或系统的复杂性。我们开发了一个原型实现，包括一个标记架构的gem5模型、一个Linux内核扩展和一个基于LLVM的编译器工具链。SPEC CPU2017和nbench-byte基准的模拟性能开销凸显了我们设计的实用性。",
+        "year": "2023",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/asiaccs/asiaccs2023.html",
+        "conf_title": "18th AsiaCCS 2023:\nMelbourne, VIC, Australia",
+        "conf_url": "https://doi.org/10.1145/3579856",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1145/3507657.3528548",
+        "title": "On the Robustness of Wi-Fi Deauthentication Countermeasures",
+        "authors": "Domien Schepers, Aanjhan Ranganathan, Mathy Vanhoef",
+        "abstract": "With the introduction of WPA3 and Wi-Fi 6, an increased usage of Wi-Fi Management Frame Protection (MFP) is expected. Wi-Fi MFP, defined in IEEE 802.11w, protects robust management frames by providing data confidentiality, integrity, origin authenticity, and replay protection. One of its key goals is to prevent deauthentication attacks in which an adversary forcibly disconnects a client from the network. In this paper, we inspect the standard and its implementations for their robustness and protection against deauthentication attacks. In our standard analysis, we inspect the rules for processing robust management frames on their completeness, consistency, and security, leading to the discovery of unspecified cases, contradictory rules, and revealed insecure rules that lead to new denial-of-service vulnerabilities. We then inspect implementations and identify vulnerabilities in clients and access points running on the latest versions of the Linux kernel, hostap, IWD, Apple (i.e., macOS, iOS, iPadOS), Windows, and Android. Altogether, these vulnerabilities allow an adversary to disconnect any client from personal and enterprise networks despite the usage of MFP. Our work highlights that management frame protection is insufficient to prevent deauthentication attacks, and therefore more care is needed to mitigate attacks of this kind. In order to address the identified shortcomings, we worked with industry partners to propose updates to the IEEE 802.11 standard.",
+        "files": {
+            "openAccessPdf": "https://lirias.kuleuven.be/bitstream/20.500.12942/697745/2/wisec2022.pdf"
+        },
+        "abstract_zh": "随着WPA3和Wi-Fi 6的推出，预计Wi-Fi管理帧保护(MFP)的使用将会增加。IEEE 802.11w中定义的Wi-Fi MFP通过提供数据机密性、完整性、来源真实性和重放保护来保护健壮的管理帧。它的主要目标之一是防止身份验证攻击，在这种攻击中，对手会强行断开客户端与网络的连接。在本文中，我们检查了该标准及其实现的健壮性和对解除认证攻击的保护。在我们的标准分析中，我们检查用于处理健壮管理帧的规则的完整性、一致性和安全性，从而发现未指定的情况、矛盾的规则以及导致新的拒绝服务漏洞的不安全规则。然后，我们检查实施情况，并识别在最新版本的Linux内核、hostap、IWD、苹果(即macOS、iOS、iPadOS)、Windows和Android上运行的客户端和接入点中的漏洞。总之，尽管使用了MFP，这些漏洞仍允许对手断开任何客户端与个人和企业网络的连接。我们的工作强调了管理帧保护不足以防止去认证攻击，因此需要更加小心来减轻这种攻击。为了解决已确定的缺点，我们与行业合作伙伴一起提出了IEEE 802.11标准的更新。",
+        "title_zh": "Wi-Fi认证对抗措施的鲁棒性研究",
+        "year": "2022",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/wisec/wisec2022.html",
+        "conf_title": "15th WISEC 2022: San Antonio, TX, USA",
+        "conf_url": "https://doi.org/10.1145/3507657",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1016/j.cose.2018.08.011",
+        "title": "Freeze and Crypt: Linux kernel support for main memory encryption",
+        "authors": "Manuel Huber, Julian Horsch, Junaid Ali, Sascha Wessel",
+        "abstract": "",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "",
+        "title_zh": "冻结和加密:Linux内核对主内存加密的支持",
         "year": "2019",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/popets/popets2019.html",
-        "conf_title": "Proceedings on Privacy Enhancing Technologies, Volume 2019",
-        "conf_url": "",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1515/popets-2015-0005",
-        "title": "Analyzing the Great Firewall of China Over Space and Time",
-        "authors": "Roya Ensafi, Philipp Winter, Abdullah Mueen, Jedidiah R. Crandall",
-        "abstract": "Abstract A nation-scale firewall, colloquially referred to as the “Great Firewall of China,” implements many different types of censorship and content filtering to control China’s Internet traffic. Past work has shown that the firewall occasionally fails. In other words, sometimes clients in China are able to reach blacklisted servers outside of China. This phenomenon has not yet been characterized because it is infeasible to find a large and geographically diverse set of clients in China from which to test connectivity. In this paper, we overcome this challenge by using a hybrid idle scan technique that is able to measure connectivity between a remote client and an arbitrary server, neither of which are under the control of the researcher performing measurements. In addition to hybrid idle scans, we present and employ a novel side channel in the Linux kernel’s SYN backlog. We show that both techniques are practical by measuring the reachability of the Tor network which is known to be blocked in China. Our measurements reveal that failures in the firewall occur throughout the entire country without any conspicuous geographical patterns.We give some evidence that routing plays a role, but other factors (such as how the GFW maintains its list of IP/port pairs to block) may also be important.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "摘要一个民族规模的防火墙，被称为“中国的大防火墙”，实施了许多不同类型的审查制度和内容过滤，以控制中国的互联网流量。 过去的工作表明，防火墙有时会失败。 换句话说，有时中国的客户能够接触到中国以外的黑名单服务器。 这种现象尚未得到特征，因为在中国找到一组大量且地理上多样化的客户来测试连通性是不可行的。 在本文中，我们通过使用能够衡量远程客户端和任意服务器之间的连接性的混合闲置扫描技术来克服这一挑战，而这些服务器都没有在研究人员的控制下进行测量。 除了混合闲置扫描外，我们还在Linux内核SYN积压列表中介绍并采用了一个新颖的侧渠道。 我们表明，通过测量已知在中国被阻止的TOR网络的可及性，这两种技术都是实用的。 我们的测量结果表明，防火墙的故障在整个国家发生，没有任何明显的地理模式。我们给出一些证据表明路由起着作用，但其他因素（例如，GFW如何保持其IP/端口对列表的方式）可能可能会阻止）。 也很重要。",
-        "title_zh": "时空视角下的中国防火墙探析",
-        "year": "2015",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/popets/popets2015.html",
-        "conf_title": "Proceedings on Privacy Enhancing Technologies, Volume 2015",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/compsec/compsec86.html",
+        "conf_title": "Computers & Security, Volume 86",
         "conf_url": "",
         "keywords": [
             "Linux Kernel"
@@ -1548,96 +1566,6 @@
         ]
     },
     {
-        "url": "https://doi.org/10.1109/TrustCom50675.2020.00049",
-        "title": "Program Slice based Vulnerable Code Clone Detection",
-        "authors": "Xiaonan Song, Aimin Yu, Haibo Yu, Shirun Liu, Xin Bai, Lijun Cai, Dan Meng",
-        "abstract": "Vulnerabilities in software will not only lead to security problems of the software itself, but also cause the spread of vulnerabilities through code clones. It is important to detect and locate vulnerabilities among the source code to facilitate the fix. Although many methods are proposed to detect code clones in source code, most of them fail to detect code clones that involve statement addition and deletion effectively or are not suitable for vulnerability detection. In this paper, we propose a method that can detect vulnerabilities caused by code clones. Program slices are used to filter statements that are not related to vulnerabilities and extract important vulnerable statements in function. Hash function and bitvector are applied to improve efficiency during the detection. The results are displayed in html, among which the vulnerable statements are highlighted to help subsequent patching work. Our method is evaluated on open source software (Openssl, Linux Kernel, FFmpeg and QEMU). The results of experiments show that our method detects 12.72% more vulnerable clones in acceptable time compared with Vuddy, proving the effectiveness of our method.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "软件中的漏洞不仅会导致软件本身的安全问题，还会通过代码克隆造成漏洞的传播。检测和定位源代码中的漏洞以便于修复是很重要的。虽然很多方法被提出来检测源代码中的代码克隆，但是大多数方法都不能有效地检测包含语句添加和删除的代码克隆，或者不适合漏洞检测。在本文中，我们提出了一种可以检测由代码克隆引起的漏洞的方法。程序切片用于过滤与漏洞无关的语句，提取函数中重要的易受攻击语句。哈希函数和位向量的应用提高了检测的效率。结果显示在html中，其中易受攻击的语句被突出显示，以帮助后续的修补工作。我们的方法在开源软件(Openssl、Linux内核、FFmpeg和QEMU)上进行评估。实验结果表明，与Vuddy相比，我们的方法在可接受的时间内多检测了12.72%的脆弱克隆，证明了我们方法的有效性。",
-        "title_zh": "基于程序切片的易受攻击代码克隆检测",
-        "year": "2020",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/trustcom/trustcom2020.html",
-        "conf_title": "19th TrustCom 2020: Guangzhou, China",
-        "conf_url": "https://doi.org/10.1109/TrustCom50675.2020",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1109/TrustCom50675.2020.00180",
-        "title": "SecureESFS: Sharing Android External Storage Files in A Securer Way",
-        "authors": "Shan Liang, Yuewu Wang, Lingguang Lei, Jiwu Jing, Quan Zhou",
-        "abstract": "As an essential component on Android devices, External Storage is frequently used for sharing files between different apps. Therefore, compared to Internal Storage, the access control on the External Storage is usually very loose. However, a lot of sensitive files might be stored on the External Storage, which makes it an attractive target for the attackers. Since Android 10, a security mechanism named Scoped Storage has been introduced to protect the sensitive files on the External Storage. However, this mechanism is mainly used to protect the app-specific files, and can't support the sharing of sensitive files between trusted apps in a secure and flexible way. In this paper, we present a secure External Storage sensitive file sharing solution named SecureESFS. It first extends a Linux kernel security mechanism named ACL on the SDCardFS filesystem to protect the External Storage. With different ACL policy settings, the user can dynamically share sensitive files between trusted apps according to specific business needs. We also enforce the integrity protection on the ACL policies by checking the hash message authentication codes (HMAC) of these policies. Moreover, we design a transparent encryption mechanism in SecureESFS to protect the sensitive files on the External Storage, when the Android devices are physically accessed by the attackers, such as removing the SD card. For versions lower than Android 10, SecureESFS can provide independent protection and secure sharing for the sensitive files on the External Storage. For versions higher than Android 10, SecureESFS can achieve the secure sharing of sensitive files while Scoped Storage provides protection for the app-specific files. SecureESFS may also be used to enhance the security of the Scoped Storage mechanism. Experiments conducted on a prototype show that SecureESFS works well and incurs acceptable overhead.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "作为Android设备上的一个重要组件，外部存储经常用于在不同的应用程序之间共享文件。因此，与内部存储相比，外部存储的访问控制通常非常松散。然而，大量敏感文件可能存储在外部存储器上，这使得它成为攻击者的诱人目标。从Android 10开始，引入了名为Scoped Storage的安全机制来保护外部存储上的敏感文件。然而，这种机制主要用于保护特定于app的文件，不能以安全和灵活的方式支持可信app之间的敏感文件共享。在本文中，我们提出了一个名为SecureESFS的安全外部存储敏感文件共享解决方案。它首先在SDCardFS文件系统上扩展了一个名为ACL的Linux内核安全机制来保护外部存储。通过不同的ACL策略设置，用户可以根据特定的业务需求在受信任的应用程序之间动态共享敏感文件。我们还通过检查ACL策略的哈希消息认证码(HMAC)来加强这些策略的完整性保护。此外，我们在SecureESFS中设计了一个透明的加密机制，当攻击者物理访问Android设备时，例如移除SD卡，可以保护外部存储上的敏感文件。对于低于Android 10的版本，SecureESFS可以为外部存储上的敏感文件提供独立保护和安全共享。对于高于Android 10的版本，SecureESFS可以实现敏感文件的安全共享，而作用域存储则为应用程序特定的文件提供保护。SecureESFS还可用于增强作用域存储机制的安全性。在原型上进行的实验表明，SecureESFS运行良好，开销也可以接受。",
-        "title_zh": "SecureESFS:以更安全的方式共享Android外部存储文件",
-        "year": "2020",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/trustcom/trustcom2020.html",
-        "conf_title": "19th TrustCom 2020: Guangzhou, China",
-        "conf_url": "https://doi.org/10.1109/TrustCom50675.2020",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1109/TrustCom/BigDataSE.2019.00011",
-        "title": "Building Trust in Container Environment",
-        "authors": "Yunlong Guo, Aimin Yu, Xiaoli Gong, Lixin Zhao, Lijun Cai, Dan Meng",
-        "abstract": "Container technology is an emerging virtualization technology that is more efficient and lightweight than virtual machines. This technology is becoming increasingly popular. However, containers are vulnerable to attackers due to various security issues. It is necessary to build trust between users and their containers, as well as between a remote party and the container in the untrusted container environment. The existing trusted computing technologies build a trust chain from hardware to the running operating system. In this paper, we extend the trust chain to containers and build trust in the container environment. We first boot the computer to a trusted operating system. The trusted OS then verifies programs running on the OS to improve security. We design the well-formed signature list to help users to authorize container executables and modify the Linux kernel to verify executables running in containers. Therefore, the user is able to control what programs can run in his containers and trust the containers. Our approach generates a measurement list and creates a vTPM for each container. A remote party can request the measurement list based on our container state challenge protocol. As a result, a remote party is able to know the container state and decide whether to trust the container. We also implement the executables measurement and verification mechanism and evaluate the performance. The results show the container start delay is no more than 3% of the normal container start time and the overhead to measure and verify executables is no more than 1 us in most cases, which is reasonably efficient.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "容器技术是一种新兴的虚拟化技术，比虚拟机更高效、更轻量级。这项技术越来越受欢迎。然而，由于各种安全问题，容器容易受到攻击者的攻击。有必要在用户和他们的容器之间，以及在不可信容器环境中的远程方和容器之间建立信任。现有的可信计算技术建立了从硬件到运行的操作系统的信任链。在本文中，我们将信任链扩展到容器，并在容器环境中建立信任。我们首先将计算机引导至可信的操作系统。然后，可信操作系统验证操作系统上运行的程序，以提高安全性。我们设计了格式良好的签名列表来帮助用户授权容器可执行文件，并修改Linux内核来验证容器中运行的可执行文件。因此，用户能够控制哪些程序可以在他的容器中运行，并信任这些容器。我们的方法生成一个测量列表，并为每个容器创建一个vTPM。远程方可以基于我们的容器状态询问协议请求测量列表。结果，远程方能够知道容器状态并决定是否信任该容器。我们还实现了可执行文件的测量和验证机制，并对性能进行了评估。结果表明，容器启动延迟不超过正常容器启动时间的3%,测量和验证可执行文件的开销在大多数情况下不超过1 us，这是相当有效的。",
-        "title_zh": "在容器环境中建立信任",
-        "year": "2019",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/trustcom/trustcom2019.html",
-        "conf_title": "18th TrustCom / 13th BigDataSE 2019: Rotorua, New Zealand",
-        "conf_url": "https://ieeexplore.ieee.org/xpl/conhome/8883860/proceeding",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1109/TrustCom.2016.0241",
-        "title": "The Design and Implementation of a Lightweight Management Framework for Non-volatile Memory",
-        "authors": "Zheng Zhang, Dan Feng, Jianxi Chen, Ya Yu, Jing Zeng",
-        "abstract": "The disk is always the bottleneck of storage system for decades. The emergency of non-volatile memory, such as Phase Change Memory, Spin-Transfer Torque and Memristors provides an opportunity to improve the performance of storage system due to its comparable access speed like DRAM. However, existing storage systems are designed and optimized for disk, directly replacing disk with the non-volatile memory will make the software latency become the major bottleneck. In order to address the problem and to improve the performance of non-volatile memory based system, we design and implement a lightweight management framework for non-volatile memory. The framework is composed of a user-level library and a kernel-level file system for non-volatile memory, called NVMFS. Unlike current storage systems, the framework provides a relative short I/O path and a dedicated file system for non-volatile memory. The upper-level applications can load library dynamically in the framework to access NVMFS on non-volatile memory. We have implemented the prototype of the framework in Linux kernel and evaluated the performance of the framework through the standard benchmark.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "几十年来，磁盘一直是存储系统的瓶颈。相变存储器、自旋转移矩和忆阻器等非易失性存储器的出现，由于其可媲美DRAM的存取速度，为提高存储系统的性能提供了契机。然而，现有的存储系统是为磁盘设计和优化的，直接用非易失性存储器代替磁盘会使软件延迟成为主要瓶颈。为了解决这个问题并提高基于非易失性存储器的系统的性能，我们设计并实现了一个轻量级的非易失性存储器管理框架。该框架由一个用户级库和一个用于非易失性内存的内核级文件系统组成，称为NVMFS。与当前的存储系统不同，该框架为非易失性存储器提供了相对较短的I/O路径和专用文件系统。上层应用程序可以在框架中动态加载库，以访问非易失性存储器上的NVMFS。我们在Linux内核中实现了该框架的原型，并通过标准基准测试对该框架的性能进行了评估。",
-        "title_zh": "一种轻量级非易失性存储器管理框架的设计与实现",
-        "year": "2016",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/trustcom/trustcom2016.html",
-        "conf_title": "TrustCom/BigDataSE/ISPA 2016: Tianjin, China",
-        "conf_url": "https://ieeexplore.ieee.org/xpl/conhome/7845250/proceeding",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1145/3471621.3471839",
-        "title": "μSCOPE: A Methodology for Analyzing Least-Privilege Compartmentalization in Large Software Artifacts",
-        "authors": "Nick Roessler, Lucas Atayde, Imani Palmer, Derrick Paul McKee, Jai Pandey, Vasileios P. Kemerlis, Mathias Payer, Adam Bates, Jonathan M. Smith, André DeHon, Nathan Dautenhahn",
-        "abstract": "By prioritizing simplicity and portability, least-privilege engineering has been an afterthought in OS design, resulting in monolithic kernels where any exploit leads to total compromise. μSCOPE (“microscope”) addresses this problem by automatically identifying opportunities for least-privilege separation. μSCOPE replaces expert-driven, semi-automated analysis with a general methodology for exploring a continuum of security vs. performance design points by adopting a quantitative and systematic approach to privilege analysis. We apply the μSCOPE methodology to the Linux kernel by (1) instrumenting the entire kernel to gain comprehensive, fine-grained memory access and call activity; (2) mapping these accesses to semantic information; and (3) conducting separability analysis on the kernel using both quantitative privilege and overhead metrics. We discover opportunities for orders of magnitude privilege reduction while predicting relatively low overheads—at 15% mediation overhead, overprivilege in Linux can be reduced up to 99.8%—suggesting fine-grained privilege separation is feasible and laying the groundwork for accelerating real privilege separation.",
-        "files": {
-            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3471621.3471839"
-        },
-        "abstract_zh": "通过优先考虑简单性和可移植性，最低特权工程已经成为OS设计中的一个事后想法，导致了单片内核，其中任何利用都会导致全面的危害。μSCOPE(“显微镜”)通过自动识别最低权限分离的机会来解决这个问题。μSCOPE通过采用量化和系统化的方法进行权限分析，用一种通用方法取代专家驱动的半自动分析，探索安全性与性能设计点的连续性。我们通过以下方式将μSCOPE方法应用于Linux内核:( 1)检测整个内核以获得全面、细粒度的内存访问和调用活动；(2)将这些访问映射到语义信息；以及(3)使用定量特权和开销度量对内核进行可分离性分析。我们发现了数量级特权减少的机会，同时预测相对较低的开销—在15%的中介开销下，Linux中的过度特权可以减少高达99.8%—这表明细粒度的特权分离是可行的，并为加速真正的特权分离奠定了基础。",
-        "title_zh": "μSCOPE:一种分析大型软件工件中最小特权划分的方法",
-        "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/raid/raid2021.html",
-        "conf_title": "24th RAID 2021: San Sebastian, Spain",
-        "conf_url": "https://doi.org/10.1145/3471621",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
         "url": "https://www.ndss-symposium.org/ndss-paper/auto-draft-246/",
         "title": "An In-depth Analysis of Duplicated Linux Kernel Bug Reports",
         "authors": "Dongliang Mu, Yuhang Wu, Yueqi Chen, Zhenpeng Lin, Chensheng Yu, Xinyu Xing, Gang Wang",
@@ -2340,217 +2268,289 @@
         ]
     },
     {
-        "url": "https://doi.org/10.1007/978-3-030-95484-0_28",
-        "title": "Diminisher: A Linux Kernel Based Countermeasure for TAA Vulnerability",
-        "authors": "Ameer Hamza, Maria Mushtaq, Khurram Bhatti, David Novo, Florent Bruguier, Pascal Benoit",
-        "abstract": "",
+        "url": "https://doi.org/10.1145/3381991.3395396",
+        "title": "Analysis of Access Control Enforcement in Android",
+        "authors": "William Enck",
+        "abstract": "Over the past decade, the Android operating system install-base has proliferated to billions of devices, rivaling Microsoft Windows as a top computing platform. One of the most attractive aspects of Android is its vast collection of applications, available from application stores such as Google's Play Store. Developers have been drawn to Android due to its semantically-rich runtime APIs, which simplify the creation of third-party applications. Many of these APIs provide access to security- and privacy-sensitive information and resources such as the device's geographic location, audio recorded from the device's microphone, and the ability to send and receive SMS messages. In providing these APIs to third-party applications, the Android OS has implicitly taken responsibility for their protection, increasing its access control burden. As a result, current versions of Android have thousands of manually placed access control checks throughout the platform. The goal of this talk is to motivate the need for and utility of semi-automated tools to analyze and validate the access control checks that occur within Android's system code. The challenges are two-fold. First, analysis of Android's middleware code is more challenging than that of third-party applications, which has been studied in-depth over the past decade [3-5]. The code spans hundreds of system services, which are implemented in a combination of Java, C++, and C. The system services also have heavy inter-dependencies with one another, frequently invoking entry points in each other using Android's Binder inter-process communication (IPC) framework within the Linux kernel. Second, identifying what is an access control check is nontrivial. While there are well-known checks based on user-authorized permissions and Linux-layer user and group identifiers, system services also use an array of different service-specific checks that must be captured and modeled to assess the correctness of access control enforcement. In this talk, we will discuss these challenges in the context of two case studies. We will begin by discussing ACMiner [6], a tool designed to assess the correctness of access control checks in Android's middleware using consistency analysis. For each Binder entry point in each system service, ACMiner statically analyzes the code to identify all potential access control checks. To do so, ACMiner uses the names of methods and variables and the values of constant strings used in conditional statements to infer the security-semantics of each check on the control-flow path to instructions that throw a SecurityException. ACMiner then uses association rule mining to identify not only which entry points have inconsistent access control checks, but also to suggest what checks should be added. In applying ACMiner to the Android Open Source Project (AOSP), we found the suggestions to be invaluable when determining whether or not an inconsistency was a vulnerability. Next, we discuss the Android Re-Delegation Finder (ARF) [7]. When designing ACMiner, we optimized our static program analysis by terminating the control-flow analysis of an entry point when the execution reaches another entry point in the same or different system service. Upon further study, we found that entry points frequently call one another, often changing the protection domain of execution when they do (e.g., by explicitly clearing the calling identity, or calling the entry point of a system service executing in a different process). As with most modern operating systems, Android uses deputies (i.e., system services) to safely perform privileged functionality on behalf of third-party applications. Deputies are inherently necessary for the protection of system resources. However, by losing the calling identity, entry points to Android's system services can become confused deputies. ARF builds on the access control policy extracted by ACMiner to identify potential confused deputy vulnerabilities. Neither ACMiner or ARF were designed to eliminate all false positives. In a code-base as vast as Android, it is unrealistic to expect every nuance can be captured programmatically. Instead, ACMiner and ARF were designed to be semi-automated. Our goal is to drastically reduce the amount of time it takes for a security analyst with domain expertise to identify and fix vulnerabilities. Over the course of our research, we have applied our tools to AOSP versions~7, 8, and 9, discovering many vulnerabilities, seven of which have been assigned CVEs by Google. Moving forward, we hope that our tools can be used not only to identify new vulnerabilities, but also to aid regression testing as new versions of Android are released. Both tools have been made open-source and are hosted on Github [1,2].",
         "files": {
-            "openAccessPdf": "https://hal.archives-ouvertes.fr/hal-03372868/file/CPS4CIP_2021_paper_3.pdf"
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3381991.3395396"
         },
-        "abstract_zh": "",
-        "title_zh": "减小器：基于Linux内核的TAA漏洞的对策",
-        "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/esorics/cicps2021.html",
-        "conf_title": "CyberICPS/SECPRE/ADIoT/SPOSE/CPS4CIP/CDT&SECOMANE@ESORICS 2021: Darmstadt, Germany",
-        "conf_url": "https://doi.org/10.1007/978-3-030-95484-0",
+        "abstract_zh": "在过去的十年里，Android操作系统的安装基础已经激增到数十亿台设备，作为顶级计算平台与微软Windows相抗衡。Android最吸引人的一个方面是其庞大的应用程序集合，可从应用程序商店(如谷歌的Play Store)获得。由于Android语义丰富的运行时API，简化了第三方应用程序的创建，开发人员已经被它所吸引。其中许多API提供对安全和隐私敏感信息和资源的访问，如设备的地理位置、从设备麦克风录制的音频以及发送和接收SMS消息的能力。在向第三方应用程序提供这些API时，Android操作系统隐含地承担了保护它们的责任，增加了其访问控制负担。因此，当前版本的Android在整个平台上有数以千计的手动访问控制检查。本次演讲的目标是激发半自动工具的需求和效用，以分析和验证Android系统代码中发生的访问控制检查。挑战是双重的。首先，分析Android的中间件代码比分析第三方应用程序更具挑战性，第三方应用程序在过去十年中已经得到了深入研究[3-5]。代码跨越了数百个系统服务，这些服务是用Java、C++和C的组合实现的。系统服务之间也有很强的相互依赖性，经常使用Android的Binder进程间通信(IPC)框架在Linux内核中调用彼此的入口点。第二，识别什么是访问控制检查是很重要的。虽然存在基于用户授权许可和Linux层用户和组标识符的众所周知的检查，但是系统服务还使用一系列不同的特定于服务的检查，必须对这些检查进行捕获和建模，以评估访问控制实施的正确性。在本次讲座中，我们将通过两个案例研究来讨论这些挑战。我们将从讨论ACMiner [6]开始，这是一个使用一致性分析评估Android中间件中访问控制检查正确性的工具。对于每个系统服务中的每个绑定器入口点，ACMiner静态地分析代码，以识别所有潜在的访问控制检查。为此，ACMiner使用方法和变量的名称以及条件语句中使用的常量字符串的值来推断抛出SecurityException的指令的控制流路径上每个检查的安全语义。然后，ACMiner使用关联规则挖掘不仅识别哪些入口点具有不一致的访问控制检查，还建议应该添加哪些检查。在将ACMiner应用于Android开源项目(AOSP)的过程中，我们发现在确定不一致性是否是一个漏洞时，这些建议是非常宝贵的。接下来，我们讨论Android再授权查找器(ARF) [7]。在设计ACMiner时，我们通过在执行到达相同或不同系统服务中的另一个入口点时终止入口点的控制流分析来优化我们的静态程序分析。通过进一步研究，我们发现入口点频繁地相互调用，当它们这样做时，经常改变执行的保护域(例如，通过显式地清除调用标识，或者调用在不同进程中执行的系统服务的入口点)。与大多数现代操作系统一样，Android使用代理(即系统服务)来代表第三方应用程序安全地执行特权功能。副手是保护系统资源的内在需要。然而，由于失去了呼叫身份，Android系统服务的入口点可能会成为困惑的代理。ARF建立在ACMiner提取的访问控制策略的基础上，以识别潜在的混淆代理漏洞。ACMiner和ARF都不是为消除所有假阳性而设计的。在像Android这样庞大的代码库中，期望通过编程来捕捉每一个细微差别是不现实的。相反，ACMiner和ARF被设计成半自动的。我们的目标是大幅减少具有领域专业知识的安全分析师识别和修复漏洞所需的时间。在我们的研究过程中，我们已经将我们的工具应用于AOSP版本7、8和9，发现了许多漏洞，其中七个被Google指定为CVE。展望未来，我们希望我们的工具不仅可以用于识别新的漏洞，还可以在新版本Android发布时帮助回归测试。这两个工具都是开源的，托管在Github上[1，2]。",
+        "title_zh": "Android中的访问控制实施分析",
+        "year": "2020",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/sacmat/sacmat2020.html",
+        "conf_title": "SACMAT 2020: Barcelona, Spain",
+        "conf_url": "https://doi.org/10.1145/3381991",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1145/3488932.3527293",
-        "title": "Enabling Attribute-Based Access Control in Linux Kernel",
-        "authors": "H. O. Sai Varshith, Shamik Sural, Jaideep Vaidya, Vijayalakshmi Atluri",
-        "abstract": "Linux has built-in security features based on discretionary access control that can be enhanced using the Linux Security Module (LSM) framework. However, so far there has been no reported work on strengthening Linux with Attribute-Based Access Control (ABAC), which is gaining in popularity in recent years due to its flexibility and dynamic nature. In this paper, a method for enabling ABAC for Linux file system objects using LSM is proposed. We report initial experimental results and also share our public repository links for integrating ABAC in any Linux installation.",
+        "url": "https://doi.org/10.1109/TIFS.2022.3226906",
+        "title": "From Release to Rebirth: Exploiting Thanos Objects in Linux Kernel",
+        "authors": "Danjun Liu, Pengfei Wang, Xu Zhou, Wei Xie, Gen Zhang, Zhenhao Luo, Tai Yue, Baosheng Wang",
+        "abstract": "Vulnerability fixing is time-consuming, hence, not all of the discovered vulnerabilities can be fixed timely. In reality, developers prioritize vulnerability fixing based on exploitability. Large numbers of vulnerabilities are delayed to patch or even ignored as they are regarded as “unexploitable” or underestimated owing to the difficulty in exploiting the weak primitives. However, exploits may have been in the wild. In this paper, to exploit the weak primitives that traditional approaches fail to exploit, we propose a versatile exploitation strategy that can transform weak exploit primitives into strong exploit primitives. Based on a special object in the kernel named Thanos object, our approach can exploit a UAF vulnerability that does not have function pointer dereference and an OOB write vulnerability that has limited write length and value. Our approach overcomes the shortage that traditional exploitation strategies heavily rely on the capability of the vulnerability. To facilitate using Thanos objects, we devise a tool named TAODE to automatically search for eligible Thanos objects from the kernel. Then, it evaluates the usability of the identified Thanos objects by the complexity of the constraints. Finally, it pairs vulnerabilities with eligible Thanos objects. We have evaluated our approach with real-world kernels. TAODE successfully identified numerous Thanos objects from Linux. Using the identified Thanos objects, we proved the feasibility of our approach with 20 real-world vulnerabilities, most of which traditional techniques failed to exploit. Through the experiments, we find that in addition to exploiting weak primitives, our approach can sometimes bypass the kernel SMAP mechanism (CVE-2016-10150, CVE-2016-0728), better utilize the leaked heap pointer address (CVE-2022-25636), and even theoretically break certain vulnerability patches (e.g., double-free).",
         "files": {
             "openAccessPdf": ""
         },
-        "abstract_zh": "Linux具有基于自主访问控制的内置安全特性，可以使用Linux安全模块(LSM)框架来增强这些特性。然而，到目前为止，还没有关于使用基于属性的访问控制(ABAC)来增强Linux的工作的报道，基于属性的访问控制由于其灵活性和动态性，近年来越来越受欢迎。提出了一种使用LSM为Linux文件系统对象启用ABAC的方法。我们报告了初步的实验结果，并分享了我们的公共库链接，用于在任何Linux安装中集成ABAC。",
-        "title_zh": "在Linux内核中启用基于属性的访问控制",
-        "year": "2022",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/asiaccs/asiaccs2022.html",
-        "conf_title": "17th AsiaCCS 2022: Nagasaki, Japan",
-        "conf_url": "https://doi.org/10.1145/3488932?",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1145/3433210.3453115",
-        "title": "Bran: Reduce Vulnerability Search Space in Large Open Source Repositories by Learning Bug Symptoms",
-        "authors": "Dongyu Meng, Michele Guerriero, Aravind Machiry, Hojjat Aghakhani, Priyanka Bose, Andrea Continella, Christopher Kruegel, Giovanni Vigna",
-        "abstract": "Software is continually increasing in size and complexity, and therefore, vulnerability discovery would benefit from techniques that identify potentially vulnerable regions within large code bases, as this allows for easing vulnerability detection by reducing the search space. Previous work has explored the use of conventional code-quality and complexity metrics in highlighting suspicious sections of (source) code. Recently, researchers also proposed to reduce the vulnerability search space by studying code properties with neural networks. However, previous work generally failed in leveraging the rich metadata that is available for long-running, large code repositories. In this paper, we present an approach, named Bran, to reduce the vulnerability search space by combining conventional code metrics with fine-grained repository metadata. Bran locates code sections that are more likely to contain vulnerabilities in large code bases, potentially improving the efficiency of both manual and automatic code audits. In our experiments on four large code bases, Bran successfully highlights potentially vulnerable functions, outperforming several baselines, including state-of-art vulnerability prediction tools. We also assess Bran's effectiveness in assisting automated testing tools. We use Bran to guide syzkaller, a known kernel fuzzer, in fuzzing a recent version of the Linux kernel. The guided fuzzer identifies 26 bugs (10 are zero-day flaws), including arbitrary writes and reads.",
-        "files": {
-            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3433210.3453115"
-        },
-        "abstract_zh": "软件的大小和复杂性不断增加，因此，漏洞发现将受益于识别大型代码库中潜在易受攻击区域的技术，因为这允许通过减少搜索空间来简化漏洞检测。先前的工作已经探索了使用传统的代码质量和复杂性度量来突出(源)代码的可疑部分。最近，研究人员还提出通过用神经网络研究代码属性来缩小漏洞搜索空间。然而，以前的工作通常无法利用可用于长期运行的大型代码库的丰富元数据。在本文中，我们提出了一种称为Bran的方法，通过结合传统的代码度量和细粒度的存储库元数据来减少漏洞搜索空间。Bran定位大型代码库中更有可能包含漏洞的代码部分，潜在地提高了手动和自动代码审计的效率。在我们对四个大型代码库的实验中，Bran成功地突出了潜在的易受攻击的函数，超过了几个基准，包括最先进的漏洞预测工具。我们还评估了Bran在辅助自动化测试工具方面的有效性。我们使用Bran来指导syzkaller(一个著名的内核模糊化器)模糊化一个最新版本的Linux内核。制导引信识别出26个漏洞(10个是零日漏洞)，包括任意读写。",
-        "title_zh": "麸皮：通过学习错误症状来减少大型开源存储库中的脆弱性搜索空间",
-        "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/asiaccs/asiaccs2021.html",
-        "conf_title": "16th AsiaCCS 2021: Virtual Event, Hong Kong",
-        "conf_url": "https://doi.org/10.1145/3433210",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1145/3579856.3590331",
-        "title": "Multi-Tag: A Hardware-Software Co-Design for Memory Safety based on Multi-Granular Memory Tagging",
-        "authors": "Martin Unterguggenberger, David Schrammel, Pascal Nasahl, Robert Schilling, Lukas Lamster, Stefan Mangard",
-        "abstract": "Memory safety vulnerabilities are a severe threat to modern computer systems allowing adversaries to leak or modify security-critical data. To protect systems from this attack vector, full memory safety is required. As software-based countermeasures tend to induce significant runtime overheads, which is not acceptable for production code, hardware assistance is needed. Tagged memory architectures, e.g., already offered by the ARM MTE and SPARC ADI extensions, assign meta-information to memory objects, thus allowing to implement memory safety policies. However, due to the high tag collision probability caused by the small tag sizes, the protection guarantees of these schemes are limited. This paper presents Multi-Tag, the first hardware-software co-design utilizing a multi-granular tagging structure that provides strong protection against spatial and temporal memory safety violations. By combining object-granular memory tags with page-granular tags stored in the page table entries, Multi-Tag overcomes the limitation of small tag sizes. Introducing page-granular tags significantly enhances the probabilistic protection capabilities of memory tagging without increasing the memory overhead or the system’s complexity. We develop a prototype implementation comprising a gem5 model of the tagged architecture, a Linux kernel extension, and an LLVM-based compiler toolchain. The simulated performance overhead for the SPEC CPU2017 and nbench-byte benchmarks highlights the practicability of our design.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "title_zh": "多标签:一种基于多粒度存储标签的软硬件协同设计",
-        "abstract_zh": "内存安全漏洞是对现代计算机系统的严重威胁，它允许对手泄漏或修改安全关键数据。为了保护系统免受这种攻击，需要完全的内存安全。由于基于软件的对策往往会导致显著的运行时开销，这对于生产代码来说是不可接受的，因此需要硬件辅助。例如，ARM MTE和SPARC ADI扩展已经提供的标记存储器架构将元信息分配给存储器对象，从而允许实施存储器安全策略。然而，由于小标签尺寸导致的高标签冲突概率，这些方案的保护保证是有限的。本文介绍了Multi-Tag，这是第一个利用多粒度标记结构的软硬件协同设计，可针对空间和时间内存安全违规提供强大的保护。通过将存储在页表条目中的对象粒度存储器标签与页粒度标签相结合，多标签克服了小标签尺寸的限制。引入页面粒度标记显著增强了存储器标记的概率保护能力，而不增加存储器开销或系统的复杂性。我们开发了一个原型实现，包括一个标记架构的gem5模型、一个Linux内核扩展和一个基于LLVM的编译器工具链。SPEC CPU2017和nbench-byte基准的模拟性能开销凸显了我们设计的实用性。",
+        "abstract_zh": "漏洞修复非常耗时，因此，并非所有发现的漏洞都能及时修复。实际上，开发人员根据可利用性来确定漏洞修复的优先级。大量的漏洞被延迟修补甚至被忽略，因为它们被认为是“不可利用的”或者由于难以利用脆弱的原语而被低估。然而，漏洞可能是在野外发现的。在本文中，为了利用传统方法无法利用的弱原语，我们提出了一种通用的利用策略，可以将弱原语转化为强原语。基于内核中名为灭霸对象的特殊对象，我们的方法可以利用没有函数指针解引用的UAF漏洞和具有有限写长度和值的OOB写漏洞。该方法克服了传统利用策略严重依赖漏洞能力的不足。为了方便使用灭霸对象，我们设计了一个名为陶德的工具，从内核中自动搜索符合条件的灭霸对象。然后，通过约束的复杂性来评估所识别的灭霸对象的可用性。最后，它将漏洞与合格的灭霸对象配对。我们已经用真实世界的内核评估了我们的方法。陶德成功地从Linux中识别出许多灭霸对象。使用识别出的灭霸对象，我们用20个真实世界的漏洞证明了我们的方法的可行性，其中大多数是传统技术未能利用的。通过实验，我们发现，除了利用弱原语之外，我们的方法有时可以绕过内核SMAP机制(CVE-2016-10150，CVE-2016-0728)，更好地利用泄露的堆指针地址(CVE-2022-25636)，甚至在理论上打破某些漏洞补丁(例如，双自由)。",
+        "title_zh": "从发布到重生:利用Linux内核中的灭霸对象",
         "year": "2023",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/asiaccs/asiaccs2023.html",
-        "conf_title": "18th AsiaCCS 2023:\nMelbourne, VIC, Australia",
-        "conf_url": "https://doi.org/10.1145/3579856",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/tifs/tifs18.html",
+        "conf_title": "IEEE Transactions on Information Forensics and Security, Volume 18",
+        "conf_url": "",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1145/3507657.3528548",
-        "title": "On the Robustness of Wi-Fi Deauthentication Countermeasures",
-        "authors": "Domien Schepers, Aanjhan Ranganathan, Mathy Vanhoef",
-        "abstract": "With the introduction of WPA3 and Wi-Fi 6, an increased usage of Wi-Fi Management Frame Protection (MFP) is expected. Wi-Fi MFP, defined in IEEE 802.11w, protects robust management frames by providing data confidentiality, integrity, origin authenticity, and replay protection. One of its key goals is to prevent deauthentication attacks in which an adversary forcibly disconnects a client from the network. In this paper, we inspect the standard and its implementations for their robustness and protection against deauthentication attacks. In our standard analysis, we inspect the rules for processing robust management frames on their completeness, consistency, and security, leading to the discovery of unspecified cases, contradictory rules, and revealed insecure rules that lead to new denial-of-service vulnerabilities. We then inspect implementations and identify vulnerabilities in clients and access points running on the latest versions of the Linux kernel, hostap, IWD, Apple (i.e., macOS, iOS, iPadOS), Windows, and Android. Altogether, these vulnerabilities allow an adversary to disconnect any client from personal and enterprise networks despite the usage of MFP. Our work highlights that management frame protection is insufficient to prevent deauthentication attacks, and therefore more care is needed to mitigate attacks of this kind. In order to address the identified shortcomings, we worked with industry partners to propose updates to the IEEE 802.11 standard.",
+        "url": "https://doi.org/10.1109/TIFS.2018.2883027",
+        "title": "Hardware-Assisted Transparent Tracing and Debugging on ARM",
+        "authors": "Zhenyu Ning, Fengwei Zhang",
+        "abstract": "The existing malware analysis platforms leave detectable fingerprints such as uncommon string properties in QEMU, signatures in Android Java virtual machine, and artifacts in Linux kernel profiles. Since these fingerprints provide the malware a chance to split its behavior depending on whether the analysis system is present or not, the existing analysis systems are not sufficient to analyze the sophisticated malware. In this paper, we propose NINJA, a transparent malware analysis framework on the ARM platform with low artifacts. NINJA leverages a hardware-assisted isolated execution environment TrustZone to transparently trace and debug a target application with the help of performance monitor unit and embedded trace macrocell. These hardware features help NINJA to achieve transparency while avoiding heavy performance overhead. NINJA does not modify system software and is OS-agnostic on the ARM platform. We implement a prototype of NINJA (i.e., tracing and debugging subsystems), and the experimental results show that NINJA is efficient and transparent for malware analysis. An improved fast system restoration mechanism is also designed to facilitate the continuous malware analysis.",
         "files": {
-            "openAccessPdf": "https://lirias.kuleuven.be/bitstream/20.500.12942/697745/2/wisec2022.pdf"
+            "openAccessPdf": ""
         },
-        "abstract_zh": "随着WPA3和Wi-Fi 6的推出，预计Wi-Fi管理帧保护(MFP)的使用将会增加。IEEE 802.11w中定义的Wi-Fi MFP通过提供数据机密性、完整性、来源真实性和重放保护来保护健壮的管理帧。它的主要目标之一是防止身份验证攻击，在这种攻击中，对手会强行断开客户端与网络的连接。在本文中，我们检查了该标准及其实现的健壮性和对解除认证攻击的保护。在我们的标准分析中，我们检查用于处理健壮管理帧的规则的完整性、一致性和安全性，从而发现未指定的情况、矛盾的规则以及导致新的拒绝服务漏洞的不安全规则。然后，我们检查实施情况，并识别在最新版本的Linux内核、hostap、IWD、苹果(即macOS、iOS、iPadOS)、Windows和Android上运行的客户端和接入点中的漏洞。总之，尽管使用了MFP，这些漏洞仍允许对手断开任何客户端与个人和企业网络的连接。我们的工作强调了管理帧保护不足以防止去认证攻击，因此需要更加小心来减轻这种攻击。为了解决已确定的缺点，我们与行业合作伙伴一起提出了IEEE 802.11标准的更新。",
-        "title_zh": "Wi-Fi认证对抗措施的鲁棒性研究",
-        "year": "2022",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/wisec/wisec2022.html",
-        "conf_title": "15th WISEC 2022: San Antonio, TX, USA",
-        "conf_url": "https://doi.org/10.1145/3507657",
+        "abstract_zh": "现有的恶意软件分析平台会留下可检测的指纹，例如QEMU中不常见的字符串属性、Android Java虚拟机中的签名以及Linux内核配置文件中的工件。由于这些指纹为恶意软件提供了根据分析系统是否存在来分割其行为的机会，所以现有的分析系统不足以分析复杂的恶意软件。本文提出了NINJA，一个基于ARM平台的透明恶意软件分析框架，具有低伪像。NINJA利用硬件辅助的隔离执行环境TrustZone，在性能监控单元和嵌入式跟踪宏单元的帮助下，透明地跟踪和调试目标应用程序。这些硬件特性有助于NINJA实现透明性，同时避免沉重的性能开销。NINJA不修改系统软件，在ARM平台上与操作系统无关。我们实现了一个NINJA原型(即跟踪和调试子系统)，实验结果表明NINJA对于恶意软件分析是高效和透明的。还设计了一种改进的快速系统恢复机制，以便于持续的恶意软件分析。",
+        "title_zh": "ARM上硬件辅助的透明跟踪和调试",
+        "year": "2019",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/tifs/tifs14.html",
+        "conf_title": "IEEE Transactions on Information Forensics and Security, Volume 14",
+        "conf_url": "",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1007/978-3-030-80825-9_13",
-        "title": "Introspect Virtual Machines Like It Is the Linux Kernel!",
-        "authors": "Ahmed Abdelraoof, Benjamin Taubmann, Thomas Dangl, Hans P. Reiser",
+        "url": "https://doi.org/10.1016/j.diin.2018.04.022",
+        "title": "Leveraging relocations in ELF-binaries for Linux kernel version identification",
+        "authors": "Manish Bhatt, Irfan Ahmed",
         "abstract": "",
         "files": {
             "openAccessPdf": ""
         },
         "abstract_zh": "",
-        "title_zh": "内省的虚拟机就像Linux内核一样！",
+        "title_zh": "利用ELF二进制文件中的重定位进行Linux内核版本识别",
+        "year": "2018",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/di/di26.html",
+        "conf_title": "Digital Investigation, Volume 26 Supplement",
+        "conf_url": "",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.2478/popets-2020-0012",
+        "title": "SqORAM: Read-Optimized Sequential Write-Only Oblivious RAM",
+        "authors": "Anrin Chakraborti, Radu Sion",
+        "abstract": "Abstract Oblivious RAMs (ORAMs) allow a client to access data from an untrusted storage device without revealing the access patterns. Typically, the ORAM adversary can observe both read and write accesses. Write-only ORAMs target a more practical, multi-snapshot adversary only monitoring client writes – typical for plausible deniability and censorship-resilient systems. This allows write-only ORAMs to achieve significantly-better asymptotic performance. However, these apparent gains do not materialize in real deployments primarily due to the random data placement strategies used to break correlations between logical and physical names-paces, a required property for write access privacy. Random access performs poorly on both rotational disks and SSDs (often increasing wear significantly, and interfering with wear-leveling mechanisms). In this work, we introduce SqORAM, a new locality-preserving write-only ORAM that preserves write access privacy without requiring random data access. Data blocks close to each other in the logical domain land in close proximity on the physical media. Importantly, SqORAM maintains this data locality property over time, significantly increasing read throughput. A full Linux kernel-level implementation of SqORAM is 100x faster than non locality-preserving solutions for standard workloads and is 60-100% faster than the state-of-the-art for typical file system workloads.",
+        "files": {
+            "openAccessPdf": "http://arxiv.org/pdf/1707.01211"
+        },
+        "abstract_zh": "摘要不经意内存(ORAMs)允许客户端在不暴露访问模式的情况下从不受信任的存储设备访问数据。通常，ORAM对手可以观察到读写访问。只写ORAMs的目标是更实用的、仅针对对手的多快照监控客户端写入——典型的可信拒绝和审查弹性系统。这允许只写ORAMs实现显著更好的渐近性能。然而，这些明显的好处在实际部署中并没有实现，主要是因为随机数据放置策略用于打破逻辑和物理名称空间之间的相关性，这是写访问隐私的一个必需属性。随机存取在旋转磁盘和固态硬盘上的性能都很差(通常会显著增加磨损，并干扰磨损平衡机制)。在本文中，我们介绍了SqORAM，这是一种新的保持局部性的只写ORAM，它可以在不需要随机数据访问的情况下保持写访问隐私。逻辑域中彼此靠近的数据块在物理介质上的位置非常接近。重要的是，SqORAM会随着时间的推移保持这种数据局部性属性，从而显著提高读取吞吐量。对于标准工作负载，SqORAM的完整Linux内核级实现比非局部保留解决方案快100倍，对于典型文件系统工作负载，比最新技术快60-100%。",
+        "title_zh": "SqORAM:读优化的顺序只写不经意RAM",
+        "year": "2020",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/popets/popets2020.html",
+        "conf_title": "Proceedings on Privacy Enhancing Technologies, Volume 2020",
+        "conf_url": "",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.2478/popets-2020-0027",
+        "title": "Enhanced Performance and Privacy for TLS over TCP Fast Open",
+        "authors": "Erik Sy, Tobias Mueller, Christian Burkert, Hannes Federrath, Mathias Fischer",
+        "abstract": "Abstract Small TCP flows make up the majority of web flows. For them, the TCP three-way handshake induces significant delay overhead. The TCP Fast Open (TFO) protocol can significantly decrease this delay via zero round-trip time (0-RTT) handshakes for all TCP handshakes that follow a full initial handshake to the same host. However, this comes at the cost of privacy limitations and also has some performance limitations. In this paper, we investigate the TFP deployment on popular websites and browsers. We found that a client revisiting a web site for the first time fails to use an abbreviated TFO handshake in 40% of all cases due to web server load-balancing using multiple IP addresses. Our analysis further reveals significant privacy problems of the protocol design and implementation. Network-based attackers and online trackers can exploit TFO to track the online activities of users. As a countermeasure, we introduce a novel protocol called TCP Fast Open Privacy (FOP). TCP FOP prevents tracking by network attackers and impedes third-party tracking, while still allowing 0-RTT handshakes as in TFO. As a proof-of-concept, we have implemented the proposed protocol for the Linux kernel and a TLS library. Our measurements indicate that TCP FOP outperforms TLS over TFO when websites are served from multiple IP addresses.",
+        "files": {
+            "openAccessPdf": "http://arxiv.org/pdf/1905.03518"
+        },
+        "abstract_zh": "摘要小型TCP流构成了web流的大部分。对他们来说，TCP三次握手会导致显著的延迟开销。TCP快速开放(TFO)协议可以通过在与同一主机的完整初始握手之后的所有TCP握手的零往返时间(0-RTT)握手来显著减少这种延迟。然而，这是以隐私限制为代价的，并且也有一些性能限制。在本文中，我们调查了TFP在流行的网站和浏览器上的部署情况。我们发现，由于使用多个IP地址的web服务器负载平衡，第一次访问网站的客户端在40%的情况下无法使用简短的TFO握手。我们的分析进一步揭示了协议设计和实现中的重要隐私问题。基于网络的攻击者和在线跟踪器可以利用TFO来跟踪用户的在线活动。作为对策，我们引入了一种称为TCP快速开放隐私(FOP)的新协议。TCP FOP防止网络攻击者的跟踪，并阻止第三方跟踪，同时仍然允许0-RTT握手，就像在TFO一样。作为概念验证，我们已经为Linux内核和TLS库实现了提议的协议。我们的测量表明，当网站由多个IP地址提供服务时，TCP FOP优于TLS，优于TFO。",
+        "title_zh": "TCP上TLS的增强性能和隐私快速开放",
+        "year": "2020",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/popets/popets2020.html",
+        "conf_title": "Proceedings on Privacy Enhancing Technologies, Volume 2020",
+        "conf_url": "",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.2478/popets-2019-0071",
+        "title": "Detecting TCP/IP Connections via IPID Hash Collisions",
+        "authors": "Geoffrey Alexander, Antonio M. Espinoza, Jedidiah R. Crandall",
+        "abstract": "Abstract We present a novel attack for detecting the presence of an active TCP connection between a remote Linux server and an arbitrary client machine. The attack takes advantage of side-channels present in the Linux kernel’s handling of the values used to populate an IPv4 packet’s IPID field and applies to kernel versions of 4.0 and higher. We implement and test this attack and evaluate its real world effectiveness and performance when used on active connections to popular web servers. Our evaluation shows that the attack is capable of correctly detecting the IP-port 4-tuple representing an active TCP connection in 84% of our mock attacks. We also demonstrate how the attack can be used by the middle onion router in a Tor circuit to test whether a given client is connected to the guard entry node associated with a given circuit. In addition we discuss the potential issues an attacker would face when attempting to scale it to real world attacks, as well as possible mitigations against the attack. Our attack does not exhaust any global resource, and therefore challenges the notion that there is a direct one-to-one connection between shared, limited resources and non-trivial network side-channels. This means that simply enumerating global shared resources and considering the ways in which they can be exhausted will not suffice for certifying a kernel TCP/IP network stack to be free of privacy risk side-channels.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "摘要我们提出了一种新的攻击方法，用于检测远程Linux服务器和任意客户机之间的活动TCP连接的存在。该攻击利用了Linux内核在处理用于填充IPv4数据包的IPID字段的值时存在的旁路，适用于4.0及更高版本的内核。我们实现并测试了这种攻击，并评估了它在与流行的web服务器进行活动连接时的实际效果和性能。我们的评估表明，在84%的模拟攻击中，该攻击能够正确地检测到代表活动TCP连接的IP端口4元组。我们还演示了Tor电路中的中间洋葱路由器如何利用该攻击来测试给定客户端是否连接到与给定电路相关联的防护入口节点。此外，我们还讨论了攻击者在尝试将其扩展到现实世界攻击时可能面临的问题，以及针对攻击的可能缓解措施。我们的攻击没有耗尽任何全局资源，因此挑战了在共享的有限资源和非平凡的网络侧信道之间存在直接一对一连接的概念。这意味着简单地列举全局共享资源并考虑它们被耗尽的方式不足以证明内核TCP/IP网络栈没有隐私风险旁路。",
+        "title_zh": "通过IPID哈希冲突检测TCP/IP连接",
+        "year": "2019",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/popets/popets2019.html",
+        "conf_title": "Proceedings on Privacy Enhancing Technologies, Volume 2019",
+        "conf_url": "",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1515/popets-2015-0005",
+        "title": "Analyzing the Great Firewall of China Over Space and Time",
+        "authors": "Roya Ensafi, Philipp Winter, Abdullah Mueen, Jedidiah R. Crandall",
+        "abstract": "Abstract A nation-scale firewall, colloquially referred to as the “Great Firewall of China,” implements many different types of censorship and content filtering to control China’s Internet traffic. Past work has shown that the firewall occasionally fails. In other words, sometimes clients in China are able to reach blacklisted servers outside of China. This phenomenon has not yet been characterized because it is infeasible to find a large and geographically diverse set of clients in China from which to test connectivity. In this paper, we overcome this challenge by using a hybrid idle scan technique that is able to measure connectivity between a remote client and an arbitrary server, neither of which are under the control of the researcher performing measurements. In addition to hybrid idle scans, we present and employ a novel side channel in the Linux kernel’s SYN backlog. We show that both techniques are practical by measuring the reachability of the Tor network which is known to be blocked in China. Our measurements reveal that failures in the firewall occur throughout the entire country without any conspicuous geographical patterns.We give some evidence that routing plays a role, but other factors (such as how the GFW maintains its list of IP/port pairs to block) may also be important.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "摘要一个民族规模的防火墙，被称为“中国的大防火墙”，实施了许多不同类型的审查制度和内容过滤，以控制中国的互联网流量。 过去的工作表明，防火墙有时会失败。 换句话说，有时中国的客户能够接触到中国以外的黑名单服务器。 这种现象尚未得到特征，因为在中国找到一组大量且地理上多样化的客户来测试连通性是不可行的。 在本文中，我们通过使用能够衡量远程客户端和任意服务器之间的连接性的混合闲置扫描技术来克服这一挑战，而这些服务器都没有在研究人员的控制下进行测量。 除了混合闲置扫描外，我们还在Linux内核SYN积压列表中介绍并采用了一个新颖的侧渠道。 我们表明，通过测量已知在中国被阻止的TOR网络的可及性，这两种技术都是实用的。 我们的测量结果表明，防火墙的故障在整个国家发生，没有任何明显的地理模式。我们给出一些证据表明路由起着作用，但其他因素（例如，GFW如何保持其IP/端口对列表的方式）可能可能会阻止）。 也很重要。",
+        "title_zh": "时空视角下的中国防火墙探析",
+        "year": "2015",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/popets/popets2015.html",
+        "conf_title": "Proceedings on Privacy Enhancing Technologies, Volume 2015",
+        "conf_url": "",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1145/3485832.3488011",
+        "title": "VIA: Analyzing Device Interfaces of Protected Virtual Machines",
+        "authors": "Felicitas Hetzelt, Martin Radev, Robert Buhren, Mathias Morbitzer, Jean-Pierre Seifert",
+        "abstract": "Both AMD and Intel have presented technologies for confidential computing in cloud environments. The proposed solutions — AMD SEV (-ES, -SNP) and Intel TDX — protect VMs (VMs) against attacks from higher privileged layers through memory encryption and integrity protection. This model of computation draws a new trust boundary between virtual devices and the VM, which in so far lacks thorough examination. In this paper, we therefore present an analysis of the virtual device interface and discuss several attack vectors against a protected VM. Further, we develop and evaluate VIA, an automated analysis tool to detect cases of improper sanitization of input recieved via the virtual device interface. VIA improves upon existing approaches for the automated analysis of device interfaces in the following aspects: (i) support for virtualization relevant buses, (ii) efficient Direct Memory Access (DMA) support and (iii) performance. VIA builds upon the Linux Kernel Library and clang’s libfuzzer to fuzz the communication between the driver and the device via MMIO, PIO, and DMA. An evaluation of VIA shows that it performs 570 executions per second on average and improves performance compared to existing approaches by an average factor of 2706. Using VIA, we analyzed 22 drivers in Linux 5.10.0-rc6, thereby uncovering 50 bugs and initiating multiple patches to the virtual device driver interface of Linux. To prove our findings’ criticality under the threat model of AMD SEV and Intel TDX, we showcase three exemplary attacks based on the bugs found. The attacks enable a malicious hypervisor to corrupt the memory and gain code execution in protected VMs with SEV-ES and are theoretically applicable to SEV-SNP and TDX.",
+        "files": {
+            "openAccessPdf": "http://arxiv.org/pdf/2109.10660"
+        },
+        "abstract_zh": "AMD和英特尔都展示了在云环境中进行保密计算的技术。AMD SEV (-ES，-SNP)和英特尔TDX提出的解决方案通过内存加密和完整性保护来保护虚拟机(VM)免受来自更高特权层的攻击。这种计算模型在虚拟设备和虚拟机之间画出了一个新的信任边界，到目前为止还缺乏彻底的检查。因此，在本文中，我们对虚拟设备接口进行了分析，并讨论了针对受保护虚拟机的几种攻击手段。此外，我们还开发和评估了VIA，这是一款自动分析工具，用于检测通过虚拟设备接口接收的输入处理不当的情况。VIA在以下方面改进了现有的设备接口自动分析方法:(I)对虚拟化相关总线的支持，(ii)高效的直接存储器访问(DMA)支持，以及(iii)性能。VIA构建于Linux内核库和clang的libfuzzer之上，通过MMIO、PIO和DMA来模糊驱动程序和设备之间的通信。对VIA的评估表明，它平均每秒执行570次，与现有方法相比，性能平均提高了2706倍。使用VIA，我们分析了Linux 5.10.0-rc6中的22个驱动程序，从而发现了50个错误，并启动了对Linux的虚拟设备驱动程序接口的多个补丁。为了证明我们的发现在AMD SEV和英特尔TDX的威胁模型下的重要性，我们展示了基于所发现的漏洞的三个示例性攻击。这些攻击使恶意虚拟机管理程序能够破坏内存，并在带有服务的受保护虚拟机中执行代码，理论上适用于服务单端口和TDX。",
+        "title_zh": "通过：分析受保护虚拟机的设备界面",
         "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2021.html",
-        "conf_title": "DIMVA 2021: Virtual Event",
-        "conf_url": "https://doi.org/10.1007/978-3-030-80825-9",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/acsac/acsac2021.html",
+        "conf_title": "ACSAC 2021: Virtual Event, USA",
+        "conf_url": "https://doi.org/10.1145/3485832",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1007/978-3-031-35504-2_10",
-        "title": "Extended Abstract: Towards Reliable and Scalable Linux Kernel CVE Attribution in Automated Static Firmware Analyses",
-        "authors": "René Helmke, Johannes vom Dorp",
-        "abstract": "—In vulnerability assessments, software component- based CVE attribution is a common method to identify possibly vulnerable systems at scale. However, such version-centric ap- proaches yield high false-positive rates for binary distributed Linux kernels in ﬁrmware images. Not ﬁltering included vul- nerable components is a reason for unreliable matching, as heterogeneous hardware properties, modularity, and numerous development streams result in a plethora of vendor-customized builds. To make a step towards increased result reliability while retaining scalability of the analysis method, we enrich version-based CVE matching with kernel-speciﬁc build data from binary images using automated static ﬁrmware analysis. We open source an attribution pipeline that gathers kernel conﬁguration and target architecture to dry build the present kernel version and ﬁlter CVEs based on affected ﬁle references in record descriptions. In a case study with 127 router ﬁrmware images, we show that in comparison to naive version matching, our approach identiﬁes 68% of all version CVE matches as false-positives and reliably removes them from the result set. For 12% of all matches it provides additional evidence of issue applicability. For 19.4%, our approach does not improve reliability because required ﬁle references in CVEs are missing.",
+        "url": "https://doi.org/10.1145/3485832.3488019",
+        "title": "FlexFilt: Towards Flexible Instruction Filtering for Security",
+        "authors": "Leila Delshadtehrani, Sadullah Canakci, William Blair, Manuel Egele, Ajay Joshi",
+        "abstract": "As the complexity of software applications increases, there has been a growing demand for intra-process memory isolation. The commercially available intra-process memory isolation mechanisms in modern processors, e.g., Intel’s memory protection keys, trade-off between efficiency and security guarantees. Recently, researchers have tended to leverage the features with low security guarantees for intra-process memory isolation. Subsequently, they have relied on binary scanning and runtime binary rewriting to prevent the execution of unsafe instructions, which improves the security guarantees. Such intra-process memory isolation mechanisms are not the only security solutions that have to prevent the execution of unsafe instructions in untrusted parts of the code. In fact, we identify a similar requirement in a variety of other security solutions. Although binary scanning and runtime binary rewriting approaches can be leveraged to address this requirement, it is challenging to efficiently implement these approaches. In this paper, we propose an efficient and flexible hardware-assisted feature for runtime filtering of user-specified instructions. This flexible feature, called FlexFilt, assists with securing various isolation-based mechanisms. FlexFilt enables the software developer to create up to 16 instruction domains, where each instruction domain can be configured to filter the execution of user-specified instructions. In addition to filtering unprivileged instructions, FlexFilt is capable of filtering privileged instructions. To illustrate the effectiveness of FlexFilt compared to binary scanning approaches, we measure the overhead caused by scanning the JIT compiled code while browsing various webpages. We demonstrate the feasibility of FlexFilt by implementing our design on the RISC-V Rocket core, providing the Linux kernel support for it, and prototyping our full design on an FPGA.",
         "files": {
             "openAccessPdf": ""
         },
-        "title_zh": "扩展摘要:在自动化静态固件分析中实现可靠和可扩展的Linux内核CVE属性",
-        "abstract_zh": "—在漏洞评估中，基于软件组件的CVE属性是大规模识别可能存在漏洞的系统的常用方法。然而，这种以版本为中心的方法对于二进制分布式Linux内核在固件映像中会产生很高的误报率。不过滤包含的易受攻击组件是不可靠匹配的一个原因，因为异构硬件属性、模块化和众多开发流会导致过多的供应商定制版本。为了在提高结果可靠性的同时保持分析方法的可扩展性，我们使用自动化静态固件分析，通过来自二进制图像的内核特定构建数据，丰富了基于版本的CVE匹配。我们开源了一个属性管道，收集内核配置和目标架构，以干式构建当前内核版本，并根据记录描述中受影响的文件引用过滤cv。在对127个路由器固件映像的案例研究中，我们发现，与简单的版本匹配相比，我们的方法将所有版本CVE匹配中的68%识别为误报，并可靠地将其从结果集中删除。对于12%的匹配，它提供了问题适用性的额外证据。对于19.4%，我们的方法没有提高可靠性，因为CVE中所需的文件引用丢失了。",
-        "year": "2023",
-        "dblp_url": "https://dblp.uni-trier.de/db/conf/dimva/dimva2023.html",
-        "conf_title": "20th DIMVA 2023:\nHamburg, Germany",
-        "conf_url": "https://doi.org/10.1007/978-3-031-35504-2",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1109/TDSC.2022.3165368",
-        "title": "Automatic Permission Check Analysis for Linux Kernel",
-        "authors": "Jinmeng Zhou, Tong Zhang, Wenbo Shen, Dongyoon Lee, Changhee Jung, Ahmed M. Azab, Ruowen Wang, Peng Ning, Kui Ren",
-        "abstract": "Permission checks play an essential role in operating system security by providing access control to privileged functionalities. However, it is challenging for kernel developers to scalably verify the soundness of existing checks due to the large codebase and complexity of the kernel. In fact, Linux kernel contains millions of lines of code with hundreds of permission checks, and even worse, its complexity is fast-growing. This paper presents PeX, a static Permission check error detector for LinuX, which takes as input a kernel source code and reports any missing, inconsistent, and redundant permission checks. PeX uses KIRIN (Kernel InteRface based Indirect call aNalysis), a novel, precise, and scalable indirect call analysis technique. Over the interprocedural control flow graph built by KIRIN, PeX automatically identifies permission checks and infers the mappings between permission checks and privileged functions. For each privileged function, PeX examines all possible paths to the function to check if necessary permission checks are correctly enforced. We evaluated PeX on the latest stable Linux kernel v4.18.5 for three types of permission checks: Discretionary Access Controls (DAC), Capabilities, and Linux Security Modules (LSM). PeX reported 45 new permission check errors, 17 of which have been confirmed by the kernel developers.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "通过提供对特权功能的访问控制，权限检查在操作系统安全中起着重要的作用。然而，由于庞大的代码库和内核的复杂性，对于内核开发人员来说，可扩展地验证现有检查的合理性是一个挑战。事实上，Linux内核包含了数百万行代码和数百次权限检查，更糟糕的是，它的复杂性正在快速增长。本文介绍了用于LinuX的静态权限检查错误检测器PeX，它将内核源代码作为输入，并报告任何缺失、不一致和冗余的权限检查。PeX使用KIRIN(基于内核接口的间接调用分析)，这是一种新颖、精确且可扩展的间接调用分析技术。通过KIRIN构建的过程间控制流图，PeX自动识别权限检查，并推断权限检查和特权函数之间的映射。对于每个特权函数，PeX会检查该函数的所有可能路径，以检查是否正确实施了必要的权限检查。我们在最新稳定的Linux内核v4.18.5上评估了PeX的三种权限检查类型:自主访问控制(DAC)、功能和Linux安全模块(LSM)。PeX报告了45个新的权限检查错误，其中17个已被内核开发人员确认。",
-        "title_zh": "Linux内核的自动许可检查分析",
-        "year": "2023",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc20.html",
-        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 20",
-        "conf_url": "",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1109/TDSC.2022.3193327",
-        "title": "Hawkeye: Eliminating Kernel Address Leakage in Normal Data Flows",
-        "authors": "Zeyu Mi, Zhi Guo, Fuqian Huang, Haibo Chen",
-        "abstract": "The confidentiality of the operating system kernel addresses is crucial to keeping the kernel secure from malicious users. To avoid leaking this position, researchers have proposed various techniques to defeat the exploits of abnormal data flows embedded in the kernel's memory safety loopholes, such as uninitialized memory read and buffer over-reads. However, this is far from complete. The kernel address can be leaked even in normal data flows without exploiting memory safety loopholes. We have designed a static analysis tool named Hawkeye to fill the gap. It searches for kernel address leakages in normal data flows that reveal the kernel address clues. Hawkeye precisely identifies the kernel addresses with minimum manual annotation and scales to analyze the whole kernel source code. It requires nearly ten times fewer memory resources and 40 times less inspection time than the state-of-the-art tool that analyzes kernel address leakage. Hawkeye unveils hundreds of leakages in various versioned kernels. It has even discovered 20 bugs in the mainline Linux kernel with the kernel pointer hashing mechanism already deployed and three bugs in FreeBSD. All the corresponding patches have been accepted by the developers.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "title_zh": "鹰眼:消除正常数据流中的内核地址泄漏",
-        "abstract_zh": "操作系统内核地址的机密性对于防止恶意用户攻击内核至关重要。为了避免泄露这一位置，研究人员提出了各种技术来击败嵌入在内核内存安全漏洞中的异常数据流的利用，如未初始化的内存读取和缓冲区过度读取。然而，这还远远没有完成。即使在没有利用内存安全漏洞的正常数据流中，内核地址也可能被泄漏。我们设计了一个名为鹰眼的静态分析工具来填补这一空白。它在正常数据流中搜索内核地址泄漏，从而揭示内核地址线索。Hawkeye通过最少的人工注释精确地识别内核地址，并扩展到分析整个内核源代码。与分析内核地址泄漏的最先进工具相比，它需要的内存资源少了近十分之一，检查时间少了40倍。鹰眼揭露了各种版本内核中的数百个漏洞。它甚至在已经部署了内核指针散列机制的主线Linux内核中发现了20个错误，在FreeBSD中发现了3个错误。所有相应的补丁都已被开发者接受。",
-        "year": "2023",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc20.html",
-        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 20",
-        "conf_url": "",
-        "keywords": [
-            "Linux Kernel"
-        ]
-    },
-    {
-        "url": "https://doi.org/10.1109/TDSC.2018.2879605",
-        "title": "A Study on the Security Implications of Information Leakages in Container Clouds",
-        "authors": "Xing Gao, Benjamin Steenkamer, Zhongshu Gu, Mehmet Kayaalp, Dimitrios Pendarakis, Haining Wang",
-        "abstract": "Container technology provides a lightweight operating system level virtual hosting environment. Its emergence profoundly changes the development and deployment paradigms of multi-tier distributed applications. However, due to the incomplete implementation of system resource isolation mechanisms in the Linux kernel, some security concerns still exist for multiple containers sharing an operating system kernel on a multi-tenancy container-based cloud service. In this paper, we first present the information leakage channels we discovered that are accessible within containers. Such channels expose a spectrum of system-wide host information to containers without proper resource partitioning. By exploiting such leaked host information, it becomes much easier for malicious adversaries (acting as tenants in a container cloud) to launch attacks that might impact the reliability of cloud services. We demonstrate that the information leakage channels could be exploited to infer private data, detect and verify co-residence, build covert channels, and launch more advanced cloud-based attacks. We discuss the root causes of the containers’ information leakage and propose a two-stage defense approach. As demonstrated in the evaluation, our defense is effective and incurs trivial performance overhead.",
-        "files": {
-            "openAccessPdf": ""
-        },
-        "abstract_zh": "容器技术提供了一个轻量级的操作系统级虚拟主机环境。它的出现深刻地改变了多层分布式应用程序的开发和部署模式。然而，由于Linux内核中系统资源隔离机制的不完全实现，在基于多租户容器的云服务上共享操作系统内核的多个容器仍然存在一些安全问题。在本文中，我们首先介绍了我们发现的可在容器中访问的信息泄漏通道。这种通道将一系列系统范围的主机信息暴露给容器，而没有适当的资源划分。通过利用这种泄露的主机信息，恶意对手(作为容器云中的租户)更容易发起可能影响云服务可靠性的攻击。我们证明，信息泄漏通道可以被用来推断私人数据，检测和验证共存，建立隐蔽通道，并发起更高级的基于云的攻击。我们讨论了容器信息泄漏的根本原因，并提出了两阶段防御方法。如评估所示，我们的防御是有效的，并且产生了微不足道的性能开销。",
-        "title_zh": "一项有关容器云中信息泄漏的安全含义的研究",
+        "abstract_zh": "随着软件应用程序复杂性的增加，对进程内内存隔离的需求也在不断增长。现代处理器中的商用进程内存储器隔离机制，例如Intel的存储器保护密钥，在效率和安全性保证之间进行权衡。最近，研究人员倾向于利用安全性保证较低的特性来实现进程内内存隔离。随后，他们依靠二进制扫描和运行时二进制重写来防止不安全指令的执行，这提高了安全性保证。这种进程内存储器隔离机制并不是防止在不可信代码部分执行不安全指令的唯一安全解决方案。事实上，我们在各种其他安全解决方案中发现了类似的需求。尽管可以利用二进制扫描和运行时二进制重写方法来满足这一需求，但是有效地实现这些方法是具有挑战性的。在这篇文章中，我们提出了一个有效和灵活的硬件辅助功能，用于运行时过滤用户指定的指令。这种称为FlexFilt的灵活特性有助于保护各种基于隔离的机制。FlexFilt使软件开发人员能够创建多达16个指令域，其中每个指令域都可以配置为过滤用户指定指令的执行。除了过滤非特权指令，FlexFilt还能够过滤特权指令。为了说明与二进制扫描方法相比FlexFilt的有效性，我们测量了在浏览各种网页时扫描JIT编译的代码所导致的开销。我们通过在RISC-V Rocket core上实现我们的设计，为其提供Linux内核支持，并在FPGA上原型化我们的完整设计，展示了FlexFilt的可行性。",
+        "title_zh": "弹性：促进灵活的说明过滤以进行安全性",
         "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc18.html",
-        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 18",
-        "conf_url": "",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/acsac/acsac2021.html",
+        "conf_title": "ACSAC 2021: Virtual Event, USA",
+        "conf_url": "https://doi.org/10.1145/3485832",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1109/TDSC.2019.2915829",
-        "title": "KALD: Detecting Direct Pointer Disclosure Vulnerabilities",
-        "authors": "Brian Belleville, Wenbo Shen, Stijn Volckaert, Ahmed M. Azab, Michael Franz",
-        "abstract": "Modern operating system kernels deploy Kernel Address Space Layout Randomization (KASLR) to mitigate control-flow hijacking attacks. KASLR randomizes the base addresses of the kernel's code and data segments. However, it randomizes both with a single offset and does not randomize the internal layout of either of these segments, so relative addresses remain known to adversaries. If the kernel discloses a single code or global data pointer, an adversary can therefore infer the entire layout of the kernel's code segment and bypass KASLR. In this paper, we present Kernel Address Leak Detector (KALD), a tool that finds direct disclosure vulnerabilities by statically analyzing the kernel source code. KALD can analyze the source code of modern operating system kernels and find previously unreported leaks. KALD compiles a list of functions that can leak information to user-space accessible locations, and it uses the results of a points-to analysis to determine whether individual invocations of such functions can disclose kernel pointers. We show that KALD successfully detects several direct disclosure vulnerabilities in the Linux kernel and that it is flexible enough to be useful in practice.",
+        "url": "https://doi.org/10.1145/3564625.3564634",
+        "title": "Making Memory Account Accountable: Analyzing and Detecting Memory Missing-account bugs for Container Platforms",
+        "authors": "Yutian Yang, Wenbo Shen, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, Kui Ren",
+        "abstract": "Linux kernel introduces the memory control group (memcg) to account and confine memory usage at the process-level. Due to its flexibility and efficiency, memcg has been widely adopted by container platforms and has become a fundamental technique. While being critical, memory accounting is prone to missing-account bugs due to the diverse memory accounting interfaces and the massive amount of allocation/free paths. To our knowledge, there is still no systematic analysis against the memory missing-account problem, with respect to its security impacts, detection, etc. In this paper, we present the first systematic study on the memory missing-account problem. We first perform an in-depth analysis of its exploitability and security impacts on container platforms. We then develop a tool named MANTA (short for Memory AccouNTing Analyzer), which combines both static and dynamic analysis techniques to detect and validate memory missing-account bugs automatically. Our analysis shows that all container runtimes, including runC and Kata container, are vulnerable to memory missing-account-based attacks. Moreover, memory missing-account can be exploited to attack the Docker, the CaaS, and the FaaS platforms, leading to memory exhaustion, which crashes individual node or even the whole cluster. Our tool reports 53 exploitable memory missing-account bugs, 37 of which were confirmed by kernel developers with the corresponding patches submitted, and two new CVEs are assigned. Through the in-depth analysis, automated detection, the reported bugs and the submitted patches, we believe our research improves the correctness and security of memory accounting for container platforms.",
         "files": {
             "openAccessPdf": ""
         },
-        "abstract_zh": "现代操作系统内核部署内核地址空间布局随机化(KASLR)来减轻控制流劫持攻击。KASLR将内核代码和数据段的基址随机化。但是，它用单个偏移量随机化两者，并且不随机化这些段中任何一个的内部布局，因此相对地址仍然为对手所知。如果内核公开了单个代码或全局数据指针，对手就可以推断出内核代码段的整个布局并绕过KASLR。在本文中，我们介绍了内核地址泄漏检测器(KALD)，这是一种通过静态分析内核源代码来发现直接泄漏漏洞的工具。KALD可以分析现代操作系统内核的源代码，并发现以前未报告的漏洞。KALD编译了一个函数列表，这些函数会将信息泄漏到用户空间可访问的位置，它使用指向分析的结果来确定对这些函数的单独调用是否会泄漏内核指针。我们证明了KALD成功地检测到了Linux内核中的几个直接泄漏漏洞，并且它足够灵活，在实践中非常有用。",
-        "title_zh": "卡尔德：检测直接指针披露漏洞",
-        "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc18.html",
-        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 18",
+        "abstract_zh": "Linux内核引入了内存控制组(memcg)来在进程级计算和限制内存使用。由于其灵活性和效率，memcg已经被容器平台广泛采用，并成为一种基本技术。虽然内存核算很重要，但由于内存核算接口的多样性和大量的分配/空闲路径，内存核算容易出现帐户缺失错误。据我们所知，目前还没有针对内存丢失帐户问题的系统分析，包括其安全影响、检测等。本文首次系统地研究了记忆缺失问题。我们首先对其可利用性和对容器平台的安全影响进行了深入分析。然后，我们开发了一个名为MANTA(内存核算分析器的缩写)的工具，它结合了静态和动态分析技术来自动检测和验证内存丢失帐户错误。我们的分析表明，所有容器运行时，包括runC和Kata容器，都容易受到基于内存缺失帐户的攻击。此外，可以利用内存缺失帐户来攻击Docker、CaaS和FaaS平台，导致内存耗尽，从而使单个节点甚至整个集群崩溃。我们的工具报告了53个可利用的内存缺失帐户错误，其中37个已由内核开发人员通过提交相应的补丁进行了确认，并分配了两个新的CVE。通过深入分析、自动检测、报告的错误和提交的补丁，我们相信我们的研究提高了容器平台内存核算的正确性和安全性。",
+        "title_zh": "使内存帐户负责：分析和检测容器平台的内存丢失符合错误",
+        "year": "2022",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/acsac/acsac2022.html",
+        "conf_title": "ACSAC 2022: Austin, TX, USA",
+        "conf_url": "https://doi.org/10.1145/3564625",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1145/2818000.2818046",
+        "title": "MobiPluto: File System Friendly Deniable Storage for Mobile Devices",
+        "authors": "Bing Chang, Zhan Wang, Bo Chen, Fengwei Zhang",
+        "abstract": "Mobile devices are prevalently used for processing personal private data and sometimes collecting evidence of social injustice or political oppression. The device owners may always feel reluctant to expose this type of data to undesired observers or inspectors. This usually can be achieved by encryption. However, the traditional encryption may not work when an adversary is able to coerce device owners into revealing their encrypted content. Plausibly Deniable Encryption (PDE) is thus designed to protect sensitive data against this type of powerful adversaries. In this paper, we present MobiPluto, a file system friendly PDE scheme for denying the existence of sensitive data stored on mobile devices. MobiPluto achieves deniability feature as nothing but a \"side-effect\" of combining thin provisioning, a well-established tool in Linux kernel, with encryption. This feature makes MobiPluto more plausible for users to have such software on their mobile devices. A salient difference between MobiPluto and the existing PDE schemes is that MobiPluto is \"file system friendly\", i.e., any block-based file systems can be deployed on top of it. Thus, it is possible to deploy MobiPluto on most mobile devices. We provide a proof-of-concept implementation for MobiPluto in an Android phone to assess its feasibility and performance.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "移动设备普遍用于处理个人隐私数据，有时还用于收集社会不公或政治压迫的证据。设备所有者可能总是不愿意将这种类型的数据暴露给不受欢迎的观察者或检查员。这通常可以通过加密来实现。然而，当对手能够强迫设备所有者透露他们的加密内容时，传统的加密可能不起作用。因此，似是而非的可否认加密(PDE)旨在保护敏感数据免受这类强大对手的攻击。在本文中，我们提出了MobiPluto，一个文件系统友好的PDE方案，用于否认存储在移动设备上的敏感数据的存在。MobiPluto实现可否认性特性不过是将精简配置(Linux内核中一个成熟的工具)与加密相结合的“副作用”。这个特性使得MobiPluto更有可能让用户在他们的移动设备上安装这样的软件。mobi luto和现有PDE方案之间的一个显著区别是mobi luto是“文件系统友好的”，即任何基于块的文件系统都可以部署在它上面。因此，在大多数移动设备上部署MobiPluto是可能的。我们提供了一个在Android手机中实现MobiPluto的概念验证，以评估其可行性和性能。",
+        "title_zh": "Mobipluto：文件系统友好的移动设备存储",
+        "year": "2015",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/acsac/acsac2015.html",
+        "conf_title": "31. ACSAC 2015: Los Angeles, CA, USA",
+        "conf_url": "http://dl.acm.org/citation.cfm?id=2818000",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1108/ICS-02-2014-0013",
+        "title": "Logical acquisition and analysis of data from android mobile devices",
+        "authors": "Himanshu Srivastava, Shashikala Tapaswi",
+        "abstract": "Purpose – The purpose of this paper is to propose an approach that helps in acquisition of live data as well as data stored in the internal/external memory of android mobile device considering that the data on the device are not much altered during the extraction process. Also, the emphasis is laid on testing the validity of existing forensic tools against the data obtained manually and by using this approach. Smartphones have spurred the mobile computing technology, and Android is widely used as an Operating System in these devices. These days, users store most of their personal information like emails, images, contacts etc., on Phones/Tablets as their data would be readily accessible and thus convenient for them. Design/methodology/approach – Android Operating System is built on the Linux Kernel and scripts to extract data from Android Mobile Device with the use of Android Debugging Bridge have been written. The approach is more focused on the logical acquisition of data from devices rather than acquisi...",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "目的–考虑到设备上的数据在提取过程中不会发生太大变化，本文的目的是提出一种有助于获取实时数据以及存储在android移动设备内部/外部存储器中的数据的方法。此外，重点放在根据手动获取的数据和使用这种方法获取的数据测试现有取证工具的有效性。智能手机推动了移动计算技术的发展，Android作为操作系统被广泛应用于这些设备中。如今，用户存储大部分个人信息，如电子邮件、图像、联系人等。在手机/平板电脑上，因为他们的数据很容易访问，因此对他们来说很方便。设计/方法/途径——Android操作系统建立在Linux内核上，使用Android调试桥从Android移动设备提取数据的脚本已经编写完成。这种方法更侧重于从设备中逻辑地获取数据，而不是...",
+        "title_zh": "从android移动设备逻辑采集和分析数据",
+        "year": "2015",
+        "dblp_url": "https://dblp.uni-trier.de/db/journals/imcs/imcs23.html",
+        "conf_title": "Information and Computer Security, Volume 23",
         "conf_url": "",
         "keywords": [
             "Linux Kernel"
         ]
     },
     {
-        "url": "https://doi.org/10.1109/TDSC.2019.2946816",
-        "title": "CATTmew: Defeating Software-Only Physical Kernel Isolation",
-        "authors": "Yueqiang Cheng, Zhi Zhang, Surya Nepal, Zhi Wang",
-        "abstract": "All the state-of-the-art rowhammer attacks can break the MMU-enforced inter-domain isolation because the physical memory owned by each domain is adjacent to each other. To mitigate these attacks, physical domain isolation, introduced by CATT [7] , physically separates each domain by dividing the physical memory into multiple partitions and keeping each partition occupied by only one domain. CATT implemented physical kernel isolation as the first generic and practical software-only defense to protect kernel from being rowhammered as kernel is one of the most appealing targets. In this paper, we develop a novel exploit that could effectively defeat the CATT implementation and gain both root and kernel privileges, indicating that the physical kernel isolation is not secure in practice. Our exploit can work without exhausting the page cache or the system memory, or relying on the information of the virtual-to-physical address mapping. The exploit is motivated by our key observation that the modern OSes have double-owned kernel buffers (e.g., video buffers and SCSI Generic buffers) owned concurrently by the kernel and user domains. The existence of such buffers invalidates the physical separation enforced by CATT and makes the rowhammer-based attack possible again. Existing conspicuous rowhammer attacks achieving the root/kernel privilege escalation exhaust the page cache or even the whole system memory. Instead, we propose a new technique, named Memory Ambush. It is able to place the hammerable double-owned kernel buffers physically adjacent to the target objects (e.g., page tables) with only a small amount of memory. As a result, our exploit is stealthier and has fewer memory footprints. We also replace the inefficient rowhammer algorithm that blindly picks up addresses to hammer with an efficient one. Our algorithm selects suitable addresses based on an existing timing channel [31] . We implement our exploit on the Linux kernel version 4.10.0. Our experiment results indicate that a successful attack could be done within 1 minute. The occupied memory is as low as 88 MB.",
+        "url": "https://doi.org/10.1145/3471621.3471839",
+        "title": "μSCOPE: A Methodology for Analyzing Least-Privilege Compartmentalization in Large Software Artifacts",
+        "authors": "Nick Roessler, Lucas Atayde, Imani Palmer, Derrick Paul McKee, Jai Pandey, Vasileios P. Kemerlis, Mathias Payer, Adam Bates, Jonathan M. Smith, André DeHon, Nathan Dautenhahn",
+        "abstract": "By prioritizing simplicity and portability, least-privilege engineering has been an afterthought in OS design, resulting in monolithic kernels where any exploit leads to total compromise. μSCOPE (“microscope”) addresses this problem by automatically identifying opportunities for least-privilege separation. μSCOPE replaces expert-driven, semi-automated analysis with a general methodology for exploring a continuum of security vs. performance design points by adopting a quantitative and systematic approach to privilege analysis. We apply the μSCOPE methodology to the Linux kernel by (1) instrumenting the entire kernel to gain comprehensive, fine-grained memory access and call activity; (2) mapping these accesses to semantic information; and (3) conducting separability analysis on the kernel using both quantitative privilege and overhead metrics. We discover opportunities for orders of magnitude privilege reduction while predicting relatively low overheads—at 15% mediation overhead, overprivilege in Linux can be reduced up to 99.8%—suggesting fine-grained privilege separation is feasible and laying the groundwork for accelerating real privilege separation.",
         "files": {
-            "openAccessPdf": "http://arxiv.org/pdf/1802.07060"
+            "openAccessPdf": "https://dl.acm.org/doi/pdf/10.1145/3471621.3471839"
         },
-        "abstract_zh": "所有最新的rowhammer攻击都可以打破MMU强制的域间隔离，因为每个域拥有的物理内存彼此相邻。为了减少这些攻击，由CATT [7]引入的物理域隔离通过将物理内存划分为多个分区并保持每个分区仅被一个域占用来物理地分隔每个域。CATT实现了物理内核隔离，作为第一个通用和实用的纯软件防御，以保护内核免受行攻击，因为内核是最有吸引力的目标之一。在本文中，我们开发了一个新的漏洞，可以有效地击败CATT实现，并获得root和内核权限，这表明物理内核隔离在实践中是不安全的。我们的利用可以在不耗尽页面缓存或系统内存的情况下工作，或者依赖于虚拟到物理地址映射的信息。这种利用的动机是我们的关键观察，即现代操作系统具有由内核和用户域同时拥有的双重内核缓冲区(例如，视频缓冲区和SCSI通用缓冲区)。这种缓冲区的存在使CATT实施的物理隔离失效，并使基于rowhammer的攻击再次成为可能。实现根/内核权限提升的现有明显的行锤攻击耗尽了页面缓存甚至整个系统内存。取而代之的是，我们提出了一种新的技术，叫做内存埋伏。它能够将可锤化的双重拥有的内核缓冲区放置在仅具有少量存储器的目标对象(例如，页表)附近。因此，我们的漏洞利用更加隐蔽，占用的内存也更少。我们还用高效的rowhammer算法替换了低效的row hammer算法，该算法盲目地选取地址进行锤击。我们的算法基于现有的定时通道选择合适的地址[31]。我们在Linux内核版本4.10.0上实现了我们的利用。我们的实验结果表明，一次成功的攻击可以在1分钟内完成。占用内存低至88 MB。",
-        "title_zh": "CATTMEW：击败仅软件的物理内核隔离",
+        "abstract_zh": "通过优先考虑简单性和可移植性，最低特权工程已经成为OS设计中的一个事后想法，导致了单片内核，其中任何利用都会导致全面的危害。μSCOPE(“显微镜”)通过自动识别最低权限分离的机会来解决这个问题。μSCOPE通过采用量化和系统化的方法进行权限分析，用一种通用方法取代专家驱动的半自动分析，探索安全性与性能设计点的连续性。我们通过以下方式将μSCOPE方法应用于Linux内核:( 1)检测整个内核以获得全面、细粒度的内存访问和调用活动；(2)将这些访问映射到语义信息；以及(3)使用定量特权和开销度量对内核进行可分离性分析。我们发现了数量级特权减少的机会，同时预测相对较低的开销—在15%的中介开销下，Linux中的过度特权可以减少高达99.8%—这表明细粒度的特权分离是可行的，并为加速真正的特权分离奠定了基础。",
+        "title_zh": "μSCOPE:一种分析大型软件工件中最小特权划分的方法",
         "year": "2021",
-        "dblp_url": "https://dblp.uni-trier.de/db/journals/tdsc/tdsc18.html",
-        "conf_title": "IEEE Transactions on Dependable and Secure Computing, Volume 18",
-        "conf_url": "",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/raid/raid2021.html",
+        "conf_title": "24th RAID 2021: San Sebastian, Spain",
+        "conf_url": "https://doi.org/10.1145/3471621",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1109/EuroSPW54576.2021.00014",
+        "title": "FlushBlocker: Lightweight mitigating mechanism for CPU cache flush instruction based attacks",
+        "authors": "Shuhei Enomoto, Hiroki Kuzuno",
+        "abstract": "CPU cache flush instruction based attacks (cache instruction attacks) such as FLUSH+RELOAD can function in many environments. Meltdown and Spectre adopt FLUSH+RELOAD with cache instructions to access secret data. Additionally, Rowhammer employs cache instructions to modify data in physical memory. An adversary can read and write arbitrary data using these attacks. The deployment of corresponding hardware to combat these attacks is difficult for users, and existing software-based countermeasures incur high overheads, or cannot be applied to a variety of machines. In this study, we propose a novel mitigation mechanism for cache instruction attacks called FlushBlocker, which employs an effective approach that focuses on restricting cache flush instructions. We implemented FlushBlocker on the latest Linux kernel to conduct experiments. The experimental results indicate that FlushBlocker prevents existing cache instruction attacks and runtime overhead is negligible.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "基于CPU缓存刷新指令的攻击(缓存指令攻击)，如刷新+重新加载，可以在许多环境中起作用。Meltdown和Spectre采用带缓存指令的FLUSH+RELOAD来访问秘密数据。此外，Rowhammer使用缓存指令来修改物理内存中的数据。对手可以利用这些攻击读写任意数据。部署相应的硬件来对抗这些攻击对用户来说是困难的，并且现有的基于软件的对策招致高开销，或者不能应用于各种机器。在这项研究中，我们提出了一种新的缓存指令攻击缓解机制，称为FlushBlocker，它采用了一种有效的方法来限制缓存刷新指令。我们在最新的Linux内核上实现了FlushBlocker进行实验。实验结果表明，FlushBlocker可以防止现有的缓存指令攻击，并且运行时开销可以忽略不计。",
+        "title_zh": "FlushBlocker:针对基于CPU缓存刷新指令的攻击的轻量级缓解机制",
+        "year": "2021",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/eurosp/eurosp2021w.html",
+        "conf_title": "EuroS&P 2021: Vienna, Austria - Workshops",
+        "conf_url": "https://doi.org/10.1109/EuroSPW54576.2021",
+        "keywords": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "url": "https://doi.org/10.1109/EuroSP.2018.00019",
+        "title": "Eraser: Your Data Won't Be Back",
+        "authors": "Kaan Onarlioglu, William K. Robertson, Engin Kirda",
+        "abstract": "Secure deletion of data from non-volatile storage is a well-recognized problem. While numerous solutions have been proposed, advances in storage technologies have stymied efforts to solve the problem. For instance, SSDs make use of techniques such as wear leveling that involve replication of data; this is in direct opposition to efforts to securely delete sensitive data from storage. We present a technique to provide secure deletion guarantees at file granularity, independent of the characteristics of the underlying storage medium. The approach builds on prior seminal work on cryptographic erasure, encrypting every file on an insecure medium with a unique key that can later be discarded to cryptographically render the data irrecoverable. To make the approach scalable and, therefore, usable on commodity systems, keys are organized in an efficient tree structure where a single master key is confined to a secure store. We describe an implementation of this scheme as a fileaware stackable block device, deployed as a standalone Linux kernel module that does not require modifications to the operating system. Our prototype demonstrates that secure deletion independent of the underlying storage medium can be achieved with comparable overhead to existing full disk encryption implementations.",
+        "files": {
+            "openAccessPdf": ""
+        },
+        "abstract_zh": "从非易失性存储器中安全删除数据是一个众所周知的问题。虽然已经提出了许多解决方案，但是存储技术的进步阻碍了解决该问题的努力。例如，固态硬盘利用了损耗均衡等涉及数据复制的技术；这与从存储中安全删除敏感数据的努力形成了鲜明对比。我们提出了一种在文件粒度上提供安全删除保证的技术，它与底层存储介质的特性无关。这种方法建立在先前关于加密擦除的开创性工作的基础上，用唯一的密钥对不安全介质上的每个文件进行加密，该密钥可以在以后被丢弃，从而以加密方式使数据不可恢复。为了使这种方法具有可伸缩性，从而可以在商用系统上使用，密钥被组织在一个有效的树结构中，其中一个主密钥被限制在一个安全的存储中。我们将此方案的实现描述为文件感知可堆叠块设备，作为独立的Linux内核模块部署，不需要对操作系统进行修改。我们的原型表明，独立于底层存储介质的安全删除可以以与现有的全磁盘加密实现相当的开销来实现。",
+        "title_zh": "橡皮擦:你的数据不会回来",
+        "year": "2018",
+        "dblp_url": "https://dblp.uni-trier.de/db/conf/eurosp/eurosp2018.html",
+        "conf_title": "EuroS&P 2018: London, UK",
+        "conf_url": "https://ieeexplore.ieee.org/xpl/conhome/8405665/proceeding",
         "keywords": [
             "Linux Kernel"
         ]
