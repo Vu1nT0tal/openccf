@@ -2,7 +2,7 @@
 
 采用[中国计算机学会（CCF）](https://www.ccf.org.cn/Academic_Evaluation/By_category/)推荐的国际学术会议和期刊目录，抓取的数据包括主刊/子刊，会议及相关的Workshop等。目前支持飞书、我来推送。
 
-数据库：
+数据展示，欢迎补充论文解读等内容：
 - [汽车安全学术论文](https://www.wolai.com/chao96/fLquksafgYf7qR87vUiwbi)
 - [Android安全学术论文](https://www.wolai.com/chao96/7erDH54B8AyMf6zjzD1UN9)
 - [Linux Kernel安全学术论文](https://www.wolai.com/chao96/a8UKqApaapvmDfHqDdT5p9)
@@ -36,7 +36,7 @@ options:
 
 ### 飞书推送
 
-在飞书中新建应用，开通机器人和相应权限：
+在飞书中新建应用和多维表格，开通机器人和相应权限：
 - 查看、评论、编辑和管理多维表格
 - 获取与发送单聊、群组消息
 
@@ -57,15 +57,25 @@ options:
             "key": ""
         },
         "bitable": {
-            "name": "FEISHU_BITABLE",
-            "key": ""
+            "vehicle": {
+                "name": "FEISHU_BITABLE_VEHICLE",
+                "key": ""
+            },
+            "android": {
+                "name": "FEISHU_BITABLE_ANDROID",
+                "key": ""
+            },
+            "linux": {
+                "name": "FEISHU_BITABLE_LINUX",
+                "key": ""
+            }
         }
     },
 ```
 
 ### 我来推送
 
-在我来中新建应用，然后填写配置文件或者设置相应的环境变量：
+在我来中新建应用和数据表格，然后填写配置文件或者设置相应的环境变量：
 
 ```json
     "wolai": {
@@ -78,8 +88,18 @@ options:
             "key": ""
         },
         "database": {
-            "name": "WOLAI_DATABASE",
-            "key": ""
+            "vehicle": {
+                "name": "WOLAI_DATABASE_VEHICLE",
+                "key": ""
+            },
+            "android": {
+                "name": "WOLAI_DATABASE_ANDROID",
+                "key": ""
+            },
+            "linux": {
+                "name": "WOLAI_DATABASE_LINUX",
+                "key": ""
+            }
         }
     },
 ```
@@ -96,3 +116,11 @@ options:
   - https://github.com/bhaskatripathi/pdfGPT
   - https://github.com/guangzhengli/ChatFiles
   - https://forum.inner.chj.cloud/archives/1683687612171
+
+## 关注我们
+
+[VulnTotal安全](https://github.com/VulnTotal-Team)致力于分享高质量原创文章和开源工具，包括物联网/汽车安全、移动安全、网络攻防等。
+
+GNU General Public License v3.0
+
+[![Stargazers over time](https://starchart.cc/VulnTotal-Team/openccf.svg)](https://starchart.cc/VulnTotal-Team/openccf)
