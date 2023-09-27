@@ -240,11 +240,14 @@ def filter_papers(category: str, keywords: list):
         filter_data = filter_keywords(data, keywords)
         total_data += filter_data
 
-    with open(category_file, 'w') as f:
-        json.dump(total_data, f, indent=4, ensure_ascii=False)
+    # 按url排序
+    sorted_data = sorted(total_data, key=lambda x: x['url'])
 
-    console.print(f'\[{category}] Papers: {len(total_data)}', style='bold yellow')
-    return total_data
+    with open(category_file, 'w') as f:
+        json.dump(sorted_data, f, indent=4, ensure_ascii=False)
+
+    console.print(f'\[{category}] Papers: {len(sorted_data)}', style='bold yellow')
+    return sorted_data
 
 
 def send_papers(category: str, total_data: list):

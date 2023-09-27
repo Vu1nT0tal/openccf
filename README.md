@@ -88,14 +88,11 @@ options:
 
 1. ACM digital library的反爬机制可能导致IP被封。
   - IP代理：https://www.scraperapi.com/
-2. 增加Google Scholar的搜索结果来丰富论文数据，只能得到部分摘要。
-  - https://github.com/scholarly-python-package/scholarly
-  - https://github.com/dimitryzub/scrape-google-scholar-py
-3. 增加其他期刊和会议。
+2. 增加其他期刊和会议。
   - https://csrankings.org/
   - http://jianying.space/conference-ranking.html
   - https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
-4. 基于爬取的论文构建类ChatGPT知识库
+3. 基于爬取的论文构建类ChatGPT知识库
   - https://github.com/bhaskatripathi/pdfGPT
   - https://github.com/guangzhengli/ChatFiles
   - https://forum.inner.chj.cloud/archives/1683687612171

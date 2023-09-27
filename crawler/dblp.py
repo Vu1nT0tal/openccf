@@ -15,10 +15,11 @@ def get_dblp_data(url: str, start_year: str, end_year: str):
     old_data = json.loads(dblp_file.read_text()) if dblp_file.exists() else {}
     all_data, new_data, update_data = get_dblp(dblp_key, old_data, start_year, end_year)
 
+    # 只更新start_year到end_year的数据
+    for year, year_data in all_data.items():
+        old_data[year] = year_data
+
     with open(dblp_file, 'w') as f:
-        # 只更新start_year到end_year的数据
-        for year, year_data in all_data.items():
-            old_data[year] = year_data
         json.dump(old_data, f, indent=4, ensure_ascii=False)
 
     return url, all_data, new_data, update_data
@@ -89,6 +90,10 @@ def get_dblp(key: str, old_data: dict, start_year: str, end_year: str):
         finally:
             loop.close()
 
+    # 按会议排序
+    for year in all_papers_dict:
+        all_papers_dict[year].sort(key=lambda x: x['dblp_url'])
+
     return all_papers_dict, new_papers_dict, update_papers_dict
 
 
@@ -137,7 +142,7 @@ async def parse_journals(year: str, url: str, old_dict: dict):
 
             await asyncio.sleep(1)
 
-        result_all = {'dblp_url': url, 'journals_title': journals_title, 'papers': all_papers}
+        result_all = {'dblp_url': url, 'journals_title': journals_title, 'papers': sorted(all_papers, key=lambda x: x['url'])}
         result_new = {'dblp_url': url, 'journals_title': journals_title, 'papers': new_papers}
         result_update = {'dblp_url': url, 'journals_title': journals_title, 'papers': update_papers}
 
@@ -201,7 +206,7 @@ async def parse_conf(year: str, url: str, old_dict: dict):
 
             await asyncio.sleep(1)
 
-        result_all = {'dblp_url': url, 'conf_title': conf_title, 'conf_url': conf_url, 'papers': all_papers}
+        result_all = {'dblp_url': url, 'conf_title': conf_title, 'conf_url': conf_url, 'papers': sorted(all_papers, key=lambda x: x['url']))}
         result_new = {'dblp_url': url, 'conf_title': conf_title, 'conf_url': conf_url, 'papers': new_papers}
         result_update = {'dblp_url': url, 'conf_title': conf_title, 'conf_url': conf_url, 'papers': update_papers}
 
