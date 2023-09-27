@@ -24,13 +24,19 @@ jobs:
         env:
           OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
           S2API_KEY: ${{ secrets.S2API_KEY }}
+
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_BOT: ${{ secrets.FEISHU_BOT }}
-          FEISHU_BITABLE: ${{ secrets.FEISHU_BITABLE }}
+          FEISHU_BITABLE_VEHICLE: ${{ secrets.FEISHU_BITABLE_VEHICLE }}
+          FEISHU_BITABLE_ANDROID: ${{ secrets.FEISHU_BITABLE_ANDROID }}
+          FEISHU_BITABLE_LINUX: ${{ secrets.FEISHU_BITABLE_LINUX }}
+
           WOLAI_APP_ID: ${{ secrets.WOLAI_APP_ID }}
           WOLAI_APP_SECRET: ${{ secrets.WOLAI_APP_SECRET }}
-          WOLAI_DATABASE: ${{ secrets.WOLAI_DATABASE }}
+          WOLAI_DATABASE_VEHICLE: ${{ secrets.WOLAI_DATABASE_VEHICLE }}
+          WOLAI_DATABASE_ANDROID: ${{ secrets.WOLAI_DATABASE_ANDROID }}
+          WOLAI_DATABASE_LINUX: ${{ secrets.WOLAI_DATABASE_LINUX }}
         run: python3 openccf.py --year 2022:2024 --rule NIS:all:all:all --bot wolai
 
       - name: Commit

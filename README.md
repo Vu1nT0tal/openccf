@@ -2,7 +2,7 @@
 
 采用[中国计算机学会（CCF）](https://www.ccf.org.cn/Academic_Evaluation/By_category/)推荐的国际学术会议和期刊目录，抓取的数据包括主刊/子刊，会议及相关的Workshop等。目前支持飞书、我来推送。
 
-数据展示，欢迎补充论文解读等内容：
+实时更新数据，欢迎补充论文解读等内容：
 - [汽车安全学术论文](https://www.wolai.com/chao96/fLquksafgYf7qR87vUiwbi)
 - [Android安全学术论文](https://www.wolai.com/chao96/7erDH54B8AyMf6zjzD1UN9)
 - [Linux Kernel安全学术论文](https://www.wolai.com/chao96/a8UKqApaapvmDfHqDdT5p9)
