@@ -1,0 +1,20 @@
+The Achilles heel of OAuth: a multi-platform study of OAuth-based authentication
+FASE: functionality-aware security enforcement
+Understanding and defending the binder attack surface in Android
+Cypider: building community-based cyber-defense infrastructure for android malware detection
+Hardened Setup of Personalized Security Indicators to Counter Phishing Attacks in Mobile Banking
+Picasso: Lightweight Device Class Fingerprinting for Web Clients
+On the CCA (in)Security of MTProto
+Detecting Misuse of Google Cloud Messaging in Android Badware
+Secure Containers in Android: The Samsung KNOX Case Study
+What You See Isn't Always What You Get: A Measurement Study of Usage Fraud on Android Apps
+CRiOS: Toward Large-Scale iOS Application Analysis
+SecuRank: Starving Permission-Hungry Apps Using Contextual Permission Analysis
+Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces
+discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code
+FLEXDROID: Enforcing In-App Privilege Separation in Android
+Free for All! Assessing User Data Exposure to Advertising Libraries on Android
+Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy
+Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques
+IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware
+Kratos: Discovering Inconsistent Security Policy Enforcement in the Android Framework

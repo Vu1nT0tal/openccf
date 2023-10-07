@@ -1,0 +1,20 @@
+An ultra-lightweight white-box encryption scheme for securing resource-constrained IoT devices
+Location-enhanced authentication using the IoT: because you cannot be in two places at once
+Multi-receiver GPS spoofing detection: error models and realization
+Theft-resilient mobile wallets: transparently authenticating NFC users with tapping gesture biometrics
+Efficient, adversarial neighbor discovery using logical channels on Microsoft Azure
+Understanding and defending the binder attack surface in Android
+Auror: defending against poisoning attacks in collaborative deep learning systems
+White Rabbit in Mobile: Effect of Unsecured Clock Source in Smartphones
+Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems
+Towards Automated Dynamic Analysis for Linux-based Embedded Firmware
+Exposing Congestion Attack on Emerging Connected Vehicle based Traffic Signal Control
+Trojaning Attack on Neural Networks
+Finding Clues for Your Secrets: Semantics-Driven, Learning-Based Privacy Discovery in Mobile Apps
+Battery Status Not Included: Assessing Privacy in Web Standards
+Applying Cybersecurity Challenges to Medical and Vehicular Cyber Physical Systems
+Autonomous Driving System : Model Based Safety Analysis
+AVFI: Fault Injection for Autonomous Vehicles
+Sources of Variation in Error Sensitivity Measurements, Significant or Not?
+Hamartia: A Fast and Accurate Error Injection Framework
+Towards Low-Latency Byzantine Agreement Protocols Using RDMA

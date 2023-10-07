@@ -1,0 +1,20 @@
+Studying Naive Users and the Insider Threat with SimpleFlow
+WatchIT: Who Watches Your IT Guy?
+K-Miner: Uncovering Memory Corruption in Linux
+Towards Lightweight Temporal and Fault Isolation in Mixed-Criticality Systems with Real-Time Containers
+Introspect Virtual Machines Like It Is the Linux Kernel!
+Diminisher: A Linux Kernel Based Countermeasure for TAA Vulnerability
+Extended Abstract: Towards Reliable and Scalable Linux Kernel CVE Attribution in Automated Static Firmware Analyses
+Freeze and Crypt: Linux kernel support for main memory encryption
+Leveraging relocations in ELF-binaries for Linux kernel version identification
+Logical acquisition and analysis of data from android mobile devices
+Code Change History and Software Vulnerabilities
+Approaching certification of complex systems
+Automatically Constructing Peer Slices via Semanticand Context-Aware Security Checks in the Linux Kernel
+A Dataset of Linux Failure Data for Dependability Evaluation and Improvement
+ContainerLeaks: Emerging Security Threats of Information Leakages in Container Clouds
+JMake: Dependable Compilation for Kernel Janitors
+Tell Me More Than Just Assembly! Reversing Cyber-Physical Execution Semantics of Embedded IoT Controller Software Binaries
+KShot: Live Kernel Patching with SMM and SGX
+Eraser: Your Data Won't Be Back
+FlushBlocker: Lightweight mitigating mechanism for CPU cache flush instruction based attacks
