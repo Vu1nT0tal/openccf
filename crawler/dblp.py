@@ -206,7 +206,7 @@ async def parse_conf(year: str, url: str, old_dict: dict):
 
             await asyncio.sleep(1)
 
-        result_all = {'dblp_url': url, 'conf_title': conf_title, 'conf_url': conf_url, 'papers': sorted(all_papers, key=lambda x: x['url']))}
+        result_all = {'dblp_url': url, 'conf_title': conf_title, 'conf_url': conf_url, 'papers': sorted(all_papers, key=lambda x: x['url'])}
         result_new = {'dblp_url': url, 'conf_title': conf_title, 'conf_url': conf_url, 'papers': new_papers}
         result_update = {'dblp_url': url, 'conf_title': conf_title, 'conf_url': conf_url, 'papers': update_papers}
 
