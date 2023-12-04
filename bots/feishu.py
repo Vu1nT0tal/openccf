@@ -165,7 +165,7 @@ class feishuBot:
             return True
         else:
             console.print(f'发送失败 {paper}', style='bold red')
-            console.print_exception()
+            print(r.text)
             return False
 
 

@@ -5,7 +5,6 @@ tenacity
 requests
 pyfiglet
 scholarly
-free-proxy
 playwright
 translators
 httpx[socks]
@@ -14,3 +13,4 @@ pycryptodome
 fake_useragent
 beautifulsoup4
 semanticscholar
+pyrate-limiter

@@ -4,7 +4,6 @@ import asyncio
 import contextlib
 import translators
 from pathlib import Path
-from fp.fp import FreeProxy
 from fake_useragent import UserAgent
 from tenacity import retry, stop_after_attempt, wait_fixed
 
@@ -67,7 +66,6 @@ async def fetch(url: str, headers: dict = None, params: dict=None, proxy: bool=F
         try:
             async with sem, aiohttp.ClientSession() as session:
                 if proxy and 'doi.org' in url:
-                    # async with session.get(url, headers=headers, params=params, proxy=FreeProxy().get()) as response:
                     payload = {'api_key': ScraperAPI, 'url': url}
                     async with session.get(url, headers=headers, payload=payload) as response:
                         if response.status == 200:

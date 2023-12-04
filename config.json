@@ -155,27 +155,32 @@
                 "QNX"
             ],
             "others": [
+                "chrome", "chromium", "webview", "Browser", "Browsers", "浏览器",
                 "Vehicle", "Vehicles", "Vehicular", "IoV", "Car", "Cars",
                 "Automotive", "Automobile", "taxi", "Bus", "车",
                 "V2X", "V2V", "V2P", "V2N", "V2I", "V2G",
-                "Driving", "Autopilot", "ADAS", "驾驶",
+                "Driving", "Autopilot", "ADAS", "Radar", "驾驶",
                 "Online Ride-hailing", "Online Ride hailing", "ORH", "网约车",
                 "Infotainment", "信息娱乐系统", "TBOX", "Telematics",
                 "OEM", "OEMs", "Tier1", "OTA", "FOTA", "SOTA", "CSMS", "TARA",
                 "keyless", "keyfob", "Passive Entry", "PKE", "PKES", "UWB", "钥匙",
                 "Battery", "Charging", "充电",
                 "EVlink", "Ebee",
-                "Bluetooth", "BLE", "蓝牙", "GPS", "GNSS",
+                "Bluetooth", "BLE", "蓝牙", "GPS", "GNSS", "Wi-Fi", "WiFi",
                 "NFC", "RFID", "MHz", "RF signal", "RF signals", "rolling code", "滚动码",
                 "CAN Bus", "OBD", "UDS", "DoIP", "DDS", "SOME/IP", "FlexRay",
                 "ECU", "ECUs", "MCU", "MCUs",
                 "AUTOSAR", "SecOC", "Diagnostic", "诊断",
-                "Secure Boot", "安全启动", "Fault Injection", "故障注入"
+                "Secure Boot", "安全启动", "Fault Injection", "故障注入", "Side-Channel", "侧信道",
+                "ARM", "GPU", "Control-Flow", "Memory", "Embedded", "IoT", "嵌入式", "物联网",
+                "Fuzz", "Fuzzing", "Binary", "Binaries", "二进制", "模糊测试",
+                "OSS", "Patch", "Patches", "补丁",
+                "Vulnerability", "Exploiting", "漏洞"
             ]
         },
         "android": {
             "product": [
-                "Android", "AOSP", "安卓"
+                "Android", "AOSP", "Mobile", "Mini-Programs", "安卓",
             ]
         },
         "linux": {

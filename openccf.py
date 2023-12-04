@@ -6,6 +6,7 @@ import argparse
 import pyfiglet
 from datetime import datetime
 from concurrent.futures import ProcessPoolExecutor
+from pyrate_limiter import Duration, Rate, InMemoryBucket, Limiter
 
 from utils import *
 from bots import *
@@ -263,7 +264,11 @@ def send_papers(category: str, total_data: list):
         bot_history_data = bot_history_file.read_text().splitlines() if bot_history_file.exists() else []
 
         console.print(f'\[{category}] Sending bot...', style='bold yellow')
+        rates = [Rate(100, Duration.MINUTE)] # 频率限制，100条/分钟
+        bucket = InMemoryBucket(rates)
+        limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
         for data in total_data:
+            limiter.try_acquire('identity')
             title = data['title']
 
             # 发送机器人消息
