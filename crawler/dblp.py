@@ -19,6 +19,12 @@ def get_dblp_data(url: str, start_year: str, end_year: str):
     for year, year_data in all_data.items():
         old_data[year] = year_data
 
+    # 排序
+    for year, year_data in old_data.items():
+        for item in year_data:
+            item['papers'] = sorted(item['papers'], key=lambda x: x['url'])
+        old_data[year] = sorted(year_data, key=lambda x: x['dblp_url'])
+
     with open(dblp_file, 'w') as f:
         json.dump(old_data, f, indent=4, ensure_ascii=False)
 
@@ -53,7 +59,10 @@ def get_dblp(key: str, old_data: dict, start_year: str, end_year: str):
 
     # 遍历所有年份的所有文章
     if '/journals/' in url:
-        href_list = parse_journals_index(soup, start_year, end_year)
+        try:
+            href_list = parse_journals_index(soup, start_year, end_year)
+        except Exception as e:
+            console.print(f'Parse Error: {url}\n{e}', style='bold red')
 
         print(href_list)
         for year, href in href_list:
@@ -63,7 +72,10 @@ def get_dblp(key: str, old_data: dict, start_year: str, end_year: str):
         console.print(f'tasks: {len(tasks)}\n', style='bold yellow')
 
     elif '/conf/' in url:
-        href_list = parse_conf_index(soup, start_year, end_year)
+        try:
+            href_list = parse_conf_index(soup, start_year, end_year)
+        except Exception as e:
+            console.print(f'Parse Error: {url}\n{e}', style='bold red')
 
         print(href_list)
         for year, href in href_list:
@@ -129,10 +141,13 @@ async def parse_journals(year: str, url: str, old_dict: dict):
                 new_flag = True
 
             # 获取新数据补充
-            if not paper.get('abstract'):
-                paper = await get_scholar(paper)
-                if paper['abstract'] and not new_flag:
+            abstract = paper.setdefault('abstract', '')
+            tldr = paper.setdefault('tldr', '')
+            if not abstract or not tldr:
+                new_paper = await get_scholar(paper)
+                if (not abstract and new_paper['abstract']) or (not tldr and new_paper['tldr']) and not new_flag:
                     update_flag = True
+                paper = new_paper
 
             all_papers.append(paper)
             if new_flag:
@@ -193,10 +208,13 @@ async def parse_conf(year: str, url: str, old_dict: dict):
                 new_flag = True
 
             # 获取新数据补充
-            if not paper.get('abstract'):
-                paper = await get_scholar(paper)
-                if paper['abstract'] and not new_flag:
+            abstract = paper.setdefault('abstract', '')
+            tldr = paper.setdefault('tldr', '')
+            if not abstract or not tldr:
+                new_paper = await get_scholar(paper)
+                if (not abstract and new_paper['abstract']) or (not tldr and new_paper['tldr']) and not new_flag:
                     update_flag = True
+                paper = new_paper
 
             all_papers.append(paper)
             if new_flag:

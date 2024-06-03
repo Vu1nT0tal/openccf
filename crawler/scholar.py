@@ -14,24 +14,27 @@ from utils import *
 
 async def get_scholar(paper: dict):
     """获取补充数据"""
-    paper['abstract'] = ''
     paper.setdefault('files', {'openAccessPdf': ''})
 
     if ret := await get_semantic_scholar(paper['title']):
         paper['abstract'] = ret['abstract']
+        paper['tldr'] = ret['tldr']
         paper['files']['openAccessPdf'] = ret['openAccessPdf']
     elif ret := get_semantic_scholar2(paper['title']):
         paper['abstract'] = ret['abstract']
+        paper['tldr'] = ret['tldr']
         paper['files']['openAccessPdf'] = ret['openAccessPdf']
     elif ret := get_google_scholar(paper['title']):
         paper['abstract'] = ret['abstract']
 
-    # 旧数据已经有title_zh，不再翻译
     if not paper.get('title_zh'):
         paper['title_zh'] = get_translate(paper['title'])
-    paper['abstract_zh'] = get_translate(paper['abstract'])
+    if not paper.get('abstract_zh'):
+        paper['abstract_zh'] = get_translate(paper['abstract'])
+    if not paper.get('tldr_zh'):
+        paper['tldr_zh'] = get_translate(paper['tldr'])
 
-    if not paper['abstract']:
+    if not paper['abstract'] and not paper['tldr']:
         console.print(f'Abstract null: {paper["title"]}', style='bold red')
 
     return paper
@@ -53,7 +56,7 @@ async def get_semantic_scholar(title: str):
     }
     params = {
         'query': title,
-        'fields': 'abstract,openAccessPdf',
+        'fields': 'abstract,tldr,openAccessPdf',
         'limit': 1
     }
     with contextlib.suppress(Exception):
@@ -61,6 +64,7 @@ async def get_semantic_scholar(title: str):
         ret = json.loads(ret_text)['data'][0]
         return {
             'abstract': ret['abstract'] or '',
+            'tldr': ret['tldr']['text'] or '',
             'openAccessPdf': ret['openAccessPdf']['url'] if ret['openAccessPdf'] else ''
         }
 
@@ -76,9 +80,10 @@ def get_semantic_scholar2(title: str):
         title = title.replace(c, ' ')
 
     with contextlib.suppress(Exception):
-        ret = sch.search_paper(title, fields=['abstract', 'openAccessPdf'], limit=1)[0]
+        ret = sch.search_paper(title, fields=['abstract', 'tldr', 'openAccessPdf'], limit=1)[0]
         return {
             'abstract': ret['abstract'] or '',
+            'tldr': ret['tldr']['text'] or '',
             'openAccessPdf': ret['openAccessPdf']['url'] if ret['openAccessPdf'] else ''
         }
 

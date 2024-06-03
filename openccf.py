@@ -2,6 +2,7 @@
 
 import os
 import json
+import json5
 import argparse
 import pyfiglet
 from datetime import datetime
@@ -29,6 +30,7 @@ def make_bitable(data) -> dict:
             '刊物': data['dblp_url'].split('/')[-2],
             '标签': data['keywords'],
             '摘要': data['abstract_zh'] or data['abstract'],
+            '总结': data['tldr_zh'] or data['tldr'],
             '网址': {'text': data['url'], 'link': data['url']},
         }
         if pdf_url := data['files']['openAccessPdf']:
@@ -59,6 +61,7 @@ def make_database(data) -> dict:
             '刊物': data['dblp_url'].split('/')[-2],
             '标签': data['keywords'],
             '摘要': data['abstract_zh'] or data['abstract'],
+            '总结': data['tldr_zh'] or data['tldr'],
             '网址': data['url'],
         }
         if pdf_url := data['files']['openAccessPdf']:
@@ -87,6 +90,9 @@ def translate_all_empty():
                         empty_num += 1
                     if paper['abstract'] and paper['abstract_zh'].isascii():
                         data[year][i]['papers'][j]['abstract_zh'] = get_translate(paper['abstract'])
+                        empty_num += 1
+                    if paper['tldr'] and paper['tldr_zh'].isascii():
+                        data[year][i]['papers'][j]['tldr_zh'] = get_translate(paper['tldr'])
                         empty_num += 1
 
         if empty_num:
@@ -188,7 +194,7 @@ def crawl_papers():
     """爬取论文"""
     # 获取CCF数据
     console.print('Getting ccf...', style='bold yellow')
-    ccf_data = get_ccf_data(update=True)
+    ccf_data = get_ccf_data(update=False)
     urls = parse_rule(ccf_data, rule)
 
     # 获取全量论文
@@ -342,7 +348,7 @@ if __name__ == '__main__':
 
     # 参数解析
     args = parse_args()
-    conf = json.loads(Path('config.json').read_text())
+    conf = json5.loads(Path('config.json5').read_text())
     proxy_url = conf['proxy']
 
     secrets = conf['openai']['name']
@@ -378,11 +384,11 @@ if __name__ == '__main__':
     bot, oper, table = init_bot(args.bot, conf)
 
     # 爬取论文
-    #crawl_papers()
+    crawl_papers()
 
     for category, keywords in keywords_dict.items():
         # 过滤论文
         total_data = filter_papers(category, keywords)
 
         # 发送论文
-        send_papers(category, total_data)
+        # send_papers(category, total_data)

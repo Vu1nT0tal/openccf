@@ -98,7 +98,9 @@ def get_keywords(paper: dict, keywords: list):
 
         if paper['title'] and re.search(pattern, paper['title']):
             key_set.add(key)
-        if paper['abstract'] and re.search(pattern, paper['abstract']):
+        elif paper['abstract'] and re.search(pattern, paper['abstract']):
+            key_set.add(key)
+        elif paper['tldr'] and re.search(pattern, paper['tldr']):
             key_set.add(key)
 
     return sorted(key_set)
@@ -106,7 +108,6 @@ def get_keywords(paper: dict, keywords: list):
 
 def filter_keywords(data: dict, keywords: list):
     """通过关键词筛选相关论文"""
-
     results = []
     for year, year_data in data.items():
         for item in year_data:
